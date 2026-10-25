@@ -3,5 +3,6 @@
   "requested_publish_local": "2026-10-26T00:00:00+03:00",
   "timezone": "Europe/Moscow",
   "publish_at_utc": "2026-10-25T21:00:00Z",
-  "reason": "YouTube channel authorization unavailable"
+  "reason": "YouTube channel authorization unavailable",
+  "video_revision": "revision4_opening_revised"
 }
