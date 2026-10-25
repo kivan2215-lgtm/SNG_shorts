@@ -1,2 +1,4 @@
 # Восстановление одобренного русского голоса
 Использовать edge-tts==7.2.3 в отдельном окружении/каталоге. Версия 7.3.1 в этом запуске возвращала NoAudioReceived для ru-RU-DmitryNeural. В 7.2.3 рабочий адрес api.msedgeservices.com, голос ru-RU-DmitryNeural, rate +8%. Добавить CA среды к ssl.create_default_context; не отключать TLS. Скрипт voice_native.py создаёт всю речь, слово-временные границы и список для сборки. Англоязычные мультиязычные голоса не использовать для русских Shorts. Субъективную правильность ударений пользователь оценивает при просмотре; автоматическое распознавание речи не доказывает ударения.
+
+Revision 3: explicit combining-acute lexical marks retained in TTS input (Бо́стона, па́тока); stripped only for displayed subtitles. Revised suspense narration, same voice and +8% pace.
