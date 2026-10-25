@@ -1,0 +1,17 @@
+{
+  "source": "revision4",
+  "method": "localized duration, pitch and intensity correction of Boston vowels",
+  "first_vowel_interval": [
+    5.773,
+    5.844
+  ],
+  "second_vowel_interval": [
+    5.944,
+    6.039
+  ],
+  "first_vowel_extra_seconds": 0.028,
+  "same_total_samples": true,
+  "all_other_words_pcm_preserved": true,
+  "no_visual_changes": true,
+  "human_listening_review": "pending; no direct audio perception tool"
+}
