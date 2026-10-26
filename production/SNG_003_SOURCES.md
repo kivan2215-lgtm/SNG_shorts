@@ -51,3 +51,6 @@ Music/effects original procedural synthesis; no external licensed music. No came
 
 ## Revision 2
 Narration rewritten into linked, flowing sentences and resynthesized as one continuous take with the same Dmitry voice at +18%. Added the documented food/water/mattresses and sagging-roof details from the CBS survivor account above. No graphic depictions or invented victims. Opening text-only cards replaced by full-size reconstruction images. Diagrams now show the ground, shaft, lid, sheet, two roughly 45kg batteries, 26 child icons and one driver icon, mattress stack and wooden wedge; effort arrows and three escape stages. All geometry remains explanatory, not to scale.
+
+## Revision 3
+Only explanatory diagram shots were replaced. Blender Cycles 3D cutaway, materials/light, deterministic lid movement, effort-direction arrows, concise labels and staged escape progress. Rendered construction and counts of mattresses are illustrative, not a reconstruction of exact dimensions. Virtual cutaway removes front and partial roof to make the inside visible. Earth clearing is explained by animated soil markers. Source archives, captions and the entire AAC narration/music stream retained from V2; no audio resynthesis. No camera motion or shaking.
