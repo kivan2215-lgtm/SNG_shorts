@@ -48,3 +48,6 @@ Six AI reconstruction panels generated for this project; each visibly labeled Р
 Native Russian narration: ru-RU-DmitryNeural, +18%, approved voice from earlier projects. Long phrase gaps shortened to around 0.28 seconds. No voice cloning. Human review of stress/intonation pending; ASR and file QC do not verify those.
 
 Music/effects original procedural synthesis; no external licensed music. No camera shake or pan/zoom.
+
+## Revision 2
+Narration rewritten into linked, flowing sentences and resynthesized as one continuous take with the same Dmitry voice at +18%. Added the documented food/water/mattresses and sagging-roof details from the CBS survivor account above. No graphic depictions or invented victims. Opening text-only cards replaced by full-size reconstruction images. Diagrams now show the ground, shaft, lid, sheet, two roughly 45kg batteries, 26 child icons and one driver icon, mattress stack and wooden wedge; effort arrows and three escape stages. All geometry remains explanatory, not to scale.
