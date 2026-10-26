@@ -54,3 +54,10 @@ No source photograph or reconstruction is reused as a second shot, no enlarged d
 CC BY-SA 3.0 license: https://creativecommons.org/licenses/by-sa/3.0/ . Full photograph frames preserved; resizing and editorial captions only. Original files and source/license pages in the project. These photographic portions retain their source license. The 2019 portraits retain Cancillería del Perú / CC BY-SA 2.0 credits above.
 
 No reusable 1971 rescue-portrait license has been established. Historical 1971 family research context is included without substituting it for the rescue site. No Hans-Wilhelm portrait is used: the apparent English Wikipedia file was not available on Commons with a verified reusable license.
+
+## Latest revision 4
+The toy-like 3D terrain and standalone altitude/flight/injury/survivor boards were removed. Calm still-picture documentary edit, 24 shots instead of 29. No pan/zoom, no enlarged detail cut, no repeated photo except the intentionally continuous background of the three explanatory stages. The water explanation is a clear textual chain over a real environmental-context photo, explicitly not a recovered route. All earlier photo licenses remain applicable.
+
+Added one distinct 2019 ceremony photo: Cancillería del Perú, 3 April 2019, CC BY-SA 2.0: https://commons.wikimedia.org/wiki/File:Ceremonia_de_condecoraci%C3%B3n_a_la_doctora_Juliane_Koepcke_-_46616983515.jpg ; Flickr https://www.flickr.com/photos/50197436@N08/46616983515/ . Full frame preserved with external captions; source and license page saved. This is not a rescue photograph.
+
+Narration is the same slower native Dmitry take. The word реки in «а у реки могут оказаться люди» has a local acoustic stress correction toward final /i/, using duration, pitch and intensity; no text-only stress-mark claim. All PCM outside that word's edit interval is preserved and total duration unchanged. Final human pronunciation/intonation approval pending.
