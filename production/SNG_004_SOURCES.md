@@ -37,3 +37,20 @@ Original low documentary score and effects generated procedurally; music quiet u
 
 ## Revision 2
 User rejected the rapid delivery and moving pictures. Native Dmitry resynthesized at +2% instead of +18%; no global time stretching. Nine new distinct illustrative subjects generated and labeled. Camera pan/zoom removed completely; picture content fixed within each shot, apart from cuts to an explicitly chosen static detail. The river diagram now shows a small stream joining a wider river, arrows downstream, possible human habitation and explicit uncertainty; it is not the exact historic route or a universal survival guarantee. Real 2019 photos and their license retained.
+
+## Revision 3 — verified additional photographs
+
+No source photograph or reconstruction is reused as a second shot, no enlarged detail cuts, no camera pan/zoom. One shared 3D explanatory terrain model has three distinct conceptual stages; it is not historical route evidence. AAC soundtrack copied from the approved slower V2. The edit includes five additional real photographs:
+
+1. Panguana research station in 1971, Maria Koepcke OR Hans-Wilhelm Koepcke (uncertain which photographer, explicitly retained). Supplied by Juliane Diller; Commons VRT permission ticket 2012080910005558. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Panguana-1971.jpg
+   This is her parents' research station, NOT the shelter where she was found. Used with the narration about her father. Native 1024×702.
+2. River Llullapichis near Panguana, 23 Sept 2004, Klaus Schönitzer. Native 1952×2608. CC BY-SA 3.0 chosen from offered licenses. https://commons.wikimedia.org/wiki/File:Panguana-2004-3.JPG
+   Modern geographic/environmental context, not a photograph of her 1971 path.
+3. Panguana forest/stream, 25 Sept 2004, Klaus Schönitzer. Native 2608×1952. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Panguana-2004-5.JPG
+4. Lupuna tree at Panguana, 2008, Klaus Schönitzer. Native 3264×2448. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Panguana-Lupuna-2008-2.jpg
+5. Lockheed L-188A Electra of LANSA at Oakland, May 1968. Clint Groves. GFDL 1.2 only. https://commons.wikimedia.org/wiki/File:LANSA_Lockheed_L-188A_Electra.png
+   Aircraft TYPE illustration only; explicitly not presented as crash footage or proof of accident-airframe identity. Full uncropped image; resized reproduction with caption outside original image. Author/date/license on screen. Original document is also available as production/SNG_004_LANSA_1968.png with the complete license at production/SNG_004_GFDL_1.2.txt in this repository. Copyright Clint Groves, GFDL 1.2, no invariant sections, no front- or back-cover texts.
+
+CC BY-SA 3.0 license: https://creativecommons.org/licenses/by-sa/3.0/ . Full photograph frames preserved; resizing and editorial captions only. Original files and source/license pages in the project. These photographic portions retain their source license. The 2019 portraits retain Cancillería del Perú / CC BY-SA 2.0 credits above.
+
+No reusable 1971 rescue-portrait license has been established. Historical 1971 family research context is included without substituting it for the rescue site. No Hans-Wilhelm portrait is used: the apparent English Wikipedia file was not available on Commons with a verified reusable license.
