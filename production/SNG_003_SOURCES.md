@@ -54,3 +54,6 @@ Narration rewritten into linked, flowing sentences and resynthesized as one cont
 
 ## Revision 3
 Only explanatory diagram shots were replaced. Blender Cycles 3D cutaway, materials/light, deterministic lid movement, effort-direction arrows, concise labels and staged escape progress. Rendered construction and counts of mattresses are illustrative, not a reconstruction of exact dimensions. Virtual cutaway removes front and partial roof to make the inside visible. Earth clearing is explained by animated soil markers. Source archives, captions and the entire AAC narration/music stream retained from V2; no audio resynthesis. No camera motion or shaking.
+
+## Revision 4
+Added a large animated mechanical side-section inset below the 3D context. Explicit downward load, stacking mattresses, lifting/wooden prop, shifting the sheet and batteries, and clearing soil. Added one explanatory shot during the already approved clause about shifting the heavy obstacle (42.41–44.01s), replacing a reconstruction still. No audio changes. The open front and exact mattress count/geometry in the model are explanatory conventions, not historical measurements.
