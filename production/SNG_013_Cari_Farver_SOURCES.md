@@ -1,0 +1,11 @@
+# SNG Shorts №13 — Cari Farver
+
+Факты: [State v. Golyar, Верховный суд Небраски, 2018](https://www.ne.gov/apps-courts-epub/public/viewCertified?docId=N00011293PUB). Решение подтверждает приговор Шанне Голяр за убийство Кари Фарвер и поджог, описывает подмену переписки, следы крови и обстоятельства расследования.
+
+Подлинные фотографии Кари: [The Charley Project](https://charleyproject.org/case/cari-lea-farver), файлы farver_cari3.jpg, farver_cari4.jpg, farver_cari5.jpg, farver_cari6.jpg, farver_cari7.jpg, cari_lea_farver_1.jpg и cari_lea_farver_2.jpg.
+
+Полицейские материалы, снимок автомобиля и фотография Шанны: [Anatomy of Murder](https://anatomyofmurder.com/youve-got-mail/), файлы Cari-Farver.jpg, Omaha-PD-Evidence-1.jpg, Omaha-PD-Evidence-2.jpg, Omaha-PD-Evidence-3.jpg, Shanna-Golyar-mugshot.png.
+
+Графика телефона, условные сообщения и схема цифрового расследования созданы для ролика; формулировки сообщений не представлены как подлинные цитаты. Художественные кадры телефона, пожара и рабочего места следователей созданы специально и не являются архивной съёмкой.
+
+Права: пользователь сообщает о разрешении на публикацию фотографий. Открытый доступ к страницам сам по себе не является свободной лицензией; документальное подтверждение разрешения в проекте не хранится.
