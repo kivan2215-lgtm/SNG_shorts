@@ -1,0 +1,5 @@
+# SNG Shorts №15 — Сьюзан Кунхаузен
+
+Сюжет и детали расследования: https://www.wweek.com/news/2016/08/17/a-hit-man-came-to-kill-susan-kuhnhausen-she-survived-he-didnt/ ; https://eastpdxnews.com/update-strangled-montavilla-intruder-actually-a-hired-hit-man-cops-say/ ; https://oregonnews.uoregon.edu/lccn/sn83025151/2006-09-20/ed-1/seq-9/ .
+
+Снимки provided4.jpg, provided5.jpg, provided6.jpg, provided7.jpg взяты из ссылок, приложенных пользователем к заданию. Изображения provided0.jpg и provided1.jpg используются как атмосферные иллюстрации, не как архивные кадры дела. Кадры с запиской, спальней и следователями созданы для ролика. Схема расследования — авторская графика: отсутствие взлома, отключённая сигнализация, ежедневник и номер Майка. Текст записки «Позвонить Майку» основан на опубликованных материалах дела. Пользователь сообщает о разрешении на публикацию фотографий; независимое подтверждение не получено.
