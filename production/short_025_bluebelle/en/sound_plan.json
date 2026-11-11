@@ -1,0 +1,12 @@
+{
+  "original_score": true,
+  "rescue_hope": 27.045041166666685,
+  "return_to_tension": 32.09491616666668,
+  "music_silence": [
+    36.946458166666666,
+    37.776458166666664
+  ],
+  "final_fade_start": 71.66666666666667,
+  "music_rms_dbfs": -38.12391662597656,
+  "voice_rms_dbfs": -19.85186004638672
+}

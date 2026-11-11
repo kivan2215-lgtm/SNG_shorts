@@ -1,0 +1,66 @@
+{
+  "life": {
+    "page": "https://books.google.com/books?id=AVQEAAAAMBAJ&pg=PA30",
+    "issue": "LIFE, December 1, 1961",
+    "files": [
+      "life30_hd.jpg",
+      "life31_hd.jpg",
+      "life32_hd.jpg",
+      "life33_hd.jpg",
+      "life34_hd.jpg",
+      "life35_hd.jpg",
+      "life38_hd.jpg",
+      "life39_hd.jpg"
+    ],
+    "rights": "Copyrighted archival issue. User has previously stated permission for publication of archival photos; that permission is not independently verified. Public preview availability is not a public-domain license.",
+    "retrieval": "Normal public Google Books page-image URLs, with the public width parameter w=1920. No login, paywall or access restriction bypass."
+  },
+  "rescued.jpg": {
+    "page": "https://commons.wikimedia.org/wiki/File:Terry_Jo_Dupperault_Captain_Theo_November_1961.jpg",
+    "license": "Commons identifies the 23 Nov 1961 US newspaper photo as public domain in the US; no independent worldwide public-domain determination."
+  },
+  "oregon_front.jpg": {
+    "page": "https://oregonnews.uoregon.edu/lccn/sn85042470/1961-11-22/ed-1/seq-1/",
+    "rights": "University of Oregon newspaper archive, AP report. Public access is not itself a worldwide reuse license; user-stated permission recorded above."
+  },
+  "world50.geojson": {
+    "page": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "license": "Natural Earth public domain",
+    "source": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_admin_0_countries.geojson"
+  },
+  "recon_triptych_1.png": {
+    "type": "AI-generated historical reconstruction",
+    "panels": [
+      "Rescue of an anonymous adult from a dinghy",
+      "The captain’s disputed account of storm damage",
+      "Calm water and intact rigging at night"
+    ],
+    "generator": "image_gen",
+    "each_panel_used_once": true
+  },
+  "recon_triptych_2.png": {
+    "type": "AI-generated historical reconstruction",
+    "panels": [
+      "Lookout from a period freighter toward a distant float",
+      "Empty period interview room",
+      "Motel exterior, no depiction of suicide"
+    ],
+    "generator": "image_gen",
+    "each_panel_used_once": true
+  },
+  "recon_cabin.png": {
+    "type": "AI-generated historical reconstruction",
+    "content": "Empty period yacht cabin with water entering; used only at the narration of sinking",
+    "generator": "image_gen"
+  },
+  "score": {
+    "type": "Original synthesized score and production ambience",
+    "code": "build.py / make_sound",
+    "no_third_party_recording": true
+  },
+  "recon_dry_stairs.png": {
+    "type": "AI-generated historical reconstruction",
+    "content": "Dry staircase from sleeping quarters to the main cabin before sinking; no people, bodies or water",
+    "generator": "image_gen"
+  }
+}

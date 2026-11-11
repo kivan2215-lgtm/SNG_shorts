@@ -1,0 +1,12 @@
+__pycache__/
+frame_*.jpg
+render.log
+full_decode_qc.log
+music.wav
+mix.wav
+voice_uncut.wav
+words_uncut.json
+voice_*.mp3
+voice_[0-9].json
+tts_*.txt
+*_PREVIEW.mp4

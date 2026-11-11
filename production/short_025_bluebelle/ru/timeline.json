@@ -1,0 +1,132 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.6,
+    "visual": "rescue"
+  },
+  {
+    "start": 2.6,
+    "end": 5.8,
+    "visual": "captain"
+  },
+  {
+    "start": 5.8,
+    "end": 9.8,
+    "visual": "lookout"
+  },
+  {
+    "start": 9.8,
+    "end": 12.966666666666667,
+    "visual": "map"
+  },
+  {
+    "start": 12.966666666666667,
+    "end": 16.066666666666666,
+    "visual": "family"
+  },
+  {
+    "start": 16.066666666666666,
+    "end": 17.8,
+    "visual": "yacht"
+  },
+  {
+    "start": 17.8,
+    "end": 20.966666666666665,
+    "visual": "rescued_date"
+  },
+  {
+    "start": 20.966666666666665,
+    "end": 26.033333333333335,
+    "visual": "storm"
+  },
+  {
+    "start": 26.033333333333335,
+    "end": 29.466666666666665,
+    "visual": "raft"
+  },
+  {
+    "start": 29.466666666666665,
+    "end": 32.2,
+    "visual": "crew"
+  },
+  {
+    "start": 32.2,
+    "end": 35.166666666666664,
+    "visual": "survival"
+  },
+  {
+    "start": 35.166666666666664,
+    "end": 39.43333333333333,
+    "visual": "interview"
+  },
+  {
+    "start": 39.43333333333333,
+    "end": 43.266666666666666,
+    "visual": "motel"
+  },
+  {
+    "start": 43.266666666666666,
+    "end": 47.86666666666667,
+    "visual": "chronology"
+  },
+  {
+    "start": 47.86666666666667,
+    "end": 50.56666666666667,
+    "visual": "testimony"
+  },
+  {
+    "start": 50.56666666666667,
+    "end": 54.43333333333333,
+    "visual": "calm"
+  },
+  {
+    "start": 54.43333333333333,
+    "end": 58.03333333333333,
+    "visual": "night_cabin"
+  },
+  {
+    "start": 58.03333333333333,
+    "end": 59.93333333333333,
+    "visual": "family_detail"
+  },
+  {
+    "start": 59.93333333333333,
+    "end": 62.06666666666667,
+    "visual": "cabin_route"
+  },
+  {
+    "start": 62.06666666666667,
+    "end": 64.03333333333333,
+    "visual": "captain_route"
+  },
+  {
+    "start": 64.03333333333333,
+    "end": 65.83333333333333,
+    "visual": "water"
+  },
+  {
+    "start": 65.83333333333333,
+    "end": 69.43333333333334,
+    "visual": "escape"
+  },
+  {
+    "start": 69.43333333333334,
+    "end": 74.63333333333334,
+    "visual": "paper"
+  },
+  {
+    "start": 74.63333333333334,
+    "end": 77.7,
+    "visual": "compare"
+  },
+  {
+    "start": 77.7,
+    "end": 79.8,
+    "visual": "medical"
+  },
+  {
+    "start": 79.8,
+    "end": 85.66666666666667,
+    "visual": "ending"
+  }
+]
