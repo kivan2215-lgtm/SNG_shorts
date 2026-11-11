@@ -21,4 +21,4 @@ Each produces `SNG_025_Bluebelle_<RU|EN>_PREVIEW.mp4` with 30 fps, 1080×1920, H
 
 TTS regeneration additionally needs edge-tts with word boundaries. The project’s `voice.py` uses the established channel voices and refreshes the uncut backups. Run `pace.py` after synthesis and before rebuilding; the preserved final `voice.wav` and `words.json` are sufficient for normal repeat renders. The published assets contain the used archival crops, not entire magazine pages. `prepared_index.json` maps them back to their sources and crop coordinates.
 
-Latest request overrides the old general no-label preference: reconstructions in this episode are explicitly labeled. Do not remove these or present the storm as established fact.
+Revision 2: the user requested removal of the general Reconstruction badge in both languages. Account-specific labels remain, so the storm is still attributed to the captain. Generated-asset provenance is preserved in SOURCES.md.

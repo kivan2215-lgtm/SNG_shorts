@@ -93,7 +93,7 @@ def reconstruction(lang,key,title='',kicker=''):
     alpha=np.maximum(np.clip((370-yy)/370,0,1)*190,np.clip((yy-1340)/580,0,1)*170)
     arr[:,:,3]=alpha[:,None];im=Image.alpha_composite(im.convert('RGBA'),Image.fromarray(arr)).convert('RGB')
     d=ImageDraw.Draw(im)
-    pill(d,(68,105),tr(lang,'Реконструкция','Reconstruction'),MUTED,24)
+    # General reconstruction badge removed at the user's request.
     if kicker:text(d,(70,216),kicker,29,GOLD,920,'lm')
     if title:text(d,(70,301),title,49,INK,910,'lm')
     return im
