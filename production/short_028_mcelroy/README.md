@@ -22,3 +22,6 @@ SNG_028_Ken_McElroy_RU_PREVIEW.mp4 and SNG_028_Ken_McElroy_EN_PREVIEW.mp4.
 
 ## Verification limits
 Manual visual review of archives, compositions and representative encoded frames; technical full decode and audio checks. Independent human listening review not claimed. User review remains the next step.
+
+## V2 action-led revision
+Use `python build_v2.py ru` / `en`, then `python qc_v2.py`. Updated rendering logic in visuals_v2.py, supported by selected helpers from visuals.py. Separate V2 timeline, contacts, render logs and QC preserved. See REVISION_V2.md for phrase-to-action mapping and SOURCES.md for new illustrative assets. Approved narration remains unchanged.

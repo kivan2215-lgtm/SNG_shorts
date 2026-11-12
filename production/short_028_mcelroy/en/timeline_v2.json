@@ -1,0 +1,147 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.466666666666667,
+    "visual": "opening"
+  },
+  {
+    "start": 2.466666666666667,
+    "end": 4.733333333333333,
+    "visual": "witnesses"
+  },
+  {
+    "start": 4.733333333333333,
+    "end": 8.233333333333333,
+    "visual": "denial"
+  },
+  {
+    "start": 8.233333333333333,
+    "end": 11.266666666666667,
+    "visual": "location"
+  },
+  {
+    "start": 11.266666666666667,
+    "end": 14.0,
+    "visual": "portrait"
+  },
+  {
+    "start": 14.0,
+    "end": 15.166666666666666,
+    "visual": "history"
+  },
+  {
+    "start": 15.166666666666666,
+    "end": 18.3,
+    "visual": "intimidation"
+  },
+  {
+    "start": 18.3,
+    "end": 20.833333333333332,
+    "visual": "store"
+  },
+  {
+    "start": 20.833333333333332,
+    "end": 22.2,
+    "visual": "survived"
+  },
+  {
+    "start": 22.2,
+    "end": 24.966666666666665,
+    "visual": "verdict"
+  },
+  {
+    "start": 24.966666666666665,
+    "end": 27.533333333333335,
+    "visual": "bail"
+  },
+  {
+    "start": 27.533333333333335,
+    "end": 30.366666666666667,
+    "visual": "tavern"
+  },
+  {
+    "start": 30.366666666666667,
+    "end": 32.4,
+    "visual": "threats"
+  },
+  {
+    "start": 32.4,
+    "end": 36.53333333333333,
+    "visual": "meeting"
+  },
+  {
+    "start": 36.53333333333333,
+    "end": 39.6,
+    "visual": "arrival"
+  },
+  {
+    "start": 39.6,
+    "end": 41.4,
+    "visual": "move"
+  },
+  {
+    "start": 41.4,
+    "end": 43.8,
+    "visual": "pickup"
+  },
+  {
+    "start": 43.8,
+    "end": 45.333333333333336,
+    "visual": "surrounded"
+  },
+  {
+    "start": 45.333333333333336,
+    "end": 48.5,
+    "visual": "death"
+  },
+  {
+    "start": 48.5,
+    "end": 51.4,
+    "visual": "wife"
+  },
+  {
+    "start": 51.4,
+    "end": 54.13333333333333,
+    "visual": "accounts"
+  },
+  {
+    "start": 54.13333333333333,
+    "end": 56.46666666666667,
+    "visual": "investigation"
+  },
+  {
+    "start": 56.46666666666667,
+    "end": 58.3,
+    "visual": "nocharges"
+  },
+  {
+    "start": 58.3,
+    "end": 61.833333333333336,
+    "visual": "later"
+  },
+  {
+    "start": 61.833333333333336,
+    "end": 64.7,
+    "visual": "fear"
+  },
+  {
+    "start": 64.7,
+    "end": 67.56666666666666,
+    "visual": "law"
+  },
+  {
+    "start": 67.56666666666666,
+    "end": 69.8,
+    "visual": "silent"
+  },
+  {
+    "start": 69.8,
+    "end": 71.26666666666667,
+    "visual": "question"
+  },
+  {
+    "start": 71.26666666666667,
+    "end": 73.6,
+    "visual": "ending"
+  }
+]

@@ -42,3 +42,26 @@ Two independent RU/EN narration tracks and subtitles. Existing approved Dmitry/G
 
 ## Illustrative images
 assets/illustrations.png: generated triptych, empty grocery interior; community meeting; pickup occupants viewed from rear. These are illustrative scenes, not authentic photographs of the participants or crime. Each panel appears in one contiguous story segment (grocery scene continues into survival statement). No generated injuries, shooters, blood, weapon discharge or fake text. Generated source exec-a2cd3c87-1fe7-4854-afaf-26e5e9cfa73a.png.
+
+# V2 — action-led visual revision, 13 November 2026
+
+User asked to replace empty unclear diagrams and show the action of each narrated phrase. Historical distinction retained: the grocer was shot in the grocery store; the subsequent armed visit and renewed threat occurred at the bar. The two are never merged into a fictional shooting inside the tavern.
+
+## New imagery
+All generated panels are illustrations of the reported actions, not genuine archival photographs, eyewitness evidence, or exact scene geometry. Clothing was corrected for continuity and a missing firearm corrected before export.
+- actions_a.png: store confrontation (no impact/blood), the grocer alive with generic medical assistance, release through courthouse doors, armed entry into tavern. Final generation: exec-aef660f9-78c5-4d89-9427-c40699c129ad.png. Medical setting is illustrative, not a sourced claim about a particular ambulance or procedure.
+- actions_b.png: intimidation outside a neighbor's house, residents' meeting, walking toward tavern, getting into pickup. Final: exec-59da3b12-fc30-4596-92cf-508d743ffd18.png. Neighbors and townspeople are anonymous illustrative figures, not fabricated identified witnesses.
+- actions_c.png: generic police interview and federal investigation. Final: exec-90ff7fe1-0936-4ff7-aae6-a1079d6f28a4.png. Invented photographs originally present on the office board were removed; no fabricated clue, statement, or evidence presented.
+- courtroom_v2.png: generic jury verdict illustration, not a photograph of McElroy's actual courtroom or jurors. Final: exec-0fe1a2ac-42a0-4126-9972-268519027cc9.png.
+- All prior genuine historical and modern-source attributions remain applicable. No modern actors substituted for archive participants.
+
+## Diagrams and animation
+- Geographic locator uses US state boundary polygons from https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json ; Missouri highlighted and Skidmore pinned at approximately 40.289 N, 95.078 W. Only geographic context; no shooting reconstruction in the map.
+- Pickup-and-people illustration is a relational diagram, not a scale map, exact witness count, or inferred shooter location. No shooting arrows, weapon positions, trajectories, or identified suspects.
+- Bail flow shows conviction → release pending appeal, not acquittal.
+- Threat flow distinguishes McElroy at the bar from the grocer who was the target of threats; the grocer is NOT shown standing in the bar.
+- Witness comparison labels Trena's recognition as her account and retains denial by other witnesses. Animated lines and result labels reveal the conflict without asserting a proven killer.
+- Investigation outcomes are explicit: no charges in the local or federal investigation. No fabricated court order or signature.
+- Original narration/voices, caption alignment and score retained. Added a restrained illustrative impact at the grocery incident. No genuine gunshot audio claimed.
+
+Rebuild with build_v2.py, inspect timeline_v2.json and contact_sheet_v2.jpg, validate with qc_v2.py. V1 remains intact for comparison.
