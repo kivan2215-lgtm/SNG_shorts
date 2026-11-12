@@ -1,0 +1,30 @@
+[
+  {
+    "scene": "opening",
+    "source_start": 714.5600000000001,
+    "output_start": 0.0,
+    "output_end": 4.133333333333334,
+    "audio": "existing narration; source muted"
+  },
+  {
+    "scene": "court",
+    "source_start": 914.0,
+    "output_start": 54.733333333333334,
+    "output_end": 58.56666666666667,
+    "audio": "existing narration; source muted"
+  },
+  {
+    "scene": "return",
+    "source_start": 712.1079998333335,
+    "output_start": 72.5,
+    "output_end": 79.1,
+    "audio": "existing narration; source muted"
+  },
+  {
+    "scene": "recorded",
+    "source_start": 1084.0,
+    "output_start": 79.1,
+    "output_end": 83.1,
+    "audio": "existing narration; source muted"
+  }
+]
