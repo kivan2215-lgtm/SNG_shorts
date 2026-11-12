@@ -1,0 +1,107 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.133333333333334,
+    "visual": "opening"
+  },
+  {
+    "start": 4.133333333333334,
+    "end": 10.7,
+    "visual": "tape"
+  },
+  {
+    "start": 10.7,
+    "end": 16.733333333333334,
+    "visual": "house"
+  },
+  {
+    "start": 16.733333333333334,
+    "end": 22.3,
+    "visual": "evening"
+  },
+  {
+    "start": 22.3,
+    "end": 24.566666666666666,
+    "visual": "outage"
+  },
+  {
+    "start": 24.566666666666666,
+    "end": 26.533333333333335,
+    "visual": "stairs"
+  },
+  {
+    "start": 26.533333333333335,
+    "end": 32.733333333333334,
+    "visual": "phone"
+  },
+  {
+    "start": 32.733333333333334,
+    "end": 35.46666666666667,
+    "visual": "alone"
+  },
+  {
+    "start": 35.46666666666667,
+    "end": 38.3,
+    "visual": "missed"
+  },
+  {
+    "start": 38.3,
+    "end": 42.266666666666666,
+    "visual": "discovered"
+  },
+  {
+    "start": 42.266666666666666,
+    "end": 45.333333333333336,
+    "visual": "alibi"
+  },
+  {
+    "start": 45.333333333333336,
+    "end": 47.93333333333333,
+    "visual": "contradiction"
+  },
+  {
+    "start": 47.93333333333333,
+    "end": 51.833333333333336,
+    "visual": "investigator"
+  },
+  {
+    "start": 51.833333333333336,
+    "end": 54.733333333333334,
+    "visual": "evidence"
+  },
+  {
+    "start": 54.733333333333334,
+    "end": 58.56666666666667,
+    "visual": "court"
+  },
+  {
+    "start": 58.56666666666667,
+    "end": 63.7,
+    "visual": "route"
+  },
+  {
+    "start": 63.7,
+    "end": 66.7,
+    "visual": "offenders"
+  },
+  {
+    "start": 66.7,
+    "end": 72.5,
+    "visual": "sentence"
+  },
+  {
+    "start": 72.5,
+    "end": 79.1,
+    "visual": "return"
+  },
+  {
+    "start": 79.1,
+    "end": 83.1,
+    "visual": "recorded"
+  },
+  {
+    "start": 83.1,
+    "end": 87.23333333333333,
+    "visual": "ending"
+  }
+]
