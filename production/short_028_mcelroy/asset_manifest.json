@@ -1,0 +1,86 @@
+[
+  {
+    "file": "scene.jpg",
+    "url": "https://gatewayjr.org/wp-content/uploads/2022/10/Ken-Rex-Final-ride-2.jpeg",
+    "native_dimensions": [
+      1864,
+      1372
+    ],
+    "sha256": "75937973a1a62dbd77437b1746f6b4dbf7f7f0e06fa1ecffed1b1bfe575c70d4",
+    "used": true,
+    "visual_review": "Identity/context checked against source caption; full frame or complete face retained",
+    "rights": "User asserts publication permission; not independently verified public-domain license"
+  },
+  {
+    "file": "portrait.jpg",
+    "url": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/03/ken-mcelroy-face.jpg",
+    "native_dimensions": [
+      900,
+      643
+    ],
+    "sha256": "898f7e2e2654b9f0d4d234810b53618450b666b6a876eabf86b55b65e1f426b8",
+    "used": true,
+    "visual_review": "Identity/context checked against source caption; full frame or complete face retained",
+    "rights": "User asserts publication permission; not independently verified public-domain license"
+  },
+  {
+    "file": "ken_full.jpg",
+    "url": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/03/killing-of-ken-mcelroy.jpeg",
+    "native_dimensions": [
+      882,
+      663
+    ],
+    "sha256": "10c901892d360f6fcea051fac401bd94e8eba121f54944aa356149eb7ccf0e1c",
+    "used": true,
+    "visual_review": "Identity/context checked against source caption; full frame or complete face retained",
+    "rights": "User asserts publication permission; not independently verified public-domain license"
+  },
+  {
+    "file": "tavern.jpg",
+    "url": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/03/dg-tavern.png",
+    "native_dimensions": [
+      900,
+      463
+    ],
+    "sha256": "b63fba44946366ddae8cecb33985a6834878640d1510dc3c1fa14dfdd200eee1",
+    "used": true,
+    "visual_review": "Identity/context checked against source caption; full frame or complete face retained",
+    "rights": "User asserts publication permission; not independently verified public-domain license"
+  },
+  {
+    "file": "trena.jpg",
+    "url": "https://truecrimecasehistories.com/images/volume17/ken-mcelroy-trena.jpg",
+    "native_dimensions": [
+      740,
+      574
+    ],
+    "sha256": "2cba10abc4daa2957134a63c20b7c493f231f509ed0cb3f4bda26992cdd4d008",
+    "used": true,
+    "visual_review": "Identity/context checked against source caption; full frame or complete face retained",
+    "rights": "User asserts publication permission; not independently verified public-domain license"
+  },
+  {
+    "file": "ken_dog.jpg",
+    "url": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/03/ken-mcelroy-with-his-dog.jpeg",
+    "native_dimensions": [
+      900,
+      703
+    ],
+    "sha256": "86b16013ac423475333fc552bafa6a863fa6d4d5bc85b38f102720e0b41b32b7",
+    "used": true,
+    "visual_review": "Identity/context checked against source caption; full frame or complete face retained",
+    "rights": "User asserts publication permission; not independently verified public-domain license"
+  },
+  {
+    "file": "town.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/SkidmoreMissouri.jpg",
+    "native_dimensions": [
+      4032,
+      3024
+    ],
+    "sha256": "be93210bdb555d55bd7e720cb6c2bcd0fef076a9829011402bc206e990a17be3",
+    "used": true,
+    "visual_review": "Identity/context checked against source caption; full frame or complete face retained",
+    "rights": "CC0 1.0, SamuelNelsonGISP"
+  }
+]

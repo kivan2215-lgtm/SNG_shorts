@@ -1,0 +1,33 @@
+{
+  "language": "en",
+  "file": "SNG_028_Ken_McElroy_EN_PREVIEW.mp4",
+  "bytes": 7518126,
+  "sha256": "d38e22c0793d0b491e858935cbee430e52e5c37f92fd4aabcc9aa328cb5295dc",
+  "duration_seconds": 73.6,
+  "video": {
+    "codec_name": "h264",
+    "width": 1080,
+    "height": 1920,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "nb_frames": "2208"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "73.600000"
+  },
+  "full_decode_passed": true,
+  "black_intervals": [],
+  "integrated_loudness_lufs": -16.4,
+  "true_peak_dbfs": -4.4,
+  "faststart": true,
+  "caption_groups": 52,
+  "caption_words_min": 2,
+  "caption_words_max": 5,
+  "canonical_script_word_alignment": true,
+  "cut_coverage_complete": true,
+  "visual_review": "Actual encoded frames inspected, including archive identities, complete faces, caption readability, chronology, and diagram timing.",
+  "listening_review": "Not independently confirmed on hearing. Stress cues and punctuation reviewed in text; audio is technically checked. Preview remains for user review."
+}

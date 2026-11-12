@@ -1,0 +1,1178 @@
+[
+  {
+    "text": "A",
+    "start": 0.05,
+    "end": 0.1875,
+    "paragraph": 0
+  },
+  {
+    "text": "man",
+    "start": 0.2,
+    "end": 0.45,
+    "paragraph": 0
+  },
+  {
+    "text": "was",
+    "start": 0.475,
+    "end": 0.6125,
+    "paragraph": 0
+  },
+  {
+    "text": "shot",
+    "start": 0.625,
+    "end": 0.9375,
+    "paragraph": 0
+  },
+  {
+    "text": "dead",
+    "start": 0.9625,
+    "end": 1.2,
+    "paragraph": 0
+  },
+  {
+    "text": "in",
+    "start": 1.225,
+    "end": 1.325,
+    "paragraph": 0
+  },
+  {
+    "text": "broad",
+    "start": 1.35,
+    "end": 1.6375,
+    "paragraph": 0
+  },
+  {
+    "text": "daylight",
+    "start": 1.65,
+    "end": 2.1625,
+    "paragraph": 0
+  },
+  {
+    "text": "Dozens",
+    "start": 2.4526459999999997,
+    "end": 2.8901459999999997,
+    "paragraph": 0
+  },
+  {
+    "text": "of",
+    "start": 2.9151459999999996,
+    "end": 3.0151459999999997,
+    "paragraph": 0
+  },
+  {
+    "text": "witnesses",
+    "start": 3.0401459999999996,
+    "end": 3.577646,
+    "paragraph": 0
+  },
+  {
+    "text": "stood",
+    "start": 3.6026459999999996,
+    "end": 3.8526459999999996,
+    "paragraph": 0
+  },
+  {
+    "text": "nearby",
+    "start": 3.877646,
+    "end": 4.452646,
+    "paragraph": 0
+  },
+  {
+    "text": "But",
+    "start": 4.739521000000002,
+    "end": 4.927021000000002,
+    "paragraph": 0
+  },
+  {
+    "text": "almost",
+    "start": 4.952021,
+    "end": 5.364521000000002,
+    "paragraph": 0
+  },
+  {
+    "text": "everyone",
+    "start": 5.389521,
+    "end": 5.802021000000002,
+    "paragraph": 0
+  },
+  {
+    "text": "told",
+    "start": 5.827021,
+    "end": 6.089521000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "police",
+    "start": 6.102021000000001,
+    "end": 6.477021000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "they",
+    "start": 6.502021000000001,
+    "end": 6.627021000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "had",
+    "start": 6.652021000000001,
+    "end": 6.839521000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "not",
+    "start": 6.852021000000001,
+    "end": 7.052021000000002,
+    "paragraph": 0
+  },
+  {
+    "text": "seen",
+    "start": 7.077021000000002,
+    "end": 7.289521000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "the",
+    "start": 7.314521000000001,
+    "end": 7.389521000000002,
+    "paragraph": 0
+  },
+  {
+    "text": "shooter",
+    "start": 7.402021000000001,
+    "end": 7.877021000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "Skidmore",
+    "start": 8.226021000000001,
+    "end": 8.855440680000001,
+    "paragraph": 1
+  },
+  {
+    "text": "Missouri",
+    "start": 8.855440680000001,
+    "end": 9.537312000000002,
+    "paragraph": 1
+  },
+  {
+    "text": "Nineteen",
+    "start": 9.793646,
+    "end": 10.320604000000001,
+    "paragraph": 1
+  },
+  {
+    "text": "eighty-one",
+    "start": 10.345146,
+    "end": 10.957896,
+    "paragraph": 1
+  },
+  {
+    "text": "Ken",
+    "start": 11.283082999999998,
+    "end": 11.515915999999999,
+    "paragraph": 1
+  },
+  {
+    "text": "McElroy",
+    "start": 11.540415999999999,
+    "end": 12.104123999999999,
+    "paragraph": 1
+  },
+  {
+    "text": "had",
+    "start": 12.128665999999999,
+    "end": 12.287999,
+    "paragraph": 1
+  },
+  {
+    "text": "frightened",
+    "start": 12.3125,
+    "end": 12.704666,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 12.729166,
+    "end": 12.814957,
+    "paragraph": 1
+  },
+  {
+    "text": "town",
+    "start": 12.839457999999999,
+    "end": 13.084540999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "for",
+    "start": 13.096791,
+    "end": 13.268373999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "years",
+    "start": 13.292874999999999,
+    "end": 13.734040999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "He",
+    "start": 14.009937,
+    "end": 14.156977999999999,
+    "paragraph": 1
+  },
+  {
+    "text": "threatened",
+    "start": 14.181479,
+    "end": 14.610395,
+    "paragraph": 1
+  },
+  {
+    "text": "neighbors",
+    "start": 14.622687000000003,
+    "end": 15.051603,
+    "paragraph": 1
+  },
+  {
+    "text": "intimidated",
+    "start": 15.161896000000002,
+    "end": 15.884937,
+    "paragraph": 1
+  },
+  {
+    "text": "witnesses",
+    "start": 15.909437,
+    "end": 16.460895,
+    "paragraph": 1
+  },
+  {
+    "text": "and",
+    "start": 16.632479,
+    "end": 16.77952,
+    "paragraph": 1
+  },
+  {
+    "text": "kept",
+    "start": 16.804062,
+    "end": 17.024645,
+    "paragraph": 1
+  },
+  {
+    "text": "avoiding",
+    "start": 17.049146,
+    "end": 17.429062,
+    "paragraph": 1
+  },
+  {
+    "text": "punishment",
+    "start": 17.441312,
+    "end": 18.054062,
+    "paragraph": 1
+  },
+  {
+    "text": "Then",
+    "start": 18.312688000000005,
+    "end": 18.533271000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "he",
+    "start": 18.557771000000002,
+    "end": 18.655812,
+    "paragraph": 1
+  },
+  {
+    "text": "shot",
+    "start": 18.680313,
+    "end": 18.949938000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "an",
+    "start": 18.974438000000003,
+    "end": 19.096979,
+    "paragraph": 1
+  },
+  {
+    "text": "elderly",
+    "start": 19.121521000000005,
+    "end": 19.501437000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "grocery",
+    "start": 19.513646000000005,
+    "end": 19.918062000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "store",
+    "start": 19.942563000000003,
+    "end": 20.212188,
+    "paragraph": 1
+  },
+  {
+    "text": "owner",
+    "start": 20.236688000000004,
+    "end": 20.616604000000002,
+    "paragraph": 1
+  },
+  {
+    "text": "The",
+    "start": 20.849084000000005,
+    "end": 20.996125000000006,
+    "paragraph": 1
+  },
+  {
+    "text": "man",
+    "start": 21.008417000000005,
+    "end": 21.278042000000006,
+    "paragraph": 1
+  },
+  {
+    "text": "survived",
+    "start": 21.302500000000002,
+    "end": 21.939750000000004,
+    "paragraph": 1
+  },
+  {
+    "text": "This",
+    "start": 22.199646000000005,
+    "end": 22.456979000000008,
+    "paragraph": 1
+  },
+  {
+    "text": "time",
+    "start": 22.469230000000007,
+    "end": 22.763355000000008,
+    "paragraph": 1
+  },
+  {
+    "text": "a",
+    "start": 22.983938000000006,
+    "end": 23.04522900000001,
+    "paragraph": 1
+  },
+  {
+    "text": "jury",
+    "start": 23.06973000000001,
+    "end": 23.388355000000008,
+    "paragraph": 1
+  },
+  {
+    "text": "convicted",
+    "start": 23.41285500000001,
+    "end": 23.964313000000008,
+    "paragraph": 1
+  },
+  {
+    "text": "McElroy",
+    "start": 23.988855000000004,
+    "end": 24.638355000000008,
+    "paragraph": 1
+  },
+  {
+    "text": "But",
+    "start": 24.95285500000001,
+    "end": 25.112188000000007,
+    "paragraph": 1
+  },
+  {
+    "text": "he",
+    "start": 25.13668800000001,
+    "end": 25.234729000000012,
+    "paragraph": 1
+  },
+  {
+    "text": "was",
+    "start": 25.259230000000006,
+    "end": 25.443063000000006,
+    "paragraph": 1
+  },
+  {
+    "text": "released",
+    "start": 25.46756300000001,
+    "end": 25.859729000000012,
+    "paragraph": 1
+  },
+  {
+    "text": "on",
+    "start": 25.884230000000006,
+    "end": 26.00677100000001,
+    "paragraph": 1
+  },
+  {
+    "text": "bond",
+    "start": 26.031313000000008,
+    "end": 26.37443800000001,
+    "paragraph": 1
+  },
+  {
+    "text": "while",
+    "start": 26.398938000000012,
+    "end": 26.58277100000001,
+    "paragraph": 1
+  },
+  {
+    "text": "he",
+    "start": 26.59502200000001,
+    "end": 26.71756300000001,
+    "paragraph": 1
+  },
+  {
+    "text": "appealed",
+    "start": 26.742105000000006,
+    "end": 27.29356300000001,
+    "paragraph": 1
+  },
+  {
+    "text": "Soon",
+    "start": 27.532064000000002,
+    "end": 27.89973,
+    "paragraph": 1
+  },
+  {
+    "text": "he",
+    "start": 27.924230000000005,
+    "end": 28.059021000000005,
+    "paragraph": 1
+  },
+  {
+    "text": "returned",
+    "start": 28.071272000000004,
+    "end": 28.52468800000001,
+    "paragraph": 1
+  },
+  {
+    "text": "to",
+    "start": 28.549230000000005,
+    "end": 28.635021000000005,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 28.647272000000005,
+    "end": 28.769813000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "local",
+    "start": 28.794314000000004,
+    "end": 29.137439000000004,
+    "paragraph": 1
+  },
+  {
+    "text": "bar",
+    "start": 29.14973,
+    "end": 29.43160500000001,
+    "paragraph": 1
+  },
+  {
+    "text": "with",
+    "start": 29.456105000000004,
+    "end": 29.603146000000006,
+    "paragraph": 1
+  },
+  {
+    "text": "a",
+    "start": 29.627647000000007,
+    "end": 29.688938000000004,
+    "paragraph": 1
+  },
+  {
+    "text": "gun",
+    "start": 29.701189000000003,
+    "end": 30.068855000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "And",
+    "start": 30.366418,
+    "end": 30.550251,
+    "paragraph": 1
+  },
+  {
+    "text": "threatened",
+    "start": 30.574750999999996,
+    "end": 31.052708999999997,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 31.077209,
+    "end": 31.163,
+    "paragraph": 1
+  },
+  {
+    "text": "grocer",
+    "start": 31.175251,
+    "end": 31.604167,
+    "paragraph": 1
+  },
+  {
+    "text": "again",
+    "start": 31.628667999999994,
+    "end": 32.045334,
+    "paragraph": 1
+  },
+  {
+    "text": "On",
+    "start": 32.39481383333333,
+    "end": 32.592813833333324,
+    "paragraph": 2
+  },
+  {
+    "text": "July",
+    "start": 32.61760483333333,
+    "end": 32.914645833333324,
+    "paragraph": 2
+  },
+  {
+    "text": "tenth",
+    "start": 32.92697983333332,
+    "end": 33.26114583333333,
+    "paragraph": 2
+  },
+  {
+    "text": "residents",
+    "start": 33.52106383333333,
+    "end": 34.003729833333324,
+    "paragraph": 2
+  },
+  {
+    "text": "gathered",
+    "start": 34.02847983333332,
+    "end": 34.36264583333333,
+    "paragraph": 2
+  },
+  {
+    "text": "to",
+    "start": 34.37502183333332,
+    "end": 34.44927183333333,
+    "paragraph": 2
+  },
+  {
+    "text": "discuss",
+    "start": 34.46164683333332,
+    "end": 34.907187833333325,
+    "paragraph": 2
+  },
+  {
+    "text": "how",
+    "start": 34.93193883333332,
+    "end": 35.04331383333333,
+    "paragraph": 2
+  },
+  {
+    "text": "to",
+    "start": 35.06810483333332,
+    "end": 35.17947983333333,
+    "paragraph": 2
+  },
+  {
+    "text": "protect",
+    "start": 35.19185483333332,
+    "end": 35.58789583333332,
+    "paragraph": 2
+  },
+  {
+    "text": "themselves",
+    "start": 35.61264683333333,
+    "end": 36.24385483333333,
+    "paragraph": 2
+  },
+  {
+    "text": "Meanwhile",
+    "start": 36.51816783333332,
+    "end": 37.050333833333326,
+    "paragraph": 2
+  },
+  {
+    "text": "McElroy",
+    "start": 37.211250833333324,
+    "end": 37.75579183333332,
+    "paragraph": 2
+  },
+  {
+    "text": "and",
+    "start": 37.78054283333333,
+    "end": 37.85479283333332,
+    "paragraph": 2
+  },
+  {
+    "text": "his",
+    "start": 37.879584833333325,
+    "end": 38.04045983333333,
+    "paragraph": 2
+  },
+  {
+    "text": "wife",
+    "start": 38.06520983333333,
+    "end": 38.33750083333332,
+    "paragraph": 2
+  },
+  {
+    "text": "arrived",
+    "start": 38.34987583333333,
+    "end": 38.69641683333333,
+    "paragraph": 2
+  },
+  {
+    "text": "at",
+    "start": 38.721167833333325,
+    "end": 38.783042833333326,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 38.80779283333332,
+    "end": 38.89441783333332,
+    "paragraph": 2
+  },
+  {
+    "text": "bar",
+    "start": 38.91916783333332,
+    "end": 39.33995883333333,
+    "paragraph": 2
+  },
+  {
+    "text": "The",
+    "start": 39.61012583333331,
+    "end": 39.75862583333331,
+    "paragraph": 2
+  },
+  {
+    "text": "crowd",
+    "start": 39.78341783333332,
+    "end": 40.14233383333331,
+    "paragraph": 2
+  },
+  {
+    "text": "headed",
+    "start": 40.16708383333331,
+    "end": 40.464124833333315,
+    "paragraph": 2
+  },
+  {
+    "text": "there",
+    "start": 40.48883383333332,
+    "end": 40.64970883333332,
+    "paragraph": 2
+  },
+  {
+    "text": "too",
+    "start": 40.67450083333331,
+    "end": 41.07054183333331,
+    "paragraph": 2
+  },
+  {
+    "text": "Ken",
+    "start": 41.40287583333331,
+    "end": 41.65041683333331,
+    "paragraph": 2
+  },
+  {
+    "text": "walked",
+    "start": 41.675167833333305,
+    "end": 41.947458833333314,
+    "paragraph": 2
+  },
+  {
+    "text": "out",
+    "start": 41.95979283333331,
+    "end": 42.1949588333333,
+    "paragraph": 2
+  },
+  {
+    "text": "and",
+    "start": 42.20733383333331,
+    "end": 42.318708833333304,
+    "paragraph": 2
+  },
+  {
+    "text": "climbed",
+    "start": 42.343458833333315,
+    "end": 42.6899998333333,
+    "paragraph": 2
+  },
+  {
+    "text": "into",
+    "start": 42.71475083333331,
+    "end": 42.912750833333305,
+    "paragraph": 2
+  },
+  {
+    "text": "his",
+    "start": 42.93754283333331,
+    "end": 43.0736678333333,
+    "paragraph": 2
+  },
+  {
+    "text": "pickup",
+    "start": 43.098417833333315,
+    "end": 43.543958833333306,
+    "paragraph": 2
+  },
+  {
+    "text": "People",
+    "start": 43.808959833333304,
+    "end": 44.180250833333304,
+    "paragraph": 2
+  },
+  {
+    "text": "stood",
+    "start": 44.2050008333333,
+    "end": 44.4525418333333,
+    "paragraph": 2
+  },
+  {
+    "text": "around",
+    "start": 44.47729283333331,
+    "end": 44.811458833333305,
+    "paragraph": 2
+  },
+  {
+    "text": "him",
+    "start": 44.82383483333331,
+    "end": 45.0342508333333,
+    "paragraph": 2
+  },
+  {
+    "text": "Then",
+    "start": 45.3223348333333,
+    "end": 45.582250833333305,
+    "paragraph": 2
+  },
+  {
+    "text": "shots",
+    "start": 45.6070018333333,
+    "end": 45.9782928333333,
+    "paragraph": 2
+  },
+  {
+    "text": "rang",
+    "start": 45.990667833333305,
+    "end": 46.2258338333333,
+    "paragraph": 2
+  },
+  {
+    "text": "out",
+    "start": 46.2505428333333,
+    "end": 46.58470883333331,
+    "paragraph": 2
+  },
+  {
+    "text": "McElroy",
+    "start": 46.8473138333333,
+    "end": 47.540396833333304,
+    "paragraph": 2
+  },
+  {
+    "text": "was",
+    "start": 47.55277283333329,
+    "end": 47.7507728333333,
+    "paragraph": 2
+  },
+  {
+    "text": "dead",
+    "start": 47.7755228333333,
+    "end": 48.1468138333333,
+    "paragraph": 2
+  },
+  {
+    "text": "His",
+    "start": 48.49833456666663,
+    "end": 48.74316756666663,
+    "paragraph": 3
+  },
+  {
+    "text": "wife",
+    "start": 48.76895966666663,
+    "end": 49.03958466666663,
+    "paragraph": 3
+  },
+  {
+    "text": "said",
+    "start": 49.06533466666663,
+    "end": 49.28441766666663,
+    "paragraph": 3
+  },
+  {
+    "text": "she",
+    "start": 49.31020966666662,
+    "end": 49.46483466666662,
+    "paragraph": 3
+  },
+  {
+    "text": "recognized",
+    "start": 49.49062666666663,
+    "end": 50.17362666666662,
+    "paragraph": 3
+  },
+  {
+    "text": "one",
+    "start": 50.19937666666662,
+    "end": 50.37979266666663,
+    "paragraph": 3
+  },
+  {
+    "text": "of",
+    "start": 50.39266866666662,
+    "end": 50.48287666666663,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 50.50866866666662,
+    "end": 50.59887666666663,
+    "paragraph": 3
+  },
+  {
+    "text": "gunmen",
+    "start": 50.61175166666662,
+    "end": 51.062792666666624,
+    "paragraph": 3
+  },
+  {
+    "text": "But",
+    "start": 51.38350166666662,
+    "end": 51.58966766666663,
+    "paragraph": 3
+  },
+  {
+    "text": "other",
+    "start": 51.60258566666663,
+    "end": 51.87321066666662,
+    "paragraph": 3
+  },
+  {
+    "text": "witnesses",
+    "start": 51.898960666666625,
+    "end": 52.44021066666663,
+    "paragraph": 3
+  },
+  {
+    "text": "said",
+    "start": 52.46600166666663,
+    "end": 52.71083466666663,
+    "paragraph": 3
+  },
+  {
+    "text": "they",
+    "start": 52.73658566666663,
+    "end": 52.85258566666663,
+    "paragraph": 3
+  },
+  {
+    "text": "had",
+    "start": 52.878376666666625,
+    "end": 53.07166766666663,
+    "paragraph": 3
+  },
+  {
+    "text": "seen",
+    "start": 53.09741866666663,
+    "end": 53.34225166666663,
+    "paragraph": 3
+  },
+  {
+    "text": "nothing",
+    "start": 53.36804366666662,
+    "end": 53.80616866666662,
+    "paragraph": 3
+  },
+  {
+    "text": "Even",
+    "start": 54.14481366666662,
+    "end": 54.46697966666663,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 54.492772666666625,
+    "end": 54.608772666666624,
+    "paragraph": 3
+  },
+  {
+    "text": "FBI",
+    "start": 54.634522666666626,
+    "end": 55.27885566666663,
+    "paragraph": 3
+  },
+  {
+    "text": "investigated",
+    "start": 55.29173066666662,
+    "end": 56.20668866666662,
+    "paragraph": 3
+  },
+  {
+    "text": "Yet",
+    "start": 56.45510566666661,
+    "end": 56.72573066666662,
+    "paragraph": 3
+  },
+  {
+    "text": "no",
+    "start": 56.75148066666662,
+    "end": 56.94477166666661,
+    "paragraph": 3
+  },
+  {
+    "text": "charges",
+    "start": 56.95768866666661,
+    "end": 57.39581366666661,
+    "paragraph": 3
+  },
+  {
+    "text": "were",
+    "start": 57.408730666666614,
+    "end": 57.56335566666661,
+    "paragraph": 3
+  },
+  {
+    "text": "filed",
+    "start": 57.57623066666662,
+    "end": 58.05302166666661,
+    "paragraph": 3
+  },
+  {
+    "text": "Decades",
+    "start": 58.3105226666666,
+    "end": 58.851772666666605,
+    "paragraph": 3
+  },
+  {
+    "text": "passed",
+    "start": 58.87752266666661,
+    "end": 59.4445226666666,
+    "paragraph": 3
+  },
+  {
+    "text": "The",
+    "start": 59.701584666666605,
+    "end": 59.8562096666666,
+    "paragraph": 3
+  },
+  {
+    "text": "killing",
+    "start": 59.88200166666661,
+    "end": 60.2685846666666,
+    "paragraph": 3
+  },
+  {
+    "text": "remained",
+    "start": 60.2815016666666,
+    "end": 60.7196266666666,
+    "paragraph": 3
+  },
+  {
+    "text": "unsolved",
+    "start": 60.73250166666661,
+    "end": 61.47991766666661,
+    "paragraph": 3
+  },
+  {
+    "text": "The",
+    "start": 61.83089783333327,
+    "end": 61.97118883333327,
+    "paragraph": 4
+  },
+  {
+    "text": "town",
+    "start": 61.99673083333326,
+    "end": 62.27735583333326,
+    "paragraph": 4
+  },
+  {
+    "text": "had",
+    "start": 62.30285583333327,
+    "end": 62.45589683333327,
+    "paragraph": 4
+  },
+  {
+    "text": "feared",
+    "start": 62.48143883333327,
+    "end": 62.76206383333327,
+    "paragraph": 4
+  },
+  {
+    "text": "a",
+    "start": 62.787563833333266,
+    "end": 62.83856383333327,
+    "paragraph": 4
+  },
+  {
+    "text": "man",
+    "start": 62.851313833333265,
+    "end": 63.09364683333327,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 63.11918883333327,
+    "end": 63.22122983333327,
+    "paragraph": 4
+  },
+  {
+    "text": "law",
+    "start": 63.24673083333326,
+    "end": 63.50181383333326,
+    "paragraph": 4
+  },
+  {
+    "text": "could",
+    "start": 63.52735583333326,
+    "end": 63.74418883333327,
+    "paragraph": 4
+  },
+  {
+    "text": "not",
+    "start": 63.76968883333326,
+    "end": 63.96102183333326,
+    "paragraph": 4
+  },
+  {
+    "text": "stop",
+    "start": 63.98652283333327,
+    "end": 64.42018883333327,
+    "paragraph": 4
+  },
+  {
+    "text": "After",
+    "start": 64.68550183333326,
+    "end": 65.05541783333327,
+    "paragraph": 4
+  },
+  {
+    "text": "his",
+    "start": 65.08091883333327,
+    "end": 65.23395983333327,
+    "paragraph": 4
+  },
+  {
+    "text": "death",
+    "start": 65.25946083333326,
+    "end": 65.55283583333326,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 65.71866883333327,
+    "end": 65.83345983333327,
+    "paragraph": 4
+  },
+  {
+    "text": "law",
+    "start": 65.85896083333327,
+    "end": 66.10129383333327,
+    "paragraph": 4
+  },
+  {
+    "text": "was",
+    "start": 66.11408583333326,
+    "end": 66.30541883333326,
+    "paragraph": 4
+  },
+  {
+    "text": "powerless",
+    "start": 66.33091883333327,
+    "end": 66.84112683333326,
+    "paragraph": 4
+  },
+  {
+    "text": "again",
+    "start": 66.86662683333327,
+    "end": 67.24929283333327,
+    "paragraph": 4
+  },
+  {
+    "text": "Only",
+    "start": 67.56452283333326,
+    "end": 67.90889783333326,
+    "paragraph": 4
+  },
+  {
+    "text": "now",
+    "start": 67.93443983333326,
+    "end": 68.25331483333326,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 68.40635683333326,
+    "end": 68.52114783333326,
+    "paragraph": 4
+  },
+  {
+    "text": "town",
+    "start": 68.54668983333326,
+    "end": 68.82731483333326,
+    "paragraph": 4
+  },
+  {
+    "text": "was",
+    "start": 68.85277283333326,
+    "end": 69.01860583333325,
+    "paragraph": 4
+  },
+  {
+    "text": "silent",
+    "start": 69.04410683333326,
+    "end": 69.55431483333327,
+    "paragraph": 4
+  },
+  {
+    "text": "Was",
+    "start": 69.80541883333325,
+    "end": 70.04775183333325,
+    "paragraph": 4
+  },
+  {
+    "text": "this",
+    "start": 70.07325183333326,
+    "end": 70.27733483333326,
+    "paragraph": 4
+  },
+  {
+    "text": "justice",
+    "start": 70.30287683333326,
+    "end": 70.95337683333325,
+    "paragraph": 4
+  },
+  {
+    "text": "Or",
+    "start": 71.25085683333324,
+    "end": 71.42943983333325,
+    "paragraph": 4
+  },
+  {
+    "text": "a",
+    "start": 71.44218983333325,
+    "end": 71.49318983333325,
+    "paragraph": 4
+  },
+  {
+    "text": "murder",
+    "start": 71.50598183333324,
+    "end": 71.87589783333324,
+    "paragraph": 4
+  },
+  {
+    "text": "nobody",
+    "start": 71.90139783333325,
+    "end": 72.36056383333325,
+    "paragraph": 4
+  },
+  {
+    "text": "answered",
+    "start": 72.38606483333324,
+    "end": 72.73043983333325,
+    "paragraph": 4
+  },
+  {
+    "text": "for",
+    "start": 72.75598183333324,
+    "end": 73.16414783333325,
+    "paragraph": 4
+  }
+]
