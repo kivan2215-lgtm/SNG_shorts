@@ -9,3 +9,7 @@ The second version adds a distant figure beyond the rain-streaked window and an 
 ## V3
 
 Full redesign after the user found V2 too similar to V1: a rainlit abandoned station, open door, hard blue and amber lighting, and a solitary distant figure. This fictional cinematic artwork does not depict an actual case. The title and tagline remain inside the YouTube device-safe area.
+
+## No-name version
+
+Based on V3. Removes the “SNG SHORTS” wordmark as requested while keeping the Russian tagline in the center device-safe area.
