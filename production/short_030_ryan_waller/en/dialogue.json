@@ -1,0 +1,33 @@
+{
+  "start": 35.4,
+  "duration": 7.0,
+  "source_start": 1304,
+  "source_end": 1311,
+  "phrases": [
+    [
+      0,
+      2,
+      "So you got shot first?"
+    ],
+    [
+      2,
+      2.5,
+      "Mm-hmm."
+    ],
+    [
+      2.5,
+      3.4,
+      "And what happened?"
+    ],
+    [
+      3.4,
+      4.8,
+      "Did you fall on the ground?"
+    ],
+    [
+      4.8,
+      7,
+      "Yeah, I was trying to get up and could not."
+    ]
+  ]
+}

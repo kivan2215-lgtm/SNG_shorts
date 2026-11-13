@@ -1,0 +1,79 @@
+[
+  {
+    "scene": "v_intro",
+    "output_start": 0.0,
+    "output_end": 3.566666666666667,
+    "source_start": 1260,
+    "source_end": 1263.5666666666666
+  },
+  {
+    "scene": "v_confused",
+    "output_start": 3.566666666666667,
+    "output_end": 6.6,
+    "source_start": 1270,
+    "source_end": 1273.0333333333333
+  },
+  {
+    "scene": "v_face",
+    "output_start": 22.233333333333334,
+    "output_end": 26.2,
+    "source_start": 1280,
+    "source_end": 1283.9666666666667
+  },
+  {
+    "scene": "v_room",
+    "output_start": 26.2,
+    "output_end": 29.3,
+    "source_start": 1288,
+    "source_end": 1291.1
+  },
+  {
+    "scene": "v_explain",
+    "output_start": 29.3,
+    "output_end": 36.0,
+    "source_start": 1215,
+    "source_end": 1221.7
+  },
+  {
+    "scene": "v_dialogue",
+    "output_start": 36.0,
+    "output_end": 43.0,
+    "source_start": 1304,
+    "source_end": 1311.0
+  },
+  {
+    "scene": "v_listen",
+    "output_start": 43.0,
+    "output_end": 46.5,
+    "source_start": 1340,
+    "source_end": 1343.5
+  },
+  {
+    "scene": "v_help",
+    "output_start": 51.7,
+    "output_end": 56.4,
+    "source_start": 1500,
+    "source_end": 1504.7
+  },
+  {
+    "scene": "v_survived",
+    "output_start": 64.0,
+    "output_end": 67.0,
+    "source_start": 1470,
+    "source_end": 1473.0
+  },
+  {
+    "scene": "v_after",
+    "output_start": 77.23333333333333,
+    "output_end": 80.23333333333333,
+    "source_start": 1380,
+    "source_end": 1383.0
+  },
+  {
+    "scene": "v_final",
+    "output_start": 86.2,
+    "output_end": 94.66666666666667,
+    "source_start": 1294,
+    "source_end": 1302.4666666666667
+  }
+]

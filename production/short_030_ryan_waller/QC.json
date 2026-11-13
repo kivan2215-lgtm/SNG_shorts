@@ -1,0 +1,68 @@
+[
+  {
+    "language": "ru",
+    "file": "SNG_030_Ryan_Waller_RU_PREVIEW.mp4",
+    "bytes": 9236185,
+    "sha256": "92bfa4f392d3ee0dee6f51a460064626d4fc080eae7a91c727fdb5ab21266ee8",
+    "duration_seconds": 94.666667,
+    "video": {
+      "codec_name": "h264",
+      "width": 1080,
+      "height": 1920,
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1",
+      "nb_frames": "2840"
+    },
+    "audio": {
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "channels": 2,
+      "duration": "94.666000"
+    },
+    "full_decode_passed": true,
+    "black_intervals": [],
+    "integrated_loudness_lufs": -16.1,
+    "true_peak_dbfs": -4.3,
+    "faststart": true,
+    "caption_groups": 60,
+    "caption_words_min": 1,
+    "caption_words_max": 5,
+    "canonical_script_word_alignment": true,
+    "cut_coverage_complete": true,
+    "visual_review": "Actual encoded frames inspected, including archive identities, complete faces, caption readability, chronology, and diagram timing.",
+    "listening_review": "Not independently confirmed on hearing. Stress cues and punctuation reviewed in text; audio is technically checked. Preview remains for user review."
+  },
+  {
+    "language": "en",
+    "file": "SNG_030_Ryan_Waller_EN_PREVIEW.mp4",
+    "bytes": 8894002,
+    "sha256": "e1a06e79a7d2a558b002c4982319e159563b7e6f8c6e1cd1c54fbefc813ba164",
+    "duration_seconds": 90.166667,
+    "video": {
+      "codec_name": "h264",
+      "width": 1080,
+      "height": 1920,
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1",
+      "nb_frames": "2705"
+    },
+    "audio": {
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "channels": 2,
+      "duration": "90.166000"
+    },
+    "full_decode_passed": true,
+    "black_intervals": [],
+    "integrated_loudness_lufs": -16.5,
+    "true_peak_dbfs": -4.3,
+    "faststart": true,
+    "caption_groups": 64,
+    "caption_words_min": 1,
+    "caption_words_max": 5,
+    "canonical_script_word_alignment": true,
+    "cut_coverage_complete": true,
+    "visual_review": "Actual encoded frames inspected, including archive identities, complete faces, caption readability, chronology, and diagram timing.",
+    "listening_review": "Not independently confirmed on hearing. Stress cues and punctuation reviewed in text; audio is technically checked. Preview remains for user review."
+  }
+]

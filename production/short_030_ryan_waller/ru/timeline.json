@@ -1,0 +1,107 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.566666666666667,
+    "visual": "v_intro"
+  },
+  {
+    "start": 3.566666666666667,
+    "end": 6.6,
+    "visual": "v_confused"
+  },
+  {
+    "start": 6.6,
+    "end": 10.933333333333334,
+    "visual": "head_hook"
+  },
+  {
+    "start": 10.933333333333334,
+    "end": 14.333333333333334,
+    "visual": "house"
+  },
+  {
+    "start": 14.333333333333334,
+    "end": 18.866666666666667,
+    "visual": "family"
+  },
+  {
+    "start": 18.866666666666667,
+    "end": 22.233333333333334,
+    "visual": "heather"
+  },
+  {
+    "start": 22.233333333333334,
+    "end": 26.2,
+    "visual": "v_face"
+  },
+  {
+    "start": 26.2,
+    "end": 29.3,
+    "visual": "v_room"
+  },
+  {
+    "start": 29.3,
+    "end": 36.0,
+    "visual": "v_explain"
+  },
+  {
+    "start": 36.0,
+    "end": 43.0,
+    "visual": "v_dialogue"
+  },
+  {
+    "start": 43.0,
+    "end": 46.5,
+    "visual": "v_listen"
+  },
+  {
+    "start": 46.5,
+    "end": 51.7,
+    "visual": "document"
+  },
+  {
+    "start": 51.7,
+    "end": 56.4,
+    "visual": "v_help"
+  },
+  {
+    "start": 56.4,
+    "end": 60.6,
+    "visual": "medical"
+  },
+  {
+    "start": 60.6,
+    "end": 64.0,
+    "visual": "surgery"
+  },
+  {
+    "start": 64.0,
+    "end": 67.0,
+    "visual": "v_survived"
+  },
+  {
+    "start": 67.0,
+    "end": 73.7,
+    "visual": "dates"
+  },
+  {
+    "start": 73.7,
+    "end": 77.23333333333333,
+    "visual": "conviction"
+  },
+  {
+    "start": 77.23333333333333,
+    "end": 80.23333333333333,
+    "visual": "v_after"
+  },
+  {
+    "start": 80.23333333333333,
+    "end": 86.2,
+    "visual": "death"
+  },
+  {
+    "start": 86.2,
+    "end": 94.66666666666667,
+    "visual": "v_final"
+  }
+]
