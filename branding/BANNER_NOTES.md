@@ -5,3 +5,7 @@ YouTube canvas: 2560 × 1440 pixels. The title and tagline are inside the center
 ## V2
 
 The second version adds a distant figure beyond the rain-streaked window and an unsettling hallway image in an open case file. The title stays in the same device-safe area. These details are fictional brand artwork, not historical evidence.
+
+## V3
+
+Full redesign after the user found V2 too similar to V1: a rainlit abandoned station, open door, hard blue and amber lighting, and a solitary distant figure. This fictional cinematic artwork does not depict an actual case. The title and tagline remain inside the YouTube device-safe area.
