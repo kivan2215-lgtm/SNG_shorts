@@ -1,0 +1,383 @@
+[
+  {
+    "scene": "cable",
+    "frames": 79,
+    "native_fps": 30,
+    "median_frame_change": 0.007974537037037037,
+    "peak_frame_change": 0.012459490740740741,
+    "abrupt_change_flag": false,
+    "region": {
+      "box_top_left_pixels": [
+        312,
+        552,
+        456,
+        680
+      ],
+      "source_size": [
+        720,
+        1280
+      ],
+      "outside_mean_abs_error_8bit": [
+        0.12472467285525321,
+        0.13626663773148148,
+        0.12610463022014362
+      ],
+      "probe_count": 4,
+      "feather_pixels": 16
+    }
+  },
+  {
+    "scene": "depth",
+    "frames": 2,
+    "native_fps": 30,
+    "median_frame_change": 0.0,
+    "peak_frame_change": 0.0,
+    "abrupt_change_flag": false,
+    "region": null
+  },
+  {
+    "scene": "dive",
+    "frames": 62,
+    "native_fps": 30,
+    "median_frame_change": 0.465162037037037,
+    "peak_frame_change": 0.942505787037037,
+    "abrupt_change_flag": false,
+    "region": {
+      "box_top_left_pixels": [
+        0,
+        348,
+        720,
+        916
+      ],
+      "source_size": [
+        720,
+        1280
+      ],
+      "outside_mean_abs_error_8bit": [
+        0.26696642218060757,
+        0.33625286100707447,
+        0.3408350239284228
+      ],
+      "probe_count": 4,
+      "feather_pixels": 16
+    }
+  },
+  {
+    "scene": "dock",
+    "frames": 75,
+    "native_fps": 30,
+    "median_frame_change": 1.0893287037037038,
+    "peak_frame_change": 2.412511574074074,
+    "abrupt_change_flag": false,
+    "region": {
+      "box_top_left_pixels": [
+        68,
+        0,
+        648,
+        952
+      ],
+      "source_size": [
+        720,
+        1280
+      ],
+      "outside_mean_abs_error_8bit": [
+        0.5846046268225783,
+        0.9793940378230114,
+        0.9850295943409846
+      ],
+      "probe_count": 4,
+      "feather_pixels": 16,
+      "actual_box_top_left_pixels": [
+        68,
+        0,
+        648,
+        952
+      ]
+    }
+  },
+  {
+    "scene": "drain",
+    "frames": 94,
+    "native_fps": 30,
+    "median_frame_change": 0.07832754629629629,
+    "peak_frame_change": 0.6670196759259259,
+    "abrupt_change_flag": false,
+    "region": {
+      "box_top_left_pixels": [
+        156,
+        324,
+        564,
+        868
+      ],
+      "source_size": [
+        720,
+        1280
+      ],
+      "outside_mean_abs_error_8bit": [
+        0.017718910080497623,
+        0.11395015779363336,
+        0.11000531695938529
+      ],
+      "probe_count": 4,
+      "feather_pixels": 16,
+      "actual_box_top_left_pixels": [
+        156,
+        324,
+        564,
+        868
+      ]
+    }
+  },
+  {
+    "scene": "dry",
+    "frames": 2,
+    "native_fps": 30,
+    "median_frame_change": 0.0,
+    "peak_frame_change": 0.0,
+    "abrupt_change_flag": false,
+    "region": null
+  },
+  {
+    "scene": "final",
+    "frames": 2,
+    "native_fps": 30,
+    "median_frame_change": 0.0,
+    "peak_frame_change": 0.0,
+    "abrupt_change_flag": false,
+    "region": null
+  },
+  {
+    "scene": "flood",
+    "frames": 115,
+    "native_fps": 30,
+    "median_frame_change": 0.05097800925925926,
+    "peak_frame_change": 0.2645428240740741,
+    "abrupt_change_flag": false,
+    "region": {
+      "box_top_left_pixels": [
+        296,
+        556,
+        684,
+        844
+      ],
+      "source_size": [
+        720,
+        1280
+      ],
+      "outside_mean_abs_error_8bit": [
+        0.04369254122543596,
+        0.15268558031715926,
+        0.15839976489647542
+      ],
+      "probe_count": 4,
+      "feather_pixels": 16
+    }
+  },
+  {
+    "scene": "hero",
+    "frames": 2,
+    "native_fps": 30,
+    "median_frame_change": 0.0,
+    "peak_frame_change": 0.0,
+    "abrupt_change_flag": false,
+    "region": null
+  },
+  {
+    "scene": "loss",
+    "frames": 2,
+    "native_fps": 30,
+    "median_frame_change": 0.0,
+    "peak_frame_change": 0.0,
+    "abrupt_change_flag": false,
+    "region": null
+  },
+  {
+    "scene": "open",
+    "frames": 72,
+    "native_fps": 30,
+    "median_frame_change": 0.15638888888888888,
+    "peak_frame_change": 0.36060185185185184,
+    "abrupt_change_flag": false,
+    "region": {
+      "box_top_left_pixels": [
+        136,
+        328,
+        616,
+        1088
+      ],
+      "source_size": [
+        720,
+        1280
+      ],
+      "outside_mean_abs_error_8bit": [
+        0.07466534961685824,
+        0.2894941331417625,
+        0.2986925287356322
+      ],
+      "probe_count": 4,
+      "feather_pixels": 16,
+      "actual_box_top_left_pixels": [
+        136,
+        328,
+        616,
+        1088
+      ]
+    }
+  },
+  {
+    "scene": "question",
+    "frames": 2,
+    "native_fps": 30,
+    "median_frame_change": 0.0,
+    "peak_frame_change": 0.0,
+    "abrupt_change_flag": false,
+    "region": null
+  },
+  {
+    "scene": "rise",
+    "frames": 75,
+    "native_fps": 30,
+    "median_frame_change": 0.17267361111111112,
+    "peak_frame_change": 0.24535300925925926,
+    "abrupt_change_flag": false,
+    "region": {
+      "box_top_left_pixels": [
+        92,
+        224,
+        316,
+        932
+      ],
+      "source_size": [
+        720,
+        1280
+      ],
+      "outside_mean_abs_error_8bit": [
+        0.4034737075714366,
+        0.39457471830789015,
+        0.3944711807303025
+      ],
+      "probe_count": 4,
+      "feather_pixels": 16,
+      "actual_box_top_left_pixels": [
+        92,
+        224,
+        316,
+        932
+      ]
+    }
+  },
+  {
+    "scene": "saved",
+    "frames": 2,
+    "native_fps": 30,
+    "median_frame_change": 0.0,
+    "peak_frame_change": 0.0,
+    "abrupt_change_flag": false,
+    "region": null
+  },
+  {
+    "scene": "seal",
+    "frames": 2,
+    "native_fps": 30,
+    "median_frame_change": 0.0,
+    "peak_frame_change": 0.0,
+    "abrupt_change_flag": false,
+    "region": null
+  },
+  {
+    "scene": "sealed",
+    "frames": 76,
+    "native_fps": 30,
+    "median_frame_change": 0.07228587962962962,
+    "peak_frame_change": 0.16963541666666668,
+    "abrupt_change_flag": false,
+    "region": {
+      "box_top_left_pixels": [
+        0,
+        480,
+        452,
+        840
+      ],
+      "source_size": [
+        720,
+        1280
+      ],
+      "outside_mean_abs_error_8bit": [
+        0.16397366294187926,
+        0.22454099023121793,
+        0.22418783821772437
+      ],
+      "probe_count": 4,
+      "feather_pixels": 16
+    }
+  },
+  {
+    "scene": "transfer",
+    "frames": 50,
+    "native_fps": 30,
+    "median_frame_change": 0.14450231481481482,
+    "peak_frame_change": 0.2544733796296296,
+    "abrupt_change_flag": false,
+    "region": {
+      "box_top_left_pixels": [
+        240,
+        308,
+        580,
+        876
+      ],
+      "source_size": [
+        720,
+        1280
+      ],
+      "outside_mean_abs_error_8bit": [
+        0.12496019108280254,
+        0.16960200234277767,
+        0.21803481221172852
+      ],
+      "probe_count": 4,
+      "feather_pixels": 16,
+      "actual_box_top_left_pixels": [
+        240,
+        308,
+        580,
+        876
+      ]
+    }
+  },
+  {
+    "scene": "trips",
+    "frames": 2,
+    "native_fps": 30,
+    "median_frame_change": 0.0,
+    "peak_frame_change": 0.0,
+    "abrupt_change_flag": false,
+    "region": null
+  },
+  {
+    "scene": "valve",
+    "frames": 76,
+    "native_fps": 30,
+    "median_frame_change": 0.07752314814814815,
+    "peak_frame_change": 0.09837384259259259,
+    "abrupt_change_flag": false,
+    "region": {
+      "box_top_left_pixels": [
+        168,
+        304,
+        384,
+        836
+      ],
+      "source_size": [
+        720,
+        1280
+      ],
+      "outside_mean_abs_error_8bit": [
+        0.17945393179684505,
+        0.153913284937919,
+        0.0
+      ],
+      "probe_count": 4,
+      "feather_pixels": 16
+    }
+  }
+]

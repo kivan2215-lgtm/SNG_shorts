@@ -1,0 +1,50 @@
+{
+  "source_sha256": {
+    "scene3d.py": "c8b19b85c169ddea26bba866743c7266f1249fecacf1b98bdedecdbf000efab9",
+    "human_model.py": "155304c6e5a3efdf2fd08a1aaeaee10880033fbec067da5461050b558ed14b51",
+    "render_style.py": "74262aad35e697fb4203f00fb14be5adbd9e896d9d23f0fcd2645358e733079c",
+    "region_cache.py": "8473f26041525d0ad2df61a843f151c8bf46b54a8b4aa329ea840e7ef00ce5ba"
+  },
+  "kinds": [
+    "hero",
+    "question",
+    "dive",
+    "valve",
+    "flood",
+    "loss",
+    "sealed",
+    "depth",
+    "cable",
+    "dock",
+    "seal",
+    "drain",
+    "dry",
+    "open",
+    "transfer",
+    "rise",
+    "trips",
+    "saved",
+    "final"
+  ],
+  "started": 1794685671.7634068,
+  "engine": "CYCLES",
+  "render_resolution": [
+    720,
+    1280
+  ],
+  "delivery_resolution": [
+    1080,
+    1920
+  ],
+  "delivery_fps": 30,
+  "articulated_transfer_native_fps": 30,
+  "other_mechanics_native_fps": 30,
+  "completed": 1794688043.116742,
+  "final_source_sha256": {
+    "scene3d.py": "c8b19b85c169ddea26bba866743c7266f1249fecacf1b98bdedecdbf000efab9",
+    "human_model.py": "c23e8db034d6f68313e1e34c901159081a8579509f09dd23ed08cbcfa2b90a1d",
+    "render_style.py": "74262aad35e697fb4203f00fb14be5adbd9e896d9d23f0fcd2645358e733079c",
+    "region_cache.py": "8473f26041525d0ad2df61a843f151c8bf46b54a8b4aa329ea840e7ef00ce5ba"
+  },
+  "cache_review": "Completed unaffected scenes were retained. The final human_model.py easing change was applied before transfer started and affects that branch only. Transfer was rendered and visually reviewed at native frame intervals."
+}

@@ -1,0 +1,41 @@
+{
+  "language": "en",
+  "file": "SNG_032_Squalus_EN_PREVIEW_V4.mp4",
+  "duration": 73.366667,
+  "bytes": 11803769,
+  "sha256": "4e5a2edbb83e1dff27ce22a4b1bb48bb717a7dc68875703b78ecd4df0b1abc96",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec_name": "h264",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "full_decode_ok": true,
+  "loudness": {
+    "input_i": "-16.19",
+    "input_tp": "-3.83",
+    "input_lra": "1.80",
+    "input_thresh": "-26.58",
+    "output_i": "-15.97",
+    "output_tp": "-3.61",
+    "output_lra": "1.90",
+    "output_thresh": "-26.35",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.03"
+  },
+  "black_frames": [],
+  "captions": 58,
+  "single_word_sentence_exceptions": [],
+  "failures": [],
+  "auditory_review": false,
+  "encoded_frame_review": "reviewed",
+  "preview_not_approved": true,
+  "visual_review_utc": "2026-11-14T20:34:04.627294+00:00",
+  "visual_review_method": "Viewed all three encoded contact sheets: start, middle and end of every shot, 75 frames per language; additionally inspected full-size RU encoded mechanism/transfer/final frames and native mechanism sequences. No new auditory review; unchanged AAC verified separately."
+}
