@@ -1,0 +1,56 @@
+{
+  "revision": "V2",
+  "request": "Replace flat diagrams with modeled, colorful, functional animated graphics inspired by the provided references.",
+  "status": "preview_for_review",
+  "youtube_uploaded": false,
+  "languages": {
+    "ru": {
+      "voice.wav": {
+        "sha256": "f1f22289e75dfbfae870742ec746ec7f53a74dea9445f9e474e7c9dcb0af6891",
+        "unchanged_from_published_v1": true
+      },
+      "mix.wav": {
+        "sha256": "45ac080b52208a0b1392a893772ba93e339165a645facb1b7292fd651bff0a63",
+        "unchanged_from_published_v1": null
+      },
+      "subtitles.ass": {
+        "sha256": "b31aa998c138cbe7eba65d785f10ded19887da3ae506841aa13bd6e7fdd7265b",
+        "unchanged_from_published_v1": true
+      },
+      "timeline.json": {
+        "sha256": "41e54eed1e368d2e347c37fff338a16ecb4130389e9e4970b4c619e6b763235d",
+        "unchanged_from_published_v1": true
+      },
+      "aac_identical_to_v1": true
+    },
+    "en": {
+      "voice.wav": {
+        "sha256": "e36acd6ec438445e01819ba85a2c2a704d19f60405e726b9111702020f80337f",
+        "unchanged_from_published_v1": true
+      },
+      "mix.wav": {
+        "sha256": "662a31979786db583e38d7ae17b96794f27acacb7b37ab11c57868832f5cdfce",
+        "unchanged_from_published_v1": null
+      },
+      "subtitles.ass": {
+        "sha256": "8535bb709595ae2822df514ec2806ce7596f1d872d80ba2968704e19256d02cc",
+        "unchanged_from_published_v1": true
+      },
+      "timeline.json": {
+        "sha256": "a18c6faffe40969c3aa055d9323807df9c90d2732993e2097fe4c7966a782b16",
+        "unchanged_from_published_v1": true
+      },
+      "aac_identical_to_v1": true
+    }
+  },
+  "models": "authored Blender explanatory geometry, not exact historical engineering drawings",
+  "changes": [
+    "19 modeled scene types",
+    "hull flooding and watertight bulkhead",
+    "diver, cable and chamber docking",
+    "dewatering before hatch opening",
+    "articulated ladder climb",
+    "shared depth reference and four-trip explanation"
+  ],
+  "reference_media_republished": false
+}

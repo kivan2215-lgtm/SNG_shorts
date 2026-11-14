@@ -1,0 +1,28 @@
+{
+  "source_sha256": "ccc9b0acae94957c974aa17aaa35f80921dfafd014866fb601075b6bfe018a97",
+  "kinds": [
+    "hero",
+    "question",
+    "dive",
+    "valve",
+    "flood",
+    "loss",
+    "sealed",
+    "depth",
+    "cable",
+    "dock",
+    "seal",
+    "drain",
+    "dry",
+    "open",
+    "transfer",
+    "rise",
+    "trips",
+    "saved",
+    "final"
+  ],
+  "started": 1794670922.5861738,
+  "final_source_sha256": "9ec61d7ed82705d5957f6f7b6dd7afd3bb0ab83d248f5d0a6d2240aaf1b17042",
+  "completed": 1794672351.995445,
+  "render_method": "Native 1080p; animated geometry at 30 fps maximum language duration; static geometry cached and combined with animated overlays."
+}
