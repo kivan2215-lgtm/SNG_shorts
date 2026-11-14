@@ -1,0 +1,20 @@
+[
+  {
+    "language": "ru",
+    "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_032_Squalus_RU_PREVIEW_V4.mp4",
+    "http_status": 200,
+    "bytes": 12757709,
+    "content_type": "application/octet-stream",
+    "sha256": "4ed86027bcf4717b74bd8a1b99421c41340fc720d3f1d45f84220f821cf69b06",
+    "download_matches_local": true
+  },
+  {
+    "language": "en",
+    "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_032_Squalus_EN_PREVIEW_V4.mp4",
+    "http_status": 200,
+    "bytes": 11803769,
+    "content_type": "application/octet-stream",
+    "sha256": "4e5a2edbb83e1dff27ce22a4b1bb48bb717a7dc68875703b78ecd4df0b1abc96",
+    "download_matches_local": true
+  }
+]

@@ -142,5 +142,10 @@
     "encoded_frames_reviewed_per_language": 75,
     "full_decode_both": true,
     "audio_preserved_both": true
+  },
+  "delivery_verified": true,
+  "delivery_urls": {
+    "ru": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_032_Squalus_RU_PREVIEW_V4.mp4",
+    "en": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_032_Squalus_EN_PREVIEW_V4.mp4"
   }
 }
