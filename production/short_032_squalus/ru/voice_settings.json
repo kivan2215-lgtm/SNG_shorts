@@ -1,0 +1,45 @@
+{
+  "voice": "ru-RU-DmitryNeural",
+  "duration": 95.11329166666665,
+  "paragraphs": [
+    {
+      "paragraph": 0,
+      "start": 0,
+      "end": 13.3775,
+      "rate": "+0%",
+      "pitch": "+1Hz"
+    },
+    {
+      "paragraph": 1,
+      "start": 13.5375,
+      "end": 37.316604166666664,
+      "rate": "+1%",
+      "pitch": "+1Hz"
+    },
+    {
+      "paragraph": 2,
+      "start": 37.47660416666666,
+      "end": 52.47910416666666,
+      "rate": "+0%",
+      "pitch": "+1Hz"
+    },
+    {
+      "paragraph": 3,
+      "start": 52.639104166666655,
+      "end": 76.80410416666666,
+      "rate": "+0%",
+      "pitch": "-2Hz"
+    },
+    {
+      "paragraph": 4,
+      "start": 76.96410416666666,
+      "end": 95.11329166666665,
+      "rate": "-2%",
+      "pitch": "-2Hz"
+    }
+  ],
+  "source_preset": "SNG 016 V2 / persistent master settings",
+  "duration_before_pause_edit": 95.11329166666665,
+  "duration_after_pause_edit": 78.91310416666667,
+  "paragraphs_are_pre_edit_timings": true
+}

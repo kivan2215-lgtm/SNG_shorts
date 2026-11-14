@@ -1,0 +1,1262 @@
+[
+  {
+    "text": "A",
+    "start": 0.05,
+    "end": 0.175,
+    "paragraph": 0
+  },
+  {
+    "text": "submarine",
+    "start": 0.2,
+    "end": 0.8125,
+    "paragraph": 0
+  },
+  {
+    "text": "sank",
+    "start": 0.8375,
+    "end": 1.1375,
+    "paragraph": 0
+  },
+  {
+    "text": "to",
+    "start": 1.1625,
+    "end": 1.2625,
+    "paragraph": 0
+  },
+  {
+    "text": "the",
+    "start": 1.2875,
+    "end": 1.4,
+    "paragraph": 0
+  },
+  {
+    "text": "seabed",
+    "start": 1.425,
+    "end": 1.9625,
+    "paragraph": 0
+  },
+  {
+    "text": "People",
+    "start": 2.228271,
+    "end": 2.615771,
+    "paragraph": 0
+  },
+  {
+    "text": "were",
+    "start": 2.640771,
+    "end": 2.778271,
+    "paragraph": 0
+  },
+  {
+    "text": "still",
+    "start": 2.803271,
+    "end": 3.090771,
+    "paragraph": 0
+  },
+  {
+    "text": "alive",
+    "start": 3.115771,
+    "end": 3.453271,
+    "paragraph": 0
+  },
+  {
+    "text": "inside",
+    "start": 3.4782710000000003,
+    "end": 4.003271,
+    "paragraph": 0
+  },
+  {
+    "text": "To",
+    "start": 4.3295,
+    "end": 4.4545,
+    "paragraph": 0
+  },
+  {
+    "text": "reach",
+    "start": 4.479500000000001,
+    "end": 4.742000000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "them",
+    "start": 4.767,
+    "end": 4.9670000000000005,
+    "paragraph": 0
+  },
+  {
+    "text": "rescuers",
+    "start": 5.167000000000001,
+    "end": 5.7170000000000005,
+    "paragraph": 0
+  },
+  {
+    "text": "had",
+    "start": 5.742000000000001,
+    "end": 5.917000000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "to",
+    "start": 5.929500000000001,
+    "end": 6.042000000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "open",
+    "start": 6.054500000000001,
+    "end": 6.367000000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "a",
+    "start": 6.392,
+    "end": 6.442,
+    "paragraph": 0
+  },
+  {
+    "text": "hatch",
+    "start": 6.4545,
+    "end": 6.742000000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "underwater",
+    "start": 6.7545,
+    "end": 7.442,
+    "paragraph": 0
+  },
+  {
+    "text": "But",
+    "start": 7.6839580000000005,
+    "end": 7.846458,
+    "paragraph": 0
+  },
+  {
+    "text": "how",
+    "start": 7.8714580000000005,
+    "end": 8.008958,
+    "paragraph": 0
+  },
+  {
+    "text": "could",
+    "start": 8.021457999999999,
+    "end": 8.171458,
+    "paragraph": 0
+  },
+  {
+    "text": "they",
+    "start": 8.196458,
+    "end": 8.296458,
+    "paragraph": 0
+  },
+  {
+    "text": "do",
+    "start": 8.321458,
+    "end": 8.508958,
+    "paragraph": 0
+  },
+  {
+    "text": "that",
+    "start": 8.521457999999999,
+    "end": 8.758958,
+    "paragraph": 0
+  },
+  {
+    "text": "without",
+    "start": 8.783958,
+    "end": 9.083957999999999,
+    "paragraph": 0
+  },
+  {
+    "text": "flooding",
+    "start": 9.108958,
+    "end": 9.471458,
+    "paragraph": 0
+  },
+  {
+    "text": "the",
+    "start": 9.483958,
+    "end": 9.596458,
+    "paragraph": 0
+  },
+  {
+    "text": "people",
+    "start": 9.608958,
+    "end": 9.896457999999999,
+    "paragraph": 0
+  },
+  {
+    "text": "they",
+    "start": 9.908958,
+    "end": 10.033958,
+    "paragraph": 0
+  },
+  {
+    "text": "came",
+    "start": 10.058958,
+    "end": 10.283958,
+    "paragraph": 0
+  },
+  {
+    "text": "to",
+    "start": 10.296458,
+    "end": 10.358958,
+    "paragraph": 0
+  },
+  {
+    "text": "save",
+    "start": 10.371458,
+    "end": 10.871458,
+    "paragraph": 0
+  },
+  {
+    "text": "May",
+    "start": 11.220958,
+    "end": 11.418958,
+    "paragraph": 1
+  },
+  {
+    "text": "twenty-third",
+    "start": 11.443748999999999,
+    "end": 12.149206999999999,
+    "paragraph": 1
+  },
+  {
+    "text": "nineteen",
+    "start": 12.297708,
+    "end": 12.755624,
+    "paragraph": 1
+  },
+  {
+    "text": "thirty-nine",
+    "start": 12.780374,
+    "end": 13.461082,
+    "paragraph": 1
+  },
+  {
+    "text": "Off",
+    "start": 13.769791,
+    "end": 14.017331999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 14.042041,
+    "end": 14.141041,
+    "paragraph": 1
+  },
+  {
+    "text": "American",
+    "start": 14.165833000000001,
+    "end": 14.697998999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "coast",
+    "start": 14.722748999999999,
+    "end": 15.094040000000001,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 15.292041,
+    "end": 15.391041,
+    "paragraph": 1
+  },
+  {
+    "text": "new",
+    "start": 15.403416000000002,
+    "end": 15.564290999999999,
+    "paragraph": 1
+  },
+  {
+    "text": "submarine",
+    "start": 15.589083,
+    "end": 16.133623999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "Squalus",
+    "start": 16.158374000000002,
+    "end": 16.61629,
+    "paragraph": 1
+  },
+  {
+    "text": "begins",
+    "start": 16.628666000000003,
+    "end": 16.975206999999997,
+    "paragraph": 1
+  },
+  {
+    "text": "a",
+    "start": 16.999958,
+    "end": 17.061833,
+    "paragraph": 1
+  },
+  {
+    "text": "test",
+    "start": 17.086624,
+    "end": 17.346539999999997,
+    "paragraph": 1
+  },
+  {
+    "text": "dive",
+    "start": 17.358874,
+    "end": 17.730165,
+    "paragraph": 1
+  },
+  {
+    "text": "An",
+    "start": 18.030332,
+    "end": 18.240747999999996,
+    "paragraph": 1
+  },
+  {
+    "text": "air",
+    "start": 18.265499,
+    "end": 18.426374000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "induction",
+    "start": 18.438749,
+    "end": 18.909039999999997,
+    "paragraph": 1
+  },
+  {
+    "text": "valve",
+    "start": 18.933791,
+    "end": 19.230832,
+    "paragraph": 1
+  },
+  {
+    "text": "fails",
+    "start": 19.255581999999997,
+    "end": 19.602123,
+    "paragraph": 1
+  },
+  {
+    "text": "to",
+    "start": 19.626874,
+    "end": 19.725873999999997,
+    "paragraph": 1
+  },
+  {
+    "text": "close",
+    "start": 19.738249000000003,
+    "end": 20.233289999999997,
+    "paragraph": 1
+  },
+  {
+    "text": "Seawater",
+    "start": 20.513604,
+    "end": 21.120020000000004,
+    "paragraph": 1
+  },
+  {
+    "text": "pours",
+    "start": 21.14477,
+    "end": 21.478936000000004,
+    "paragraph": 1
+  },
+  {
+    "text": "in",
+    "start": 21.503687000000006,
+    "end": 21.825478000000004,
+    "paragraph": 1
+  },
+  {
+    "text": "The",
+    "start": 22.120979000000005,
+    "end": 22.29422900000001,
+    "paragraph": 1
+  },
+  {
+    "text": "aft",
+    "start": 22.306604000000007,
+    "end": 22.616020000000006,
+    "paragraph": 1
+  },
+  {
+    "text": "compartments",
+    "start": 22.640771000000008,
+    "end": 23.284354000000008,
+    "paragraph": 1
+  },
+  {
+    "text": "flood",
+    "start": 23.296729000000006,
+    "end": 23.729895000000006,
+    "paragraph": 1
+  },
+  {
+    "text": "Twenty-six",
+    "start": 24.038771000000004,
+    "end": 24.719479000000007,
+    "paragraph": 1
+  },
+  {
+    "text": "people",
+    "start": 24.73181300000001,
+    "end": 25.078354000000004,
+    "paragraph": 1
+  },
+  {
+    "text": "die",
+    "start": 25.10310400000001,
+    "end": 25.511520000000004,
+    "paragraph": 1
+  },
+  {
+    "text": "The",
+    "start": 25.785021000000008,
+    "end": 25.933521000000006,
+    "paragraph": 1
+  },
+  {
+    "text": "others",
+    "start": 25.958313000000004,
+    "end": 26.28010400000001,
+    "paragraph": 1
+  },
+  {
+    "text": "manage",
+    "start": 26.30485500000001,
+    "end": 26.67614600000001,
+    "paragraph": 1
+  },
+  {
+    "text": "to",
+    "start": 26.700896000000007,
+    "end": 26.799896000000004,
+    "paragraph": 1
+  },
+  {
+    "text": "seal",
+    "start": 26.81227100000001,
+    "end": 27.12168700000001,
+    "paragraph": 1
+  },
+  {
+    "text": "off",
+    "start": 27.14643800000001,
+    "end": 27.307313000000008,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 27.332063000000005,
+    "end": 27.43106300000001,
+    "paragraph": 1
+  },
+  {
+    "text": "water",
+    "start": 27.455813000000006,
+    "end": 27.91372900000001,
+    "paragraph": 1
+  },
+  {
+    "text": "Thirty-three",
+    "start": 28.263709166666665,
+    "end": 28.838709166666668,
+    "paragraph": 2
+  },
+  {
+    "text": "people",
+    "start": 28.863709166666666,
+    "end": 29.213709166666668,
+    "paragraph": 2
+  },
+  {
+    "text": "are",
+    "start": 29.238709166666666,
+    "end": 29.326209166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "trapped",
+    "start": 29.338709166666668,
+    "end": 29.66370916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "below",
+    "start": 29.68870916666667,
+    "end": 29.963709166666668,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 29.988709166666666,
+    "end": 30.10120916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "surface",
+    "start": 30.12620916666667,
+    "end": 30.68870916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "The",
+    "start": 30.96825116666666,
+    "end": 31.118251166666667,
+    "paragraph": 2
+  },
+  {
+    "text": "depth",
+    "start": 31.143251166666666,
+    "end": 31.46825116666666,
+    "paragraph": 2
+  },
+  {
+    "text": "two",
+    "start": 31.605751166666664,
+    "end": 31.78075116666666,
+    "paragraph": 2
+  },
+  {
+    "text": "hundred",
+    "start": 31.805751166666667,
+    "end": 32.18075116666667,
+    "paragraph": 2
+  },
+  {
+    "text": "forty-three",
+    "start": 32.205751166666666,
+    "end": 32.75575116666666,
+    "paragraph": 2
+  },
+  {
+    "text": "feet",
+    "start": 32.78075116666666,
+    "end": 33.205751166666666,
+    "paragraph": 2
+  },
+  {
+    "text": "Then",
+    "start": 33.47910516666666,
+    "end": 33.69160516666666,
+    "paragraph": 2
+  },
+  {
+    "text": "a",
+    "start": 33.71660516666666,
+    "end": 33.77910516666666,
+    "paragraph": 2
+  },
+  {
+    "text": "steel",
+    "start": 33.80410516666666,
+    "end": 34.12910516666666,
+    "paragraph": 2
+  },
+  {
+    "text": "rescue",
+    "start": 34.15410516666666,
+    "end": 34.52910516666666,
+    "paragraph": 2
+  },
+  {
+    "text": "chamber",
+    "start": 34.55410516666666,
+    "end": 34.96660516666666,
+    "paragraph": 2
+  },
+  {
+    "text": "is",
+    "start": 34.99160516666666,
+    "end": 35.12910516666666,
+    "paragraph": 2
+  },
+  {
+    "text": "lowered",
+    "start": 35.15410516666666,
+    "end": 35.46660516666666,
+    "paragraph": 2
+  },
+  {
+    "text": "toward",
+    "start": 35.491605166666666,
+    "end": 35.71660516666666,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 35.741605166666666,
+    "end": 35.82910516666666,
+    "paragraph": 2
+  },
+  {
+    "text": "submarine",
+    "start": 35.85410516666666,
+    "end": 36.491605166666666,
+    "paragraph": 2
+  },
+  {
+    "text": "But",
+    "start": 36.81456316666666,
+    "end": 36.98956316666666,
+    "paragraph": 2
+  },
+  {
+    "text": "simply",
+    "start": 37.014563166666655,
+    "end": 37.35206316666666,
+    "paragraph": 2
+  },
+  {
+    "text": "placing",
+    "start": 37.36456316666666,
+    "end": 37.764563166666655,
+    "paragraph": 2
+  },
+  {
+    "text": "it",
+    "start": 37.78956316666666,
+    "end": 37.87706316666666,
+    "paragraph": 2
+  },
+  {
+    "text": "over",
+    "start": 37.90206316666666,
+    "end": 38.10206316666666,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 38.11456316666666,
+    "end": 38.21456316666666,
+    "paragraph": 2
+  },
+  {
+    "text": "hatch",
+    "start": 38.22706316666666,
+    "end": 38.53956316666666,
+    "paragraph": 2
+  },
+  {
+    "text": "will",
+    "start": 38.56456316666666,
+    "end": 38.702063166666655,
+    "paragraph": 2
+  },
+  {
+    "text": "not",
+    "start": 38.72706316666666,
+    "end": 38.93956316666666,
+    "paragraph": 2
+  },
+  {
+    "text": "be",
+    "start": 38.952063166666655,
+    "end": 39.077063166666655,
+    "paragraph": 2
+  },
+  {
+    "text": "enough",
+    "start": 39.10206316666666,
+    "end": 39.56456316666666,
+    "paragraph": 2
+  },
+  {
+    "text": "A",
+    "start": 39.91456316666665,
+    "end": 40.03956316666665,
+    "paragraph": 3
+  },
+  {
+    "text": "diver",
+    "start": 40.06456316666666,
+    "end": 40.427063166666656,
+    "paragraph": 3
+  },
+  {
+    "text": "attaches",
+    "start": 40.452063166666655,
+    "end": 40.97706316666665,
+    "paragraph": 3
+  },
+  {
+    "text": "a",
+    "start": 41.00206316666666,
+    "end": 41.06456316666666,
+    "paragraph": 3
+  },
+  {
+    "text": "guide",
+    "start": 41.08956316666666,
+    "end": 41.33956316666666,
+    "paragraph": 3
+  },
+  {
+    "text": "cable",
+    "start": 41.364563166666656,
+    "end": 41.802063166666656,
+    "paragraph": 3
+  },
+  {
+    "text": "The",
+    "start": 42.03616716666665,
+    "end": 42.18616716666665,
+    "paragraph": 3
+  },
+  {
+    "text": "chamber",
+    "start": 42.19866716666665,
+    "end": 42.63616716666665,
+    "paragraph": 3
+  },
+  {
+    "text": "is",
+    "start": 42.64866716666665,
+    "end": 42.77366716666665,
+    "paragraph": 3
+  },
+  {
+    "text": "pulled",
+    "start": 42.798667166666654,
+    "end": 43.08616716666665,
+    "paragraph": 3
+  },
+  {
+    "text": "down",
+    "start": 43.111167166666654,
+    "end": 43.38616716666665,
+    "paragraph": 3
+  },
+  {
+    "text": "onto",
+    "start": 43.41116716666665,
+    "end": 43.611167166666654,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 43.63616716666665,
+    "end": 43.74866716666665,
+    "paragraph": 3
+  },
+  {
+    "text": "hatch",
+    "start": 43.76116716666665,
+    "end": 44.21116716666665,
+    "paragraph": 3
+  },
+  {
+    "text": "A",
+    "start": 44.51031316666664,
+    "end": 44.63531316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "rubber",
+    "start": 44.66031316666665,
+    "end": 44.997813166666646,
+    "paragraph": 3
+  },
+  {
+    "text": "ring",
+    "start": 45.022813166666644,
+    "end": 45.210313166666644,
+    "paragraph": 3
+  },
+  {
+    "text": "forms",
+    "start": 45.22281316666665,
+    "end": 45.560313166666646,
+    "paragraph": 3
+  },
+  {
+    "text": "a",
+    "start": 45.585313166666644,
+    "end": 45.647813166666644,
+    "paragraph": 3
+  },
+  {
+    "text": "watertight",
+    "start": 45.67281316666664,
+    "end": 46.210313166666644,
+    "paragraph": 3
+  },
+  {
+    "text": "seal",
+    "start": 46.22281316666665,
+    "end": 46.522813166666644,
+    "paragraph": 3
+  },
+  {
+    "text": "against",
+    "start": 46.54781316666664,
+    "end": 46.872813166666646,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 46.897813166666644,
+    "end": 46.98531316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "hull",
+    "start": 47.01031316666665,
+    "end": 47.41031316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "Water",
+    "start": 47.66581316666664,
+    "end": 48.09081316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "is",
+    "start": 48.11581316666664,
+    "end": 48.24081316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "removed",
+    "start": 48.25331316666664,
+    "end": 48.67831316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "from",
+    "start": 48.703313166666646,
+    "end": 48.86581316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 48.890813166666646,
+    "end": 48.97831316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "chamber's",
+    "start": 48.99081316666664,
+    "end": 49.46581316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "lower",
+    "start": 49.49081316666664,
+    "end": 49.79081316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "compartment",
+    "start": 49.81581316666664,
+    "end": 50.52831316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "A",
+    "start": 50.80373016666664,
+    "end": 50.92873016666664,
+    "paragraph": 3
+  },
+  {
+    "text": "dry",
+    "start": 50.95373016666664,
+    "end": 51.17873016666664,
+    "paragraph": 3
+  },
+  {
+    "text": "passage",
+    "start": 51.191230166666635,
+    "end": 51.64123016666664,
+    "paragraph": 3
+  },
+  {
+    "text": "now",
+    "start": 51.666230166666644,
+    "end": 51.878730166666635,
+    "paragraph": 3
+  },
+  {
+    "text": "connects",
+    "start": 51.89123016666664,
+    "end": 52.291230166666644,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 52.316230166666635,
+    "end": 52.42873016666664,
+    "paragraph": 3
+  },
+  {
+    "text": "two",
+    "start": 52.441230166666635,
+    "end": 52.628730166666635,
+    "paragraph": 3
+  },
+  {
+    "text": "vessels",
+    "start": 52.65373016666664,
+    "end": 53.191230166666635,
+    "paragraph": 3
+  },
+  {
+    "text": "Only",
+    "start": 53.461063166666634,
+    "end": 53.79856316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "then",
+    "start": 53.82356316666663,
+    "end": 54.07356316666663,
+    "paragraph": 3
+  },
+  {
+    "text": "can",
+    "start": 54.086063166666634,
+    "end": 54.22356316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 54.24856316666663,
+    "end": 54.336063166666634,
+    "paragraph": 3
+  },
+  {
+    "text": "hatches",
+    "start": 54.34856316666664,
+    "end": 54.76106316666663,
+    "paragraph": 3
+  },
+  {
+    "text": "open",
+    "start": 54.78606316666664,
+    "end": 55.16106316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "People",
+    "start": 55.446730166666626,
+    "end": 55.79673016666662,
+    "paragraph": 3
+  },
+  {
+    "text": "climb",
+    "start": 55.821730166666626,
+    "end": 56.09673016666663,
+    "paragraph": 3
+  },
+  {
+    "text": "inside",
+    "start": 56.10923016666662,
+    "end": 56.571730166666626,
+    "paragraph": 3
+  },
+  {
+    "text": "and",
+    "start": 56.79673016666662,
+    "end": 56.90923016666663,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 56.93423016666662,
+    "end": 57.02173016666663,
+    "paragraph": 3
+  },
+  {
+    "text": "chamber",
+    "start": 57.03423016666663,
+    "end": 57.43423016666662,
+    "paragraph": 3
+  },
+  {
+    "text": "carries",
+    "start": 57.45923016666663,
+    "end": 57.821730166666626,
+    "paragraph": 3
+  },
+  {
+    "text": "them",
+    "start": 57.84673016666663,
+    "end": 58.02173016666663,
+    "paragraph": 3
+  },
+  {
+    "text": "toward",
+    "start": 58.04673016666662,
+    "end": 58.27173016666663,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 58.29673016666662,
+    "end": 58.384230166666626,
+    "paragraph": 3
+  },
+  {
+    "text": "surface",
+    "start": 58.40923016666663,
+    "end": 58.95923016666663,
+    "paragraph": 3
+  },
+  {
+    "text": "It",
+    "start": 59.31023016666663,
+    "end": 59.53981316666663,
+    "paragraph": 4
+  },
+  {
+    "text": "takes",
+    "start": 59.56535516666662,
+    "end": 59.85873016666663,
+    "paragraph": 4
+  },
+  {
+    "text": "four",
+    "start": 59.884230166666626,
+    "end": 60.139313166666625,
+    "paragraph": 4
+  },
+  {
+    "text": "trips",
+    "start": 60.16485516666663,
+    "end": 60.649563166666624,
+    "paragraph": 4
+  },
+  {
+    "text": "All",
+    "start": 60.91789616666662,
+    "end": 61.14747916666663,
+    "paragraph": 4
+  },
+  {
+    "text": "thirty-three",
+    "start": 61.17298016666662,
+    "end": 61.72143816666663,
+    "paragraph": 4
+  },
+  {
+    "text": "people",
+    "start": 61.74698016666663,
+    "end": 62.12964616666663,
+    "paragraph": 4
+  },
+  {
+    "text": "who",
+    "start": 62.155146166666626,
+    "end": 62.257187166666625,
+    "paragraph": 4
+  },
+  {
+    "text": "survived",
+    "start": 62.28268816666663,
+    "end": 62.75464616666663,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 62.780146166666626,
+    "end": 62.86943716666663,
+    "paragraph": 4
+  },
+  {
+    "text": "flooding",
+    "start": 62.88218816666662,
+    "end": 63.29035416666663,
+    "paragraph": 4
+  },
+  {
+    "text": "are",
+    "start": 63.31585516666662,
+    "end": 63.43064616666662,
+    "paragraph": 4
+  },
+  {
+    "text": "brought",
+    "start": 63.45614616666663,
+    "end": 63.71122916666663,
+    "paragraph": 4
+  },
+  {
+    "text": "up",
+    "start": 63.73677116666663,
+    "end": 63.851562166666625,
+    "paragraph": 4
+  },
+  {
+    "text": "alive",
+    "start": 63.86431316666662,
+    "end": 64.38727116666662,
+    "paragraph": 4
+  },
+  {
+    "text": "It",
+    "start": 64.67470816666662,
+    "end": 64.84054116666663,
+    "paragraph": 4
+  },
+  {
+    "text": "is",
+    "start": 64.86604216666662,
+    "end": 64.99358316666662,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 65.01908316666662,
+    "end": 65.13387416666662,
+    "paragraph": 4
+  },
+  {
+    "text": "first",
+    "start": 65.14662516666662,
+    "end": 65.46550016666662,
+    "paragraph": 4
+  },
+  {
+    "text": "rescue",
+    "start": 65.49104216666662,
+    "end": 65.93745816666662,
+    "paragraph": 4
+  },
+  {
+    "text": "from",
+    "start": 65.96295816666662,
+    "end": 66.12879116666662,
+    "paragraph": 4
+  },
+  {
+    "text": "a",
+    "start": 66.15429216666662,
+    "end": 66.20529216666662,
+    "paragraph": 4
+  },
+  {
+    "text": "sunken",
+    "start": 66.23083316666663,
+    "end": 66.65174916666662,
+    "paragraph": 4
+  },
+  {
+    "text": "submarine",
+    "start": 66.67725016666662,
+    "end": 67.28950016666663,
+    "paragraph": 4
+  },
+  {
+    "text": "using",
+    "start": 67.31500016666662,
+    "end": 67.63387516666663,
+    "paragraph": 4
+  },
+  {
+    "text": "this",
+    "start": 67.65937516666662,
+    "end": 67.82520816666663,
+    "paragraph": 4
+  },
+  {
+    "text": "method",
+    "start": 67.83795816666662,
+    "end": 68.34816616666662,
+    "paragraph": 4
+  },
+  {
+    "text": "They",
+    "start": 68.52766716666662,
+    "end": 68.69350016666662,
+    "paragraph": 4
+  },
+  {
+    "text": "could",
+    "start": 68.70620816666663,
+    "end": 68.88479116666662,
+    "paragraph": 4
+  },
+  {
+    "text": "not",
+    "start": 68.91029216666662,
+    "end": 69.08887516666663,
+    "paragraph": 4
+  },
+  {
+    "text": "escape",
+    "start": 69.11437516666662,
+    "end": 69.50979116666662,
+    "paragraph": 4
+  },
+  {
+    "text": "on",
+    "start": 69.52254216666663,
+    "end": 69.63733316666662,
+    "paragraph": 4
+  },
+  {
+    "text": "their",
+    "start": 69.66287516666662,
+    "end": 69.82870816666662,
+    "paragraph": 4
+  },
+  {
+    "text": "own",
+    "start": 69.84141716666662,
+    "end": 70.14754216666663,
+    "paragraph": 4
+  },
+  {
+    "text": "So",
+    "start": 70.45785516666662,
+    "end": 70.73848016666662,
+    "paragraph": 4
+  },
+  {
+    "text": "rescuers",
+    "start": 70.76398016666661,
+    "end": 71.35073016666661,
+    "paragraph": 4
+  },
+  {
+    "text": "brought",
+    "start": 71.36348016666662,
+    "end": 71.63135516666662,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 71.65681316666661,
+    "end": 71.77160416666662,
+    "paragraph": 4
+  },
+  {
+    "text": "way",
+    "start": 71.78439616666661,
+    "end": 71.97572916666661,
+    "paragraph": 4
+  },
+  {
+    "text": "out",
+    "start": 72.00123016666662,
+    "end": 72.19256316666662,
+    "paragraph": 4
+  },
+  {
+    "text": "down",
+    "start": 72.21806316666661,
+    "end": 72.44764616666662,
+    "paragraph": 4
+  },
+  {
+    "text": "to",
+    "start": 72.47314616666662,
+    "end": 72.57518716666661,
+    "paragraph": 4
+  },
+  {
+    "text": "them",
+    "start": 72.60068816666661,
+    "end": 72.91956316666662,
+    "paragraph": 4
+  }
+]

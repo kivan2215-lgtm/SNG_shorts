@@ -1,0 +1,127 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.8666666666666667,
+    "visual": "hero"
+  },
+  {
+    "start": 3.8666666666666667,
+    "end": 6.4,
+    "visual": "divers"
+  },
+  {
+    "start": 6.4,
+    "end": 11.266666666666667,
+    "visual": "question"
+  },
+  {
+    "start": 11.266666666666667,
+    "end": 17.766666666666666,
+    "visual": "construction"
+  },
+  {
+    "start": 17.766666666666666,
+    "end": 19.8,
+    "visual": "dive"
+  },
+  {
+    "start": 19.8,
+    "end": 22.333333333333332,
+    "visual": "valve"
+  },
+  {
+    "start": 22.333333333333332,
+    "end": 26.133333333333333,
+    "visual": "flood"
+  },
+  {
+    "start": 26.133333333333333,
+    "end": 28.366666666666667,
+    "visual": "loss"
+  },
+  {
+    "start": 28.366666666666667,
+    "end": 30.9,
+    "visual": "sealed"
+  },
+  {
+    "start": 30.9,
+    "end": 34.6,
+    "visual": "trapped"
+  },
+  {
+    "start": 34.6,
+    "end": 37.166666666666664,
+    "visual": "depth"
+  },
+  {
+    "start": 37.166666666666664,
+    "end": 40.46666666666667,
+    "visual": "ships"
+  },
+  {
+    "start": 40.46666666666667,
+    "end": 43.86666666666667,
+    "visual": "bell_archive"
+  },
+  {
+    "start": 43.86666666666667,
+    "end": 46.5,
+    "visual": "cable"
+  },
+  {
+    "start": 46.5,
+    "end": 48.6,
+    "visual": "dock"
+  },
+  {
+    "start": 48.6,
+    "end": 51.833333333333336,
+    "visual": "seal"
+  },
+  {
+    "start": 51.833333333333336,
+    "end": 54.5,
+    "visual": "drain"
+  },
+  {
+    "start": 54.5,
+    "end": 57.7,
+    "visual": "dry"
+  },
+  {
+    "start": 57.7,
+    "end": 60.1,
+    "visual": "open"
+  },
+  {
+    "start": 60.1,
+    "end": 61.766666666666666,
+    "visual": "transfer"
+  },
+  {
+    "start": 61.766666666666666,
+    "end": 63.86666666666667,
+    "visual": "rise"
+  },
+  {
+    "start": 63.86666666666667,
+    "end": 65.86666666666666,
+    "visual": "trips"
+  },
+  {
+    "start": 65.86666666666666,
+    "end": 70.2,
+    "visual": "saved"
+  },
+  {
+    "start": 70.2,
+    "end": 73.9,
+    "visual": "honors"
+  },
+  {
+    "start": 73.9,
+    "end": 79.2,
+    "visual": "final"
+  }
+]

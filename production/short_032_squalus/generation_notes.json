@@ -1,0 +1,16 @@
+{
+  "engine": "image_gen.imagegen",
+  "date": "2026-11-14",
+  "images": [
+    {
+      "file": "assets/seabed.png",
+      "source": "/workspace/generated_images/exec-0b2dbc20-f5db-40c8-9d0a-3e09edeb9aa0.png",
+      "prompt_summary": "Vertical cinematic historical illustration: 1939 Sargo-class submarine upright on seabed at about 74m, cold blue-green water, no divers or outcome, no text; entire vessel in frame. Explanatory reconstruction, not archive."
+    },
+    {
+      "file": "assets/inside.png",
+      "source": "/workspace/generated_images/exec-97909ad4-8c12-4134-9aef-799f8a42c066.png",
+      "prompt_summary": "Vertical realistic historical illustration: dry forward torpedo compartment of 1939 Sargo-class submarine, four anonymous adult crewmen waiting, overhead hatch, pipes, bunks, restrained anxiety, warm incandescent light; no injuries, no text. Not exact people or exact compartment geometry."
+    }
+  ]
+}
