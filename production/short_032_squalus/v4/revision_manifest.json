@@ -147,5 +147,7 @@
   "delivery_urls": {
     "ru": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_032_Squalus_RU_PREVIEW_V4.mp4",
     "en": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_032_Squalus_EN_PREVIEW_V4.mp4"
-  }
+  },
+  "workflow_approved_by_user": true,
+  "approval_scope": "Reuse V4 editing, graphics and production workflow in future Shorts; no YouTube publication requested"
 }
