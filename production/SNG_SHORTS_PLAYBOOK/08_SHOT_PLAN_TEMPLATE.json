@@ -1,0 +1,101 @@
+{
+  "template_version": "2026-11-14",
+  "status": "template_not_a_finished_episode",
+  "instructions": "Заполнить все фразы; секунды вычислить после итогового звука. null означает не проверено, не пройдено.",
+  "episode_id": null,
+  "languages": [
+    "ru",
+    "en"
+  ],
+  "export": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "audio_codec": "aac",
+    "faststart": true
+  },
+  "continuity_bible": {
+    "characters": [],
+    "locations": [],
+    "persistent_landmarks": [],
+    "reference_assets": []
+  },
+  "assets": [],
+  "beats": [
+    {
+      "id": "B001",
+      "narration": {
+        "ru": "",
+        "en": ""
+      },
+      "timing": {
+        "ru": {
+          "start_s": null,
+          "end_s": null
+        },
+        "en": {
+          "start_s": null,
+          "end_s": null
+        }
+      },
+      "viewer_question": "",
+      "new_information": "",
+      "visual_type": "archive | original_video | diagram | reconstruction",
+      "asset_ids": [],
+      "fact_source_ids": [],
+      "rights_basis": "",
+      "source_status": "unverified",
+      "action_verb": "",
+      "visible_subject_and_object": "",
+      "state_before": "",
+      "state_after": "",
+      "persistent_landmarks": [],
+      "camera_reason": "",
+      "animation_events": [
+        {
+          "on_spoken_words": {
+            "ru": "",
+            "en": ""
+          },
+          "object": "",
+          "change": "",
+          "duration_s": null
+        }
+      ],
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": [],
+        "en": []
+      },
+      "sound": {
+        "narration_intent": "",
+        "music_change": "",
+        "effect_and_reason": "",
+        "original_audio_range": null
+      },
+      "repeat_asset_new_meaning": null,
+      "hold_reason_if_long": null,
+      "qc": {
+        "matches_narration": null,
+        "source_verified": null,
+        "no_early_reveal": null,
+        "readable_at_360x640": null,
+        "continuity": null,
+        "meaning_clear_without_audio": null
+      }
+    }
+  ],
+  "final_qc": {
+    "full_decode": null,
+    "encoded_frame_review": null,
+    "subtitles_ru": null,
+    "subtitles_en": null,
+    "audio_listened_ru": null,
+    "audio_listened_en": null,
+    "loudness_measured": null,
+    "limitations": [],
+    "review_status": "not_rendered"
+  }
+}
