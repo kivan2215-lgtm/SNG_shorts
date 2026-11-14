@@ -1,0 +1,41 @@
+{
+  "language": "ru",
+  "file": "SNG_032_Squalus_RU_PREVIEW_V3.mp4",
+  "duration": 79.2,
+  "bytes": 12692820,
+  "sha256": "b3a61d48de39a51e07ec154e9a738d853640068293967feeb250b008e48d8e45",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec_name": "h264",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "full_decode_ok": true,
+  "loudness": {
+    "input_i": "-15.96",
+    "input_tp": "-4.28",
+    "input_lra": "1.70",
+    "input_thresh": "-26.36",
+    "output_i": "-15.88",
+    "output_tp": "-4.14",
+    "output_lra": "1.50",
+    "output_thresh": "-26.29",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.12"
+  },
+  "black_frames": [],
+  "captions": 45,
+  "single_word_sentence_exceptions": [],
+  "failures": [],
+  "auditory_review": false,
+  "encoded_frame_review": "reviewed",
+  "preview_not_approved": true,
+  "visual_review_method": "75 sampled encoded frames per language in contact sheets; full-size RU transfer and EN dewatering frames; source motion and mechanism samples reviewed during production.",
+  "visual_review_utc": "2026-11-14T18:10:27.110297+00:00"
+}

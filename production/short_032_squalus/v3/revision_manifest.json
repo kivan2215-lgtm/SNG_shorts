@@ -1,0 +1,139 @@
+{
+  "revision": "V3",
+  "status": "preview_for_review",
+  "youtube_uploaded": false,
+  "request": "Refine the accepted V2 direction: more realistic 3D materials, models, motion and clearer mechanisms; deliver RU and EN.",
+  "languages": {
+    "ru": {
+      "voice.wav": {
+        "sha256": "f1f22289e75dfbfae870742ec746ec7f53a74dea9445f9e474e7c9dcb0af6891",
+        "unchanged_from_v2": true
+      },
+      "mix.wav": {
+        "sha256": "45ac080b52208a0b1392a893772ba93e339165a645facb1b7292fd651bff0a63",
+        "unchanged_from_v2": true
+      },
+      "subtitles.ass": {
+        "sha256": "b31aa998c138cbe7eba65d785f10ded19887da3ae506841aa13bd6e7fdd7265b",
+        "unchanged_from_v2": true
+      },
+      "timeline.json": {
+        "sha256": "41e54eed1e368d2e347c37fff338a16ecb4130389e9e4970b4c619e6b763235d",
+        "unchanged_from_v2": true
+      },
+      "faststart_verified": true,
+      "aac_identical_to_v2": true,
+      "aac_sha256": "SHA256=94d0fa2a2426a793437b82c90d19760875f69961c88483fa4d39378e774a83f8",
+      "video_timing_identical_to_v2": true,
+      "video_timing": {
+        "r_frame_rate": "30/1",
+        "duration": "79.200000",
+        "nb_frames": "2376"
+      }
+    },
+    "en": {
+      "voice.wav": {
+        "sha256": "e36acd6ec438445e01819ba85a2c2a704d19f60405e726b9111702020f80337f",
+        "unchanged_from_v2": true
+      },
+      "mix.wav": {
+        "sha256": "662a31979786db583e38d7ae17b96794f27acacb7b37ab11c57868832f5cdfce",
+        "unchanged_from_v2": true
+      },
+      "subtitles.ass": {
+        "sha256": "8535bb709595ae2822df514ec2806ce7596f1d872d80ba2968704e19256d02cc",
+        "unchanged_from_v2": true
+      },
+      "timeline.json": {
+        "sha256": "a18c6faffe40969c3aa055d9323807df9c90d2732993e2097fe4c7966a782b16",
+        "unchanged_from_v2": true
+      },
+      "faststart_verified": true,
+      "aac_identical_to_v2": true,
+      "aac_sha256": "SHA256=3700ce5a17168ac909c9e87f85f6072d5f04de7a1de1e7958ddb20be516af180",
+      "video_timing_identical_to_v2": true,
+      "video_timing": {
+        "r_frame_rate": "30/1",
+        "duration": "73.366667",
+        "nb_frames": "2201"
+      }
+    }
+  },
+  "human_data_license": "MakeHuman bundled assets CC0",
+  "reference_media_republished": false,
+  "changes": [
+    "PBR material separation and directional lighting",
+    "smoother chamber shell and machined hatch edges",
+    "anatomical clothed adult crew with rigged limbs",
+    "continuous water stream around the open valve instead of separate blobs",
+    "diver grips guide cable instead of whole-body sliding",
+    "lower crew faces clear of deck overhang",
+    "upper handholds outside the closed hatch footprint",
+    "shorter ladder-climb excerpt with articulated step onto the platform",
+    "operator reaches and turns the air control",
+    "locking/hatch control wheel motion before the next state",
+    "stable seal closeup with progressive annotations"
+  ],
+  "retained_assets": [
+    {
+      "file": "bell_drawing.jpg",
+      "sha256": "07273f753f47f9b01a16f721d80f5fb28e7f5342e882ec8658fdc58fdce693ae",
+      "unchanged_from_published": true,
+      "type": "U.S. Navy archive",
+      "used_in_v3": true
+    },
+    {
+      "file": "construction.jpg",
+      "sha256": "337017982e315329afae79872e0418996c646d7a8d0d2b5f51f1b8ed6d8aca16",
+      "unchanged_from_published": true,
+      "type": "U.S. Navy archive",
+      "used_in_v3": true
+    },
+    {
+      "file": "divers.jpg",
+      "sha256": "9dc69beb14c8eb95abf1a2f9e198344b5cc28e36c8fdadd64cc5de950dc32b60",
+      "unchanged_from_published": true,
+      "type": "U.S. Navy archive",
+      "used_in_v3": true
+    },
+    {
+      "file": "honors.jpg",
+      "sha256": "9209422bc0b469f9a278751a85723e1830ddde2c78ca46d37b7c0871e7ac5bae",
+      "unchanged_from_published": true,
+      "type": "U.S. Navy archive",
+      "used_in_v3": true
+    },
+    {
+      "file": "inside.png",
+      "sha256": "37631715adb53916445c1f568120c9f1dfc81737f7e5a3bbda0eb94b851299a7",
+      "unchanged_from_published": true,
+      "type": "prior generated illustration",
+      "used_in_v3": true
+    },
+    {
+      "file": "rescue_ships.jpg",
+      "sha256": "ce235dd51a7c7e4f990d4fea2b82e2707c7123fdbe0f4bd82e510304b0bce883",
+      "unchanged_from_published": true,
+      "type": "U.S. Navy archive",
+      "used_in_v3": true
+    },
+    {
+      "file": "seabed.png",
+      "sha256": "394a343ddf9db2b5594474a36697cadd9217ffdd74c487a4fa5a888c6150e74f",
+      "unchanged_from_published": true,
+      "type": "prior generated illustration",
+      "used_in_v3": false
+    }
+  ],
+  "source_files_sha256": {
+    "visuals_v3.py": "55e9c4538307362f409dc511f96f1c7f7ba92b8915eef021adef5cb97a1cd49c",
+    "build_v3.py": "b2a29385fe3a6bee536d96c8ce6e2177bf488dcde60f00a397d43c58ff359760",
+    "qc_v3.py": "198191d9e524519680d103639beee67b34e98233e91665c3484079c51a033b82",
+    "v3/scene3d.py": "2ae0e6c4fc1d4c2521552910a8e80dc763fffeebcdb4eaf089b9cd80bd21ced8",
+    "v3/human_model.py": "e8d7ddbae50af8aadd3d45d481989aca9bc18494e86aff0bf1ad0786a11f4dcd",
+    "v3/render_style.py": "38ed3998b90d0682e1c802352313dce978a4cfd68b8174135c0697e5c0ed1714",
+    "v3/render_all.py": "512579baafc30a60563f8cc58e70dd1369597cb252b46e3b17e8532438f83219",
+    "v3/check_preservation.py": "4f31bcb4adf3ba03975fe1853d7686a467ae2cf3812e8ed0c3ab65f9455e6c9c"
+  },
+  "resolved_intermediate_issue": "Control wheels now spin about their local normal; affected scenes re-rendered before delivery."
+}

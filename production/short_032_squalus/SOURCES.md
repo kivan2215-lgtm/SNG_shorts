@@ -88,3 +88,22 @@ The four men, all qualified as Divers, are (from left to right): Chief Machinist
 Смысл последовательности: закрытые люки → камера садится на площадку → кольцо герметизирует стык → нижняя полость осушается → открываются люки → люди переходят в верхнюю камеру → герметичный верхний отсек поднимается. На подъёме нижняя открытая полость снова заполнена водой.
 
 Оригинальные архивы, их датировки, озвучка, субтитры и музыкальный микс V1 сохранены. Никакие сгенерированные фигуры не представлены как портреты участников спасения.
+
+## Дополнение V3: материалы и анатомические модели
+
+Механизмы и сцены переработаны в `v3/scene3d.py`, материалы и освещение — `v3/render_style.py`. Модель камеры имеет сглаженный профиль; фазы стыковки, осушения и открытия сохраняют прежний объясняющий порядок. Видеоряд не является исторической съёмкой или точным инженерным чертежом.
+
+Фигуры условных взрослых членов экипажа основаны на открытых данных MakeHuman Community:
+
+- Base mesh: https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/3dobjs/base.obj
+- Skeleton: https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/rigs/default.mhskel
+- Skin weights: https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/rigs/default_weights.mhw
+- Shape target: https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/targets/macrodetails/caucasian-male-young.target
+- Average-body target: https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/targets/macrodetails/universal-male-young-averagemuscle-averageweight.target
+- License: https://github.com/makehumancommunity/makehuman/blob/master/LICENSE.md — раздел C: bundled assets CC0. Заголовок base.obj и метаданные скелета/весов также указывают CC0. Копия лицензии сохранена в `v3/human/LICENSE.md`.
+
+Код приложения MakeHuman не импортировался. Собственный загрузчик `v3/human_model.py` применяет открытые mesh/rig/shape data, формирует рабочую одежду, обувь и позы. Лица не изображают конкретных участников спасения.
+
+3D рендер: Blender 4.3.2 Eevee, исходные кадры 720×1280. Итоговая композиция 1080×1920; подписи/субтитры создаются в выходном разрешении. Переход по лестнице — исходная анимация 30 fps; остальные движущиеся механизмы — 15 fps с компенсацией движения до 30 fps. Геометрия статичных состояний кэшируется, выноски и пояснения анимируются отдельно. Озвучка и музыкальный микс не пересоздавались.
+
+В V3 используются пять архивных изображений (`construction`, `divers`, `rescue_ships`, `bell_drawing`, `honors`) и прежняя художественная иллюстрация `inside.png`. Старый `seabed.png` сохранён среди исходников, но начальный кадр V3 построен в 3D. Проверка семи сохранённых файлов не означает, что все семь являются архивными или все использованы в текущем монтаже.
