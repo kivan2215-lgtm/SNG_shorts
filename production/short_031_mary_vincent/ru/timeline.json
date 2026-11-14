@@ -1,0 +1,112 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.233333333333333,
+    "visual": "court_hook"
+  },
+  {
+    "start": 4.233333333333333,
+    "end": 6.866666666666666,
+    "visual": "other_case"
+  },
+  {
+    "start": 6.866666666666666,
+    "end": 9.566666666666666,
+    "visual": "rewind"
+  },
+  {
+    "start": 9.566666666666666,
+    "end": 15.9,
+    "visual": "road"
+  },
+  {
+    "start": 15.9,
+    "end": 19.266666666666666,
+    "visual": "singleton"
+  },
+  {
+    "start": 19.266666666666666,
+    "end": 24.7,
+    "visual": "isolated"
+  },
+  {
+    "start": 24.7,
+    "end": 27.833333333333332,
+    "visual": "ravine"
+  },
+  {
+    "start": 27.833333333333332,
+    "end": 32.833333333333336,
+    "visual": "escape"
+  },
+  {
+    "start": 32.833333333333336,
+    "end": 37.36666666666667,
+    "visual": "sentence"
+  },
+  {
+    "start": 37.36666666666667,
+    "end": 42.36666666666667,
+    "visual": "release"
+  },
+  {
+    "start": 42.36666666666667,
+    "end": 44.333333333333336,
+    "visual": "served"
+  },
+  {
+    "start": 44.333333333333336,
+    "end": 47.56666666666667,
+    "visual": "fear"
+  },
+  {
+    "start": 47.56666666666667,
+    "end": 54.4,
+    "visual": "arrest"
+  },
+  {
+    "start": 54.4,
+    "end": 57.63333333333333,
+    "visual": "witness"
+  },
+  {
+    "start": 57.63333333333333,
+    "end": 61.6,
+    "visual": "court_return"
+  },
+  {
+    "start": 61.6,
+    "end": 66.3,
+    "visual": "identify"
+  },
+  {
+    "start": 66.3,
+    "end": 69.9,
+    "visual": "twenty_years"
+  },
+  {
+    "start": 69.9,
+    "end": 73.6,
+    "visual": "penalty"
+  },
+  {
+    "start": 73.6,
+    "end": 76.53333333333333,
+    "visual": "death_sentence"
+  },
+  {
+    "start": 76.53333333333333,
+    "end": 78.73333333333333,
+    "visual": "roxanne"
+  },
+  {
+    "start": 78.73333333333333,
+    "end": 82.9,
+    "visual": "comparison"
+  },
+  {
+    "start": 82.9,
+    "end": 88.8,
+    "visual": "final"
+  }
+]

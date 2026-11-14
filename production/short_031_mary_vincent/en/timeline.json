@@ -1,0 +1,112 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.433333333333334,
+    "visual": "court_hook"
+  },
+  {
+    "start": 4.433333333333334,
+    "end": 7.2,
+    "visual": "other_case"
+  },
+  {
+    "start": 7.2,
+    "end": 9.733333333333333,
+    "visual": "rewind"
+  },
+  {
+    "start": 9.733333333333333,
+    "end": 14.9,
+    "visual": "road"
+  },
+  {
+    "start": 14.9,
+    "end": 17.133333333333333,
+    "visual": "singleton"
+  },
+  {
+    "start": 17.133333333333333,
+    "end": 23.0,
+    "visual": "isolated"
+  },
+  {
+    "start": 23.0,
+    "end": 25.9,
+    "visual": "ravine"
+  },
+  {
+    "start": 25.9,
+    "end": 29.733333333333334,
+    "visual": "escape"
+  },
+  {
+    "start": 29.733333333333334,
+    "end": 33.166666666666664,
+    "visual": "sentence"
+  },
+  {
+    "start": 33.166666666666664,
+    "end": 35.86666666666667,
+    "visual": "release"
+  },
+  {
+    "start": 35.86666666666667,
+    "end": 37.666666666666664,
+    "visual": "served"
+  },
+  {
+    "start": 37.666666666666664,
+    "end": 40.56666666666667,
+    "visual": "fear"
+  },
+  {
+    "start": 40.56666666666667,
+    "end": 46.36666666666667,
+    "visual": "arrest"
+  },
+  {
+    "start": 46.36666666666667,
+    "end": 48.96666666666667,
+    "visual": "witness"
+  },
+  {
+    "start": 48.96666666666667,
+    "end": 52.36666666666667,
+    "visual": "court_return"
+  },
+  {
+    "start": 52.36666666666667,
+    "end": 56.7,
+    "visual": "identify"
+  },
+  {
+    "start": 56.7,
+    "end": 59.8,
+    "visual": "twenty_years"
+  },
+  {
+    "start": 59.8,
+    "end": 62.63333333333333,
+    "visual": "penalty"
+  },
+  {
+    "start": 62.63333333333333,
+    "end": 65.46666666666667,
+    "visual": "death_sentence"
+  },
+  {
+    "start": 65.46666666666667,
+    "end": 67.83333333333333,
+    "visual": "roxanne"
+  },
+  {
+    "start": 67.83333333333333,
+    "end": 71.6,
+    "visual": "comparison"
+  },
+  {
+    "start": 71.6,
+    "end": 76.23333333333333,
+    "visual": "final"
+  }
+]
