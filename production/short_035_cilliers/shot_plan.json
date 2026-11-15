@@ -1,0 +1,1597 @@
+{
+  "episode_id": 35,
+  "languages": [
+    "ru",
+    "en"
+  ],
+  "status": "complete_preview_pending_user_review",
+  "export": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "audio_codec": "aac",
+    "faststart": true
+  },
+  "continuity_bible": {
+    "characters": [
+      "Anonymous adult woman, dark hair, teal suit and black helmet in generated jump scenes",
+      "Genuine Victoria and Emile photographs only as identified in sources"
+    ],
+    "locations": [
+      "Generic English skydiving environment",
+      "Generic kitchen, not the actual home plan"
+    ],
+    "persistent_landmarks": [
+      "Furrowed field, verge and fence",
+      "Kitchen counter/window and event connector"
+    ]
+  },
+  "assets": [
+    {
+      "file": "emile.jpg",
+      "url": "https://i.guim.co.uk/img/media/e3f5a0b90f76bcd68a4d2eedcc1ee608a196eadb/0_75_4000_2401/master/4000.jpg",
+      "alt": "Emile Cilliers was having affairs with two women and had heavy debts.",
+      "rights": "Copyright retained by credited owner. User reports permission for publication; no independent licence verification.",
+      "source": "Guardian 24 May 2018 court report",
+      "download_url": "https://i.guim.co.uk/img/media/e3f5a0b90f76bcd68a4d2eedcc1ee608a196eadb/0_75_4000_2401/master/4000.jpg?width=1400&dpr=1&s=none&crop=none",
+      "downloaded_dimensions": [
+        1400,
+        840
+      ]
+    },
+    {
+      "file": "victoria.jpg",
+      "url": "https://i.guim.co.uk/img/media/2025f45b7e1c49bc3445001e0422d33aceac6c03/519_323_1607_2009/master/1607.jpg",
+      "alt": "Victoria Cilliers.",
+      "rights": "Copyright retained by credited owner. User reports permission for publication; no independent licence verification.",
+      "source": "Guardian 24 May 2018 court report",
+      "download_url": "https://i.guim.co.uk/img/media/2025f45b7e1c49bc3445001e0422d33aceac6c03/519_323_1607_2009/master/1607.jpg?width=1400&dpr=1&s=none&crop=none",
+      "downloaded_dimensions": [
+        1400,
+        1750
+      ]
+    },
+    {
+      "file": "parachute.jpg",
+      "url": "https://i.guim.co.uk/img/media/d338dda2540986260a6ffa86a1e9a94fad8f578e/0_49_3500_2100/master/3500.jpg",
+      "alt": "A police image showing the parachute that was tampered with by Emile Cilliers.",
+      "rights": "Copyright retained by credited owner. User reports permission for publication; no independent licence verification.",
+      "source": "Guardian 24 May 2018 court report",
+      "download_url": "https://i.guim.co.uk/img/media/d338dda2540986260a6ffa86a1e9a94fad8f578e/0_49_3500_2100/master/3500.jpg?width=1400&dpr=1&s=none&crop=none",
+      "downloaded_dimensions": [
+        1400,
+        840
+      ]
+    },
+    {
+      "file": "couple.jpg",
+      "url": "https://i.guim.co.uk/img/media/2e5d90f4f1bced10e424bccf6945eec8c4b27603/0_24_3200_1920/master/3200.jpg?width=1400&dpr=1&s=none&crop=none",
+      "credit": "Rex/Shutterstock via The Guardian",
+      "source": "https://www.theguardian.com/uk-news/2018/may/24/shocking-betrayal-the-soldier-the-lover-and-the-sabotaged-parachute-emile-cilliers",
+      "capture_date": "unknown",
+      "publication_date": "2018-05-24",
+      "rights": "Copyright; user-reported permission, not independently verified."
+    },
+    {
+      "file": "scenes1.png",
+      "type": "generated illustration",
+      "used_panels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "actual_event_photograph": false,
+      "source": "image_gen",
+      "date": "2026-11-15",
+      "rights": "Generated project asset; not an archive licence claim"
+    },
+    {
+      "file": "scenes2.png",
+      "type": "generated illustration",
+      "used_panels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "actual_event_photograph": false,
+      "source": "image_gen",
+      "date": "2026-11-15",
+      "rights": "Generated project asset; not an archive licence claim"
+    },
+    {
+      "file": "scenes3.png",
+      "type": "generated illustration",
+      "used_panels": [
+        1,
+        2
+      ],
+      "actual_event_photograph": false,
+      "source": "image_gen",
+      "date": "2026-11-15",
+      "rights": "Generated project asset; not an archive licence claim"
+    },
+    {
+      "file": "scenes3_fixed.png",
+      "type": "generated illustration",
+      "used_panels": [
+        0
+      ],
+      "actual_event_photograph": false,
+      "source": "image_gen",
+      "date": "2026-11-15",
+      "rights": "Generated project asset; not an archive licence claim"
+    }
+  ],
+  "beats": [
+    {
+      "id": "B001",
+      "visual": "fall",
+      "narration": {
+        "ru": "У женщины отказал парашют",
+        "en": "Her parachute failed"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 0.0,
+          "end_s": 2.1666666666666665
+        },
+        "en": {
+          "start_s": 0.0,
+          "end_s": 1.6333333333333333
+        }
+      },
+      "viewer_question": "ОТКАЗАЛ ПАРАШЮТ",
+      "new_information": "HER PARACHUTE FAILED",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes1:0"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "ОТКАЗАЛ ПАРАШЮТ",
+        "en": "HER PARACHUTE FAILED"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B002",
+      "visual": "reserve",
+      "narration": {
+        "ru": "Она раскрыла запасной",
+        "en": "She deployed her reserve"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 2.1666666666666665,
+          "end_s": 3.933333333333333
+        },
+        "en": {
+          "start_s": 1.6333333333333333,
+          "end_s": 3.4
+        }
+      },
+      "viewer_question": "ОСТАВАЛСЯ ЗАПАСНОЙ",
+      "new_information": "SHE HAD A RESERVE",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes3_fixed:0"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "ОСТАВАЛСЯ ЗАПАСНОЙ",
+        "en": "SHE HAD A RESERVE"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B003",
+      "visual": "failed",
+      "narration": {
+        "ru": "Но он тоже не спасал",
+        "en": "That failed too"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 3.933333333333333,
+          "end_s": 5.666666666666667
+        },
+        "en": {
+          "start_s": 3.4,
+          "end_s": 4.733333333333333
+        }
+      },
+      "viewer_question": "ОН ТОЖЕ НЕ СПАСАЛ",
+      "new_information": "THAT FAILED TOO",
+      "visual_type": "archive",
+      "asset_ids": [
+        "parachute"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "ОН ТОЖЕ НЕ СПАСАЛ",
+        "en": "THAT FAILED TOO"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B004",
+      "visual": "height",
+      "narration": {
+        "ru": "Под ней больше километра пустоты",
+        "en": "More than a thousand meters separated her from the ground"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 5.666666666666667,
+          "end_s": 8.3
+        },
+        "en": {
+          "start_s": 4.733333333333333,
+          "end_s": 8.0
+        }
+      },
+      "viewer_question": "БОЛЬШЕ КИЛОМЕТРА ДО ЗЕМЛИ",
+      "new_information": "OVER A KILOMETER TO THE GROUND",
+      "visual_type": "diagram",
+      "asset_ids": [
+        "descent"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "БОЛЬШЕ КИЛОМЕТРА ДО ЗЕМЛИ",
+        "en": "OVER A KILOMETER TO THE GROUND"
+      },
+      "animation_events": [
+        {
+          "object": "generic parachutist and slack canopy",
+          "change": "downward movement over continuous terrain",
+          "duration_s": 2,
+          "not_to_scale": true,
+          "native_fps": 30
+        }
+      ],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B005",
+      "visual": "hook",
+      "narration": {
+        "ru": "Но самое страшное выяснилось уже после падения",
+        "en": "But the most disturbing discovery came after the fall"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 8.3,
+          "end_s": 11.9
+        },
+        "en": {
+          "start_s": 8.0,
+          "end_s": 11.366666666666667
+        }
+      },
+      "viewer_question": "СТРАШНЕЕ ОКАЗАЛАСЬ ПРАВДА",
+      "new_information": "THE TRUTH WAS MORE TERRIFYING",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes3:1"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "СТРАШНЕЕ ОКАЗАЛАСЬ ПРАВДА",
+        "en": "THE TRUTH WAS MORE TERRIFYING"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B006",
+      "visual": "date",
+      "narration": {
+        "ru": "Англия Апрель две тысячи пятнадцатого года",
+        "en": "England April twenty fifteen"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 11.9,
+          "end_s": 15.233333333333333
+        },
+        "en": {
+          "start_s": 11.366666666666667,
+          "end_s": 13.966666666666667
+        }
+      },
+      "viewer_question": "АНГЛИЯ · 5 АПРЕЛЯ 2015",
+      "new_information": "ENGLAND · 5 APRIL 2015",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes1:2"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "АНГЛИЯ · 5 АПРЕЛЯ 2015",
+        "en": "ENGLAND · 5 APRIL 2015"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B007",
+      "visual": "victoria",
+      "narration": {
+        "ru": "Виктория опытный инструктор",
+        "en": "Victoria was an experienced skydiving instructor"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 15.233333333333333,
+          "end_s": 17.733333333333334
+        },
+        "en": {
+          "start_s": 13.966666666666667,
+          "end_s": 17.2
+        }
+      },
+      "viewer_question": "ВИКТОРИЯ СИЛЬЕРС",
+      "new_information": "VICTORIA CILLIERS",
+      "visual_type": "archive",
+      "asset_ids": [
+        "victoria"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "ВИКТОРИЯ СИЛЬЕРС",
+        "en": "VICTORIA CILLIERS"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B008",
+      "visual": "gift",
+      "narration": {
+        "ru": "Прыжок ей организовали вскоре после рождения ребёнка",
+        "en": "The jump had been arranged shortly after the birth of her child"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 17.733333333333334,
+          "end_s": 21.166666666666668
+        },
+        "en": {
+          "start_s": 17.2,
+          "end_s": 20.466666666666665
+        }
+      },
+      "viewer_question": "ПРЫЖОК ПОСЛЕ РОЖДЕНИЯ РЕБЁНКА",
+      "new_information": "A JUMP AFTER HER CHILD’S BIRTH",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes1:1"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "ПРЫЖОК ПОСЛЕ РОЖДЕНИЯ РЕБЁНКА",
+        "en": "A JUMP AFTER HER CHILD’S BIRTH"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B009",
+      "visual": "field",
+      "narration": {
+        "ru": "Но вместо обычного спуска она рухнула на вспаханное поле",
+        "en": "Instead of a normal descent she crashed into a ploughed field"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 21.166666666666668,
+          "end_s": 24.933333333333334
+        },
+        "en": {
+          "start_s": 20.466666666666665,
+          "end_s": 23.966666666666665
+        }
+      },
+      "viewer_question": "ОНА УПАЛА НА ВСПАХАННОЕ ПОЛЕ",
+      "new_information": "SHE LANDED IN A PLOUGHED FIELD",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes1:3"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "ОНА УПАЛА НА ВСПАХАННОЕ ПОЛЕ",
+        "en": "SHE LANDED IN A PLOUGHED FIELD"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B010",
+      "visual": "rescue",
+      "narration": {
+        "ru": "Тяжелейшие травмы",
+        "en": "Her injuries were devastating"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 24.933333333333334,
+          "end_s": 26.4
+        },
+        "en": {
+          "start_s": 23.966666666666665,
+          "end_s": 26.033333333333335
+        }
+      },
+      "viewer_question": "ТЯЖЕЛЕЙШИЕ ТРАВМЫ",
+      "new_information": "DEVASTATING INJURIES",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes2:3"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "ТЯЖЕЛЕЙШИЕ ТРАВМЫ",
+        "en": "DEVASTATING INJURIES"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B011",
+      "visual": "alive",
+      "narration": {
+        "ru": "И всё же она выжила",
+        "en": "But she survived"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 26.4,
+          "end_s": 28.333333333333332
+        },
+        "en": {
+          "start_s": 26.033333333333335,
+          "end_s": 27.433333333333334
+        }
+      },
+      "viewer_question": "НО ОНА ВЫЖИЛА",
+      "new_information": "BUT SHE SURVIVED",
+      "visual_type": "archive",
+      "asset_ids": [
+        "victoria"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "НО ОНА ВЫЖИЛА",
+        "en": "BUT SHE SURVIVED"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B012",
+      "visual": "accident",
+      "narration": {
+        "ru": "Сначала это могло показаться несчастным случаем",
+        "en": "At first it could have looked like an accident"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 28.333333333333332,
+          "end_s": 31.4
+        },
+        "en": {
+          "start_s": 27.433333333333334,
+          "end_s": 30.133333333333333
+        }
+      },
+      "viewer_question": "НЕСЧАСТНЫЙ СЛУЧАЙ?",
+      "new_information": "AN ACCIDENT?",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes2:0"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "НЕСЧАСТНЫЙ СЛУЧАЙ?",
+        "en": "AN ACCIDENT?"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B013",
+      "visual": "evidence",
+      "narration": {
+        "ru": "Но проверка снаряжения изменила всё",
+        "en": "Then investigators examined the equipment"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 31.4,
+          "end_s": 34.06666666666667
+        },
+        "en": {
+          "start_s": 30.133333333333333,
+          "end_s": 32.93333333333333
+        }
+      },
+      "viewer_question": "СНАРЯЖЕНИЕ СТАЛО УЛИКОЙ",
+      "new_information": "THE EQUIPMENT BECAME EVIDENCE",
+      "visual_type": "archive",
+      "asset_ids": [
+        "parachute"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "СНАРЯЖЕНИЕ СТАЛО УЛИКОЙ",
+        "en": "THE EQUIPMENT BECAME EVIDENCE"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B014",
+      "visual": "both",
+      "narration": {
+        "ru": "Оба парашюта были намеренно повреждены",
+        "en": "Both parachutes had been deliberately sabotaged"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 34.06666666666667,
+          "end_s": 36.7
+        },
+        "en": {
+          "start_s": 32.93333333333333,
+          "end_s": 36.0
+        }
+      },
+      "viewer_question": "ДВА ПАРАШЮТА БЫЛИ ПОВРЕЖДЕНЫ",
+      "new_information": "BOTH PARACHUTES WERE SABOTAGED",
+      "visual_type": "archive",
+      "asset_ids": [
+        "parachute"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "ДВА ПАРАШЮТА БЫЛИ ПОВРЕЖДЕНЫ",
+        "en": "BOTH PARACHUTES WERE SABOTAGED"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B015",
+      "visual": "strange",
+      "narration": {
+        "ru": "А затем полиция узнала о другой странности",
+        "en": "Police also uncovered another disturbing event"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 36.7,
+          "end_s": 39.666666666666664
+        },
+        "en": {
+          "start_s": 36.0,
+          "end_s": 39.0
+        }
+      },
+      "viewer_question": "НО БЫЛО ЕЩЁ ОДНО СОБЫТИЕ",
+      "new_information": "BUT THERE WAS ANOTHER EVENT",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes2:1"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "НО БЫЛО ЕЩЁ ОДНО СОБЫТИЕ",
+        "en": "BUT THERE WAS ANOTHER EVENT"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B016",
+      "visual": "gas",
+      "narration": {
+        "ru": "Всего за неделю до прыжка в доме Виктории произошла утечка газа",
+        "en": "Just a week before the jump there had been a gas leak at Victoria's home"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 39.666666666666664,
+          "end_s": 43.666666666666664
+        },
+        "en": {
+          "start_s": 39.0,
+          "end_s": 43.13333333333333
+        }
+      },
+      "viewer_question": "ЗА НЕДЕЛЮ ДО ПРЫЖКА",
+      "new_information": "ONE WEEK BEFORE THE JUMP",
+      "visual_type": "diagram",
+      "asset_ids": [
+        "house"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "ЗА НЕДЕЛЮ ДО ПРЫЖКА",
+        "en": "ONE WEEK BEFORE THE JUMP"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B017",
+      "visual": "linked",
+      "narration": {
+        "ru": "Следствие связало эти события",
+        "en": "Investigators connected the two incidents"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 43.666666666666664,
+          "end_s": 46.13333333333333
+        },
+        "en": {
+          "start_s": 43.13333333333333,
+          "end_s": 45.8
+        }
+      },
+      "viewer_question": "ДВА СОБЫТИЯ СВЯЗАЛИ",
+      "new_information": "INVESTIGATORS CONNECTED THEM",
+      "visual_type": "diagram",
+      "asset_ids": [
+        "house"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "ДВА СОБЫТИЯ СВЯЗАЛИ",
+        "en": "INVESTIGATORS CONNECTED THEM"
+      },
+      "animation_events": [
+        {
+          "object": "event connector",
+          "change": "gas leak linked to jump, then two attempted murders stated",
+          "duration_s": 1.2
+        }
+      ],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B018",
+      "visual": "attempt",
+      "narration": {
+        "ru": "Кто-то уже пытался её убить",
+        "en": "Someone had already tried to kill her"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 46.13333333333333,
+          "end_s": 48.4
+        },
+        "en": {
+          "start_s": 45.8,
+          "end_s": 48.2
+        }
+      },
+      "viewer_question": "ЭТО БЫЛА НЕ ПЕРВАЯ ПОПЫТКА",
+      "new_information": "THIS WAS NOT THE FIRST ATTEMPT",
+      "visual_type": "diagram",
+      "asset_ids": [
+        "house"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "ЭТО БЫЛА НЕ ПЕРВАЯ ПОПЫТКА",
+        "en": "THIS WAS NOT THE FIRST ATTEMPT"
+      },
+      "animation_events": [
+        {
+          "object": "event connector",
+          "change": "gas leak linked to jump, then two attempted murders stated",
+          "duration_s": 1.2
+        }
+      ],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B019",
+      "visual": "question",
+      "narration": {
+        "ru": "Теперь главный вопрос кто мог подобраться настолько близко",
+        "en": "But who could get that close"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 48.4,
+          "end_s": 52.2
+        },
+        "en": {
+          "start_s": 48.2,
+          "end_s": 50.0
+        }
+      },
+      "viewer_question": "КТО МОГ ПОДОБРАТЬСЯ ТАК БЛИЗКО?",
+      "new_information": "WHO COULD GET THAT CLOSE?",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes3:2"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [
+        "Do not show Emile or couple portrait until husband reveal"
+      ],
+      "on_screen_text": {
+        "ru": "КТО МОГ ПОДОБРАТЬСЯ ТАК БЛИЗКО?",
+        "en": "WHO COULD GET THAT CLOSE?"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B020",
+      "visual": "truth",
+      "narration": {
+        "ru": "Ответ оказался страшнее самого падения",
+        "en": "The answer was more terrifying than the fall"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 52.2,
+          "end_s": 55.1
+        },
+        "en": {
+          "start_s": 50.0,
+          "end_s": 52.56666666666667
+        }
+      },
+      "viewer_question": "ОТВЕТ БЫЛ СОВСЕМ РЯДОМ",
+      "new_information": "THE ANSWER WAS CLOSE TO HOME",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes2:2"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": "ОТВЕТ БЫЛ СОВСЕМ РЯДОМ",
+        "en": "THE ANSWER WAS CLOSE TO HOME"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B021",
+      "visual": "husband",
+      "narration": {
+        "ru": "Её собственный муж",
+        "en": "Her own husband"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 55.1,
+          "end_s": 56.8
+        },
+        "en": {
+          "start_s": 52.56666666666667,
+          "end_s": 53.93333333333333
+        }
+      },
+      "viewer_question": "ЕЁ СОБСТВЕННЫЙ МУЖ",
+      "new_information": "HER OWN HUSBAND",
+      "visual_type": "archive",
+      "asset_ids": [
+        "couple"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": "ЕЁ СОБСТВЕННЫЙ МУЖ",
+        "en": "HER OWN HUSBAND"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B022",
+      "visual": "emile",
+      "narration": {
+        "ru": "Военный по имени Эмиль",
+        "en": "A soldier named Emile"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 56.8,
+          "end_s": 58.766666666666666
+        },
+        "en": {
+          "start_s": 53.93333333333333,
+          "end_s": 55.56666666666667
+        }
+      },
+      "viewer_question": "ЭМИЛЬ СИЛЬЕРС",
+      "new_information": "EMILE CILLIERS",
+      "visual_type": "archive",
+      "asset_ids": [
+        "emile"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": "ЭМИЛЬ СИЛЬЕРС",
+        "en": "EMILE CILLIERS"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B023",
+      "visual": "arranged",
+      "narration": {
+        "ru": "Именно он организовал прыжок",
+        "en": "He had arranged the jump"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 58.766666666666666,
+          "end_s": 61.2
+        },
+        "en": {
+          "start_s": 55.56666666666667,
+          "end_s": 57.2
+        }
+      },
+      "viewer_question": "ОН ОРГАНИЗОВАЛ ПРЫЖОК",
+      "new_information": "HE ARRANGED THE JUMP",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes1:1"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": "ОН ОРГАНИЗОВАЛ ПРЫЖОК",
+        "en": "HE ARRANGED THE JUMP"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B024",
+      "visual": "sabotage",
+      "narration": {
+        "ru": "И именно он испортил снаряжение",
+        "en": "And he had sabotaged the equipment"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 61.2,
+          "end_s": 63.733333333333334
+        },
+        "en": {
+          "start_s": 57.2,
+          "end_s": 59.53333333333333
+        }
+      },
+      "viewer_question": "ОН ЖЕ ИСПОРТИЛ СНАРЯЖЕНИЕ",
+      "new_information": "HE SABOTAGED THE EQUIPMENT",
+      "visual_type": "archive",
+      "asset_ids": [
+        "parachute"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": "ОН ЖЕ ИСПОРТИЛ СНАРЯЖЕНИЕ",
+        "en": "HE SABOTAGED THE EQUIPMENT"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B025",
+      "visual": "motive",
+      "narration": {
+        "ru": "Как установил суд муж хотел начать новую жизнь с любовницей",
+        "en": "The court found that he wanted a new life with a lover"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 63.733333333333334,
+          "end_s": 67.73333333333333
+        },
+        "en": {
+          "start_s": 59.53333333333333,
+          "end_s": 62.0
+        }
+      },
+      "viewer_question": "МОТИВ, УСТАНОВЛЕННЫЙ СУДОМ",
+      "new_information": "THE MOTIVE ESTABLISHED AT TRIAL",
+      "visual_type": "archive",
+      "asset_ids": [
+        "emile"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": "МОТИВ, УСТАНОВЛЕННЫЙ СУДОМ",
+        "en": "THE MOTIVE ESTABLISHED AT TRIAL"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B026",
+      "visual": "insurance",
+      "narration": {
+        "ru": "а страховкой после смерти жены погасить долги",
+        "en": "and an insurance payout after his wife's death to clear his debts"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 67.73333333333333,
+          "end_s": 70.96666666666667
+        },
+        "en": {
+          "start_s": 62.0,
+          "end_s": 65.43333333333334
+        }
+      },
+      "viewer_question": "СТРАХОВКА → ПОГАШЕНИЕ ДОЛГОВ",
+      "new_information": "INSURANCE → CLEARING HIS DEBTS",
+      "visual_type": "archive",
+      "asset_ids": [
+        "emile"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": "СТРАХОВКА → ПОГАШЕНИЕ ДОЛГОВ",
+        "en": "INSURANCE → CLEARING HIS DEBTS"
+      },
+      "animation_events": [
+        {
+          "object": "motive sequence",
+          "change": "death -> payout -> debts; no invented monetary amount",
+          "duration_s": 0.7
+        }
+      ],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B027",
+      "visual": "verdict",
+      "narration": {
+        "ru": "В две тысячи восемнадцатом году его приговорили к пожизненному заключению",
+        "en": "In twenty eighteen he was sentenced to life in prison"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 70.96666666666667,
+          "end_s": 75.43333333333334
+        },
+        "en": {
+          "start_s": 65.43333333333334,
+          "end_s": 68.63333333333334
+        }
+      },
+      "viewer_question": "2018 · ПОЖИЗНЕННОЕ ЗАКЛЮЧЕНИЕ",
+      "new_information": "2018 · LIFE SENTENCE",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes2:2"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_06_15"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": "2018 · ПОЖИЗНЕННОЕ ЗАКЛЮЧЕНИЕ",
+        "en": "2018 · LIFE SENTENCE"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B028",
+      "visual": "minimum",
+      "narration": {
+        "ru": "Минимум восемнадцать лет до возможности освобождения",
+        "en": "At least eighteen years before he could be considered for release"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 75.43333333333334,
+          "end_s": 78.9
+        },
+        "en": {
+          "start_s": 68.63333333333334,
+          "end_s": 72.13333333333334
+        }
+      },
+      "viewer_question": "МИНИМУМ 18 ЛЕТ",
+      "new_information": "A MINIMUM OF 18 YEARS",
+      "visual_type": "reconstruction",
+      "asset_ids": [
+        "scenes2:2"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_06_15"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": "МИНИМУМ 18 ЛЕТ",
+        "en": "A MINIMUM OF 18 YEARS"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B029",
+      "visual": "survived",
+      "narration": {
+        "ru": "Виктория выжила",
+        "en": "Victoria survived"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 78.9,
+          "end_s": 80.4
+        },
+        "en": {
+          "start_s": 72.13333333333334,
+          "end_s": 73.73333333333333
+        }
+      },
+      "viewer_question": "ВИКТОРИЯ ВЫЖИЛА",
+      "new_information": "VICTORIA SURVIVED",
+      "visual_type": "archive",
+      "asset_ids": [
+        "victoria"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": "ВИКТОРИЯ ВЫЖИЛА",
+        "en": "VICTORIA SURVIVED"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B030",
+      "visual": "betrayal",
+      "narration": {
+        "ru": "А человек которому она доверяла свою жизнь дважды пытался её отнять",
+        "en": "The man she trusted with her life had tried to take it twice"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 80.4,
+          "end_s": 85.16666666666667
+        },
+        "en": {
+          "start_s": 73.73333333333333,
+          "end_s": 76.96666666666667
+        }
+      },
+      "viewer_question": "ДВА ПОКУШЕНИЯ. ОДИН ЧЕЛОВЕК.",
+      "new_information": "TWO ATTEMPTS. ONE MAN.",
+      "visual_type": "archive",
+      "asset_ids": [
+        "couple"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": "ДВА ПОКУШЕНИЯ. ОДИН ЧЕЛОВЕК.",
+        "en": "TWO ATTEMPTS. ONE MAN."
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    },
+    {
+      "id": "B031",
+      "visual": "end",
+      "narration": {
+        "ru": "Что страшнее упасть с неба или узнать кто отправил тебя в этот полёт",
+        "en": "Which is more frightening falling from the sky or discovering who sent you into that fall"
+      },
+      "timing": {
+        "ru": {
+          "start_s": 85.16666666666667,
+          "end_s": 90.23333333333333
+        },
+        "en": {
+          "start_s": 76.96666666666667,
+          "end_s": 81.96666666666667
+        }
+      },
+      "viewer_question": "ЧТО СТРАШНЕЕ?",
+      "new_information": "WHICH IS MORE FRIGHTENING?",
+      "visual_type": "archive",
+      "asset_ids": [
+        "victoria"
+      ],
+      "fact_source_ids": [
+        "Guardian_2018_05_24"
+      ],
+      "source_status": "court reporting checked; illustration provenance separated",
+      "rights_basis": "User-reported archive permission; generated art and original models separately identified in SOURCES.md",
+      "spoilers_to_hide": [],
+      "on_screen_text": {
+        "ru": "ЧТО СТРАШНЕЕ?",
+        "en": "WHICH IS MORE FRIGHTENING?"
+      },
+      "animation_events": [],
+      "camera_reason": "Stable framing; no routine pan/zoom",
+      "sound": {
+        "narration_intent": "Escalating questions; restrained serious reveal",
+        "music_change": "Brief dip at husband reveal; quieter ending",
+        "original_audio_range": null
+      },
+      "qc": {
+        "encoded_frame_review": null,
+        "auditory_review": false
+      }
+    }
+  ],
+  "final_qc": {
+    "full_decode": true,
+    "encoded_frame_review": "Reviewed 93 encoded frame samples per language across all 31 shots; framing, captions and reveal ordering inspected. Not a full auditory review.",
+    "audio_listened_ru": false,
+    "audio_listened_en": false,
+    "review_status": "preview_ready_pending_user_review"
+  }
+}

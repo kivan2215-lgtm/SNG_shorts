@@ -1,0 +1,96 @@
+[
+  {
+    "language": "ru",
+    "file": "SNG_035_Cilliers_RU_PREVIEW.mp4",
+    "duration": 90.233333,
+    "bytes": 11108593,
+    "sha256": "6662d6f3efd68eedbae013f9b864083625bc4dc18c06719c8ce03efe53a3ebf5",
+    "video": {
+      "width": 1080,
+      "height": 1920,
+      "codec_name": "h264",
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1"
+    },
+    "audio": {
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "channels": 2
+    },
+    "faststart": true,
+    "full_decode_ok": true,
+    "loudness": {
+      "input_i": "-16.14",
+      "input_tp": "-4.26",
+      "input_lra": "1.80",
+      "input_thresh": "-26.54",
+      "output_i": "-16.10",
+      "output_tp": "-4.18",
+      "output_lra": "1.60",
+      "output_thresh": "-26.49",
+      "normalization_type": "dynamic",
+      "target_offset": "0.10"
+    },
+    "black_frames": [],
+    "captions": 49,
+    "single_word_sentence_exceptions": [
+      {
+        "start": 11.887375,
+        "end": 12.770374000000002,
+        "words": 1,
+        "text": "Англия."
+      }
+    ],
+    "failures": [],
+    "auditory_review": false,
+    "encoded_frame_review": "Reviewed 93 encoded frame samples per language across all 31 shots; framing, captions and reveal ordering inspected. Not a full auditory review.",
+    "preview_not_approved": true
+  },
+  {
+    "language": "en",
+    "file": "SNG_035_Cilliers_EN_PREVIEW.mp4",
+    "duration": 81.966667,
+    "bytes": 10275175,
+    "sha256": "9a3b5964720967b656f54ff3c5b0518c51ab22f4dd136e383c2db51bd3b7dd96",
+    "video": {
+      "width": 1080,
+      "height": 1920,
+      "codec_name": "h264",
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1"
+    },
+    "audio": {
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "channels": 2
+    },
+    "faststart": true,
+    "full_decode_ok": true,
+    "loudness": {
+      "input_i": "-16.38",
+      "input_tp": "-4.33",
+      "input_lra": "1.40",
+      "input_thresh": "-26.76",
+      "output_i": "-16.02",
+      "output_tp": "-3.90",
+      "output_lra": "1.50",
+      "output_thresh": "-26.40",
+      "normalization_type": "dynamic",
+      "target_offset": "0.02"
+    },
+    "black_frames": [],
+    "captions": 63,
+    "single_word_sentence_exceptions": [
+      {
+        "start": 11.362416,
+        "end": 12.197874,
+        "words": 1,
+        "text": "England."
+      }
+    ],
+    "failures": [],
+    "auditory_review": false,
+    "encoded_frame_review": "Reviewed 93 encoded frame samples per language across all 31 shots; framing, captions and reveal ordering inspected. Not a full auditory review.",
+    "preview_not_approved": true
+  }
+]

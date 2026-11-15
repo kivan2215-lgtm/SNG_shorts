@@ -1,0 +1,98 @@
+[
+  {
+    "file": "emile.jpg",
+    "url": "https://i.guim.co.uk/img/media/e3f5a0b90f76bcd68a4d2eedcc1ee608a196eadb/0_75_4000_2401/master/4000.jpg",
+    "alt": "Emile Cilliers was having affairs with two women and had heavy debts.",
+    "rights": "Copyright retained by credited owner. User reports permission for publication; no independent licence verification.",
+    "source": "Guardian 24 May 2018 court report",
+    "download_url": "https://i.guim.co.uk/img/media/e3f5a0b90f76bcd68a4d2eedcc1ee608a196eadb/0_75_4000_2401/master/4000.jpg?width=1400&dpr=1&s=none&crop=none",
+    "downloaded_dimensions": [
+      1400,
+      840
+    ]
+  },
+  {
+    "file": "victoria.jpg",
+    "url": "https://i.guim.co.uk/img/media/2025f45b7e1c49bc3445001e0422d33aceac6c03/519_323_1607_2009/master/1607.jpg",
+    "alt": "Victoria Cilliers.",
+    "rights": "Copyright retained by credited owner. User reports permission for publication; no independent licence verification.",
+    "source": "Guardian 24 May 2018 court report",
+    "download_url": "https://i.guim.co.uk/img/media/2025f45b7e1c49bc3445001e0422d33aceac6c03/519_323_1607_2009/master/1607.jpg?width=1400&dpr=1&s=none&crop=none",
+    "downloaded_dimensions": [
+      1400,
+      1750
+    ]
+  },
+  {
+    "file": "parachute.jpg",
+    "url": "https://i.guim.co.uk/img/media/d338dda2540986260a6ffa86a1e9a94fad8f578e/0_49_3500_2100/master/3500.jpg",
+    "alt": "A police image showing the parachute that was tampered with by Emile Cilliers.",
+    "rights": "Copyright retained by credited owner. User reports permission for publication; no independent licence verification.",
+    "source": "Guardian 24 May 2018 court report",
+    "download_url": "https://i.guim.co.uk/img/media/d338dda2540986260a6ffa86a1e9a94fad8f578e/0_49_3500_2100/master/3500.jpg?width=1400&dpr=1&s=none&crop=none",
+    "downloaded_dimensions": [
+      1400,
+      840
+    ]
+  },
+  {
+    "file": "couple.jpg",
+    "url": "https://i.guim.co.uk/img/media/2e5d90f4f1bced10e424bccf6945eec8c4b27603/0_24_3200_1920/master/3200.jpg?width=1400&dpr=1&s=none&crop=none",
+    "credit": "Rex/Shutterstock via The Guardian",
+    "source": "https://www.theguardian.com/uk-news/2018/may/24/shocking-betrayal-the-soldier-the-lover-and-the-sabotaged-parachute-emile-cilliers",
+    "capture_date": "unknown",
+    "publication_date": "2018-05-24",
+    "rights": "Copyright; user-reported permission, not independently verified."
+  },
+  {
+    "file": "scenes1.png",
+    "type": "generated illustration",
+    "used_panels": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "actual_event_photograph": false,
+    "source": "image_gen",
+    "date": "2026-11-15",
+    "rights": "Generated project asset; not an archive licence claim"
+  },
+  {
+    "file": "scenes2.png",
+    "type": "generated illustration",
+    "used_panels": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "actual_event_photograph": false,
+    "source": "image_gen",
+    "date": "2026-11-15",
+    "rights": "Generated project asset; not an archive licence claim"
+  },
+  {
+    "file": "scenes3.png",
+    "type": "generated illustration",
+    "used_panels": [
+      1,
+      2
+    ],
+    "actual_event_photograph": false,
+    "source": "image_gen",
+    "date": "2026-11-15",
+    "rights": "Generated project asset; not an archive licence claim"
+  },
+  {
+    "file": "scenes3_fixed.png",
+    "type": "generated illustration",
+    "used_panels": [
+      0
+    ],
+    "actual_event_photograph": false,
+    "source": "image_gen",
+    "date": "2026-11-15",
+    "rights": "Generated project asset; not an archive licence claim"
+  }
+]

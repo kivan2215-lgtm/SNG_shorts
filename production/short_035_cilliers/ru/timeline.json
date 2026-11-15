@@ -1,0 +1,157 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.1666666666666665,
+    "visual": "fall"
+  },
+  {
+    "start": 2.1666666666666665,
+    "end": 3.933333333333333,
+    "visual": "reserve"
+  },
+  {
+    "start": 3.933333333333333,
+    "end": 5.666666666666667,
+    "visual": "failed"
+  },
+  {
+    "start": 5.666666666666667,
+    "end": 8.3,
+    "visual": "height"
+  },
+  {
+    "start": 8.3,
+    "end": 11.9,
+    "visual": "hook"
+  },
+  {
+    "start": 11.9,
+    "end": 15.233333333333333,
+    "visual": "date"
+  },
+  {
+    "start": 15.233333333333333,
+    "end": 17.733333333333334,
+    "visual": "victoria"
+  },
+  {
+    "start": 17.733333333333334,
+    "end": 21.166666666666668,
+    "visual": "gift"
+  },
+  {
+    "start": 21.166666666666668,
+    "end": 24.933333333333334,
+    "visual": "field"
+  },
+  {
+    "start": 24.933333333333334,
+    "end": 26.4,
+    "visual": "rescue"
+  },
+  {
+    "start": 26.4,
+    "end": 28.333333333333332,
+    "visual": "alive"
+  },
+  {
+    "start": 28.333333333333332,
+    "end": 31.4,
+    "visual": "accident"
+  },
+  {
+    "start": 31.4,
+    "end": 34.06666666666667,
+    "visual": "evidence"
+  },
+  {
+    "start": 34.06666666666667,
+    "end": 36.7,
+    "visual": "both"
+  },
+  {
+    "start": 36.7,
+    "end": 39.666666666666664,
+    "visual": "strange"
+  },
+  {
+    "start": 39.666666666666664,
+    "end": 43.666666666666664,
+    "visual": "gas"
+  },
+  {
+    "start": 43.666666666666664,
+    "end": 46.13333333333333,
+    "visual": "linked"
+  },
+  {
+    "start": 46.13333333333333,
+    "end": 48.4,
+    "visual": "attempt"
+  },
+  {
+    "start": 48.4,
+    "end": 52.2,
+    "visual": "question"
+  },
+  {
+    "start": 52.2,
+    "end": 55.1,
+    "visual": "truth"
+  },
+  {
+    "start": 55.1,
+    "end": 56.8,
+    "visual": "husband"
+  },
+  {
+    "start": 56.8,
+    "end": 58.766666666666666,
+    "visual": "emile"
+  },
+  {
+    "start": 58.766666666666666,
+    "end": 61.2,
+    "visual": "arranged"
+  },
+  {
+    "start": 61.2,
+    "end": 63.733333333333334,
+    "visual": "sabotage"
+  },
+  {
+    "start": 63.733333333333334,
+    "end": 67.73333333333333,
+    "visual": "motive"
+  },
+  {
+    "start": 67.73333333333333,
+    "end": 70.96666666666667,
+    "visual": "insurance"
+  },
+  {
+    "start": 70.96666666666667,
+    "end": 75.43333333333334,
+    "visual": "verdict"
+  },
+  {
+    "start": 75.43333333333334,
+    "end": 78.9,
+    "visual": "minimum"
+  },
+  {
+    "start": 78.9,
+    "end": 80.4,
+    "visual": "survived"
+  },
+  {
+    "start": 80.4,
+    "end": 85.16666666666667,
+    "visual": "betrayal"
+  },
+  {
+    "start": 85.16666666666667,
+    "end": 90.23333333333333,
+    "visual": "end"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "episode": 35,
+  "status": "preview_pending_user_review",
+  "languages": [
+    "ru",
+    "en"
+  ],
+  "files": {
+    "stage_project.py": "33094957787f2155210ebfb1c65f43cbddc4513bab3ee755252652edb2120fd1",
+    "pace.py": "89234fc1a23d29f27f624c7b64ec22f85545b267552094551376a968c22704f8",
+    "build.py": "1a2a0ac79c14b0f433284de422d76137e9d9fc989eb30dfbc4f2d97042b243c1",
+    "scene3d.py": "a7d5e72c12a0a074f0729020463fcb8280e995d114d2bd90b79a07f477c94e45",
+    "make_plan.py": "eddb006ba366d9f180887c43b2acf4c617858e87ac3356da09a7669c9751c0ee",
+    "check_motion.py": "4bff976ec66cc582f263733bebce84720965d06e42d0f2fcb97caca9f9f7c8c0",
+    "voice.py": "540c59879a38b89fc61055fc2d91181112f3ae85e952f6eefd05dca73cb97aea",
+    "region_cache.py": "8473f26041525d0ad2df61a843f151c8bf46b54a8b4aa329ea840e7ef00ce5ba",
+    "human_model.py": "4bd377c7e85a9a70564bd5a350b908638011e9e78803d70f94998875f10310c4",
+    "qc.py": "8a4bf30dabbe596c94c555ab55ab8b50213ebf67bd880891162f38b563b0027c",
+    "await_models.py": "115d76865983d68660945fe286ccd1260746d90e6aa9f214625a6e16b7acc997",
+    "visuals.py": "31401b5fa99b6855162e4e29b7131079f84384a88a6279ed485aa252e070af10",
+    "assets/scenes3_fixed.png": "708c5d415653295f5493ba96ff36371e3ea09a2757a030711344526a6b77d9a7",
+    "assets/scenes2.png": "4ca8d610a59cc61db2af4d38bed5571bf6943198c174b9359535cdf5167caea5",
+    "assets/parachute.jpg": "91d4e7673b0e5e29b0359889898148861edd3fe9f7a94760832faa8351b88fd2",
+    "assets/victoria.jpg": "9c676b1825640e3251ecfa788e76d0dee5cb61839ca76dc7fcde6e4d31bbac8a",
+    "assets/scenes3.png": "4b28fedf7d51b37b0ad090509a14780952800e23dab7027e8d565be68066c665",
+    "assets/couple.jpg": "1d02d1331e5e482eb3d52f386019036b0953f73c40b75e1a227a9164bde3a782",
+    "assets/scenes1.png": "24e8fdbbe1659afc991c56e55e5a4e70b26e9914c3d5eda16c4602461b5175f5",
+    "assets/emile.jpg": "6123e7460c9fc2408cfe77d25fc77675663022f90a6a5546cd145d4d1bc77d80",
+    "ru/narration.txt": "ba4c2a7a0c62b4fd9ffae21b18cbcdc6f7a7e8992705e501ab8ec98a3be9e604",
+    "en/narration.txt": "0fc727e2846dabc850473ea54947621ffdfb2d90ac06267abe8959f33395c434",
+    "ru/SNG_035_Cilliers_RU_PREVIEW.mp4": "6662d6f3efd68eedbae013f9b864083625bc4dc18c06719c8ce03efe53a3ebf5",
+    "en/SNG_035_Cilliers_EN_PREVIEW.mp4": "9a3b5964720967b656f54ff3c5b0518c51ab22f4dd136e383c2db51bd3b7dd96"
+  }
+}

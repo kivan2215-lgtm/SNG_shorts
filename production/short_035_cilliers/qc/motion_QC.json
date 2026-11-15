@@ -1,0 +1,40 @@
+{
+  "frames": 61,
+  "fps": 30,
+  "duration": 2,
+  "source_size": [
+    720,
+    1280
+  ],
+  "native_geometry_render": true,
+  "optical_interpolation": false,
+  "cache_region": {
+    "box_top_left_pixels": [
+      252,
+      204,
+      488,
+      816
+    ],
+    "source_size": [
+      720,
+      1280
+    ],
+    "outside_mean_abs_error_8bit": [
+      0.35432622032816585,
+      0.51841558067239,
+      0.6939649256445625,
+      0.7571799147674634
+    ],
+    "probe_count": 5,
+    "feather_pixels": 16,
+    "actual_box_top_left_pixels": [
+      252,
+      204,
+      488,
+      816
+    ]
+  },
+  "first_last_mean_abs_difference": 2.609544270833333,
+  "preview_not_approved": true,
+  "manual_review": "Reviewed frames 0, 15, 30, 45, 60: complete figure, canopy and terrain; coherent descent without camera movement or visible cache seam. Diagram does not simulate an impact."
+}
