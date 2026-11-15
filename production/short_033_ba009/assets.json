@@ -1,0 +1,45 @@
+[
+  {
+    "key": "plane",
+    "page": "https://commons.wikimedia.org/wiki/File:BA_747-200_G-BDXH_at_LHR_(16748337441).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/BA_747-200_G-BDXH_at_LHR_%2816748337441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "author": "Gordon Bevan / G B_NZ",
+    "license": "CC BY-SA 2.0",
+    "capture_date": "1982-01-23",
+    "size": [
+      2520,
+      1680
+    ],
+    "changes": "contained scaling in video, no invented detail",
+    "reviewed": true
+  },
+  {
+    "key": "blades",
+    "page": "https://commons.wikimedia.org/wiki/File:British-Airways-Flight-9_turbine_and_compressor_blades.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/British-Airways-Flight-9_turbine_and_compressor_blades.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "author": "Nova13",
+    "license": "CC BY-SA 3.0",
+    "capture_date": "2008-07-04",
+    "size": [
+      1632,
+      1224
+    ],
+    "changes": "contained scaling in video, no invented detail",
+    "reviewed": true
+  },
+  {
+    "key": "volcano",
+    "page": "https://commons.wikimedia.org/wiki/File:Galunggung.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Galunggung.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "author": "R. Hadian / USGS, via NOAA",
+    "license": "Public domain (US government)",
+    "capture_date": "1982-12-03",
+    "size": [
+      1000,
+      667
+    ],
+    "changes": "contained scaling in video, no invented detail",
+    "reviewed": true,
+    "use_note": "Shown as dated December 1982 image of the same volcano, not the June flight encounter"
+  }
+]

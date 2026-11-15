@@ -1,0 +1,1214 @@
+[
+  {
+    "text": "A",
+    "start": 0.05,
+    "end": 0.175,
+    "paragraph": 0
+  },
+  {
+    "text": "passenger",
+    "start": 0.2,
+    "end": 0.725,
+    "paragraph": 0
+  },
+  {
+    "text": "jet",
+    "start": 0.7375,
+    "end": 1.025,
+    "paragraph": 0
+  },
+  {
+    "text": "lost",
+    "start": 1.05,
+    "end": 1.3625,
+    "paragraph": 0
+  },
+  {
+    "text": "its",
+    "start": 1.3875,
+    "end": 1.55,
+    "paragraph": 0
+  },
+  {
+    "text": "engines",
+    "start": 1.575,
+    "end": 2.025,
+    "paragraph": 0
+  },
+  {
+    "text": "one",
+    "start": 2.1875,
+    "end": 2.3875,
+    "paragraph": 0
+  },
+  {
+    "text": "after",
+    "start": 2.4125,
+    "end": 2.7,
+    "paragraph": 0
+  },
+  {
+    "text": "another",
+    "start": 2.725,
+    "end": 3.1625,
+    "paragraph": 0
+  },
+  {
+    "text": "All",
+    "start": 4.0375,
+    "end": 4.2875,
+    "paragraph": 0
+  },
+  {
+    "text": "four",
+    "start": 4.3125,
+    "end": 4.8875,
+    "paragraph": 0
+  },
+  {
+    "text": "A",
+    "start": 5.775,
+    "end": 5.9,
+    "paragraph": 0
+  },
+  {
+    "text": "strange",
+    "start": 5.9125,
+    "end": 6.2875,
+    "paragraph": 0
+  },
+  {
+    "text": "blue",
+    "start": 6.3,
+    "end": 6.5125,
+    "paragraph": 0
+  },
+  {
+    "text": "glow",
+    "start": 6.525,
+    "end": 6.8,
+    "paragraph": 0
+  },
+  {
+    "text": "appeared",
+    "start": 6.825,
+    "end": 7.1625,
+    "paragraph": 0
+  },
+  {
+    "text": "outside",
+    "start": 7.1875,
+    "end": 7.6,
+    "paragraph": 0
+  },
+  {
+    "text": "the",
+    "start": 7.6125,
+    "end": 7.7125,
+    "paragraph": 0
+  },
+  {
+    "text": "windows",
+    "start": 7.7375,
+    "end": 8.2875,
+    "paragraph": 0
+  },
+  {
+    "text": "The",
+    "start": 9.1625,
+    "end": 9.3,
+    "paragraph": 0
+  },
+  {
+    "text": "crew",
+    "start": 9.325,
+    "end": 9.575,
+    "paragraph": 0
+  },
+  {
+    "text": "had",
+    "start": 9.5875,
+    "end": 9.7875,
+    "paragraph": 0
+  },
+  {
+    "text": "no",
+    "start": 9.8125,
+    "end": 10.025,
+    "paragraph": 0
+  },
+  {
+    "text": "idea",
+    "start": 10.05,
+    "end": 10.475,
+    "paragraph": 0
+  },
+  {
+    "text": "what",
+    "start": 10.5,
+    "end": 10.6625,
+    "paragraph": 0
+  },
+  {
+    "text": "was",
+    "start": 10.6875,
+    "end": 10.85,
+    "paragraph": 0
+  },
+  {
+    "text": "happening",
+    "start": 10.875,
+    "end": 11.4,
+    "paragraph": 0
+  },
+  {
+    "text": "June",
+    "start": 11.7495,
+    "end": 12.058916,
+    "paragraph": 1
+  },
+  {
+    "text": "twenty-fourth",
+    "start": 12.083666,
+    "end": 12.751999,
+    "paragraph": 1
+  },
+  {
+    "text": "nineteen",
+    "start": 12.850999999999999,
+    "end": 13.308916,
+    "paragraph": 1
+  },
+  {
+    "text": "eighty-two",
+    "start": 13.333666,
+    "end": 13.952456999999999,
+    "paragraph": 1
+  },
+  {
+    "text": "A",
+    "start": 14.818791,
+    "end": 14.954915999999999,
+    "paragraph": 1
+  },
+  {
+    "text": "Boeing",
+    "start": 14.979707999999999,
+    "end": 15.313873999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "flies",
+    "start": 15.338625,
+    "end": 15.747041,
+    "paragraph": 1
+  },
+  {
+    "text": "over",
+    "start": 15.771791,
+    "end": 16.006957,
+    "paragraph": 1
+  },
+  {
+    "text": "Indonesia",
+    "start": 16.031666,
+    "end": 16.737124,
+    "paragraph": 1
+  },
+  {
+    "text": "Smoke",
+    "start": 17.603458,
+    "end": 18.073749,
+    "paragraph": 1
+  },
+  {
+    "text": "enters",
+    "start": 18.086125,
+    "end": 18.432665999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 18.457416,
+    "end": 18.568790999999997,
+    "paragraph": 1
+  },
+  {
+    "text": "cabin",
+    "start": 18.593583,
+    "end": 19.014374,
+    "paragraph": 1
+  },
+  {
+    "text": "The",
+    "start": 19.880708,
+    "end": 20.029207999999997,
+    "paragraph": 1
+  },
+  {
+    "text": "aircraft",
+    "start": 20.053958,
+    "end": 20.598498999999997,
+    "paragraph": 1
+  },
+  {
+    "text": "can",
+    "start": 20.62325,
+    "end": 20.7965,
+    "paragraph": 1
+  },
+  {
+    "text": "no",
+    "start": 20.821291,
+    "end": 20.957416,
+    "paragraph": 1
+  },
+  {
+    "text": "longer",
+    "start": 20.969791,
+    "end": 21.316332,
+    "paragraph": 1
+  },
+  {
+    "text": "maintain",
+    "start": 21.328708,
+    "end": 21.798999,
+    "paragraph": 1
+  },
+  {
+    "text": "altitude",
+    "start": 21.823749999999997,
+    "end": 22.405416,
+    "paragraph": 1
+  },
+  {
+    "text": "The",
+    "start": 23.259416,
+    "end": 23.407916,
+    "paragraph": 1
+  },
+  {
+    "text": "pilots",
+    "start": 23.420291,
+    "end": 23.828707,
+    "paragraph": 1
+  },
+  {
+    "text": "try",
+    "start": 23.841082999999998,
+    "end": 24.039082999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "to",
+    "start": 24.063875,
+    "end": 24.17525,
+    "paragraph": 1
+  },
+  {
+    "text": "restart",
+    "start": 24.2,
+    "end": 24.707416,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 24.719791,
+    "end": 24.806416,
+    "paragraph": 1
+  },
+  {
+    "text": "engines",
+    "start": 24.818790999999997,
+    "end": 25.375707,
+    "paragraph": 1
+  },
+  {
+    "text": "Again",
+    "start": 26.242083,
+    "end": 26.699999,
+    "paragraph": 1
+  },
+  {
+    "text": "and",
+    "start": 26.712375,
+    "end": 26.836125,
+    "paragraph": 1
+  },
+  {
+    "text": "again",
+    "start": 26.860875,
+    "end": 27.318790999999997,
+    "paragraph": 1
+  },
+  {
+    "text": "Nothing",
+    "start": 28.172791,
+    "end": 28.593581999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "works",
+    "start": 28.605957999999998,
+    "end": 29.088624,
+    "paragraph": 1
+  },
+  {
+    "text": "Below",
+    "start": 29.942583,
+    "end": 30.313874,
+    "paragraph": 1
+  },
+  {
+    "text": "them",
+    "start": 30.326249999999998,
+    "end": 30.499499999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "is",
+    "start": 30.511875,
+    "end": 30.635625,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 30.660415999999998,
+    "end": 30.771791,
+    "paragraph": 1
+  },
+  {
+    "text": "ocean",
+    "start": 30.784166,
+    "end": 31.254457,
+    "paragraph": 1
+  },
+  {
+    "text": "But",
+    "start": 31.6044375,
+    "end": 31.7919375,
+    "paragraph": 2
+  },
+  {
+    "text": "fuel",
+    "start": 31.816937499999998,
+    "end": 32.1794375,
+    "paragraph": 2
+  },
+  {
+    "text": "was",
+    "start": 32.1919375,
+    "end": 32.3669375,
+    "paragraph": 2
+  },
+  {
+    "text": "not",
+    "start": 32.3794375,
+    "end": 32.604437499999996,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 32.6294375,
+    "end": 32.7419375,
+    "paragraph": 2
+  },
+  {
+    "text": "problem",
+    "start": 32.7544375,
+    "end": 33.2419375,
+    "paragraph": 2
+  },
+  {
+    "text": "The",
+    "start": 34.1169375,
+    "end": 34.2669375,
+    "paragraph": 2
+  },
+  {
+    "text": "aircraft",
+    "start": 34.291937499999996,
+    "end": 34.8294375,
+    "paragraph": 2
+  },
+  {
+    "text": "had",
+    "start": 34.854437499999996,
+    "end": 34.9919375,
+    "paragraph": 2
+  },
+  {
+    "text": "entered",
+    "start": 35.0169375,
+    "end": 35.291937499999996,
+    "paragraph": 2
+  },
+  {
+    "text": "a",
+    "start": 35.3169375,
+    "end": 35.3794375,
+    "paragraph": 2
+  },
+  {
+    "text": "cloud",
+    "start": 35.3919375,
+    "end": 35.6919375,
+    "paragraph": 2
+  },
+  {
+    "text": "of",
+    "start": 35.7044375,
+    "end": 35.7794375,
+    "paragraph": 2
+  },
+  {
+    "text": "volcanic",
+    "start": 35.8044375,
+    "end": 36.3919375,
+    "paragraph": 2
+  },
+  {
+    "text": "ash",
+    "start": 36.4044375,
+    "end": 36.8169375,
+    "paragraph": 2
+  },
+  {
+    "text": "At",
+    "start": 37.6919375,
+    "end": 37.9419375,
+    "paragraph": 2
+  },
+  {
+    "text": "night",
+    "start": 37.9544375,
+    "end": 38.2169375,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 38.4669375,
+    "end": 38.5794375,
+    "paragraph": 2
+  },
+  {
+    "text": "crew",
+    "start": 38.604437499999996,
+    "end": 38.8794375,
+    "paragraph": 2
+  },
+  {
+    "text": "had",
+    "start": 38.8919375,
+    "end": 39.0794375,
+    "paragraph": 2
+  },
+  {
+    "text": "not",
+    "start": 39.104437499999996,
+    "end": 39.3044375,
+    "paragraph": 2
+  },
+  {
+    "text": "seen",
+    "start": 39.3294375,
+    "end": 39.6044375,
+    "paragraph": 2
+  },
+  {
+    "text": "it",
+    "start": 39.629437499999995,
+    "end": 39.816937499999995,
+    "paragraph": 2
+  },
+  {
+    "text": "Their",
+    "start": 40.6794375,
+    "end": 40.879437499999995,
+    "paragraph": 2
+  },
+  {
+    "text": "weather",
+    "start": 40.9044375,
+    "end": 41.1794375,
+    "paragraph": 2
+  },
+  {
+    "text": "radar",
+    "start": 41.2044375,
+    "end": 41.5544375,
+    "paragraph": 2
+  },
+  {
+    "text": "did",
+    "start": 41.5794375,
+    "end": 41.7419375,
+    "paragraph": 2
+  },
+  {
+    "text": "not",
+    "start": 41.7669375,
+    "end": 41.9669375,
+    "paragraph": 2
+  },
+  {
+    "text": "reveal",
+    "start": 41.9794375,
+    "end": 42.316937499999995,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 42.3294375,
+    "end": 42.4294375,
+    "paragraph": 2
+  },
+  {
+    "text": "dry",
+    "start": 42.4544375,
+    "end": 42.7044375,
+    "paragraph": 2
+  },
+  {
+    "text": "ash",
+    "start": 42.7294375,
+    "end": 42.879437499999995,
+    "paragraph": 2
+  },
+  {
+    "text": "either",
+    "start": 42.9044375,
+    "end": 43.2669375,
+    "paragraph": 2
+  },
+  {
+    "text": "Inside",
+    "start": 44.1419375,
+    "end": 44.6044375,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 44.629437499999995,
+    "end": 44.7044375,
+    "paragraph": 2
+  },
+  {
+    "text": "hot",
+    "start": 44.7169375,
+    "end": 44.9794375,
+    "paragraph": 2
+  },
+  {
+    "text": "engines",
+    "start": 45.004437499999995,
+    "end": 45.4044375,
+    "paragraph": 2
+  },
+  {
+    "text": "particles",
+    "start": 45.6544375,
+    "end": 46.191937499999995,
+    "paragraph": 2
+  },
+  {
+    "text": "melted",
+    "start": 46.2169375,
+    "end": 46.5794375,
+    "paragraph": 2
+  },
+  {
+    "text": "and",
+    "start": 46.6044375,
+    "end": 46.7044375,
+    "paragraph": 2
+  },
+  {
+    "text": "stuck",
+    "start": 46.7294375,
+    "end": 46.9919375,
+    "paragraph": 2
+  },
+  {
+    "text": "to",
+    "start": 47.004437499999995,
+    "end": 47.1169375,
+    "paragraph": 2
+  },
+  {
+    "text": "components",
+    "start": 47.1419375,
+    "end": 47.8044375,
+    "paragraph": 2
+  },
+  {
+    "text": "Airflow",
+    "start": 48.6669375,
+    "end": 49.2169375,
+    "paragraph": 2
+  },
+  {
+    "text": "was",
+    "start": 49.2419375,
+    "end": 49.441937499999995,
+    "paragraph": 2
+  },
+  {
+    "text": "disrupted",
+    "start": 49.4669375,
+    "end": 50.129437499999995,
+    "paragraph": 2
+  },
+  {
+    "text": "The",
+    "start": 51.004437499999995,
+    "end": 51.1544375,
+    "paragraph": 2
+  },
+  {
+    "text": "engines",
+    "start": 51.1794375,
+    "end": 51.6419375,
+    "paragraph": 2
+  },
+  {
+    "text": "flamed",
+    "start": 51.6544375,
+    "end": 51.9919375,
+    "paragraph": 2
+  },
+  {
+    "text": "out",
+    "start": 52.004437499999995,
+    "end": 52.3544375,
+    "paragraph": 2
+  },
+  {
+    "text": "Then",
+    "start": 52.7044375,
+    "end": 52.9544375,
+    "paragraph": 3
+  },
+  {
+    "text": "something",
+    "start": 52.9794375,
+    "end": 53.3919375,
+    "paragraph": 3
+  },
+  {
+    "text": "unexpected",
+    "start": 53.4044375,
+    "end": 54.0794375,
+    "paragraph": 3
+  },
+  {
+    "text": "happened",
+    "start": 54.1044375,
+    "end": 54.5919375,
+    "paragraph": 3
+  },
+  {
+    "text": "As",
+    "start": 55.4669375,
+    "end": 55.6794375,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 55.7044375,
+    "end": 55.8169375,
+    "paragraph": 3
+  },
+  {
+    "text": "aircraft",
+    "start": 55.8419375,
+    "end": 56.3294375,
+    "paragraph": 3
+  },
+  {
+    "text": "descended",
+    "start": 56.3544375,
+    "end": 56.8669375,
+    "paragraph": 3
+  },
+  {
+    "text": "it",
+    "start": 57.0669375,
+    "end": 57.1794375,
+    "paragraph": 3
+  },
+  {
+    "text": "left",
+    "start": 57.2044375,
+    "end": 57.4544375,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 57.4794375,
+    "end": 57.5794375,
+    "paragraph": 3
+  },
+  {
+    "text": "ash",
+    "start": 57.6044375,
+    "end": 57.8169375,
+    "paragraph": 3
+  },
+  {
+    "text": "cloud",
+    "start": 57.8294375,
+    "end": 58.2419375,
+    "paragraph": 3
+  },
+  {
+    "text": "The",
+    "start": 59.1044375,
+    "end": 59.2419375,
+    "paragraph": 3
+  },
+  {
+    "text": "deposits",
+    "start": 59.2669375,
+    "end": 59.8169375,
+    "paragraph": 3
+  },
+  {
+    "text": "cooled",
+    "start": 59.8294375,
+    "end": 60.2044375,
+    "paragraph": 3
+  },
+  {
+    "text": "hardened",
+    "start": 60.3794375,
+    "end": 60.7794375,
+    "paragraph": 3
+  },
+  {
+    "text": "and",
+    "start": 60.9544375,
+    "end": 61.0919375,
+    "paragraph": 3
+  },
+  {
+    "text": "broke",
+    "start": 61.1169375,
+    "end": 61.3794375,
+    "paragraph": 3
+  },
+  {
+    "text": "away",
+    "start": 61.3919375,
+    "end": 61.7919375,
+    "paragraph": 3
+  },
+  {
+    "text": "After",
+    "start": 62.6794375,
+    "end": 63.0169375,
+    "paragraph": 3
+  },
+  {
+    "text": "roughly",
+    "start": 63.0419375,
+    "end": 63.3419375,
+    "paragraph": 3
+  },
+  {
+    "text": "fifteen",
+    "start": 63.3669375,
+    "end": 63.7919375,
+    "paragraph": 3
+  },
+  {
+    "text": "minutes",
+    "start": 63.8169375,
+    "end": 64.1544375,
+    "paragraph": 3
+  },
+  {
+    "text": "without",
+    "start": 64.1669375,
+    "end": 64.4669375,
+    "paragraph": 3
+  },
+  {
+    "text": "thrust",
+    "start": 64.4919375,
+    "end": 64.9169375,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 65.1419375,
+    "end": 65.2544375,
+    "paragraph": 3
+  },
+  {
+    "text": "crew",
+    "start": 65.2794375,
+    "end": 65.5669375,
+    "paragraph": 3
+  },
+  {
+    "text": "restarted",
+    "start": 65.5794375,
+    "end": 66.0919375,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 66.1169375,
+    "end": 66.1919375,
+    "paragraph": 3
+  },
+  {
+    "text": "engines",
+    "start": 66.2044375,
+    "end": 66.7544375,
+    "paragraph": 3
+  },
+  {
+    "text": "One",
+    "start": 67.6419375,
+    "end": 67.9669375,
+    "paragraph": 3
+  },
+  {
+    "text": "soon",
+    "start": 67.9919375,
+    "end": 68.2794375,
+    "paragraph": 3
+  },
+  {
+    "text": "had",
+    "start": 68.3044375,
+    "end": 68.4794375,
+    "paragraph": 3
+  },
+  {
+    "text": "to",
+    "start": 68.5044375,
+    "end": 68.5669375,
+    "paragraph": 3
+  },
+  {
+    "text": "be",
+    "start": 68.5794375,
+    "end": 68.7044375,
+    "paragraph": 3
+  },
+  {
+    "text": "shut",
+    "start": 68.7294375,
+    "end": 69.0169375,
+    "paragraph": 3
+  },
+  {
+    "text": "down",
+    "start": 69.0419375,
+    "end": 69.2544375,
+    "paragraph": 3
+  },
+  {
+    "text": "again",
+    "start": 69.2794375,
+    "end": 69.6669375,
+    "paragraph": 3
+  },
+  {
+    "text": "But",
+    "start": 70.0179375,
+    "end": 70.1965205,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 70.2220205,
+    "end": 70.3368115,
+    "paragraph": 4
+  },
+  {
+    "text": "ordeal",
+    "start": 70.3623535,
+    "end": 70.8470615,
+    "paragraph": 4
+  },
+  {
+    "text": "was",
+    "start": 70.8725625,
+    "end": 71.03839550000001,
+    "paragraph": 4
+  },
+  {
+    "text": "not",
+    "start": 71.0511035,
+    "end": 71.2934365,
+    "paragraph": 4
+  },
+  {
+    "text": "over",
+    "start": 71.3189785,
+    "end": 71.7398945,
+    "paragraph": 4
+  },
+  {
+    "text": "Ash",
+    "start": 72.6327705,
+    "end": 72.9261455,
+    "paragraph": 4
+  },
+  {
+    "text": "had",
+    "start": 72.9516455,
+    "end": 73.1302285,
+    "paragraph": 4
+  },
+  {
+    "text": "damaged",
+    "start": 73.1557285,
+    "end": 73.6021445,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 73.6276455,
+    "end": 73.7296865,
+    "paragraph": 4
+  },
+  {
+    "text": "windscreens",
+    "start": 73.7551875,
+    "end": 74.5204785,
+    "paragraph": 4
+  },
+  {
+    "text": "The",
+    "start": 75.4133535,
+    "end": 75.5663945,
+    "paragraph": 4
+  },
+  {
+    "text": "pilots",
+    "start": 75.5919375,
+    "end": 76.0128535,
+    "paragraph": 4
+  },
+  {
+    "text": "could",
+    "start": 76.0383535,
+    "end": 76.2424365,
+    "paragraph": 4
+  },
+  {
+    "text": "barely",
+    "start": 76.2679375,
+    "end": 76.5995625,
+    "paragraph": 4
+  },
+  {
+    "text": "see",
+    "start": 76.6251035,
+    "end": 76.8164365,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 76.8419375,
+    "end": 76.9694785,
+    "paragraph": 4
+  },
+  {
+    "text": "runway",
+    "start": 76.9949785,
+    "end": 77.5179365,
+    "paragraph": 4
+  },
+  {
+    "text": "They",
+    "start": 78.4235625,
+    "end": 78.5766035,
+    "paragraph": 4
+  },
+  {
+    "text": "still",
+    "start": 78.6021455,
+    "end": 78.8955205,
+    "paragraph": 4
+  },
+  {
+    "text": "managed",
+    "start": 78.9082705,
+    "end": 79.3291865,
+    "paragraph": 4
+  },
+  {
+    "text": "to",
+    "start": 79.3546875,
+    "end": 79.4567285,
+    "paragraph": 4
+  },
+  {
+    "text": "land",
+    "start": 79.4822285,
+    "end": 79.8266035,
+    "paragraph": 4
+  },
+  {
+    "text": "in",
+    "start": 79.8521455,
+    "end": 79.9541865,
+    "paragraph": 4
+  },
+  {
+    "text": "Jakarta",
+    "start": 79.9796875,
+    "end": 80.6046875,
+    "paragraph": 4
+  },
+  {
+    "text": "Everyone",
+    "start": 81.4975625,
+    "end": 82.0460205,
+    "paragraph": 4
+  },
+  {
+    "text": "on",
+    "start": 82.0715205,
+    "end": 82.1990615,
+    "paragraph": 4
+  },
+  {
+    "text": "board",
+    "start": 82.2246035,
+    "end": 82.4796865,
+    "paragraph": 4
+  },
+  {
+    "text": "survived",
+    "start": 82.5051875,
+    "end": 83.1301875,
+    "paragraph": 4
+  },
+  {
+    "text": "It",
+    "start": 84.0103125,
+    "end": 84.1633535,
+    "paragraph": 4
+  },
+  {
+    "text": "was",
+    "start": 84.1888955,
+    "end": 84.3547285,
+    "paragraph": 4
+  },
+  {
+    "text": "not",
+    "start": 84.3801875,
+    "end": 84.5587705,
+    "paragraph": 4
+  },
+  {
+    "text": "a",
+    "start": 84.5715205,
+    "end": 84.62252050000001,
+    "paragraph": 4
+  },
+  {
+    "text": "massive",
+    "start": 84.6480625,
+    "end": 85.0307285,
+    "paragraph": 4
+  },
+  {
+    "text": "storm",
+    "start": 85.0562285,
+    "end": 85.3878535,
+    "paragraph": 4
+  },
+  {
+    "text": "that",
+    "start": 85.4133535,
+    "end": 85.54089450000001,
+    "paragraph": 4
+  },
+  {
+    "text": "stopped",
+    "start": 85.5664375,
+    "end": 85.9108125,
+    "paragraph": 4
+  },
+  {
+    "text": "four",
+    "start": 85.9363125,
+    "end": 86.1913955,
+    "paragraph": 4
+  },
+  {
+    "text": "engines",
+    "start": 86.2169375,
+    "end": 86.7271455,
+    "paragraph": 4
+  },
+  {
+    "text": "It",
+    "start": 87.6072285,
+    "end": 87.7858115,
+    "paragraph": 4
+  },
+  {
+    "text": "was",
+    "start": 87.8113125,
+    "end": 87.9898955,
+    "paragraph": 4
+  },
+  {
+    "text": "tiny",
+    "start": 88.0153955,
+    "end": 88.3470205,
+    "paragraph": 4
+  },
+  {
+    "text": "particles",
+    "start": 88.3725625,
+    "end": 88.9465625,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 88.9720205,
+    "end": 89.0868115,
+    "paragraph": 4
+  },
+  {
+    "text": "crew",
+    "start": 89.0996035,
+    "end": 89.3802285,
+    "paragraph": 4
+  },
+  {
+    "text": "had",
+    "start": 89.3929375,
+    "end": 89.5970205,
+    "paragraph": 4
+  },
+  {
+    "text": "never",
+    "start": 89.6098125,
+    "end": 89.8904375,
+    "paragraph": 4
+  },
+  {
+    "text": "even",
+    "start": 89.9159375,
+    "end": 90.1582705,
+    "paragraph": 4
+  },
+  {
+    "text": "seen",
+    "start": 90.18377050000001,
+    "end": 90.6046865,
+    "paragraph": 4
+  }
+]

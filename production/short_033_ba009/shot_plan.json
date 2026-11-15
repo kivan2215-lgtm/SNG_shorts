@@ -1,0 +1,288 @@
+[
+  {
+    "visual": "fail",
+    "ru_cue": "У пассажирского",
+    "en_cue": "A passenger jet",
+    "action": "Four engine status markers go out in documented order 4,2,1,3; educational timing, not a stopwatch.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "alloff",
+    "ru_cue": "Все четыре",
+    "en_cue": "All four",
+    "action": "Hold all four engines identified; no cause yet.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "glow",
+    "ru_cue": "За окнами",
+    "en_cue": "A strange blue",
+    "action": "Closer nose / windshield discharge illustration.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "question",
+    "ru_cue": "А экипаж",
+    "en_cue": "The crew",
+    "action": "Unanswered question; engine indicators, no ash reveal.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "archive",
+    "ru_cue": "Двадцать четвёртое",
+    "en_cue": "June twenty",
+    "action": "Actual aircraft G-BDXH photograph, visibly dated January 1982; incident date separately.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "cabin",
+    "ru_cue": "В салон",
+    "en_cue": "Smoke enters",
+    "action": "Cutaway passenger cabin; particles drift from a vent into aisle.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "glide",
+    "ru_cue": "Самолёт больше",
+    "en_cue": "The aircraft can",
+    "action": "Aircraft sinks gently; no vertical freefall.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "attempt",
+    "ru_cue": "Пилоты пытаются",
+    "en_cue": "The pilots try",
+    "action": "Engine restart diagram, four failed attempts indicators without invented counted retries.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "ocean",
+    "ru_cue": "Под ними",
+    "en_cue": "Below them",
+    "action": "Aircraft and ocean context; no premature landing.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "turn",
+    "ru_cue": "Но причина",
+    "en_cue": "But fuel",
+    "action": "Pause score briefly; explain cause next.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "volcano",
+    "ru_cue": "Самолёт попал",
+    "en_cue": "The aircraft had",
+    "action": "Actual Galunggung 1982 photo with actual capture date; not claimed June footage.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "radar",
+    "ru_cue": "Ночью",
+    "en_cue": "At night",
+    "action": "Weather radar illustration; dry ash not displayed, illustrative control screen.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "deposit",
+    "ru_cue": "В горячих",
+    "en_cue": "Inside the hot",
+    "action": "Particles enter modeled jet core, deposit grows on hot section.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "blocked",
+    "ru_cue": "Поток воздуха",
+    "en_cue": "Airflow was",
+    "action": "Reduced arrows, deposits and combustion lost; labeled causal sequence.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "escape",
+    "ru_cue": "И здесь",
+    "en_cue": "Then something",
+    "action": "Aircraft leaves illustrated ash region while descending.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "clear",
+    "ru_cue": "Остывая",
+    "en_cue": "The deposits cooled",
+    "action": "Cooling / deposits break away; visible core opens, no mechanical repair invented.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "restart",
+    "ru_cue": "Примерно через",
+    "en_cue": "After roughly",
+    "action": "About 15 minutes without thrust; restart indicators return.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "oneoff",
+    "ru_cue": "Один вскоре",
+    "en_cue": "One soon",
+    "action": "Number 2 is shut down again; three remain operating.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "cockpit",
+    "ru_cue": "Но испытание",
+    "en_cue": "But the ordeal",
+    "action": "Abraded windscreen restricts visibility; modeled cockpit.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "landing",
+    "ru_cue": "Они всё же",
+    "en_cue": "They still",
+    "action": "Aircraft with landing gear on runway, Jakarta.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "safe",
+    "ru_cue": "Все на борту",
+    "en_cue": "Everyone on board",
+    "action": "Survival revealed; all aboard survived, avoid disputed passenger totals.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  {
+    "visual": "evidence",
+    "ru_cue": "Четыре двигателя",
+    "en_cue": "It was not",
+    "action": "Real damaged components photo from 2008 museum display, full object context.",
+    "source": "BBC captain account / RNZ eyewitnesses; assets.json",
+    "fixed_orientation": "model camera stable; overview/detail preserves direction",
+    "reveal_gate": "no ash image/name before volcano cue; no survival before safe/landing",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  }
+]

@@ -1,0 +1,219 @@
+1
+00:00:00,050 --> 00:00:01,388
+A passenger jet lost
+
+2
+00:00:01,388 --> 00:00:03,292
+its engines, one after another.
+
+3
+00:00:03,423 --> 00:00:04,403
+All four.
+
+4
+00:00:04,512 --> 00:00:05,562
+A strange blue glow
+
+5
+00:00:05,562 --> 00:00:07,155
+appeared outside the windows.
+
+6
+00:00:07,314 --> 00:00:08,202
+The crew had no
+
+7
+00:00:08,202 --> 00:00:09,682
+idea what was happening.
+
+8
+00:00:09,901 --> 00:00:12,234
+June twenty-fourth, nineteen eighty-two.
+
+9
+00:00:12,416 --> 00:00:14,464
+A Boeing flies over Indonesia.
+
+10
+00:00:14,620 --> 00:00:16,161
+Smoke enters the cabin.
+
+11
+00:00:16,327 --> 00:00:17,416
+The aircraft can no
+
+12
+00:00:17,416 --> 00:00:18,982
+longer maintain altitude.
+
+13
+00:00:19,148 --> 00:00:20,088
+The pilots try to
+
+14
+00:00:20,088 --> 00:00:21,394
+restart the engines.
+
+15
+00:00:21,571 --> 00:00:22,777
+Again and again.
+
+16
+00:00:22,952 --> 00:00:23,998
+Nothing works.
+
+17
+00:00:24,145 --> 00:00:25,587
+Below them is the ocean.
+
+18
+00:00:25,807 --> 00:00:26,582
+But fuel was
+
+19
+00:00:26,582 --> 00:00:27,575
+not the problem.
+
+20
+00:00:27,738 --> 00:00:28,938
+The aircraft had entered
+
+21
+00:00:28,938 --> 00:00:30,568
+a cloud of volcanic ash.
+
+22
+00:00:30,707 --> 00:00:31,907
+At night, the crew
+
+23
+00:00:31,907 --> 00:00:32,962
+had not seen it.
+
+24
+00:00:33,092 --> 00:00:34,180
+Their weather radar did
+
+25
+00:00:34,180 --> 00:00:34,867
+not reveal the
+
+26
+00:00:34,867 --> 00:00:35,810
+dry ash either.
+
+27
+00:00:35,949 --> 00:00:37,341
+Inside the hot engines,
+
+28
+00:00:37,461 --> 00:00:38,536
+particles melted and
+
+29
+00:00:38,536 --> 00:00:39,741
+stuck to components.
+
+30
+00:00:39,891 --> 00:00:41,483
+Airflow was disrupted.
+
+31
+00:00:41,617 --> 00:00:43,097
+The engines flamed out.
+
+32
+00:00:43,317 --> 00:00:45,335
+Then something unexpected happened.
+
+33
+00:00:45,497 --> 00:00:47,027
+As the aircraft descended,
+
+34
+00:00:47,097 --> 00:00:48,402
+it left the ash cloud.
+
+35
+00:00:48,557 --> 00:00:50,362
+The deposits cooled, hardened,
+
+36
+00:00:50,407 --> 00:00:51,374
+and broke away.
+
+37
+00:00:51,541 --> 00:00:53,029
+After roughly fifteen minutes
+
+38
+00:00:53,029 --> 00:00:54,441
+without thrust, the crew
+
+39
+00:00:54,441 --> 00:00:55,746
+restarted the engines.
+
+40
+00:00:55,873 --> 00:00:56,810
+One soon had to
+
+41
+00:00:56,810 --> 00:00:58,028
+be shut down again.
+
+42
+00:00:58,249 --> 00:00:59,104
+But the ordeal
+
+43
+00:00:59,104 --> 00:01:00,101
+was not over.
+
+44
+00:01:00,224 --> 00:01:02,241
+Ash had damaged the windscreens.
+
+45
+00:01:02,375 --> 00:01:03,587
+The pilots could barely
+
+46
+00:01:03,587 --> 00:01:04,610
+see the runway.
+
+47
+00:01:04,743 --> 00:01:05,801
+They still managed to
+
+48
+00:01:05,801 --> 00:01:07,054
+land in Jakarta.
+
+49
+00:01:07,199 --> 00:01:08,961
+Everyone on board survived.
+
+50
+00:01:09,104 --> 00:01:09,742
+It was not a
+
+51
+00:01:09,742 --> 00:01:10,660
+massive storm that
+
+52
+00:01:10,660 --> 00:01:11,951
+stopped four engines.
+
+53
+00:01:12,084 --> 00:01:13,448
+It was tiny particles
+
+54
+00:01:13,448 --> 00:01:14,086
+the crew had
+
+55
+00:01:14,086 --> 00:01:15,211
+never even seen.

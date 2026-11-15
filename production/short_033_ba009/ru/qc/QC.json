@@ -1,0 +1,47 @@
+{
+  "language": "ru",
+  "file": "SNG_033_BA009_RU_PREVIEW.mp4",
+  "duration": 80.133333,
+  "bytes": 8601117,
+  "sha256": "67db2326b9c6f901665487104e9324b104f9bf156c3f6db5f1c132249e2f3f24",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec_name": "h264",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "faststart": true,
+  "full_decode_ok": true,
+  "loudness": {
+    "input_i": "-16.09",
+    "input_tp": "-4.31",
+    "input_lra": "1.90",
+    "input_thresh": "-26.56",
+    "output_i": "-16.00",
+    "output_tp": "-4.15",
+    "output_lra": "1.70",
+    "output_thresh": "-26.46",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.00"
+  },
+  "black_frames": [],
+  "captions": 48,
+  "single_word_sentence_exceptions": [
+    {
+      "start": 25.855665000000013,
+      "end": 27.18616500000001,
+      "words": 1,
+      "text": "Безрезультатно."
+    }
+  ],
+  "failures": [],
+  "auditory_review": false,
+  "encoded_frame_review": "Reviewed start/middle/end samples of all 22 scenes (66 frames per language), plus full-resolution Russian engine/subtitle frame; no material clipping or overlay collisions observed.",
+  "preview_not_approved": true
+}

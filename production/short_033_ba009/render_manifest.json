@@ -1,0 +1,33 @@
+{
+  "project": "SNG_033_BA009",
+  "status": "preview for review",
+  "source_hashes": {
+    "scene3d.py": "d723a7a30754a23bbed44dc0bb7f903ef7590c640662d782a996238e2c4d550e",
+    "visuals.py": "900aa7ebed991fd19af7ec123520aab8d87c5efd6a99f9a6225acfb51c41c201",
+    "build.py": "834fdf511a40d217c4f4de719e72405630a72d09ddd21fce0fc2d9f5f192e389",
+    "voice.py": "6ee64a494393a0a49e6c9b67e231c56b5938381e12bd173afd3a21a4bb691ce2",
+    "pace.py": "09ce04776c7709711ba567cef84b80bcf0047c88ef9b389f961bba75b9022f9b",
+    "human_model.py": "4bd377c7e85a9a70564bd5a350b908638011e9e78803d70f94998875f10310c4",
+    "region_cache.py": "8473f26041525d0ad2df61a843f151c8bf46b54a8b4aa329ea840e7ef00ce5ba",
+    "shot_plan.json": "486b8739199a2d02e47c8f8af538710fcb34f281a64a117e5a91eb53dd5bd209",
+    "assets.json": "63933a7cbf2a9b9b5cd574290a14ce26ba2dab4f4048311ba478ab5265cc4af7"
+  },
+  "render_resolution": [
+    720,
+    1280
+  ],
+  "composition_resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "engine": "Blender 4.3.2 Cycles CPU / 12 samples / OpenImageDenoise",
+  "camera": "fixed; no artificial shake",
+  "languages": [
+    "ru",
+    "en"
+  ],
+  "new_auditory_review": false,
+  "reused_approved_workflow": "Squalus V4; new models/narration/timelines",
+  "region_cache_note": "Unchanged-background reuse based on full-frame probe comparisons. Static branch changes (radar/cabin) do not alter dynamic engine probes. Clear glow disabled and glide eased before those branch renders."
+}

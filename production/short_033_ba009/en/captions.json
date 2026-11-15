@@ -1,0 +1,332 @@
+[
+  {
+    "start": 0.05,
+    "end": 1.3875,
+    "words": 4,
+    "text": "A passenger jet lost"
+  },
+  {
+    "start": 1.3875,
+    "end": 3.2925,
+    "words": 5,
+    "text": "its engines, one after another."
+  },
+  {
+    "start": 3.4233119999999997,
+    "end": 4.403312000000001,
+    "words": 2,
+    "text": "All four."
+  },
+  {
+    "start": 4.5120830000000005,
+    "end": 5.562083000000001,
+    "words": 4,
+    "text": "A strange blue glow"
+  },
+  {
+    "start": 5.562083000000001,
+    "end": 7.154583,
+    "words": 4,
+    "text": "appeared outside the windows."
+  },
+  {
+    "start": 7.3140209999999986,
+    "end": 8.201521,
+    "words": 4,
+    "text": "The crew had no"
+  },
+  {
+    "start": 8.201521,
+    "end": 9.681521,
+    "words": 4,
+    "text": "idea what was happening."
+  },
+  {
+    "start": 9.901020999999998,
+    "end": 12.233977999999999,
+    "words": 4,
+    "text": "June twenty-fourth, nineteen eighty-two."
+  },
+  {
+    "start": 12.416040999999996,
+    "end": 14.464374,
+    "words": 5,
+    "text": "A Boeing flies over Indonesia."
+  },
+  {
+    "start": 14.619936999999998,
+    "end": 16.160853,
+    "words": 4,
+    "text": "Smoke enters the cabin."
+  },
+  {
+    "start": 16.326874,
+    "end": 17.415957000000002,
+    "words": 4,
+    "text": "The aircraft can no"
+  },
+  {
+    "start": 17.415957000000002,
+    "end": 18.981582,
+    "words": 3,
+    "text": "longer maintain altitude."
+  },
+  {
+    "start": 19.147874,
+    "end": 20.088458000000003,
+    "words": 4,
+    "text": "The pilots try to"
+  },
+  {
+    "start": 20.088458000000003,
+    "end": 21.394164999999997,
+    "words": 3,
+    "text": "restart the engines."
+  },
+  {
+    "start": 21.570708000000003,
+    "end": 22.777416,
+    "words": 3,
+    "text": "Again and again."
+  },
+  {
+    "start": 22.952104000000006,
+    "end": 23.997937000000004,
+    "words": 2,
+    "text": "Nothing works."
+  },
+  {
+    "start": 24.14547900000001,
+    "end": 25.58735300000001,
+    "words": 5,
+    "text": "Below them is the ocean."
+  },
+  {
+    "start": 25.807333500000013,
+    "end": 26.58233350000001,
+    "words": 3,
+    "text": "But fuel was"
+  },
+  {
+    "start": 26.58233350000001,
+    "end": 27.574833500000008,
+    "words": 3,
+    "text": "not the problem."
+  },
+  {
+    "start": 27.737708500000004,
+    "end": 28.937708500000006,
+    "words": 4,
+    "text": "The aircraft had entered"
+  },
+  {
+    "start": 28.937708500000006,
+    "end": 30.567708500000006,
+    "words": 5,
+    "text": "a cloud of volcanic ash."
+  },
+  {
+    "start": 30.7065835,
+    "end": 31.906583499999996,
+    "words": 4,
+    "text": "At night, the crew"
+  },
+  {
+    "start": 31.906583499999996,
+    "end": 32.961583499999996,
+    "words": 4,
+    "text": "had not seen it."
+  },
+  {
+    "start": 33.092375499999996,
+    "end": 34.179875499999994,
+    "words": 4,
+    "text": "Their weather radar did"
+  },
+  {
+    "start": 34.179875499999994,
+    "end": 34.867375499999994,
+    "words": 3,
+    "text": "not reveal the"
+  },
+  {
+    "start": 34.867375499999994,
+    "end": 35.8098755,
+    "words": 3,
+    "text": "dry ash either."
+  },
+  {
+    "start": 35.94897949999999,
+    "end": 37.3414795,
+    "words": 4,
+    "text": "Inside the hot engines,"
+  },
+  {
+    "start": 37.461479499999996,
+    "end": 38.5364795,
+    "words": 3,
+    "text": "particles melted and"
+  },
+  {
+    "start": 38.5364795,
+    "end": 39.7414795,
+    "words": 3,
+    "text": "stuck to components."
+  },
+  {
+    "start": 39.890792499999996,
+    "end": 41.48329249999999,
+    "words": 3,
+    "text": "Airflow was disrupted."
+  },
+  {
+    "start": 41.61710549999998,
+    "end": 43.09710549999999,
+    "words": 4,
+    "text": "The engines flamed out."
+  },
+  {
+    "start": 43.31710549999998,
+    "end": 45.33460549999999,
+    "words": 4,
+    "text": "Then something unexpected happened."
+  },
+  {
+    "start": 45.49650149999998,
+    "end": 47.02650149999998,
+    "words": 4,
+    "text": "As the aircraft descended,"
+  },
+  {
+    "start": 47.09650149999998,
+    "end": 48.40150149999998,
+    "words": 5,
+    "text": "it left the ash cloud."
+  },
+  {
+    "start": 48.55673049999998,
+    "end": 50.36173049999998,
+    "words": 4,
+    "text": "The deposits cooled, hardened,"
+  },
+  {
+    "start": 50.40673049999997,
+    "end": 51.37423049999998,
+    "words": 3,
+    "text": "and broke away."
+  },
+  {
+    "start": 51.54148049999997,
+    "end": 53.028980499999975,
+    "words": 4,
+    "text": "After roughly fifteen minutes"
+  },
+  {
+    "start": 53.028980499999975,
+    "end": 54.44148049999997,
+    "words": 4,
+    "text": "without thrust, the crew"
+  },
+  {
+    "start": 54.44148049999997,
+    "end": 55.74648049999997,
+    "words": 3,
+    "text": "restarted the engines."
+  },
+  {
+    "start": 55.87293849999996,
+    "end": 56.81043849999996,
+    "words": 4,
+    "text": "One soon had to"
+  },
+  {
+    "start": 56.81043849999996,
+    "end": 58.02793849999997,
+    "words": 4,
+    "text": "be shut down again."
+  },
+  {
+    "start": 58.248938499999966,
+    "end": 59.103563499999964,
+    "words": 3,
+    "text": "But the ordeal"
+  },
+  {
+    "start": 59.103563499999964,
+    "end": 60.10089549999997,
+    "words": 3,
+    "text": "was not over."
+  },
+  {
+    "start": 60.22352149999996,
+    "end": 62.24122949999995,
+    "words": 5,
+    "text": "Ash had damaged the windscreens."
+  },
+  {
+    "start": 62.37539649999995,
+    "end": 63.587146499999946,
+    "words": 4,
+    "text": "The pilots could barely"
+  },
+  {
+    "start": 63.587146499999946,
+    "end": 64.60997949999995,
+    "words": 3,
+    "text": "see the runway."
+  },
+  {
+    "start": 64.74262649999994,
+    "end": 65.80129249999995,
+    "words": 4,
+    "text": "They still managed to"
+  },
+  {
+    "start": 65.80129249999995,
+    "end": 67.05375149999993,
+    "words": 3,
+    "text": "land in Jakarta."
+  },
+  {
+    "start": 67.19852249999994,
+    "end": 68.96114749999994,
+    "words": 4,
+    "text": "Everyone on board survived."
+  },
+  {
+    "start": 69.10383549999993,
+    "end": 69.74158549999993,
+    "words": 4,
+    "text": "It was not a"
+  },
+  {
+    "start": 69.74158549999993,
+    "end": 70.65996049999994,
+    "words": 3,
+    "text": "massive storm that"
+  },
+  {
+    "start": 70.65996049999994,
+    "end": 71.95066849999994,
+    "words": 3,
+    "text": "stopped four engines."
+  },
+  {
+    "start": 72.08358449999993,
+    "end": 73.44837649999992,
+    "words": 4,
+    "text": "It was tiny particles"
+  },
+  {
+    "start": 73.44837649999992,
+    "end": 74.08616849999993,
+    "words": 3,
+    "text": "the crew had"
+  },
+  {
+    "start": 74.08616849999993,
+    "end": 75.21104249999992,
+    "words": 3,
+    "text": "never even seen."
+  }
+]

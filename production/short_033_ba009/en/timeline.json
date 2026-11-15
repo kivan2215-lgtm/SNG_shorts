@@ -1,0 +1,112 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.433333333333333,
+    "visual": "fail"
+  },
+  {
+    "start": 3.433333333333333,
+    "end": 4.5,
+    "visual": "alloff"
+  },
+  {
+    "start": 4.5,
+    "end": 7.3,
+    "visual": "glow"
+  },
+  {
+    "start": 7.3,
+    "end": 9.9,
+    "visual": "question"
+  },
+  {
+    "start": 9.9,
+    "end": 14.633333333333333,
+    "visual": "archive"
+  },
+  {
+    "start": 14.633333333333333,
+    "end": 16.333333333333332,
+    "visual": "cabin"
+  },
+  {
+    "start": 16.333333333333332,
+    "end": 19.133333333333333,
+    "visual": "glide"
+  },
+  {
+    "start": 19.133333333333333,
+    "end": 24.133333333333333,
+    "visual": "attempt"
+  },
+  {
+    "start": 24.133333333333333,
+    "end": 25.8,
+    "visual": "ocean"
+  },
+  {
+    "start": 25.8,
+    "end": 27.733333333333334,
+    "visual": "turn"
+  },
+  {
+    "start": 27.733333333333334,
+    "end": 30.7,
+    "visual": "volcano"
+  },
+  {
+    "start": 30.7,
+    "end": 35.93333333333333,
+    "visual": "radar"
+  },
+  {
+    "start": 35.93333333333333,
+    "end": 39.9,
+    "visual": "deposit"
+  },
+  {
+    "start": 39.9,
+    "end": 43.333333333333336,
+    "visual": "blocked"
+  },
+  {
+    "start": 43.333333333333336,
+    "end": 48.56666666666667,
+    "visual": "escape"
+  },
+  {
+    "start": 48.56666666666667,
+    "end": 51.53333333333333,
+    "visual": "clear"
+  },
+  {
+    "start": 51.53333333333333,
+    "end": 55.86666666666667,
+    "visual": "restart"
+  },
+  {
+    "start": 55.86666666666667,
+    "end": 58.233333333333334,
+    "visual": "oneoff"
+  },
+  {
+    "start": 58.233333333333334,
+    "end": 64.73333333333333,
+    "visual": "cockpit"
+  },
+  {
+    "start": 64.73333333333333,
+    "end": 67.2,
+    "visual": "landing"
+  },
+  {
+    "start": 67.2,
+    "end": 69.1,
+    "visual": "safe"
+  },
+  {
+    "start": 69.1,
+    "end": 75.53333333333333,
+    "visual": "evidence"
+  }
+]

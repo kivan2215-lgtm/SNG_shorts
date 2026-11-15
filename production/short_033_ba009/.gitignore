@@ -1,0 +1,7 @@
+__pycache__/
+frames/
+research/
+tests/
+*.log
+ru/*.mp4
+en/*.mp4
