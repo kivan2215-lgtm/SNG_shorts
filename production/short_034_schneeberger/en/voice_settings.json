@@ -1,0 +1,42 @@
+{
+  "voice": "en-US-GuyNeural",
+  "duration": 92.77833333333334,
+  "paragraphs": [
+    {
+      "paragraph": 0,
+      "start": 0,
+      "end": 13.8525,
+      "rate": "+0%",
+      "pitch": "+1Hz"
+    },
+    {
+      "paragraph": 1,
+      "start": 14.0125,
+      "end": 32.3826875,
+      "rate": "+1%",
+      "pitch": "+1Hz"
+    },
+    {
+      "paragraph": 2,
+      "start": 32.5426875,
+      "end": 57.8951875,
+      "rate": "+0%",
+      "pitch": "+1Hz"
+    },
+    {
+      "paragraph": 3,
+      "start": 58.055187499999995,
+      "end": 75.1951875,
+      "rate": "+0%",
+      "pitch": "-2Hz"
+    },
+    {
+      "paragraph": 4,
+      "start": 75.3551875,
+      "end": 92.77833333333334,
+      "rate": "-2%",
+      "pitch": "-2Hz"
+    }
+  ],
+  "source_preset": "SNG 016 V2 / persistent master settings"
+}

@@ -1,0 +1,10 @@
+{
+  "ru": {
+    "aac_sha256": "1fb0cb49bd8bc4397a3fdd75094aaceffe7e84316a80e11650d905e58ac8b46d",
+    "bit_identical": true
+  },
+  "en": {
+    "aac_sha256": "5f23440ad633a3a3bb9446c7cf000290cc80e4b9ffb4191c0c214da182c7285e",
+    "bit_identical": true
+  }
+}

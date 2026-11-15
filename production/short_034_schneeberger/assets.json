@@ -1,0 +1,27 @@
+[
+  {
+    "key": "doctor",
+    "file": "assets/doctor.jpg",
+    "subject": "John Schneeberger",
+    "source_page": "https://www.crimemagazine.com/rapist-md-0",
+    "file_url": "https://www.crimemagazine.com/images/John_Schneeberger.jpg",
+    "publication": "Lona Manning, Rapist, M.D., 3 April 2003",
+    "capture_date": "not stated",
+    "native_resolution": [
+      200,
+      224
+    ],
+    "rights": "Publisher photograph; no open license identified. Continuing project uses user-reported publication permissions; not independently verified. No public-domain claim.",
+    "usage": "Brief factual identification, full original image retained; no generated facial detail",
+    "reviewed": true
+  },
+  {
+    "key": "canada",
+    "file": "assets/canada.geojson",
+    "source": "Natural Earth 110m admin-0",
+    "url": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson",
+    "license": "Public domain",
+    "usage": "Geographic locator only; approximate Kipling marker",
+    "reviewed": true
+  }
+]

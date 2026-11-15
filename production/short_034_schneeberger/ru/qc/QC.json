@@ -1,0 +1,48 @@
+{
+  "language": "ru",
+  "file": "SNG_034_Schneeberger_RU_PREVIEW.mp4",
+  "duration": 83.033333,
+  "bytes": 8048055,
+  "sha256": "f8ee704325cc7472bcb06b42b9f8d8f4869f2795668c02e1fd33a4a5551040f2",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec_name": "h264",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "faststart": true,
+  "full_decode_ok": true,
+  "loudness": {
+    "input_i": "-15.93",
+    "input_tp": "-4.35",
+    "input_lra": "1.80",
+    "input_thresh": "-26.33",
+    "output_i": "-15.94",
+    "output_tp": "-4.22",
+    "output_lra": "1.70",
+    "output_thresh": "-26.34",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.06"
+  },
+  "black_frames": [],
+  "captions": 48,
+  "single_word_sentence_exceptions": [
+    {
+      "start": 12.112354,
+      "end": 12.910687,
+      "words": 1,
+      "text": "Канада."
+    }
+  ],
+  "failures": [],
+  "auditory_review": false,
+  "encoded_frame_review": "Reviewed start/middle/end samples of all29 scenes (87 frames per language), final second-allegation replacement, and full-resolution tube/subtitle layout. No material overlap or clipped subject observed.",
+  "preview_not_approved": true,
+  "audio_preserved_after_visual_revision": true
+}

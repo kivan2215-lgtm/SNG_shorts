@@ -1,0 +1,524 @@
+[
+  {
+    "language": "ru",
+    "start": 0.0,
+    "end": 2.566666666666667,
+    "visual": "accuse",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 2.566666666666667,
+    "end": 5.2,
+    "visual": "first",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 5.2,
+    "end": 7.266666666666667,
+    "visual": "double",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 7.266666666666667,
+    "end": 8.533333333333333,
+    "visual": "doubt",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 8.533333333333333,
+    "end": 12.1,
+    "visual": "promise",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 12.1,
+    "end": 15.233333333333333,
+    "visual": "date",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 15.233333333333333,
+    "end": 19.066666666666666,
+    "visual": "patient",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 19.066666666666666,
+    "end": 22.033333333333335,
+    "visual": "blood",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 22.033333333333335,
+    "end": 23.466666666666665,
+    "visual": "negative",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 23.466666666666665,
+    "end": 26.166666666666668,
+    "visual": "retest",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 26.166666666666668,
+    "end": 27.633333333333333,
+    "visual": "same",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 27.633333333333333,
+    "end": 29.566666666666666,
+    "visual": "closed",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 29.566666666666666,
+    "end": 31.133333333333333,
+    "visual": "persist",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 31.133333333333333,
+    "end": 34.666666666666664,
+    "visual": "car",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 34.666666666666664,
+    "end": 36.8,
+    "visual": "balm",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 36.8,
+    "end": 39.4,
+    "visual": "match",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 39.4,
+    "end": 43.166666666666664,
+    "visual": "contradiction",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 43.166666666666664,
+    "end": 45.86666666666667,
+    "visual": "second",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 45.86666666666667,
+    "end": 47.733333333333334,
+    "visual": "reopen",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 47.733333333333334,
+    "end": 52.3,
+    "visual": "hair",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 52.3,
+    "end": 55.46666666666667,
+    "visual": "court",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 55.46666666666667,
+    "end": 57.46666666666667,
+    "visual": "tube",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 57.46666666666667,
+    "end": 58.63333333333333,
+    "visual": "foreign",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 58.63333333333333,
+    "end": 62.06666666666667,
+    "visual": "draw",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 62.06666666666667,
+    "end": 66.6,
+    "visual": "switch",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 66.6,
+    "end": 73.03333333333333,
+    "visual": "verdict",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 73.03333333333333,
+    "end": 75.16666666666667,
+    "visual": "sentence",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 75.16666666666667,
+    "end": 78.3,
+    "visual": "seven",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "ru",
+    "start": 78.3,
+    "end": 83.03333333333333,
+    "visual": "question",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 0.0,
+    "end": 2.966666666666667,
+    "visual": "accuse",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 2.966666666666667,
+    "end": 5.0,
+    "visual": "first",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 5.0,
+    "end": 7.233333333333333,
+    "visual": "double",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 7.233333333333333,
+    "end": 8.4,
+    "visual": "doubt",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 8.4,
+    "end": 11.066666666666666,
+    "visual": "promise",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 11.066666666666666,
+    "end": 13.633333333333333,
+    "visual": "date",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 13.633333333333333,
+    "end": 16.433333333333334,
+    "visual": "patient",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 16.433333333333334,
+    "end": 18.966666666666665,
+    "visual": "blood",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 18.966666666666665,
+    "end": 20.033333333333335,
+    "visual": "negative",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 20.033333333333335,
+    "end": 21.966666666666665,
+    "visual": "retest",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 21.966666666666665,
+    "end": 23.266666666666666,
+    "visual": "same",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 23.266666666666666,
+    "end": 25.466666666666665,
+    "visual": "closed",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 25.466666666666665,
+    "end": 27.266666666666666,
+    "visual": "persist",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 27.266666666666666,
+    "end": 30.9,
+    "visual": "car",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 30.9,
+    "end": 32.93333333333333,
+    "visual": "balm",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 32.93333333333333,
+    "end": 35.56666666666667,
+    "visual": "match",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 35.56666666666667,
+    "end": 38.4,
+    "visual": "contradiction",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 38.4,
+    "end": 40.733333333333334,
+    "visual": "second",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 40.733333333333334,
+    "end": 43.1,
+    "visual": "reopen",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 43.1,
+    "end": 46.8,
+    "visual": "hair",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 46.8,
+    "end": 50.166666666666664,
+    "visual": "court",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 50.166666666666664,
+    "end": 51.3,
+    "visual": "tube",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 51.3,
+    "end": 53.7,
+    "visual": "foreign",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 53.7,
+    "end": 57.233333333333334,
+    "visual": "draw",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 57.233333333333334,
+    "end": 61.733333333333334,
+    "visual": "switch",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 61.733333333333334,
+    "end": 67.43333333333334,
+    "visual": "verdict",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 67.43333333333334,
+    "end": 69.66666666666667,
+    "visual": "sentence",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 69.66666666666667,
+    "end": 73.0,
+    "visual": "seven",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  },
+  {
+    "language": "en",
+    "start": 73.0,
+    "end": 77.53333333333333,
+    "visual": "question",
+    "narration_binding": "unique word-boundary cue in build.py",
+    "source": "SOURCES.md",
+    "reveal_gate": "tube hidden until tube; foreign blood label begins on the exact foreign-blood phrase; verdict appears only in final paragraph"
+  }
+]
