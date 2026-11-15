@@ -1,0 +1,22 @@
+{
+  "content_commit": "baf2bbe",
+  "verified_utc": "2026-11-15T13:43:36.203167+00:00",
+  "files": [
+    {
+      "language": "ru",
+      "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_034_Schneeberger_RU_PREVIEW.mp4",
+      "http_status": 200,
+      "bytes": 8048055,
+      "sha256": "f8ee704325cc7472bcb06b42b9f8d8f4869f2795668c02e1fd33a4a5551040f2",
+      "full_download_matches": true
+    },
+    {
+      "language": "en",
+      "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_034_Schneeberger_EN_PREVIEW.mp4",
+      "http_status": 200,
+      "bytes": 7326258,
+      "sha256": "1c7ad892036d65cb4c210c52fcf74a5d330cf1ee2752d64658a2b3c9067d3a10",
+      "full_download_matches": true
+    }
+  ]
+}
