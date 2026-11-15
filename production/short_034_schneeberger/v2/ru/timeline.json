@@ -1,0 +1,147 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.566666666666667,
+    "visual": "accuse"
+  },
+  {
+    "start": 2.566666666666667,
+    "end": 5.2,
+    "visual": "first"
+  },
+  {
+    "start": 5.2,
+    "end": 7.266666666666667,
+    "visual": "double"
+  },
+  {
+    "start": 7.266666666666667,
+    "end": 8.533333333333333,
+    "visual": "doubt"
+  },
+  {
+    "start": 8.533333333333333,
+    "end": 12.1,
+    "visual": "promise"
+  },
+  {
+    "start": 12.1,
+    "end": 15.2,
+    "visual": "date"
+  },
+  {
+    "start": 15.2,
+    "end": 19.066666666666666,
+    "visual": "patient"
+  },
+  {
+    "start": 19.066666666666666,
+    "end": 22.0,
+    "visual": "blood"
+  },
+  {
+    "start": 22.0,
+    "end": 23.433333333333334,
+    "visual": "negative"
+  },
+  {
+    "start": 23.433333333333334,
+    "end": 26.133333333333333,
+    "visual": "retest"
+  },
+  {
+    "start": 26.133333333333333,
+    "end": 27.6,
+    "visual": "same"
+  },
+  {
+    "start": 27.6,
+    "end": 29.533333333333335,
+    "visual": "closed"
+  },
+  {
+    "start": 29.533333333333335,
+    "end": 31.1,
+    "visual": "persist"
+  },
+  {
+    "start": 31.1,
+    "end": 34.63333333333333,
+    "visual": "car"
+  },
+  {
+    "start": 34.63333333333333,
+    "end": 36.766666666666666,
+    "visual": "balm"
+  },
+  {
+    "start": 36.766666666666666,
+    "end": 39.4,
+    "visual": "match"
+  },
+  {
+    "start": 39.4,
+    "end": 43.13333333333333,
+    "visual": "contradiction"
+  },
+  {
+    "start": 43.13333333333333,
+    "end": 45.833333333333336,
+    "visual": "second"
+  },
+  {
+    "start": 45.833333333333336,
+    "end": 47.7,
+    "visual": "reopen"
+  },
+  {
+    "start": 47.7,
+    "end": 52.3,
+    "visual": "hair"
+  },
+  {
+    "start": 52.3,
+    "end": 55.5,
+    "visual": "court"
+  },
+  {
+    "start": 55.5,
+    "end": 57.46666666666667,
+    "visual": "tube"
+  },
+  {
+    "start": 57.46666666666667,
+    "end": 58.6,
+    "visual": "foreign"
+  },
+  {
+    "start": 58.6,
+    "end": 62.03333333333333,
+    "visual": "draw"
+  },
+  {
+    "start": 62.03333333333333,
+    "end": 66.56666666666666,
+    "visual": "switch"
+  },
+  {
+    "start": 66.56666666666666,
+    "end": 73.0,
+    "visual": "verdict"
+  },
+  {
+    "start": 73.0,
+    "end": 75.13333333333334,
+    "visual": "sentence"
+  },
+  {
+    "start": 75.13333333333334,
+    "end": 78.26666666666667,
+    "visual": "seven"
+  },
+  {
+    "start": 78.26666666666667,
+    "end": 82.96666666666667,
+    "visual": "question"
+  }
+]

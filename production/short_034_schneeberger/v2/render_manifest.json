@@ -1,0 +1,31 @@
+{
+  "project": "SNG_034_Schneeberger",
+  "status": "full preview for review",
+  "source_hashes": {
+    "scene3d.py": "ac4ed26f069317ee27279662f89d1d99fd42039fb49ca37fd8183d3b2c974f5b",
+    "visuals.py": "6f7d0b0eb5f0c2c181484bad4a2330dbe1969f86a429651718f54fc0ed902f72",
+    "build.py": "1b0d72c3913bc85a21d2842efc9a8d1283da04992c91150bf219484a9137e02d",
+    "voice.py": "8ea40a9daec9f21b163fb9295f1f1d3316644bde223504d1374bb8d623fe9818",
+    "pace.py": "6361705e6507c75caf0f89d0d40eca23332808d54ee05ad1d1af0ea13177182f",
+    "region_cache.py": "8473f26041525d0ad2df61a843f151c8bf46b54a8b4aa329ea840e7ef00ce5ba",
+    "shot_plan.json": "c2522532aa9eb9d1d266604883f70eaf3ca61ee5858a1a71716cae0632493d02",
+    "assets.json": "c7636137caf8b82aeb1b9b10140ccfe0e9cf3d7f6fb988d5f7013a1d28954810"
+  },
+  "render_resolution": [
+    720,
+    1280
+  ],
+  "composition_resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "engine": "Blender4.3.2 Cycles CPU,16samples,denoising",
+  "animation": "31 native30fps hinge frames, one-second action; independent30fps overlay animation; no optical flow",
+  "source_preservation": "Unchanged folder probes reused only within the same folder geometry/light/camera branch. Later source edits affected the arm, car and clinic branches independently.",
+  "voice_speed_change": false,
+  "auditory_review": false,
+  "new_story_reason": "User rejected BA009 narrative; requested true incident with escalating revelations and meaningful discussion",
+  "persistent_rule": "11_STORY_RETENTION_AND_DISCUSSION.md",
+  "visual_revision": "Second-allegation scene changed from a clinic to a generic statement/file to avoid implying an unverified assault location; narration and music unchanged."
+}

@@ -1,0 +1,47 @@
+{
+  "language": "en",
+  "file": "SNG_034_Schneeberger_EN_PREVIEW_V2.mp4",
+  "duration": 77.533333,
+  "bytes": 8018658,
+  "sha256": "bb3f456d7d212cc1c2d01dde6936115bade0151ff3c2ba9791dca15c797ed4c3",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec_name": "h264",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "faststart": true,
+  "full_decode_ok": true,
+  "loudness": {
+    "input_i": "-16.33",
+    "input_tp": "-4.33",
+    "input_lra": "1.60",
+    "input_thresh": "-26.69",
+    "output_i": "-15.97",
+    "output_tp": "-4.01",
+    "output_lra": "1.60",
+    "output_thresh": "-26.34",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.03"
+  },
+  "black_frames": [],
+  "captions": 60,
+  "single_word_sentence_exceptions": [
+    {
+      "start": 11.059061999999997,
+      "end": 11.882144999999998,
+      "words": 1,
+      "text": "Canada."
+    }
+  ],
+  "failures": [],
+  "auditory_review": false,
+  "encoded_frame_review": "Reviewed contact sheets: start/middle/end of all 29 shots; no blocking visual or caption defects found",
+  "preview_not_approved": true
+}

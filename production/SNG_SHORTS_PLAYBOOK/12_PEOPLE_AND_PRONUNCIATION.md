@@ -1,0 +1,4 @@
+# Feedback on episode 034, V2 revision
+User requests more people, richer color and detailed functional animation; avoid long runs of empty grey models. Alternate people performing relevant actions with close views of the evidence and explanatory models. Keep faces/hands visible. Avoid shakes and continuous zoom. Illustrative anonymous people must not be described as archival participants.
+Russian stress targets: ко́жей, во́лосы, правосу́дие / правосу́дию. Combining acute marks alone did not meet the user's expectations. V2 resynthesized complete paragraphs with alternate capital-vowel cues, retaining DmitryNeural. These input cues are not guaranteed phoneme control. Never report listening review unless actually performed. V2 awaits user review; it is not an approved pronunciation reference.
+Persist separate Russian and English videos, aligned subtitles, source records and directly downloadable MP4 links.
