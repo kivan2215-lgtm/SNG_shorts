@@ -1,0 +1,16 @@
+[
+  {
+    "language": "ru",
+    "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_035_Cilliers_RU_PREVIEW.mp4",
+    "bytes": 11108593,
+    "sha256": "6662d6f3efd68eedbae013f9b864083625bc4dc18c06719c8ce03efe53a3ebf5",
+    "verified_utc": "2026-11-15T17:31:54.956500+00:00"
+  },
+  {
+    "language": "en",
+    "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_035_Cilliers_EN_PREVIEW.mp4",
+    "bytes": 10275175,
+    "sha256": "9a3b5964720967b656f54ff3c5b0518c51ab22f4dd136e383c2db51bd3b7dd96",
+    "verified_utc": "2026-11-15T17:31:55.031099+00:00"
+  }
+]
