@@ -1,0 +1,49 @@
+{
+  "episode": 36,
+  "status": "preview_pending_user_review",
+  "files": {
+    "stage_project.py": "d095179dc3d222ad9f7a451f27e393e6ef60cad1b6535c95dabae7916745505a",
+    "pace.py": "50023d66b4f6f4785d2537d9963dc9e48375eef59e1d59536cadcebbfdee1fae",
+    "build.py": "118eeb2152ed83baa68f24b4a7bc453cc89a926952de4a55a28d2d69cc13b43f",
+    "scene3d.py": "845a5ed0c4f56eb832da1159c59370af334c93e17f5ab68afe5337bb02675690",
+    "make_plan.py": "5c71b938632e5bd3d4229b737669ec63e0e50b2c0b7c5c7dca28224372090e7d",
+    "finish_render.py": "4eec8dfc4cbc8cc7ea22173d217fad287978f67dc9caee4ab0a6fe2ae1c4a843",
+    "check_motion.py": "f3a17ccf78fd936ed589e587c9e2f223f7c75699b9d3cc949089f4cbc5ba31d6",
+    "voice.py": "540c59879a38b89fc61055fc2d91181112f3ae85e952f6eefd05dca73cb97aea",
+    "region_cache.py": "8473f26041525d0ad2df61a843f151c8bf46b54a8b4aa329ea840e7ef00ce5ba",
+    "human_model.py": "4bd377c7e85a9a70564bd5a350b908638011e9e78803d70f94998875f10310c4",
+    "verify_delivery.py": "ce7c2291c63613333352c9ca2158152f19924a19d6fdd91877894c542d2ccf79",
+    "qc.py": "933f55aab01f64bd641a5e15a654e1678e225bbad68de9f51321366bdbedfb2f",
+    "visuals.py": "2dd9f6976e9bde26b0efeb1852e25fa4a1118ebf5b30c2b0a64177fe1406ad4b",
+    "assets/farm.jpg": "a09231d02c8f8542e8f1891524453670b5a74cd7cf2123251bf7fbe0c6e611ec",
+    "assets/john.jpg": "be970f0447aeb59f88b33b694d123b879ce1ba4615c638a72e09487741f7ee89",
+    "assets/scenes2.png": "3cbd6ad30a67d245a8ea3ce848ee7d2a6d6f053d677b35b1da805d63e6acdb8d",
+    "assets/anne.jpg": "5d86a95ccfdc5970d369ec2e7ffa9aebc7c018ffa3bbc4cefb8177e8aa817537",
+    "assets/sons.jpg": "19e24f8de1caf337517c516ffe0dd2c87e02a4d26b8683d7fdae1d76bad81b62",
+    "assets/opening.png": "f5fe10232bedec68917e86e45f8bd28f51759a9d24440d55790d6f6a75a4cb52",
+    "assets/scenes3.png": "1f5a59c2790ee8840bb4db6c421b45ab88bc5775049bcd0218baea088acc9332",
+    "assets/scenes1.png": "31b28b7c5622e421776bb11a060e7ffb9c3e63215188325c6209c2b623f53a76",
+    "assets/apartment.jpg": "b38059c4551be3fa3308261e01a71d105b10f21f9bd14f73885e84c166c2fb2e",
+    "assets/panama.jpg": "94faf0e29009640fdf239ddaa94a8b0310af1d4a1c0058e0a6de7bacf4e19d4b",
+    "ru/narration.txt": "0783f5a6774ccb5cc0567fc44ab352dae8a5bbc315307529fcf1c4d9e7999787",
+    "en/narration.txt": "6798b8d031a7f8f285ac750a84c5d0f2d3eaf6806c36473163585080a6dfa034",
+    "shot_plan.json": "2333502d049d386701594993a0a2381487ca95272875d107592feb16ee2837b4",
+    "SOURCES.md": "076393d5ea36eb04ae3621d1424df4a29f9c836c4adbe10738e837cbf094cc33",
+    "metadata.txt": "905f4d7dc641c606f599fd9adcb259f12220d560ab9943594c149a3572a23aa1",
+    "requirements.txt": "490450c03d4021e5b774d69481d06753bd98659f63c0ae90246ec7aeac6db6f6",
+    "qc/QC.json": "fc31d39f4f130a10f7e66a6f5545f6bdbb3f2f436c513438a457c8e8569f7d98"
+  },
+  "outputs": {
+    "SNG_036_Darwin_RU_PREVIEW.mp4": {
+      "sha256": "4fa7b9f220a3d8040fd58665d55ea81bc76ec9439cf7e2af976104826720e54e",
+      "bytes": 11628011,
+      "duration": 78.433333
+    },
+    "SNG_036_Darwin_EN_PREVIEW.mp4": {
+      "sha256": "a0ba24f3ed49d85ab873972f31646e2cb5d928af87deb292a598804d72885d0d",
+      "bytes": 10332475,
+      "duration": 68.766667
+    }
+  },
+  "auditory_review": false
+}

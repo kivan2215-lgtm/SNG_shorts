@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.8,
+    "visual": "dead"
+  },
+  {
+    "start": 2.8,
+    "end": 4.8,
+    "visual": "arrival"
+  },
+  {
+    "start": 4.8,
+    "end": 6.7,
+    "visual": "memory"
+  },
+  {
+    "start": 6.7,
+    "end": 9.233333333333333,
+    "visual": "clue"
+  },
+  {
+    "start": 9.233333333333333,
+    "end": 11.533333333333333,
+    "visual": "date"
+  },
+  {
+    "start": 11.533333333333333,
+    "end": 14.7,
+    "visual": "kayak"
+  },
+  {
+    "start": 14.7,
+    "end": 16.833333333333332,
+    "visual": "wreck"
+  },
+  {
+    "start": 16.833333333333332,
+    "end": 18.033333333333335,
+    "visual": "missing"
+  },
+  {
+    "start": 18.033333333333335,
+    "end": 19.533333333333335,
+    "visual": "declared"
+  },
+  {
+    "start": 19.533333333333335,
+    "end": 22.333333333333332,
+    "visual": "payout"
+  },
+  {
+    "start": 22.333333333333332,
+    "end": 24.433333333333334,
+    "visual": "grief"
+  },
+  {
+    "start": 24.433333333333334,
+    "end": 27.4,
+    "visual": "return"
+  },
+  {
+    "start": 27.4,
+    "end": 28.866666666666667,
+    "visual": "search"
+  },
+  {
+    "start": 28.866666666666667,
+    "end": 30.966666666666665,
+    "visual": "photo"
+  },
+  {
+    "start": 30.966666666666665,
+    "end": 33.2,
+    "visual": "couple"
+  },
+  {
+    "start": 33.2,
+    "end": 36.36666666666667,
+    "visual": "dated"
+  },
+  {
+    "start": 36.36666666666667,
+    "end": 38.36666666666667,
+    "visual": "contradiction"
+  },
+  {
+    "start": 38.36666666666667,
+    "end": 40.4,
+    "visual": "staged"
+  },
+  {
+    "start": 40.4,
+    "end": 42.833333333333336,
+    "visual": "hiding"
+  },
+  {
+    "start": 42.833333333333336,
+    "end": 44.166666666666664,
+    "visual": "visitors"
+  },
+  {
+    "start": 44.166666666666664,
+    "end": 48.06666666666667,
+    "visual": "passage"
+  },
+  {
+    "start": 48.06666666666667,
+    "end": 49.333333333333336,
+    "visual": "knew"
+  },
+  {
+    "start": 49.333333333333336,
+    "end": 51.833333333333336,
+    "visual": "panama"
+  },
+  {
+    "start": 51.833333333333336,
+    "end": 54.6,
+    "visual": "website"
+  },
+  {
+    "start": 54.6,
+    "end": 56.733333333333334,
+    "visual": "verdict"
+  },
+  {
+    "start": 56.733333333333334,
+    "end": 58.5,
+    "visual": "sentence"
+  },
+  {
+    "start": 58.5,
+    "end": 60.3,
+    "visual": "sons"
+  },
+  {
+    "start": 60.3,
+    "end": 62.1,
+    "visual": "newlife"
+  },
+  {
+    "start": 62.1,
+    "end": 64.0,
+    "visual": "believed"
+  },
+  {
+    "start": 64.0,
+    "end": 68.76666666666667,
+    "visual": "end"
+  }
+]

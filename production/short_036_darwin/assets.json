@@ -1,0 +1,110 @@
+[
+  {
+    "id": "panama",
+    "url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/16FB3/production/_91513149_fa22850f-82fe-43b0-bda2-291c16a54c37.jpg",
+    "source": "https://www.bbc.co.uk/news/uk-england-tyne-37551735",
+    "caption": "John and Anne Darwin were spotted in a photograph taken in Panama",
+    "rights": "user-reported publication permission; not independently verified",
+    "capture_date": "July 2006",
+    "publication_date": "2016-10-05",
+    "credit": "Move to Panama",
+    "native_size": [
+      976,
+      749
+    ],
+    "visual_review": "identity/context manually checked against source captions and downloaded image",
+    "sha256": "94faf0e29009640fdf239ddaa94a8b0310af1d4a1c0058e0a6de7bacf4e19d4b"
+  },
+  {
+    "id": "sons",
+    "url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1046F/production/_91517666_boys_get.jpg",
+    "source": "https://www.bbc.co.uk/news/uk-england-tyne-37551735",
+    "caption": "Anthony and Mark Darwin",
+    "rights": "user-reported publication permission; not independently verified",
+    "capture_date": "not established",
+    "publication_date": "2016-10-05",
+    "credit": "Getty Images",
+    "native_size": [
+      976,
+      800
+    ],
+    "visual_review": "identity/context manually checked against source captions and downloaded image",
+    "sha256": "19e24f8de1caf337517c516ffe0dd2c87e02a4d26b8683d7fdae1d76bad81b62"
+  },
+  {
+    "id": "anne",
+    "url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/12193/production/_91513147_da11c891-b29a-4111-8f3e-4c04b1b81998.jpg",
+    "source": "https://www.bbc.co.uk/news/uk-england-tyne-37551735",
+    "caption": "Anne Darwin in 2007",
+    "rights": "user-reported publication permission; not independently verified",
+    "capture_date": "not established",
+    "publication_date": "2016-10-05",
+    "credit": "Getty Images",
+    "native_size": [
+      976,
+      689
+    ],
+    "visual_review": "identity/context manually checked against source captions and downloaded image",
+    "sha256": "5d86a95ccfdc5970d369ec2e7ffa9aebc7c018ffa3bbc4cefb8177e8aa817537"
+  },
+  {
+    "id": "john",
+    "url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2007/12/05/canoeistart.jpg?width=465&dpr=1&s=none&crop=none",
+    "source": "https://www.theguardian.com/uk/2007/dec/05/ukcrime",
+    "caption": "John Darwin, the missing canoeist who turned up at a London police station five years later",
+    "credit": "AFP/Getty Images",
+    "publication_date": "2007-12-05",
+    "capture_date": "not established",
+    "rights": "user-reported publication permission; not independently verified",
+    "native_size": [
+      372,
+      192
+    ],
+    "visual_review": "identity/context manually checked against source captions and downloaded image",
+    "sha256": "be970f0447aeb59f88b33b694d123b879ce1ba4615c638a72e09487741f7ee89"
+  },
+  {
+    "id": "farm",
+    "url": "https://newsimg.bbc.co.uk/media/images/44829000/jpg/_44829702_44487278.jpg",
+    "source": "https://news.bbc.co.uk/2/hi/uk_news/england/7292469.stm",
+    "caption": "John Darwin at farm in Panama",
+    "credit": "BBC News / original photographer not specified",
+    "publication_date": "2008-07-23",
+    "capture_date": "summer 2007",
+    "rights": "user-reported permission; not independently verified",
+    "native_size": [
+      226,
+      170
+    ],
+    "visual_review": "identity/context manually checked against source captions and downloaded image",
+    "sha256": "a09231d02c8f8542e8f1891524453670b5a74cd7cf2123251bf7fbe0c6e611ec"
+  },
+  {
+    "id": "apartment",
+    "url": "https://newsimg.bbc.co.uk/media/images/44829000/jpg/_44829700_44487279.jpg",
+    "source": "https://news.bbc.co.uk/2/hi/uk_news/england/7292469.stm",
+    "caption": "The Darwins' kitchen in their Panama apartment",
+    "credit": "BBC News / original photographer not specified",
+    "publication_date": "2008-07-23",
+    "capture_date": "not established",
+    "rights": "user-reported permission; not independently verified",
+    "native_size": [
+      226,
+      170
+    ],
+    "visual_review": "identity/context manually checked against source captions and downloaded image",
+    "sha256": "b38059c4551be3fa3308261e01a71d105b10f21f9bd14f73885e84c166c2fb2e"
+  },
+  {
+    "id": "illustrations",
+    "files": [
+      "scenes1.png",
+      "scenes2.png",
+      "scenes3.png",
+      "opening.png"
+    ],
+    "type": "original AI illustration, not archive",
+    "review": "Whole contact sheets and full opening inspected; no visible extra hands or malformed faces. Distinct scenes.",
+    "rights": "original generated project assets"
+  }
+]

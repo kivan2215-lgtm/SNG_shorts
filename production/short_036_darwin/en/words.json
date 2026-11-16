@@ -1,0 +1,1226 @@
+[
+  {
+    "text": "For",
+    "start": 0.05,
+    "end": 0.2375,
+    "paragraph": 0
+  },
+  {
+    "text": "five",
+    "start": 0.2625,
+    "end": 0.525,
+    "paragraph": 0
+  },
+  {
+    "text": "years",
+    "start": 0.55,
+    "end": 0.9,
+    "paragraph": 0
+  },
+  {
+    "text": "this",
+    "start": 1.0625,
+    "end": 1.25,
+    "paragraph": 0
+  },
+  {
+    "text": "man",
+    "start": 1.275,
+    "end": 1.5125,
+    "paragraph": 0
+  },
+  {
+    "text": "was",
+    "start": 1.525,
+    "end": 1.675,
+    "paragraph": 0
+  },
+  {
+    "text": "presumed",
+    "start": 1.6875,
+    "end": 2.15,
+    "paragraph": 0
+  },
+  {
+    "text": "dead",
+    "start": 2.1625,
+    "end": 2.5,
+    "paragraph": 0
+  },
+  {
+    "text": "Then",
+    "start": 2.797,
+    "end": 3.047,
+    "paragraph": 0
+  },
+  {
+    "text": "he",
+    "start": 3.072,
+    "end": 3.197,
+    "paragraph": 0
+  },
+  {
+    "text": "walked",
+    "start": 3.222,
+    "end": 3.5095000000000005,
+    "paragraph": 0
+  },
+  {
+    "text": "into",
+    "start": 3.5345,
+    "end": 3.722,
+    "paragraph": 0
+  },
+  {
+    "text": "a",
+    "start": 3.7345,
+    "end": 3.797,
+    "paragraph": 0
+  },
+  {
+    "text": "police",
+    "start": 3.8220000000000005,
+    "end": 4.109500000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "station",
+    "start": 4.134500000000001,
+    "end": 4.572000000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "claiming",
+    "start": 4.7844999999999995,
+    "end": 5.172000000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "he",
+    "start": 5.1845,
+    "end": 5.2844999999999995,
+    "paragraph": 0
+  },
+  {
+    "text": "had",
+    "start": 5.3095,
+    "end": 5.447000000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "lost",
+    "start": 5.4719999999999995,
+    "end": 5.759500000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "his",
+    "start": 5.772,
+    "end": 5.922000000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "memory",
+    "start": 5.9345,
+    "end": 6.4345,
+    "paragraph": 0
+  },
+  {
+    "text": "But",
+    "start": 6.709333000000001,
+    "end": 6.896833000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "one",
+    "start": 6.921833000000001,
+    "end": 7.134333000000002,
+    "paragraph": 0
+  },
+  {
+    "text": "photograph",
+    "start": 7.159333000000002,
+    "end": 7.771833000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "destroyed",
+    "start": 7.796833000000001,
+    "end": 8.259333000000002,
+    "paragraph": 0
+  },
+  {
+    "text": "his",
+    "start": 8.271833,
+    "end": 8.421833000000001,
+    "paragraph": 0
+  },
+  {
+    "text": "story",
+    "start": 8.446833000000002,
+    "end": 8.896833,
+    "paragraph": 0
+  },
+  {
+    "text": "England",
+    "start": 9.246333000000002,
+    "end": 9.951791000000002,
+    "paragraph": 1
+  },
+  {
+    "text": "Two",
+    "start": 10.223957000000002,
+    "end": 10.421957,
+    "paragraph": 1
+  },
+  {
+    "text": "thousand",
+    "start": 10.434332000000001,
+    "end": 10.879873000000002,
+    "paragraph": 1
+  },
+  {
+    "text": "two",
+    "start": 10.892249000000001,
+    "end": 11.226415000000001,
+    "paragraph": 1
+  },
+  {
+    "text": "John",
+    "start": 11.534624,
+    "end": 11.856415000000002,
+    "paragraph": 1
+  },
+  {
+    "text": "Darwin",
+    "start": 11.881166,
+    "end": 12.289582000000001,
+    "paragraph": 1
+  },
+  {
+    "text": "paddled",
+    "start": 12.314332,
+    "end": 12.697998000000002,
+    "paragraph": 1
+  },
+  {
+    "text": "out",
+    "start": 12.722749,
+    "end": 12.846499000000001,
+    "paragraph": 1
+  },
+  {
+    "text": "to",
+    "start": 12.871291000000001,
+    "end": 12.945541000000002,
+    "paragraph": 1
+  },
+  {
+    "text": "sea",
+    "start": 12.957916,
+    "end": 13.155916000000001,
+    "paragraph": 1
+  },
+  {
+    "text": "in",
+    "start": 13.180666000000002,
+    "end": 13.267291,
+    "paragraph": 1
+  },
+  {
+    "text": "a",
+    "start": 13.292082,
+    "end": 13.353957000000001,
+    "paragraph": 1
+  },
+  {
+    "text": "kayak",
+    "start": 13.366332,
+    "end": 13.824248,
+    "paragraph": 1
+  },
+  {
+    "text": "and",
+    "start": 13.836624,
+    "end": 13.923249000000002,
+    "paragraph": 1
+  },
+  {
+    "text": "vanished",
+    "start": 13.947999000000003,
+    "end": 14.418289999999999,
+    "paragraph": 1
+  },
+  {
+    "text": "Rescuers",
+    "start": 14.709832000000002,
+    "end": 15.378165000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "found",
+    "start": 15.402915000000004,
+    "end": 15.675206000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "his",
+    "start": 15.699957000000001,
+    "end": 15.885582000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "wrecked",
+    "start": 15.910332000000004,
+    "end": 16.157873000000006,
+    "paragraph": 1
+  },
+  {
+    "text": "boat",
+    "start": 16.170249000000002,
+    "end": 16.553915000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "But",
+    "start": 16.824916000000005,
+    "end": 17.022916000000006,
+    "paragraph": 1
+  },
+  {
+    "text": "not",
+    "start": 17.047666000000007,
+    "end": 17.28283200000001,
+    "paragraph": 1
+  },
+  {
+    "text": "John",
+    "start": 17.29520700000001,
+    "end": 17.740748000000007,
+    "paragraph": 1
+  },
+  {
+    "text": "He",
+    "start": 18.020832000000013,
+    "end": 18.18170700000001,
+    "paragraph": 1
+  },
+  {
+    "text": "was",
+    "start": 18.20649900000001,
+    "end": 18.37974900000001,
+    "paragraph": 1
+  },
+  {
+    "text": "declared",
+    "start": 18.40449900000001,
+    "end": 18.87479000000001,
+    "paragraph": 1
+  },
+  {
+    "text": "dead",
+    "start": 18.88716600000001,
+    "end": 19.270832000000013,
+    "paragraph": 1
+  },
+  {
+    "text": "His",
+    "start": 19.545812000000012,
+    "end": 19.76860300000001,
+    "paragraph": 1
+  },
+  {
+    "text": "wife",
+    "start": 19.793353000000014,
+    "end": 20.05326900000001,
+    "paragraph": 1
+  },
+  {
+    "text": "collected",
+    "start": 20.065603000000014,
+    "end": 20.52351900000001,
+    "paragraph": 1
+  },
+  {
+    "text": "insurance",
+    "start": 20.548312000000013,
+    "end": 21.055728000000013,
+    "paragraph": 1
+  },
+  {
+    "text": "and",
+    "start": 21.06810300000001,
+    "end": 21.241353000000014,
+    "paragraph": 1
+  },
+  {
+    "text": "other",
+    "start": 21.26610300000001,
+    "end": 21.488894000000013,
+    "paragraph": 1
+  },
+  {
+    "text": "payouts",
+    "start": 21.501270000000012,
+    "end": 22.04581100000001,
+    "paragraph": 1
+  },
+  {
+    "text": "Their",
+    "start": 22.339832000000015,
+    "end": 22.525457000000014,
+    "paragraph": 1
+  },
+  {
+    "text": "two",
+    "start": 22.550249000000015,
+    "end": 22.735874000000013,
+    "paragraph": 1
+  },
+  {
+    "text": "sons",
+    "start": 22.760624000000014,
+    "end": 23.119540000000015,
+    "paragraph": 1
+  },
+  {
+    "text": "mourned",
+    "start": 23.144290000000016,
+    "end": 23.441331000000016,
+    "paragraph": 1
+  },
+  {
+    "text": "their",
+    "start": 23.466082000000014,
+    "end": 23.602207000000014,
+    "paragraph": 1
+  },
+  {
+    "text": "father",
+    "start": 23.626957000000015,
+    "end": 24.097248000000015,
+    "paragraph": 1
+  },
+  {
+    "text": "In",
+    "start": 24.447228166666683,
+    "end": 24.59722816666668,
+    "paragraph": 2
+  },
+  {
+    "text": "December",
+    "start": 24.622228166666684,
+    "end": 25.147228166666682,
+    "paragraph": 2
+  },
+  {
+    "text": "two",
+    "start": 25.17222816666668,
+    "end": 25.334728166666682,
+    "paragraph": 2
+  },
+  {
+    "text": "thousand",
+    "start": 25.34722816666668,
+    "end": 25.759728166666683,
+    "paragraph": 2
+  },
+  {
+    "text": "seven",
+    "start": 25.78472816666668,
+    "end": 26.17222816666668,
+    "paragraph": 2
+  },
+  {
+    "text": "he",
+    "start": 26.34722816666668,
+    "end": 26.459728166666682,
+    "paragraph": 2
+  },
+  {
+    "text": "returned",
+    "start": 26.47222816666668,
+    "end": 27.12222816666668,
+    "paragraph": 2
+  },
+  {
+    "text": "But",
+    "start": 27.395811166666675,
+    "end": 27.545811166666674,
+    "paragraph": 2
+  },
+  {
+    "text": "a",
+    "start": 27.558311166666677,
+    "end": 27.620811166666677,
+    "paragraph": 2
+  },
+  {
+    "text": "woman",
+    "start": 27.645811166666675,
+    "end": 27.958311166666675,
+    "paragraph": 2
+  },
+  {
+    "text": "searched",
+    "start": 27.983311166666674,
+    "end": 28.333311166666675,
+    "paragraph": 2
+  },
+  {
+    "text": "online",
+    "start": 28.358311166666674,
+    "end": 28.870811166666677,
+    "paragraph": 2
+  },
+  {
+    "text": "and",
+    "start": 28.88331116666668,
+    "end": 28.983311166666674,
+    "paragraph": 2
+  },
+  {
+    "text": "found",
+    "start": 29.00831116666668,
+    "end": 29.25831116666668,
+    "paragraph": 2
+  },
+  {
+    "text": "a",
+    "start": 29.270811166666675,
+    "end": 29.333311166666675,
+    "paragraph": 2
+  },
+  {
+    "text": "photograph",
+    "start": 29.358311166666674,
+    "end": 29.933311166666677,
+    "paragraph": 2
+  },
+  {
+    "text": "from",
+    "start": 29.958311166666675,
+    "end": 30.13331116666668,
+    "paragraph": 2
+  },
+  {
+    "text": "Panama",
+    "start": 30.158311166666678,
+    "end": 30.658311166666678,
+    "paragraph": 2
+  },
+  {
+    "text": "John",
+    "start": 30.950519166666666,
+    "end": 31.27551916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "was",
+    "start": 31.300519166666668,
+    "end": 31.46301916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "smiling",
+    "start": 31.475519166666672,
+    "end": 31.90051916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "beside",
+    "start": 31.925519166666668,
+    "end": 32.31301916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "his",
+    "start": 32.325519166666666,
+    "end": 32.47551916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "wife",
+    "start": 32.50051916666667,
+    "end": 32.93801916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "It",
+    "start": 33.19908216666666,
+    "end": 33.32408216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "had",
+    "start": 33.33658216666666,
+    "end": 33.43658216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "been",
+    "start": 33.46158216666666,
+    "end": 33.59908216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "taken",
+    "start": 33.62408216666666,
+    "end": 33.97408216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "in",
+    "start": 33.986582166666665,
+    "end": 34.07408216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "two",
+    "start": 34.09908216666666,
+    "end": 34.24908216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "thousand",
+    "start": 34.26158216666666,
+    "end": 34.62408216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "six",
+    "start": 34.63658216666666,
+    "end": 34.99908216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "before",
+    "start": 35.19908216666666,
+    "end": 35.51158216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "his",
+    "start": 35.53658216666666,
+    "end": 35.674082166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "return",
+    "start": 35.69908216666666,
+    "end": 36.12408216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "while",
+    "start": 36.361582166666665,
+    "end": 36.52408216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "he",
+    "start": 36.53658216666666,
+    "end": 36.62408216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "was",
+    "start": 36.63658216666666,
+    "end": 36.78658216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "still",
+    "start": 36.799082166666665,
+    "end": 37.049082166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "supposed",
+    "start": 37.07408216666666,
+    "end": 37.43658216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "to",
+    "start": 37.46158216666666,
+    "end": 37.52408216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "be",
+    "start": 37.53658216666666,
+    "end": 37.66158216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "dead",
+    "start": 37.68658216666666,
+    "end": 38.02408216666666,
+    "paragraph": 2
+  },
+  {
+    "text": "John",
+    "start": 38.37408216666665,
+    "end": 38.724082166666655,
+    "paragraph": 3
+  },
+  {
+    "text": "had",
+    "start": 38.74908216666665,
+    "end": 38.89908216666666,
+    "paragraph": 3
+  },
+  {
+    "text": "staged",
+    "start": 38.92408216666666,
+    "end": 39.33658216666666,
+    "paragraph": 3
+  },
+  {
+    "text": "his",
+    "start": 39.36158216666666,
+    "end": 39.52408216666666,
+    "paragraph": 3
+  },
+  {
+    "text": "own",
+    "start": 39.54908216666666,
+    "end": 39.724082166666655,
+    "paragraph": 3
+  },
+  {
+    "text": "death",
+    "start": 39.74908216666665,
+    "end": 40.17408216666666,
+    "paragraph": 3
+  },
+  {
+    "text": "For",
+    "start": 40.39433216666665,
+    "end": 40.65683216666665,
+    "paragraph": 3
+  },
+  {
+    "text": "years",
+    "start": 40.68183216666665,
+    "end": 41.03183216666665,
+    "paragraph": 3
+  },
+  {
+    "text": "he",
+    "start": 41.194332166666655,
+    "end": 41.294332166666656,
+    "paragraph": 3
+  },
+  {
+    "text": "hid",
+    "start": 41.319332166666655,
+    "end": 41.46933216666665,
+    "paragraph": 3
+  },
+  {
+    "text": "close",
+    "start": 41.49433216666665,
+    "end": 41.794332166666656,
+    "paragraph": 3
+  },
+  {
+    "text": "to",
+    "start": 41.819332166666655,
+    "end": 41.944332166666655,
+    "paragraph": 3
+  },
+  {
+    "text": "his",
+    "start": 41.95683216666665,
+    "end": 42.09433216666665,
+    "paragraph": 3
+  },
+  {
+    "text": "family",
+    "start": 42.11933216666665,
+    "end": 42.569332166666655,
+    "paragraph": 3
+  },
+  {
+    "text": "When",
+    "start": 42.840665166666646,
+    "end": 43.00316516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "visitors",
+    "start": 43.028165166666646,
+    "end": 43.47816516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "arrived",
+    "start": 43.50316516666665,
+    "end": 43.92816516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "he",
+    "start": 44.16566516666665,
+    "end": 44.26566516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "slipped",
+    "start": 44.278165166666646,
+    "end": 44.56566516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "through",
+    "start": 44.590665166666646,
+    "end": 44.778165166666646,
+    "paragraph": 3
+  },
+  {
+    "text": "a",
+    "start": 44.80316516666665,
+    "end": 44.86566516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "secret",
+    "start": 44.89066516666665,
+    "end": 45.26566516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "door",
+    "start": 45.278165166666646,
+    "end": 45.50316516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "behind",
+    "start": 45.51566516666665,
+    "end": 45.840665166666646,
+    "paragraph": 3
+  },
+  {
+    "text": "a",
+    "start": 45.86566516666665,
+    "end": 45.92816516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "wardrobe",
+    "start": 45.95316516666665,
+    "end": 46.44066516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "into",
+    "start": 46.465665166666646,
+    "end": 46.62816516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 46.653165166666646,
+    "end": 46.76566516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "adjoining",
+    "start": 46.778165166666646,
+    "end": 47.20316516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "property",
+    "start": 47.215665166666646,
+    "end": 47.79066516666665,
+    "paragraph": 3
+  },
+  {
+    "text": "His",
+    "start": 48.05562316666665,
+    "end": 48.28062316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "wife",
+    "start": 48.30562316666665,
+    "end": 48.61812316666665,
+    "paragraph": 3
+  },
+  {
+    "text": "knew",
+    "start": 48.64312316666665,
+    "end": 49.03062316666664,
+    "paragraph": 3
+  },
+  {
+    "text": "Later",
+    "start": 49.31781116666664,
+    "end": 49.74281116666664,
+    "paragraph": 3
+  },
+  {
+    "text": "they",
+    "start": 49.93031116666664,
+    "end": 50.04281116666664,
+    "paragraph": 3
+  },
+  {
+    "text": "planned",
+    "start": 50.05531116666664,
+    "end": 50.35531116666664,
+    "paragraph": 3
+  },
+  {
+    "text": "a",
+    "start": 50.38031116666664,
+    "end": 50.41781116666664,
+    "paragraph": 3
+  },
+  {
+    "text": "new",
+    "start": 50.43031116666664,
+    "end": 50.61781116666664,
+    "paragraph": 3
+  },
+  {
+    "text": "life",
+    "start": 50.63031116666664,
+    "end": 50.91781116666664,
+    "paragraph": 3
+  },
+  {
+    "text": "in",
+    "start": 50.93031116666664,
+    "end": 51.04281116666664,
+    "paragraph": 3
+  },
+  {
+    "text": "Panama",
+    "start": 51.06781116666664,
+    "end": 51.54281116666664,
+    "paragraph": 3
+  },
+  {
+    "text": "And",
+    "start": 51.829874166666634,
+    "end": 52.00487416666663,
+    "paragraph": 3
+  },
+  {
+    "text": "appeared",
+    "start": 52.02987416666663,
+    "end": 52.392374166666634,
+    "paragraph": 3
+  },
+  {
+    "text": "on",
+    "start": 52.41737416666663,
+    "end": 52.52987416666663,
+    "paragraph": 3
+  },
+  {
+    "text": "a",
+    "start": 52.554874166666636,
+    "end": 52.617374166666636,
+    "paragraph": 3
+  },
+  {
+    "text": "property",
+    "start": 52.62987416666663,
+    "end": 53.142374166666634,
+    "paragraph": 3
+  },
+  {
+    "text": "agency",
+    "start": 53.16737416666663,
+    "end": 53.60487416666663,
+    "paragraph": 3
+  },
+  {
+    "text": "website",
+    "start": 53.62987416666663,
+    "end": 54.242374166666636,
+    "paragraph": 3
+  },
+  {
+    "text": "In",
+    "start": 54.593374166666635,
+    "end": 54.77195716666664,
+    "paragraph": 4
+  },
+  {
+    "text": "two",
+    "start": 54.79745716666663,
+    "end": 54.93774816666664,
+    "paragraph": 4
+  },
+  {
+    "text": "thousand",
+    "start": 54.95054016666663,
+    "end": 55.30766516666664,
+    "paragraph": 4
+  },
+  {
+    "text": "eight",
+    "start": 55.33320716666664,
+    "end": 55.52454016666664,
+    "paragraph": 4
+  },
+  {
+    "text": "both",
+    "start": 55.75412416666663,
+    "end": 56.00920716666663,
+    "paragraph": 4
+  },
+  {
+    "text": "went",
+    "start": 56.034707166666635,
+    "end": 56.20054016666663,
+    "paragraph": 4
+  },
+  {
+    "text": "to",
+    "start": 56.21329016666664,
+    "end": 56.28983116666663,
+    "paragraph": 4
+  },
+  {
+    "text": "prison",
+    "start": 56.30258216666664,
+    "end": 56.71074816666663,
+    "paragraph": 4
+  },
+  {
+    "text": "for",
+    "start": 56.73624916666664,
+    "end": 56.889290166666626,
+    "paragraph": 4
+  },
+  {
+    "text": "more",
+    "start": 56.90208216666663,
+    "end": 57.10616516666663,
+    "paragraph": 4
+  },
+  {
+    "text": "than",
+    "start": 57.11891516666664,
+    "end": 57.27195616666663,
+    "paragraph": 4
+  },
+  {
+    "text": "six",
+    "start": 57.29745716666663,
+    "end": 57.60358216666663,
+    "paragraph": 4
+  },
+  {
+    "text": "years",
+    "start": 57.61637416666663,
+    "end": 57.845957166666636,
+    "paragraph": 4
+  },
+  {
+    "text": "each",
+    "start": 57.87145716666663,
+    "end": 58.20308216666663,
+    "paragraph": 4
+  },
+  {
+    "text": "But",
+    "start": 58.49952016666663,
+    "end": 58.67810316666663,
+    "paragraph": 4
+  },
+  {
+    "text": "their",
+    "start": 58.703603166666625,
+    "end": 58.86943616666663,
+    "paragraph": 4
+  },
+  {
+    "text": "sons",
+    "start": 58.89493716666662,
+    "end": 59.29035316666662,
+    "paragraph": 4
+  },
+  {
+    "text": "knew",
+    "start": 59.31585316666663,
+    "end": 59.50718616666663,
+    "paragraph": 4
+  },
+  {
+    "text": "nothing",
+    "start": 59.53268716666662,
+    "end": 59.99185316666663,
+    "paragraph": 4
+  },
+  {
+    "text": "While",
+    "start": 60.31349916666662,
+    "end": 60.50483216666662,
+    "paragraph": 4
+  },
+  {
+    "text": "their",
+    "start": 60.517583166666626,
+    "end": 60.68341616666662,
+    "paragraph": 4
+  },
+  {
+    "text": "parents",
+    "start": 60.70887416666662,
+    "end": 61.09154016666662,
+    "paragraph": 4
+  },
+  {
+    "text": "planned",
+    "start": 61.10429116666663,
+    "end": 61.359374166666626,
+    "paragraph": 4
+  },
+  {
+    "text": "a",
+    "start": 61.37216616666662,
+    "end": 61.397666166666625,
+    "paragraph": 4
+  },
+  {
+    "text": "new",
+    "start": 61.41041616666662,
+    "end": 61.550707166666626,
+    "paragraph": 4
+  },
+  {
+    "text": "life",
+    "start": 61.57624916666663,
+    "end": 61.907874166666616,
+    "paragraph": 4
+  },
+  {
+    "text": "they",
+    "start": 62.111958166666625,
+    "end": 62.213999166666625,
+    "paragraph": 4
+  },
+  {
+    "text": "believed",
+    "start": 62.22674916666662,
+    "end": 62.60941516666662,
+    "paragraph": 4
+  },
+  {
+    "text": "their",
+    "start": 62.63491616666663,
+    "end": 62.77520716666662,
+    "paragraph": 4
+  },
+  {
+    "text": "father",
+    "start": 62.800708166666624,
+    "end": 63.17062416666663,
+    "paragraph": 4
+  },
+  {
+    "text": "was",
+    "start": 63.19612416666662,
+    "end": 63.36195716666663,
+    "paragraph": 4
+  },
+  {
+    "text": "dead",
+    "start": 63.38745816666662,
+    "end": 63.71908316666662,
+    "paragraph": 4
+  },
+  {
+    "text": "What",
+    "start": 64.00537516666662,
+    "end": 64.19670816666662,
+    "paragraph": 4
+  },
+  {
+    "text": "is",
+    "start": 64.20945816666662,
+    "end": 64.32424916666662,
+    "paragraph": 4
+  },
+  {
+    "text": "harder",
+    "start": 64.34975016666662,
+    "end": 64.63037516666662,
+    "paragraph": 4
+  },
+  {
+    "text": "to",
+    "start": 64.65587516666662,
+    "end": 64.74516616666662,
+    "paragraph": 4
+  },
+  {
+    "text": "forgive",
+    "start": 64.77066616666662,
+    "end": 65.22983216666663,
+    "paragraph": 4
+  },
+  {
+    "text": "stolen",
+    "start": 65.40841616666663,
+    "end": 65.80383216666662,
+    "paragraph": 4
+  },
+  {
+    "text": "money",
+    "start": 65.82933316666663,
+    "end": 66.10995816666662,
+    "paragraph": 4
+  },
+  {
+    "text": "or",
+    "start": 66.32679116666662,
+    "end": 66.47983216666663,
+    "paragraph": 4
+  },
+  {
+    "text": "five",
+    "start": 66.50537516666662,
+    "end": 66.79875016666662,
+    "paragraph": 4
+  },
+  {
+    "text": "years",
+    "start": 66.82425016666662,
+    "end": 67.06658316666662,
+    "paragraph": 4
+  },
+  {
+    "text": "of",
+    "start": 67.09212516666662,
+    "end": 67.18141616666662,
+    "paragraph": 4
+  },
+  {
+    "text": "someone",
+    "start": 67.20691616666662,
+    "end": 67.51304116666662,
+    "paragraph": 4
+  },
+  {
+    "text": "else's",
+    "start": 67.53854116666662,
+    "end": 67.84466616666663,
+    "paragraph": 4
+  },
+  {
+    "text": "grief",
+    "start": 67.87016616666662,
+    "end": 68.34212416666662,
+    "paragraph": 4
+  }
+]

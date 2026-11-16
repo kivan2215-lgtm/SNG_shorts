@@ -1,0 +1,53 @@
+{
+  "language": "en",
+  "file": "SNG_036_Darwin_EN_PREVIEW.mp4",
+  "duration": 68.766667,
+  "bytes": 10332475,
+  "sha256": "a0ba24f3ed49d85ab873972f31646e2cb5d928af87deb292a598804d72885d0d",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec_name": "h264",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "faststart": true,
+  "full_decode_ok": true,
+  "loudness": {
+    "input_i": "-16.44",
+    "input_tp": "-4.43",
+    "input_lra": "1.40",
+    "input_thresh": "-26.79",
+    "output_i": "-16.06",
+    "output_tp": "-3.79",
+    "output_lra": "1.50",
+    "output_thresh": "-26.42",
+    "normalization_type": "dynamic",
+    "target_offset": "0.06"
+  },
+  "black_frames": [],
+  "captions": 56,
+  "single_word_sentence_exceptions": [
+    {
+      "start": 9.246333000000002,
+      "end": 10.081791000000003,
+      "words": 1,
+      "text": "England."
+    }
+  ],
+  "failures": [],
+  "auditory_review": false,
+  "encoded_frame_review": {
+    "status": "reviewed",
+    "samples": 90,
+    "shots": 30,
+    "method": "Three encoded frame samples per shot, four contact sheets; not continuous playback",
+    "findings": "Caption placement, reveal sequence, uncropped archive subjects and passage illustration inspected. No blocking visual defects in samples."
+  },
+  "preview_not_approved": true
+}

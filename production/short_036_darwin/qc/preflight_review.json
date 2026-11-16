@@ -1,0 +1,10 @@
+{
+  "reviewed": [
+    "RU and EN first frame with actual ASS subtitles",
+    "RU and EN real-photo date inset and timeline with actual subtitles",
+    "RU and EN cutaway with actual subtitles",
+    "native probe frames 0,22,45,68,90"
+  ],
+  "findings": "Faces and principal action are unobscured. Date inset uses only original photo pixels. Foot support raised for threshold before final render. Close view follows whole-room overview.",
+  "not_performed": "auditory review; full encoded preview review still pending"
+}
