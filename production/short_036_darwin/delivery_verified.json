@@ -1,0 +1,18 @@
+[
+  {
+    "language": "ru",
+    "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_036_Darwin_RU_PREVIEW.mp4",
+    "sha256": "4fa7b9f220a3d8040fd58665d55ea81bc76ec9439cf7e2af976104826720e54e",
+    "bytes": 11628011,
+    "full_download_verified": true,
+    "verified_utc": "2026-11-16T11:25:05.542310+00:00"
+  },
+  {
+    "language": "en",
+    "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_036_Darwin_EN_PREVIEW.mp4",
+    "sha256": "a0ba24f3ed49d85ab873972f31646e2cb5d928af87deb292a598804d72885d0d",
+    "bytes": 10332475,
+    "full_download_verified": true,
+    "verified_utc": "2026-11-16T11:25:05.882640+00:00"
+  }
+]
