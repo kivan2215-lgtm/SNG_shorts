@@ -1,0 +1,47 @@
+{
+  "language": "ru",
+  "file": "SNG_037_BA5390_RU_PREVIEW.mp4",
+  "duration": 88.733333,
+  "bytes": 14680334,
+  "sha256": "db69b585ba6a1e745050ba4978fd0651ec9ad824fa6bc84a793ff65f65aa602c",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec_name": "h264",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "faststart": true,
+  "full_decode_ok": true,
+  "loudness": {
+    "input_i": "-16.07",
+    "input_tp": "-4.32",
+    "input_lra": "1.90",
+    "input_thresh": "-26.48",
+    "output_i": "-16.10",
+    "output_tp": "-4.18",
+    "output_lra": "1.80",
+    "output_thresh": "-26.50",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "black_frames": [],
+  "captions": 50,
+  "single_word_sentence_exceptions": [
+    {
+      "start": 12.734938,
+      "end": 13.623979000000002,
+      "words": 1,
+      "text": "Англия."
+    }
+  ],
+  "failures": [],
+  "auditory_review": false,
+  "encoded_frame_review": "Reviewed 105 sampled encoded frames across all 35 shots; captions, chronology, framing and model visibility checked. Not continuous playback or auditory review.",
+  "preview_not_approved": true
+}

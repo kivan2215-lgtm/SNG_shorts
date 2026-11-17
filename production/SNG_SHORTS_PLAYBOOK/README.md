@@ -27,3 +27,5 @@
 - [Интрига нового сюжета и проверка визуала](13_NEW_STORY_ESCALATION.md).
 
 - [Порядок раскрытия улик и читаемость пространства](14_REVEALS_AND_SPATIAL_CLARITY.md).
+
+- [Хронология по первоисточнику и вертикальные сцены](15_PRIMARY_CHRONOLOGY_AND_PORTRAIT_SCENES.md).

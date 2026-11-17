@@ -1,0 +1,47 @@
+{
+  "language": "en",
+  "file": "SNG_037_BA5390_EN_PREVIEW.mp4",
+  "duration": 81.7,
+  "bytes": 13959369,
+  "sha256": "8a8b7638126572b275f9ad234b0c216eab3ea6d0097519a6ca5e43653095230e",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec_name": "h264",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "faststart": true,
+  "full_decode_ok": true,
+  "loudness": {
+    "input_i": "-16.31",
+    "input_tp": "-4.03",
+    "input_lra": "1.40",
+    "input_thresh": "-26.73",
+    "output_i": "-15.95",
+    "output_tp": "-3.74",
+    "output_lra": "1.40",
+    "output_thresh": "-26.37",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.05"
+  },
+  "black_frames": [],
+  "captions": 60,
+  "single_word_sentence_exceptions": [
+    {
+      "start": 12.498854,
+      "end": 13.334312,
+      "words": 1,
+      "text": "England."
+    }
+  ],
+  "failures": [],
+  "auditory_review": false,
+  "encoded_frame_review": "Reviewed 105 sampled encoded frames across all 35 shots; captions, chronology, framing and model visibility checked. Not continuous playback or auditory review.",
+  "preview_not_approved": true
+}

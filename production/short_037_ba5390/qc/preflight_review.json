@@ -1,0 +1,11 @@
+{
+  "languages": [
+    "ru",
+    "en"
+  ],
+  "review": "Reviewed 13 composited frames per language with actual ASS captions. Full portrait generated scenes, full archives and three fasteners visible. Window/bolt crop fixed before render. Bolt callout retargeted to projected coordinate. Survival hospital photo held until after landing.",
+  "auditory_review": false,
+  "user_approval": "pending",
+  "updated": "After final factual narration changes and decimal caption grouping, inspected window callout and English comparison. Full encoded review still pending.",
+  "bolt_animation_review": "Native frames0,10,20,30,40,50,60 inspected: consistent positions, reference height, slight rotation, no obvious boundary seam."
+}

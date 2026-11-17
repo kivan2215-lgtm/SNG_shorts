@@ -1,0 +1,1346 @@
+[
+  {
+    "text": "A",
+    "start": 0.05,
+    "end": 0.1875,
+    "paragraph": 0
+  },
+  {
+    "text": "flight",
+    "start": 0.2,
+    "end": 0.45,
+    "paragraph": 0
+  },
+  {
+    "text": "attendant",
+    "start": 0.4625,
+    "end": 0.875,
+    "paragraph": 0
+  },
+  {
+    "text": "was",
+    "start": 0.9,
+    "end": 1.0625,
+    "paragraph": 0
+  },
+  {
+    "text": "holding",
+    "start": 1.0875,
+    "end": 1.425,
+    "paragraph": 0
+  },
+  {
+    "text": "the",
+    "start": 1.45,
+    "end": 1.55,
+    "paragraph": 0
+  },
+  {
+    "text": "captain",
+    "start": 1.575,
+    "end": 1.9875,
+    "paragraph": 0
+  },
+  {
+    "text": "by",
+    "start": 2.0125,
+    "end": 2.1625,
+    "paragraph": 0
+  },
+  {
+    "text": "his",
+    "start": 2.1875,
+    "end": 2.3625,
+    "paragraph": 0
+  },
+  {
+    "text": "legs",
+    "start": 2.3875,
+    "end": 2.8375,
+    "paragraph": 0
+  },
+  {
+    "text": "The",
+    "start": 3.7125,
+    "end": 3.85,
+    "paragraph": 0
+  },
+  {
+    "text": "rest",
+    "start": 3.875,
+    "end": 4.15,
+    "paragraph": 0
+  },
+  {
+    "text": "of",
+    "start": 4.175,
+    "end": 4.2375,
+    "paragraph": 0
+  },
+  {
+    "text": "his",
+    "start": 4.2625,
+    "end": 4.4125,
+    "paragraph": 0
+  },
+  {
+    "text": "body",
+    "start": 4.4375,
+    "end": 4.75,
+    "paragraph": 0
+  },
+  {
+    "text": "was",
+    "start": 4.775,
+    "end": 4.9625,
+    "paragraph": 0
+  },
+  {
+    "text": "outside",
+    "start": 4.9875,
+    "end": 5.4125,
+    "paragraph": 0
+  },
+  {
+    "text": "the",
+    "start": 5.425,
+    "end": 5.5125,
+    "paragraph": 0
+  },
+  {
+    "text": "aircraft",
+    "start": 5.5375,
+    "end": 6.1625,
+    "paragraph": 0
+  },
+  {
+    "text": "More",
+    "start": 7.0375,
+    "end": 7.2875,
+    "paragraph": 0
+  },
+  {
+    "text": "than",
+    "start": 7.3,
+    "end": 7.45,
+    "paragraph": 0
+  },
+  {
+    "text": "seventeen",
+    "start": 7.475,
+    "end": 8.0625,
+    "paragraph": 0
+  },
+  {
+    "text": "thousand",
+    "start": 8.0875,
+    "end": 8.5375,
+    "paragraph": 0
+  },
+  {
+    "text": "feet",
+    "start": 8.5625,
+    "end": 8.8,
+    "paragraph": 0
+  },
+  {
+    "text": "in",
+    "start": 8.825,
+    "end": 8.9125,
+    "paragraph": 0
+  },
+  {
+    "text": "the",
+    "start": 8.9375,
+    "end": 9.025,
+    "paragraph": 0
+  },
+  {
+    "text": "air",
+    "start": 9.05,
+    "end": 9.4,
+    "paragraph": 0
+  },
+  {
+    "text": "They",
+    "start": 10.2875,
+    "end": 10.45,
+    "paragraph": 0
+  },
+  {
+    "text": "could",
+    "start": 10.475,
+    "end": 10.6625,
+    "paragraph": 0
+  },
+  {
+    "text": "not",
+    "start": 10.6875,
+    "end": 10.9125,
+    "paragraph": 0
+  },
+  {
+    "text": "pull",
+    "start": 10.925,
+    "end": 11.125,
+    "paragraph": 0
+  },
+  {
+    "text": "him",
+    "start": 11.1375,
+    "end": 11.2625,
+    "paragraph": 0
+  },
+  {
+    "text": "back",
+    "start": 11.275,
+    "end": 11.5375,
+    "paragraph": 0
+  },
+  {
+    "text": "inside",
+    "start": 11.55,
+    "end": 12.1125,
+    "paragraph": 0
+  },
+  {
+    "text": "But",
+    "start": 12.9875,
+    "end": 13.1625,
+    "paragraph": 0
+  },
+  {
+    "text": "the",
+    "start": 13.1875,
+    "end": 13.3,
+    "paragraph": 0
+  },
+  {
+    "text": "crew",
+    "start": 13.3125,
+    "end": 13.575,
+    "paragraph": 0
+  },
+  {
+    "text": "would",
+    "start": 13.5875,
+    "end": 13.7625,
+    "paragraph": 0
+  },
+  {
+    "text": "not",
+    "start": 13.775,
+    "end": 13.9875,
+    "paragraph": 0
+  },
+  {
+    "text": "let",
+    "start": 14.0,
+    "end": 14.1625,
+    "paragraph": 0
+  },
+  {
+    "text": "go",
+    "start": 14.1875,
+    "end": 14.5375,
+    "paragraph": 0
+  },
+  {
+    "text": "England",
+    "start": 14.887,
+    "end": 15.592458,
+    "paragraph": 1
+  },
+  {
+    "text": "June",
+    "start": 16.446416,
+    "end": 16.792957,
+    "paragraph": 1
+  },
+  {
+    "text": "tenth",
+    "start": 16.817708,
+    "end": 17.201374,
+    "paragraph": 1
+  },
+  {
+    "text": "nineteen",
+    "start": 17.31275,
+    "end": 17.733541,
+    "paragraph": 1
+  },
+  {
+    "text": "ninety",
+    "start": 17.758291,
+    "end": 18.240957,
+    "paragraph": 1
+  },
+  {
+    "text": "The",
+    "start": 19.094916,
+    "end": 19.218666,
+    "paragraph": 1
+  },
+  {
+    "text": "plane",
+    "start": 19.231082999999998,
+    "end": 19.528124,
+    "paragraph": 1
+  },
+  {
+    "text": "was",
+    "start": 19.540458,
+    "end": 19.701332999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "flying",
+    "start": 19.71375,
+    "end": 20.035541000000002,
+    "paragraph": 1
+  },
+  {
+    "text": "to",
+    "start": 20.047916,
+    "end": 20.122166,
+    "paragraph": 1
+  },
+  {
+    "text": "Spain",
+    "start": 20.146916,
+    "end": 20.604832000000002,
+    "paragraph": 1
+  },
+  {
+    "text": "Suddenly",
+    "start": 21.483541000000002,
+    "end": 22.015707,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 22.16425,
+    "end": 22.26325,
+    "paragraph": 1
+  },
+  {
+    "text": "left",
+    "start": 22.288,
+    "end": 22.560291,
+    "paragraph": 1
+  },
+  {
+    "text": "cockpit",
+    "start": 22.585041,
+    "end": 23.055332,
+    "paragraph": 1
+  },
+  {
+    "text": "windscreen",
+    "start": 23.080083000000002,
+    "end": 23.599874,
+    "paragraph": 1
+  },
+  {
+    "text": "blew",
+    "start": 23.61225,
+    "end": 23.835041,
+    "paragraph": 1
+  },
+  {
+    "text": "out",
+    "start": 23.847416000000003,
+    "end": 24.206332,
+    "paragraph": 1
+  },
+  {
+    "text": "Captain",
+    "start": 25.085041,
+    "end": 25.468707000000002,
+    "paragraph": 1
+  },
+  {
+    "text": "Tim",
+    "start": 25.493458,
+    "end": 25.716248999999998,
+    "paragraph": 1
+  },
+  {
+    "text": "Lancaster",
+    "start": 25.740958,
+    "end": 26.359749,
+    "paragraph": 1
+  },
+  {
+    "text": "was",
+    "start": 26.384541,
+    "end": 26.557791,
+    "paragraph": 1
+  },
+  {
+    "text": "forced",
+    "start": 26.570166,
+    "end": 26.904332,
+    "paragraph": 1
+  },
+  {
+    "text": "through",
+    "start": 26.929083,
+    "end": 27.114708,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 27.127083,
+    "end": 27.238458,
+    "paragraph": 1
+  },
+  {
+    "text": "opening",
+    "start": 27.250875,
+    "end": 27.733541000000002,
+    "paragraph": 1
+  },
+  {
+    "text": "A",
+    "start": 28.61225,
+    "end": 28.736,
+    "paragraph": 1
+  },
+  {
+    "text": "flight",
+    "start": 28.76075,
+    "end": 29.033041,
+    "paragraph": 1
+  },
+  {
+    "text": "attendant",
+    "start": 29.057791,
+    "end": 29.515707,
+    "paragraph": 1
+  },
+  {
+    "text": "grabbed",
+    "start": 29.528083000000002,
+    "end": 29.849874,
+    "paragraph": 1
+  },
+  {
+    "text": "him",
+    "start": 29.874625,
+    "end": 30.097416000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "His",
+    "start": 30.963749999999997,
+    "end": 31.198915999999997,
+    "paragraph": 1
+  },
+  {
+    "text": "colleagues",
+    "start": 31.21125,
+    "end": 31.718666,
+    "paragraph": 1
+  },
+  {
+    "text": "came",
+    "start": 31.743457999999997,
+    "end": 31.978624000000003,
+    "paragraph": 1
+  },
+  {
+    "text": "to",
+    "start": 32.003333,
+    "end": 32.077583,
+    "paragraph": 1
+  },
+  {
+    "text": "help",
+    "start": 32.102333,
+    "end": 32.485999,
+    "paragraph": 1
+  },
+  {
+    "text": "The",
+    "start": 32.83597916666666,
+    "end": 32.98597916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "copilot",
+    "start": 33.010979166666665,
+    "end": 33.573479166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "descended",
+    "start": 33.598479166666664,
+    "end": 34.160979166666664,
+    "paragraph": 2
+  },
+  {
+    "text": "and",
+    "start": 34.18597916666666,
+    "end": 34.29847916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "searched",
+    "start": 34.323479166666665,
+    "end": 34.660979166666664,
+    "paragraph": 2
+  },
+  {
+    "text": "for",
+    "start": 34.68597916666666,
+    "end": 34.83597916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "an",
+    "start": 34.848479166666664,
+    "end": 34.92347916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "airport",
+    "start": 34.948479166666665,
+    "end": 35.473479166666664,
+    "paragraph": 2
+  },
+  {
+    "text": "Wind",
+    "start": 36.348479166666664,
+    "end": 36.73597916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "drowned",
+    "start": 36.760979166666665,
+    "end": 37.12347916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "out",
+    "start": 37.14847916666666,
+    "end": 37.285979166666664,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 37.31097916666666,
+    "end": 37.42347916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "radio",
+    "start": 37.43597916666666,
+    "end": 37.973479166666664,
+    "paragraph": 2
+  },
+  {
+    "text": "The",
+    "start": 38.83597916666666,
+    "end": 38.973479166666664,
+    "paragraph": 2
+  },
+  {
+    "text": "rescuers'",
+    "start": 38.99847916666666,
+    "end": 39.573479166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "hands",
+    "start": 39.598479166666664,
+    "end": 39.98597916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "were",
+    "start": 40.010979166666665,
+    "end": 40.160979166666664,
+    "paragraph": 2
+  },
+  {
+    "text": "going",
+    "start": 40.18597916666666,
+    "end": 40.473479166666664,
+    "paragraph": 2
+  },
+  {
+    "text": "numb",
+    "start": 40.49847916666666,
+    "end": 40.885979166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "The",
+    "start": 41.760979166666665,
+    "end": 41.89847916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "crew",
+    "start": 41.92347916666667,
+    "end": 42.160979166666664,
+    "paragraph": 2
+  },
+  {
+    "text": "feared",
+    "start": 42.18597916666666,
+    "end": 42.48597916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "that",
+    "start": 42.49847916666666,
+    "end": 42.62347916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 42.64847916666666,
+    "end": 42.760979166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "captain",
+    "start": 42.785979166666664,
+    "end": 43.198479166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "would",
+    "start": 43.223479166666664,
+    "end": 43.39847916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "not",
+    "start": 43.42347916666667,
+    "end": 43.61097916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "survive",
+    "start": 43.62347916666666,
+    "end": 44.23597916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "But",
+    "start": 45.12347916666666,
+    "end": 45.285979166666664,
+    "paragraph": 2
+  },
+  {
+    "text": "they",
+    "start": 45.31097916666666,
+    "end": 45.42347916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "kept",
+    "start": 45.448479166666665,
+    "end": 45.73597916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "holding",
+    "start": 45.760979166666665,
+    "end": 46.135979166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "on",
+    "start": 46.14847916666666,
+    "end": 46.48597916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "During",
+    "start": 47.348479166666664,
+    "end": 47.64847916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 47.67347916666667,
+    "end": 47.77347916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "descent",
+    "start": 47.785979166666664,
+    "end": 48.223479166666664,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 48.49847916666666,
+    "end": 48.61097916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "captain",
+    "start": 48.635979166666665,
+    "end": 49.073479166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "kicked",
+    "start": 49.098479166666664,
+    "end": 49.323479166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "his",
+    "start": 49.348479166666664,
+    "end": 49.49847916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "legs",
+    "start": 49.52347916666666,
+    "end": 49.98597916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "He",
+    "start": 50.86097916666667,
+    "end": 51.02347916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "was",
+    "start": 51.04847916666667,
+    "end": 51.23597916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "alive",
+    "start": 51.260979166666665,
+    "end": 51.81097916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "They",
+    "start": 52.67347916666667,
+    "end": 52.81097916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "held",
+    "start": 52.83597916666666,
+    "end": 53.06097916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "him",
+    "start": 53.073479166666665,
+    "end": 53.18597916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "outside",
+    "start": 53.198479166666665,
+    "end": 53.67347916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "for",
+    "start": 53.698479166666665,
+    "end": 53.86097916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "around",
+    "start": 53.885979166666665,
+    "end": 54.18597916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "twenty",
+    "start": 54.198479166666665,
+    "end": 54.473479166666664,
+    "paragraph": 2
+  },
+  {
+    "text": "minutes",
+    "start": 54.49847916666666,
+    "end": 54.96097916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "Then",
+    "start": 55.823479166666665,
+    "end": 56.135979166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 56.160979166666664,
+    "end": 56.27347916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "plane",
+    "start": 56.285979166666664,
+    "end": 56.635979166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "landed",
+    "start": 56.64847916666666,
+    "end": 57.14847916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "All",
+    "start": 58.02347916666666,
+    "end": 58.323479166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "eighty-seven",
+    "start": 58.348479166666664,
+    "end": 58.96097916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "people",
+    "start": 58.98597916666667,
+    "end": 59.33597916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "on",
+    "start": 59.36097916666667,
+    "end": 59.48597916666667,
+    "paragraph": 2
+  },
+  {
+    "text": "board",
+    "start": 59.510979166666665,
+    "end": 59.760979166666665,
+    "paragraph": 2
+  },
+  {
+    "text": "survived",
+    "start": 59.77347916666666,
+    "end": 60.39847916666666,
+    "paragraph": 2
+  },
+  {
+    "text": "But",
+    "start": 60.748479166666655,
+    "end": 60.92347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "why",
+    "start": 60.94847916666666,
+    "end": 61.13597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "had",
+    "start": 61.16097916666666,
+    "end": 61.34847916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 61.373479166666655,
+    "end": 61.47347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "window",
+    "start": 61.498479166666655,
+    "end": 61.83597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "blown",
+    "start": 61.84847916666666,
+    "end": 62.16097916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "out",
+    "start": 62.185979166666655,
+    "end": 62.53597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "Investigators",
+    "start": 63.41097916666666,
+    "end": 64.33597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "found",
+    "start": 64.36097916666665,
+    "end": 64.61097916666665,
+    "paragraph": 3
+  },
+  {
+    "text": "a",
+    "start": 64.62347916666666,
+    "end": 64.69847916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "dangerous",
+    "start": 64.72347916666666,
+    "end": 65.27347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "installation",
+    "start": 65.28597916666666,
+    "end": 65.98597916666665,
+    "paragraph": 3
+  },
+  {
+    "text": "error",
+    "start": 66.01097916666666,
+    "end": 66.41097916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "The",
+    "start": 67.29847916666665,
+    "end": 67.44847916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "window",
+    "start": 67.47347916666666,
+    "end": 67.82347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "had",
+    "start": 67.84847916666666,
+    "end": 68.08597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "recently",
+    "start": 68.11097916666665,
+    "end": 68.62347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "been",
+    "start": 68.63597916666666,
+    "end": 68.82347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "replaced",
+    "start": 68.83597916666666,
+    "end": 69.47347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "Of",
+    "start": 70.34847916666666,
+    "end": 70.51097916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "its",
+    "start": 70.53597916666666,
+    "end": 70.69847916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "ninety",
+    "start": 70.71097916666666,
+    "end": 71.03597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "securing",
+    "start": 71.06097916666666,
+    "end": 71.56097916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "bolts",
+    "start": 71.58597916666666,
+    "end": 71.91097916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "eighty-four",
+    "start": 72.08597916666666,
+    "end": 72.66097916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "were",
+    "start": 72.68597916666666,
+    "end": 72.81097916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "too",
+    "start": 72.83597916666666,
+    "end": 73.02347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "narrow",
+    "start": 73.04847916666665,
+    "end": 73.49847916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "By",
+    "start": 74.37347916666666,
+    "end": 74.52347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "just",
+    "start": 74.54847916666665,
+    "end": 74.82347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "zero",
+    "start": 74.84847916666666,
+    "end": 75.16097916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "point",
+    "start": 75.17347916666665,
+    "end": 75.44847916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "six",
+    "start": 75.47347916666666,
+    "end": 75.76097916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "six",
+    "start": 75.78597916666666,
+    "end": 76.04847916666665,
+    "paragraph": 3
+  },
+  {
+    "text": "millimeters",
+    "start": 76.06097916666666,
+    "end": 76.78597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "The",
+    "start": 77.66097916666666,
+    "end": 77.81097916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "other",
+    "start": 77.83597916666666,
+    "end": 78.08597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "six",
+    "start": 78.09847916666666,
+    "end": 78.42347916666665,
+    "paragraph": 3
+  },
+  {
+    "text": "were",
+    "start": 78.43597916666666,
+    "end": 78.57347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "too",
+    "start": 78.59847916666666,
+    "end": 78.78597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "short",
+    "start": 78.81097916666666,
+    "end": 79.29847916666665,
+    "paragraph": 3
+  },
+  {
+    "text": "Pressure",
+    "start": 80.17347916666665,
+    "end": 80.58597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "inside",
+    "start": 80.61097916666665,
+    "end": 80.97347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 80.98597916666665,
+    "end": 81.08597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "cockpit",
+    "start": 81.11097916666665,
+    "end": 81.58597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "pushed",
+    "start": 81.61097916666665,
+    "end": 81.88597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 81.91097916666666,
+    "end": 82.02347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "window",
+    "start": 82.04847916666665,
+    "end": 82.41097916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "and",
+    "start": 82.43597916666666,
+    "end": 82.53597916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "its",
+    "start": 82.56097916666666,
+    "end": 82.69847916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "fasteners",
+    "start": 82.72347916666666,
+    "end": 83.22347916666666,
+    "paragraph": 3
+  },
+  {
+    "text": "out",
+    "start": 83.24847916666666,
+    "end": 83.54847916666665,
+    "paragraph": 3
+  },
+  {
+    "text": "The",
+    "start": 83.89947916666665,
+    "end": 84.02702016666665,
+    "paragraph": 4
+  },
+  {
+    "text": "report",
+    "start": 84.03981216666665,
+    "end": 84.40972816666665,
+    "paragraph": 4
+  },
+  {
+    "text": "identified",
+    "start": 84.43522916666664,
+    "end": 85.11122916666665,
+    "paragraph": 4
+  },
+  {
+    "text": "both",
+    "start": 85.13672916666665,
+    "end": 85.39181216666665,
+    "paragraph": 4
+  },
+  {
+    "text": "maintenance",
+    "start": 85.40460416666664,
+    "end": 85.96581216666665,
+    "paragraph": 4
+  },
+  {
+    "text": "errors",
+    "start": 85.99135416666665,
+    "end": 86.33572916666665,
+    "paragraph": 4
+  },
+  {
+    "text": "and",
+    "start": 86.36122916666665,
+    "end": 86.48877016666665,
+    "paragraph": 4
+  },
+  {
+    "text": "failures",
+    "start": 86.51431216666666,
+    "end": 87.05002016666666,
+    "paragraph": 4
+  },
+  {
+    "text": "of",
+    "start": 87.07552016666665,
+    "end": 87.17756116666665,
+    "paragraph": 4
+  },
+  {
+    "text": "oversight",
+    "start": 87.20306216666665,
+    "end": 87.80256216666665,
+    "paragraph": 4
+  },
+  {
+    "text": "A",
+    "start": 88.69543716666665,
+    "end": 88.82297816666664,
+    "paragraph": 4
+  },
+  {
+    "text": "tiny",
+    "start": 88.83572916666665,
+    "end": 89.14185416666665,
+    "paragraph": 4
+  },
+  {
+    "text": "mismatch",
+    "start": 89.16735416666666,
+    "end": 89.65206216666665,
+    "paragraph": 4
+  },
+  {
+    "text": "had",
+    "start": 89.67756216666665,
+    "end": 89.84339516666665,
+    "paragraph": 4
+  },
+  {
+    "text": "endangered",
+    "start": 89.86889516666665,
+    "end": 90.41735316666664,
+    "paragraph": 4
+  },
+  {
+    "text": "dozens",
+    "start": 90.44285416666665,
+    "end": 90.82552016666665,
+    "paragraph": 4
+  },
+  {
+    "text": "of",
+    "start": 90.85102016666664,
+    "end": 90.92756116666665,
+    "paragraph": 4
+  },
+  {
+    "text": "lives",
+    "start": 90.95306216666665,
+    "end": 91.48877016666665,
+    "paragraph": 4
+  },
+  {
+    "text": "Was",
+    "start": 92.36889516666665,
+    "end": 92.61122816666665,
+    "paragraph": 4
+  },
+  {
+    "text": "this",
+    "start": 92.63672916666665,
+    "end": 92.81531216666664,
+    "paragraph": 4
+  },
+  {
+    "text": "one",
+    "start": 92.84081216666665,
+    "end": 93.04489516666665,
+    "paragraph": 4
+  },
+  {
+    "text": "mechanic's",
+    "start": 93.07043716666665,
+    "end": 93.61889516666665,
+    "paragraph": 4
+  },
+  {
+    "text": "fault",
+    "start": 93.63164516666664,
+    "end": 94.06531116666665,
+    "paragraph": 4
+  },
+  {
+    "text": "Or",
+    "start": 94.95818716666665,
+    "end": 95.13677016666665,
+    "paragraph": 4
+  },
+  {
+    "text": "a",
+    "start": 95.14947916666665,
+    "end": 95.21327016666665,
+    "paragraph": 4
+  },
+  {
+    "text": "system",
+    "start": 95.23877016666665,
+    "end": 95.65968616666665,
+    "paragraph": 4
+  },
+  {
+    "text": "that",
+    "start": 95.68522916666664,
+    "end": 95.81277016666665,
+    "paragraph": 4
+  },
+  {
+    "text": "allowed",
+    "start": 95.82552016666665,
+    "end": 96.14439516666665,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 96.16989516666665,
+    "end": 96.24643616666665,
+    "paragraph": 4
+  },
+  {
+    "text": "mistake",
+    "start": 96.25918716666665,
+    "end": 96.69285316666665,
+    "paragraph": 4
+  },
+  {
+    "text": "to",
+    "start": 96.71839516666665,
+    "end": 96.83318616666665,
+    "paragraph": 4
+  },
+  {
+    "text": "go",
+    "start": 96.85868716666666,
+    "end": 97.06277016666665,
+    "paragraph": 4
+  },
+  {
+    "text": "unnoticed",
+    "start": 97.08827016666665,
+    "end": 97.72602016666664,
+    "paragraph": 4
+  }
+]

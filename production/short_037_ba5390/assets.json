@@ -1,0 +1,148 @@
+[
+  {
+    "file": "assets/aircraft.jpg",
+    "sha256": "419880571edcb962eb59c101cead436875e513af54d98958c080ac50a16928a7",
+    "native_pixels": [
+      3781,
+      2395
+    ],
+    "manual_review": "Viewed original; people/context inspected; no invented documentary identity",
+    "processing": "contained, no stretched aspect ratio",
+    "id": "aircraft",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/G-BJRT_BAC1-11_B.A._BHX_15-07-89_%2825566356266%29.jpg",
+    "caption": "G-BJRT 1989 Rob Hodgkins CC BY-SA2.0",
+    "status": 200,
+    "provenance": "authentic archive photo",
+    "rights": "CC BY-SA2.0 Rob Hodgkins"
+  },
+  {
+    "file": "assets/appendix-19.jpg",
+    "sha256": "42fda3dcd8ce33e7590c85576ee7e18200be8065b2a9fe54e609c132c4304d02",
+    "native_pixels": [
+      1700,
+      2400
+    ],
+    "manual_review": "Viewed original; people/context inspected; no invented documentary identity",
+    "processing": "contained, no stretched aspect ratio",
+    "provenance": "authentic AAIB report page",
+    "rights": "Crown/AAIB OGLv3 except third-party rights",
+    "source": "AAIB1/1992 PDFs; SOURCES.md"
+  },
+  {
+    "file": "assets/captain.jpg",
+    "sha256": "c7903fbe0b1ded967afc017f91031e1dd7f870ec53abee40b6e190cfa70e7069",
+    "native_pixels": [
+      1200,
+      824
+    ],
+    "manual_review": "Viewed original; people/context inspected; no invented documentary identity",
+    "processing": "contained, no stretched aspect ratio",
+    "id": "captain",
+    "url": "https://www.nzherald.co.nz/resizer/v2/K3C7F6GVJNOXD2H5FGAO5UB4H4.jpg?auth=db928627c5eee37e0a04597291141c21e6fc5da3091b355a950cdf0da9c4ff7f&width=1200&quality=70&smart=true",
+    "caption": "Pilot Timothy Lancaster, returning to flying on the inside of BA's planes just 5 months on. Photo / PA Images via Getty Images",
+    "status": 200,
+    "provenance": "authentic archive photo",
+    "rights": "user-reported permission, not independently verified Getty licence"
+  },
+  {
+    "file": "assets/crew.jpg",
+    "sha256": "afa310f0524d9b1fc12b8013f2d549ec023c3ebf2d424be2b82c81c524243c13",
+    "native_pixels": [
+      1200,
+      757
+    ],
+    "manual_review": "Viewed original; people/context inspected; no invented documentary identity",
+    "processing": "contained, no stretched aspect ratio",
+    "id": "crew",
+    "url": "https://www.nzherald.co.nz/resizer/v2/SPVNTXZC5GK6HULEUKNYJ7JXG4.jpg?auth=11719a6825ab84f63b2e319e2cb194e6f51648c53d4eedda9881c8021453380f&width=1200&quality=70&smart=true",
+    "caption": "Heroes of flight 5390: Captain Tim Lancaster surrounded by crew, from left, Alistair Atchison, John Howard, Nigel Ogden, Susan Prince and Simon Rogers. Photo / PA Images via Getty Images",
+    "status": 200,
+    "provenance": "authentic archive photo",
+    "rights": "user-reported permission, not independently verified Getty licence"
+  },
+  {
+    "file": "assets/opening.png",
+    "sha256": "fbc070fa16422ba238088bf2a5fece0b979a88fabff21a025a1c65fdf66a51a4",
+    "native_pixels": [
+      941,
+      1672
+    ],
+    "manual_review": "Reviewed all panels including portrait revisions and fixed clothing anomaly; not actual crew portraits",
+    "processing": "contained, no stretched aspect ratio",
+    "provenance": "original generated illustration",
+    "rights": "generated for project"
+  },
+  {
+    "file": "assets/report.jpg",
+    "sha256": "529e390ed6f421f952568daf6b60bf2e38bb6bb739d46b3e1f85410fda49887a",
+    "native_pixels": [
+      1345,
+      1900
+    ],
+    "manual_review": "Viewed original; people/context inspected; no invented documentary identity",
+    "processing": "contained, no stretched aspect ratio",
+    "provenance": "authentic AAIB report page",
+    "rights": "Crown/AAIB OGLv3 except third-party rights",
+    "source": "AAIB1/1992 PDFs; SOURCES.md"
+  },
+  {
+    "file": "assets/scenes1.png",
+    "sha256": "8ca0561d9d1cb57aa4b9e69d0677fa0050ca1a58c02d915facc9bee46a19c5ed",
+    "native_pixels": [
+      941,
+      1672
+    ],
+    "manual_review": "Reviewed all panels including portrait revisions and fixed clothing anomaly; not actual crew portraits",
+    "processing": "contained, no stretched aspect ratio",
+    "provenance": "original generated illustration",
+    "rights": "generated for project"
+  },
+  {
+    "file": "assets/scenes2.png",
+    "sha256": "6413680c1e16a41b1f26fd458a6719643a01882f1d8d7142cf5ffbfa77ed1f56",
+    "native_pixels": [
+      941,
+      1672
+    ],
+    "manual_review": "Reviewed all panels including portrait revisions and fixed clothing anomaly; not actual crew portraits",
+    "processing": "contained, no stretched aspect ratio",
+    "provenance": "original generated illustration",
+    "rights": "generated for project"
+  },
+  {
+    "file": "assets/scenes3.png",
+    "sha256": "4e924a67d7ba19a5e6d870df670a167a2d8585e80507f121e8a5a9769dc44ecf",
+    "native_pixels": [
+      941,
+      1672
+    ],
+    "manual_review": "Reviewed all panels including portrait revisions and fixed clothing anomaly; not actual crew portraits",
+    "processing": "contained, no stretched aspect ratio",
+    "provenance": "original generated illustration",
+    "rights": "generated for project"
+  },
+  {
+    "file": "assets/numb.png",
+    "sha256": "4061e7012f218bfc2614ba5c5a4d9f052842a6a956f047d0952d445f2af633ba",
+    "native_pixels": [
+      941,
+      1672
+    ],
+    "provenance": "original generated illustration",
+    "rights": "generated for project",
+    "manual_review": "Viewed original; two legs, retained grip, no injury. Numb scene intentionally close detail, not full-face portrait.",
+    "processing": "contained, no stretch"
+  },
+  {
+    "file": "assets/kick.png",
+    "sha256": "b553cfd63f7b3525ef3e3d59b825d76cf0b44f0ea3dd8e6e8b94903d5d218846",
+    "native_pixels": [
+      941,
+      1672
+    ],
+    "provenance": "original generated illustration",
+    "rights": "generated for project",
+    "manual_review": "Viewed original; two legs, retained grip, no injury. Numb scene intentionally close detail, not full-face portrait.",
+    "processing": "contained, no stretch"
+  }
+]

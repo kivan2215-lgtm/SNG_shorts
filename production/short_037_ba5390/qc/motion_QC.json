@@ -1,0 +1,50 @@
+[
+  {
+    "kind": "window",
+    "frames": 37,
+    "native_fps": 30,
+    "no_optical_interpolation": true,
+    "sampled_ids": [
+      0,
+      6,
+      12,
+      18,
+      24,
+      30,
+      36
+    ],
+    "sample_pixel_changes": [
+      0.3373560474537037,
+      3.497027271412037,
+      6.717614655671296,
+      6.5263849103009255,
+      4.4785358796296295,
+      0.5054553674768518
+    ],
+    "manual_review": "Inspected seven full composed native frames covering endpoints/intermediate states; whole model stays visible, physical separation/rotation continuous, no visible boundary seam in samples. No continuous playback claim."
+  },
+  {
+    "kind": "bolts",
+    "frames": 61,
+    "native_fps": 30,
+    "no_optical_interpolation": true,
+    "sampled_ids": [
+      0,
+      10,
+      20,
+      30,
+      40,
+      50,
+      60
+    ],
+    "sample_pixel_changes": [
+      0.38594871238425926,
+      0.5378030960648148,
+      0.6708930121527777,
+      0.6784776475694444,
+      0.5373039641203704,
+      0.39080258969907405
+    ],
+    "manual_review": "Inspected seven full composed native frames covering endpoints/intermediate states; whole model stays visible, physical separation/rotation continuous, no visible boundary seam in samples. No continuous playback claim."
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "shot": "hold",
+    "time": 1.3333333333333333,
+    "file": "ru_hold.jpg"
+  },
+  {
+    "shot": "outside",
+    "time": 4.35,
+    "file": "ru_outside.jpg"
+  },
+  {
+    "shot": "help",
+    "time": 28.15,
+    "file": "ru_help.jpg"
+  },
+  {
+    "shot": "copilot",
+    "time": 30.1,
+    "file": "ru_copilot.jpg"
+  },
+  {
+    "shot": "airport",
+    "time": 31.75,
+    "file": "ru_airport.jpg"
+  },
+  {
+    "shot": "alive",
+    "time": 44.93333333333334,
+    "file": "ru_alive.jpg"
+  },
+  {
+    "shot": "survived",
+    "time": 51.349999999999994,
+    "file": "ru_survived.jpg"
+  },
+  {
+    "shot": "ninety",
+    "time": 61.016666666666666,
+    "file": "ru_ninety.jpg"
+  },
+  {
+    "shot": "difference",
+    "time": 65.66666666666666,
+    "file": "ru_difference.jpg"
+  },
+  {
+    "shot": "short",
+    "time": 68.3,
+    "file": "ru_short.jpg"
+  },
+  {
+    "shot": "pressure",
+    "time": 71.56666666666666,
+    "file": "ru_pressure.jpg"
+  },
+  {
+    "shot": "oversight",
+    "time": 77.48333333333333,
+    "file": "ru_oversight.jpg"
+  },
+  {
+    "shot": "end",
+    "time": 86.55,
+    "file": "ru_end.jpg"
+  }
+]

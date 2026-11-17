@@ -1,0 +1,177 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.1333333333333333,
+    "visual": "hold"
+  },
+  {
+    "start": 3.1333333333333333,
+    "end": 5.833333333333333,
+    "visual": "outside"
+  },
+  {
+    "start": 5.833333333333333,
+    "end": 8.466666666666667,
+    "visual": "height"
+  },
+  {
+    "start": 8.466666666666667,
+    "end": 10.6,
+    "visual": "grip"
+  },
+  {
+    "start": 10.6,
+    "end": 12.5,
+    "visual": "braced"
+  },
+  {
+    "start": 12.5,
+    "end": 15.533333333333333,
+    "visual": "date"
+  },
+  {
+    "start": 15.533333333333333,
+    "end": 17.366666666666667,
+    "visual": "normal"
+  },
+  {
+    "start": 17.366666666666667,
+    "end": 20.366666666666667,
+    "visual": "blow"
+  },
+  {
+    "start": 20.366666666666667,
+    "end": 23.333333333333332,
+    "visual": "ejected"
+  },
+  {
+    "start": 23.333333333333332,
+    "end": 25.133333333333333,
+    "visual": "grab"
+  },
+  {
+    "start": 25.133333333333333,
+    "end": 27.0,
+    "visual": "help"
+  },
+  {
+    "start": 27.0,
+    "end": 28.333333333333332,
+    "visual": "copilot"
+  },
+  {
+    "start": 28.333333333333332,
+    "end": 29.9,
+    "visual": "airport"
+  },
+  {
+    "start": 29.9,
+    "end": 31.8,
+    "visual": "radio"
+  },
+  {
+    "start": 31.8,
+    "end": 34.166666666666664,
+    "visual": "numb"
+  },
+  {
+    "start": 34.166666666666664,
+    "end": 36.93333333333333,
+    "visual": "believed"
+  },
+  {
+    "start": 36.93333333333333,
+    "end": 38.6,
+    "visual": "holding"
+  },
+  {
+    "start": 38.6,
+    "end": 41.7,
+    "visual": "kick"
+  },
+  {
+    "start": 41.7,
+    "end": 42.9,
+    "visual": "alive"
+  },
+  {
+    "start": 42.9,
+    "end": 45.43333333333333,
+    "visual": "duration"
+  },
+  {
+    "start": 45.43333333333333,
+    "end": 47.03333333333333,
+    "visual": "landing"
+  },
+  {
+    "start": 47.03333333333333,
+    "end": 49.733333333333334,
+    "visual": "survived"
+  },
+  {
+    "start": 49.733333333333334,
+    "end": 51.8,
+    "visual": "why"
+  },
+  {
+    "start": 51.8,
+    "end": 55.03333333333333,
+    "visual": "evidence"
+  },
+  {
+    "start": 55.03333333333333,
+    "end": 57.5,
+    "visual": "repair"
+  },
+  {
+    "start": 57.5,
+    "end": 59.233333333333334,
+    "visual": "ninety"
+  },
+  {
+    "start": 59.233333333333334,
+    "end": 60.93333333333333,
+    "visual": "thin"
+  },
+  {
+    "start": 60.93333333333333,
+    "end": 63.63333333333333,
+    "visual": "difference"
+  },
+  {
+    "start": 63.63333333333333,
+    "end": 65.53333333333333,
+    "visual": "short"
+  },
+  {
+    "start": 65.53333333333333,
+    "end": 69.23333333333333,
+    "visual": "pressure"
+  },
+  {
+    "start": 69.23333333333333,
+    "end": 71.7,
+    "visual": "report"
+  },
+  {
+    "start": 71.7,
+    "end": 73.43333333333334,
+    "visual": "oversight"
+  },
+  {
+    "start": 73.43333333333334,
+    "end": 76.53333333333333,
+    "visual": "stakes"
+  },
+  {
+    "start": 76.53333333333333,
+    "end": 78.5,
+    "visual": "mechanic"
+  },
+  {
+    "start": 78.5,
+    "end": 81.7,
+    "visual": "end"
+  }
+]

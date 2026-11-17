@@ -1,0 +1,67 @@
+[
+  {
+    "shot": "hold",
+    "time": 1.5666666666666667,
+    "file": "en_hold.jpg"
+  },
+  {
+    "shot": "outside",
+    "time": 4.483333333333333,
+    "file": "en_outside.jpg"
+  },
+  {
+    "shot": "help",
+    "time": 26.066666666666666,
+    "file": "en_help.jpg"
+  },
+  {
+    "shot": "copilot",
+    "time": 27.666666666666664,
+    "file": "en_copilot.jpg"
+  },
+  {
+    "shot": "airport",
+    "time": 29.116666666666667,
+    "file": "en_airport.jpg"
+  },
+  {
+    "shot": "alive",
+    "time": 42.3,
+    "file": "en_alive.jpg"
+  },
+  {
+    "shot": "survived",
+    "time": 48.38333333333333,
+    "file": "en_survived.jpg"
+  },
+  {
+    "shot": "ninety",
+    "time": 58.36666666666667,
+    "file": "en_ninety.jpg"
+  },
+  {
+    "shot": "difference",
+    "time": 62.28333333333333,
+    "file": "en_difference.jpg"
+  },
+  {
+    "shot": "short",
+    "time": 64.58333333333333,
+    "file": "en_short.jpg"
+  },
+  {
+    "shot": "pressure",
+    "time": 67.38333333333333,
+    "file": "en_pressure.jpg"
+  },
+  {
+    "shot": "oversight",
+    "time": 72.56666666666666,
+    "file": "en_oversight.jpg"
+  },
+  {
+    "shot": "end",
+    "time": 80.1,
+    "file": "en_end.jpg"
+  }
+]
