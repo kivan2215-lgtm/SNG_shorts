@@ -1,0 +1,18 @@
+[
+  {
+    "language": "ru",
+    "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_037_BA5390_RU_PREVIEW.mp4",
+    "sha256": "db69b585ba6a1e745050ba4978fd0651ec9ad824fa6bc84a793ff65f65aa602c",
+    "bytes": 14680334,
+    "full_download_verified": true,
+    "verified_utc": "2026-11-17T12:48:04.142083+00:00"
+  },
+  {
+    "language": "en",
+    "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_037_BA5390_EN_PREVIEW.mp4",
+    "sha256": "8a8b7638126572b275f9ad234b0c216eab3ea6d0097519a6ca5e43653095230e",
+    "bytes": 13959369,
+    "full_download_verified": true,
+    "verified_utc": "2026-11-17T12:48:04.116890+00:00"
+  }
+]
