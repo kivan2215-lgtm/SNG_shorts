@@ -1,0 +1,40 @@
+{
+  "language": "ru",
+  "file": "SNG_COMEDY_001_EMU_RU_PREVIEW_V4.mp4",
+  "duration": 98.166667,
+  "bytes": 16659263,
+  "sha256": "8c52e9a5ad59e9c36e739c4623f457f33a2e9babe6fc112a46d992193c138060",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec_name": "h264",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "faststart": true,
+  "full_decode_ok": true,
+  "loudness": {
+    "input_i": "-16.10",
+    "input_tp": "-4.26",
+    "input_lra": "1.50",
+    "input_thresh": "-26.18",
+    "output_i": "-16.03",
+    "output_tp": "-4.20",
+    "output_lra": "1.60",
+    "output_thresh": "-26.10",
+    "normalization_type": "dynamic",
+    "target_offset": "0.03"
+  },
+  "black_frames": [],
+  "captions": 67,
+  "single_word_sentence_exceptions": [],
+  "failures": [],
+  "auditory_review": false,
+  "encoded_frame_review": "Midpoint of all 34 shots visually reviewed; no blocking layout/caption issue. No full motion playback or auditory review.",
+  "preview_not_approved": true
+}

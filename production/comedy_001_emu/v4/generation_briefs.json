@@ -1,0 +1,9 @@
+{
+  "purpose": "Production briefs for original editorial artwork; not historical evidence",
+  "review": "All accepted sheets visually reviewed, full faces/hands/props kept. Sheets2/3 were regenerated to taller compositions before use.",
+  "scenes1.png": {"source_file":"exec-ff9d34e6-04fd-471e-84a4-d46003e65711.png", "brief":"1932 Western Australian wheat country, four portrait panels: emu foreground and three men/two guns; farmer lifting ruined wheat; farmers explaining problem at gate; three men unloading period truck. Photorealistic warm light, no text or injury."},
+  "scenes2.png": {"source_file":"exec-4b95c361-056d-4dd1-b676-57a9c05e23cd.png", "brief":"Four tall panels: whole emu; flock approaching water and concealed soldiers; confused soldier with idle jammed Lewis gun; frustrated officer. Recompose earlier near-square draft to1024x1536, preserving hands, faces and period."},
+  "scenes3.png": {"source_file":"exec-35205bd5-c09d-44b0-af4b-3aaae50caa2c.png", "brief":"Four tall panels: soldiers mounting gun on1930s truck; running healthy emus; weary farmer still facing birds; unbothered emu close portrait. Recompose earlier near-square draft to1024x1536. No text, injuries or modern props."},
+  "truck_reaction.png": {"source_file":"exec-54b8ddb0-9972-4ef3-81da-abb1ef64a5b4.png", "brief":"Single portrait: seated khaki soldier gripping wooden truck bench with uncomfortable dry-comedy reaction, idle mounted weapon beside him, healthy emu in background, complete face/hat/hands, no firing or injury."},
+  "unused_drafts": ["exec-d26f58fc-d49d-487b-9e3a-e21d84a34da8.png","exec-054c0414-741b-4759-8083-44418383d87d.png"]
+}
