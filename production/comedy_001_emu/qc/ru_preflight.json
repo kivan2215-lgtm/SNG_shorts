@@ -1,0 +1,82 @@
+[
+  {
+    "shot": "hook",
+    "time": 1.7333333333333334,
+    "file": "ru_hook.jpg"
+  },
+  {
+    "shot": "bird",
+    "time": 4.816666666666666,
+    "file": "ru_bird.jpg"
+  },
+  {
+    "shot": "awkward",
+    "time": 7.5,
+    "file": "ru_awkward.jpg"
+  },
+  {
+    "shot": "guns",
+    "time": 18.616666666666667,
+    "file": "ru_guns.jpg"
+  },
+  {
+    "shot": "legs",
+    "time": 21.066666666666666,
+    "file": "ru_legs.jpg"
+  },
+  {
+    "shot": "scatter",
+    "time": 24.95,
+    "file": "ru_scatter.jpg"
+  },
+  {
+    "shot": "catch",
+    "time": 27.233333333333334,
+    "file": "ru_catch.jpg"
+  },
+  {
+    "shot": "flock",
+    "time": 31.483333333333334,
+    "file": "ru_flock.jpg"
+  },
+  {
+    "shot": "jam",
+    "time": 35.400000000000006,
+    "file": "ru_jam.jpg"
+  },
+  {
+    "shot": "error",
+    "time": 39.4,
+    "file": "ru_error.jpg"
+  },
+  {
+    "shot": "rough",
+    "time": 47.31666666666666,
+    "file": "ru_rough.jpg"
+  },
+  {
+    "shot": "recall",
+    "time": 54.83333333333333,
+    "file": "ru_recall.jpg"
+  },
+  {
+    "shot": "return",
+    "time": 56.53333333333333,
+    "file": "ru_return.jpg"
+  },
+  {
+    "shot": "unresolved",
+    "time": 58.416666666666664,
+    "file": "ru_unresolved.jpg"
+  },
+  {
+    "shot": "farmers",
+    "time": 66.31666666666666,
+    "file": "ru_farmers.jpg"
+  },
+  {
+    "shot": "question",
+    "time": 72.46666666666667,
+    "file": "ru_question.jpg"
+  }
+]

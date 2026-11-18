@@ -1,0 +1,42 @@
+{
+  "voice": "ru-RU-DmitryNeural",
+  "duration": 94.08574999999999,
+  "paragraphs": [
+    {
+      "paragraph": 0,
+      "start": 0,
+      "end": 10.496354166666666,
+      "rate": "+2%",
+      "pitch": "+1Hz"
+    },
+    {
+      "paragraph": 1,
+      "start": 10.656354166666667,
+      "end": 29.547333333333334,
+      "rate": "+2%",
+      "pitch": "+1Hz"
+    },
+    {
+      "paragraph": 2,
+      "start": 29.707333333333334,
+      "end": 51.89485416666667,
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    },
+    {
+      "paragraph": 3,
+      "start": 52.054854166666665,
+      "end": 76.44825,
+      "rate": "+2%",
+      "pitch": "+1Hz"
+    },
+    {
+      "paragraph": 4,
+      "start": 76.60825,
+      "end": 94.08574999999999,
+      "rate": "+0%",
+      "pitch": "-1Hz"
+    }
+  ],
+  "source_preset": "COMEDY V1: same approved narrators, dry delivery, +2% paragraphs, +0% ending"
+}

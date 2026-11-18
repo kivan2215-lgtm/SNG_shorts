@@ -1,0 +1,42 @@
+{
+  "voice": "en-US-GuyNeural",
+  "duration": 86.21783333333332,
+  "paragraphs": [
+    {
+      "paragraph": 0,
+      "start": 0,
+      "end": 9.7355625,
+      "rate": "+2%",
+      "pitch": "+1Hz"
+    },
+    {
+      "paragraph": 1,
+      "start": 9.8955625,
+      "end": 27.645833333333332,
+      "rate": "+2%",
+      "pitch": "+1Hz"
+    },
+    {
+      "paragraph": 2,
+      "start": 27.805833333333332,
+      "end": 48.5708125,
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    },
+    {
+      "paragraph": 3,
+      "start": 48.7308125,
+      "end": 70.89283333333333,
+      "rate": "+2%",
+      "pitch": "+1Hz"
+    },
+    {
+      "paragraph": 4,
+      "start": 71.05283333333333,
+      "end": 86.21783333333332,
+      "rate": "+0%",
+      "pitch": "-1Hz"
+    }
+  ],
+  "source_preset": "COMEDY V1: same approved narrators, dry delivery, +2% paragraphs, +0% ending"
+}

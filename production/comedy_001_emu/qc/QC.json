@@ -1,0 +1,102 @@
+[
+  {
+    "language": "ru",
+    "file": "SNG_COMEDY_001_EMU_RU_PREVIEW.mp4",
+    "duration": 74.966667,
+    "bytes": 13152153,
+    "sha256": "bb6342a05bbf7532a48f27485bf5aec991e5424324d585ee5d8649fcdcb9ac52",
+    "video": {
+      "width": 1080,
+      "height": 1920,
+      "codec_name": "h264",
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1"
+    },
+    "audio": {
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "channels": 2
+    },
+    "faststart": true,
+    "full_decode_ok": true,
+    "loudness": {
+      "input_i": "-16.16",
+      "input_tp": "-4.37",
+      "input_lra": "2.00",
+      "input_thresh": "-26.65",
+      "output_i": "-16.09",
+      "output_tp": "-4.29",
+      "output_lra": "1.80",
+      "output_thresh": "-26.57",
+      "normalization_type": "dynamic",
+      "target_offset": "0.09"
+    },
+    "black_frames": [],
+    "captions": 42,
+    "single_word_sentence_exceptions": [
+      {
+        "start": 41.00910516666663,
+        "end": 41.82539616666664,
+        "words": 1,
+        "text": "Ладно."
+      }
+    ],
+    "failures": [],
+    "auditory_review": false,
+    "encoded_frame_review": "Reviewed96encoded start/middle/end samples over all32shots. Framing, subtitle readability, chronology, localized dates and model endpoints inspected. No continuous playback or auditory review claimed.",
+    "preview_not_approved": true
+  },
+  {
+    "language": "en",
+    "file": "SNG_COMEDY_001_EMU_EN_PREVIEW.mp4",
+    "duration": 69.233333,
+    "bytes": 12199420,
+    "sha256": "cf04521fa0280a11fad06aba8d3e581bb1a8a55fc05cc1844ba57e52b14879b2",
+    "video": {
+      "width": 1080,
+      "height": 1920,
+      "codec_name": "h264",
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1"
+    },
+    "audio": {
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "channels": 2
+    },
+    "faststart": true,
+    "full_decode_ok": true,
+    "loudness": {
+      "input_i": "-16.39",
+      "input_tp": "-4.39",
+      "input_lra": "1.70",
+      "input_thresh": "-26.90",
+      "output_i": "-16.01",
+      "output_tp": "-3.91",
+      "output_lra": "1.60",
+      "output_thresh": "-26.53",
+      "normalization_type": "dynamic",
+      "target_offset": "0.01"
+    },
+    "black_frames": [],
+    "captions": 50,
+    "single_word_sentence_exceptions": [
+      {
+        "start": 3.324249,
+        "end": 4.030249,
+        "words": 1,
+        "text": "Yes."
+      },
+      {
+        "start": 38.53172949999998,
+        "end": 39.176437499999984,
+        "words": 1,
+        "text": "Fine."
+      }
+    ],
+    "failures": [],
+    "auditory_review": false,
+    "encoded_frame_review": "Reviewed96encoded start/middle/end samples over all32shots. Framing, subtitle readability, chronology, localized dates and model endpoints inspected. No continuous playback or auditory review claimed.",
+    "preview_not_approved": true
+  }
+]
