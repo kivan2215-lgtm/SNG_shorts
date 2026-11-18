@@ -1,0 +1,6 @@
+{
+  "maximum_detected_silence_seconds": 0.25443699999999936,
+  "remaining_silence_over_270ms": [],
+  "auditory_review": false,
+  "max_splice_sample_jump": 0.000213623046875
+}

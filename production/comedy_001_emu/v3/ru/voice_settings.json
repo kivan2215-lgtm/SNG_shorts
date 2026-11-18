@@ -1,0 +1,42 @@
+{
+  "voice": "ru-RU-DmitryNeural",
+  "duration": 99.24712500000001,
+  "paragraphs": [
+    {
+      "paragraph": 0,
+      "start": 0,
+      "end": 14.5159375,
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    },
+    {
+      "paragraph": 1,
+      "start": 14.555937499999999,
+      "end": 31.902749999999997,
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    },
+    {
+      "paragraph": 2,
+      "start": 31.942749999999997,
+      "end": 55.35577083333333,
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    },
+    {
+      "paragraph": 3,
+      "start": 55.39577083333333,
+      "end": 77.779375,
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    },
+    {
+      "paragraph": 4,
+      "start": 77.81937500000001,
+      "end": 99.24712500000001,
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    }
+  ],
+  "source_preset": "COMEDY V3: connected sentences, constant +2% and neutral pitch, same narrators, .04s paragraph assembly gap; profanity embedded in clauses"
+}

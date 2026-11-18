@@ -1,0 +1,42 @@
+{
+  "voice": "en-US-GuyNeural",
+  "duration": 83.81335416666667,
+  "paragraphs": [
+    {
+      "paragraph": 0,
+      "start": 0,
+      "end": 13.203729166666667,
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    },
+    {
+      "paragraph": 1,
+      "start": 13.243729166666666,
+      "end": 25.736666666666665,
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    },
+    {
+      "paragraph": 2,
+      "start": 25.776666666666664,
+      "end": 46.7131875,
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    },
+    {
+      "paragraph": 3,
+      "start": 46.753187499999996,
+      "end": 66.452,
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    },
+    {
+      "paragraph": 4,
+      "start": 66.492,
+      "end": 83.81335416666667,
+      "rate": "+2%",
+      "pitch": "+0Hz"
+    }
+  ],
+  "source_preset": "COMEDY V3: connected sentences, constant +2% and neutral pitch, same narrators, .04s paragraph assembly gap; profanity embedded in clauses"
+}

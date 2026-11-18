@@ -1,0 +1,18 @@
+{
+  "ru": {
+    "voice_duration": 88.95364583333334,
+    "silence_removed": 10.293479166666657,
+    "silence_cuts": 23,
+    "profanity_adjacent_cuts": 5,
+    "word_timing_order_ok": true,
+    "auditory_review": false
+  },
+  "en": {
+    "voice_duration": 76.95329166666667,
+    "silence_removed": 6.860062499999998,
+    "silence_cuts": 17,
+    "profanity_adjacent_cuts": 2,
+    "word_timing_order_ok": true,
+    "auditory_review": false
+  }
+}

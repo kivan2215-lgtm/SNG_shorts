@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "file": "SNG_COMEDY_001_EMU_EN_PREVIEW_V3.mp4",
+  "duration": 77.233333,
+  "bytes": 13604324,
+  "sha256": "1fa3468ac30d8fedeffc6ea42ca9a28e2f08e6a86589d45eba225c5447e2c1ef",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec_name": "h264",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "faststart": true,
+  "full_decode_ok": true,
+  "loudness": {
+    "input_i": "-16.24",
+    "input_tp": "-4.25",
+    "input_lra": "1.60",
+    "input_thresh": "-26.32",
+    "output_i": "-15.99",
+    "output_tp": "-4.04",
+    "output_lra": "1.50",
+    "output_thresh": "-26.06",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.01"
+  },
+  "black_frames": [],
+  "captions": 76,
+  "single_word_sentence_exceptions": [],
+  "failures": [],
+  "auditory_review": false,
+  "encoded_frame_review": "Midpoint sample of each of 34 shots reviewed. No blocking layout/caption issues found. Start/end samples retained but not all manually reviewed. No full auditory review.",
+  "preview_not_approved": true
+}
