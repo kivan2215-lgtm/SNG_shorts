@@ -1,0 +1,18 @@
+[
+  {
+    "language": "ru",
+    "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_COMEDY_001_EMU_RU_PREVIEW_V4.mp4",
+    "sha256": "8c52e9a5ad59e9c36e739c4623f457f33a2e9babe6fc112a46d992193c138060",
+    "bytes": 16659263,
+    "full_download_verified": true,
+    "verified_utc": "2026-11-18T22:48:29.425249+00:00"
+  },
+  {
+    "language": "en",
+    "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_COMEDY_001_EMU_EN_PREVIEW_V4.mp4",
+    "sha256": "d63bd4902ebe48313964b9b74705947a93a0e4f2c979c0e71511501d03316911",
+    "bytes": 14726726,
+    "full_download_verified": true,
+    "verified_utc": "2026-11-18T22:48:27.343465+00:00"
+  }
+]
