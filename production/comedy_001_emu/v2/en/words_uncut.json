@@ -1,0 +1,1430 @@
+[
+  {
+    "text": "Australia",
+    "start": 0.049,
+    "end": 0.612708,
+    "paragraph": 0
+  },
+  {
+    "text": "sent",
+    "start": 0.63725,
+    "end": 0.845583,
+    "paragraph": 0
+  },
+  {
+    "text": "soldiers",
+    "start": 0.857833,
+    "end": 1.274499,
+    "paragraph": 0
+  },
+  {
+    "text": "with",
+    "start": 1.299,
+    "end": 1.433791,
+    "paragraph": 0
+  },
+  {
+    "text": "machine",
+    "start": 1.458333,
+    "end": 1.801458,
+    "paragraph": 0
+  },
+  {
+    "text": "guns",
+    "start": 1.813708,
+    "end": 2.034291,
+    "paragraph": 0
+  },
+  {
+    "text": "to",
+    "start": 2.046583,
+    "end": 2.144624,
+    "paragraph": 0
+  },
+  {
+    "text": "fight",
+    "start": 2.169125,
+    "end": 2.426458,
+    "paragraph": 0
+  },
+  {
+    "text": "emus",
+    "start": 2.451,
+    "end": 2.830916,
+    "paragraph": 0
+  },
+  {
+    "text": "giant",
+    "start": 3.051458,
+    "end": 3.419124,
+    "paragraph": 0
+  },
+  {
+    "text": "fucking",
+    "start": 3.443625,
+    "end": 3.76225,
+    "paragraph": 0
+  },
+  {
+    "text": "birds",
+    "start": 3.78675,
+    "end": 4.056375,
+    "paragraph": 0
+  },
+  {
+    "text": "whose",
+    "start": 4.080875,
+    "end": 4.252458,
+    "paragraph": 0
+  },
+  {
+    "text": "entire",
+    "start": 4.276958,
+    "end": 4.669124,
+    "paragraph": 0
+  },
+  {
+    "text": "defense",
+    "start": 4.693625,
+    "end": 5.085791,
+    "paragraph": 0
+  },
+  {
+    "text": "budget",
+    "start": 5.110291,
+    "end": 5.441166,
+    "paragraph": 0
+  },
+  {
+    "text": "consists",
+    "start": 5.465666,
+    "end": 5.906832,
+    "paragraph": 0
+  },
+  {
+    "text": "of",
+    "start": 5.931375,
+    "end": 6.017166,
+    "paragraph": 0
+  },
+  {
+    "text": "two",
+    "start": 6.041666,
+    "end": 6.200999,
+    "paragraph": 0
+  },
+  {
+    "text": "legs",
+    "start": 6.2255,
+    "end": 6.678916,
+    "paragraph": 0
+  },
+  {
+    "text": "And",
+    "start": 7.549,
+    "end": 7.732833,
+    "paragraph": 0
+  },
+  {
+    "text": "somehow",
+    "start": 7.757333,
+    "end": 8.222999,
+    "paragraph": 0
+  },
+  {
+    "text": "this",
+    "start": 8.443625,
+    "end": 8.627458,
+    "paragraph": 0
+  },
+  {
+    "text": "brilliant",
+    "start": 8.639708,
+    "end": 9.068624,
+    "paragraph": 0
+  },
+  {
+    "text": "plan",
+    "start": 9.080875,
+    "end": 9.3505,
+    "paragraph": 0
+  },
+  {
+    "text": "still",
+    "start": 9.375,
+    "end": 9.656875,
+    "paragraph": 0
+  },
+  {
+    "text": "managed",
+    "start": 9.669125,
+    "end": 10.049041,
+    "paragraph": 0
+  },
+  {
+    "text": "to",
+    "start": 10.073541,
+    "end": 10.147082,
+    "paragraph": 0
+  },
+  {
+    "text": "turn",
+    "start": 10.171583,
+    "end": 10.428916,
+    "paragraph": 0
+  },
+  {
+    "text": "into",
+    "start": 10.441166,
+    "end": 10.637249,
+    "paragraph": 0
+  },
+  {
+    "text": "a",
+    "start": 10.6495,
+    "end": 10.710791,
+    "paragraph": 0
+  },
+  {
+    "text": "complete",
+    "start": 10.735291,
+    "end": 11.102957,
+    "paragraph": 0
+  },
+  {
+    "text": "shitshow",
+    "start": 11.127458,
+    "end": 11.666666,
+    "paragraph": 0
+  },
+  {
+    "text": "In",
+    "start": 11.955645833333332,
+    "end": 12.114978833333332,
+    "paragraph": 1
+  },
+  {
+    "text": "nineteen",
+    "start": 12.139478833333332,
+    "end": 12.507144833333331,
+    "paragraph": 1
+  },
+  {
+    "text": "thirty",
+    "start": 12.531645833333332,
+    "end": 12.776728833333332,
+    "paragraph": 1
+  },
+  {
+    "text": "two",
+    "start": 12.801270833333332,
+    "end": 13.070895833333331,
+    "paragraph": 1
+  },
+  {
+    "text": "emus",
+    "start": 13.230186833333333,
+    "end": 13.524311833333332,
+    "paragraph": 1
+  },
+  {
+    "text": "were",
+    "start": 13.536561833333332,
+    "end": 13.634602833333332,
+    "paragraph": 1
+  },
+  {
+    "text": "trampling",
+    "start": 13.659103833333333,
+    "end": 14.124769833333332,
+    "paragraph": 1
+  },
+  {
+    "text": "wheat",
+    "start": 14.137020833333333,
+    "end": 14.345353833333332,
+    "paragraph": 1
+  },
+  {
+    "text": "so",
+    "start": 14.565978833333332,
+    "end": 14.713019833333332,
+    "paragraph": 1
+  },
+  {
+    "text": "farmers",
+    "start": 14.725270833333333,
+    "end": 15.117436833333333,
+    "paragraph": 1
+  },
+  {
+    "text": "asked",
+    "start": 15.141936833333332,
+    "end": 15.362519833333332,
+    "paragraph": 1
+  },
+  {
+    "text": "for",
+    "start": 15.387020833333333,
+    "end": 15.521811833333333,
+    "paragraph": 1
+  },
+  {
+    "text": "help",
+    "start": 15.546353833333333,
+    "end": 15.742436833333333,
+    "paragraph": 1
+  },
+  {
+    "text": "and",
+    "start": 15.766936833333332,
+    "end": 15.840477833333333,
+    "paragraph": 1
+  },
+  {
+    "text": "got",
+    "start": 15.864978833333332,
+    "end": 16.03656183333333,
+    "paragraph": 1
+  },
+  {
+    "text": "three",
+    "start": 16.061061833333333,
+    "end": 16.269394833333333,
+    "paragraph": 1
+  },
+  {
+    "text": "military",
+    "start": 16.281645833333332,
+    "end": 16.784103833333333,
+    "paragraph": 1
+  },
+  {
+    "text": "men",
+    "start": 16.79635383333333,
+    "end": 17.00468683333333,
+    "paragraph": 1
+  },
+  {
+    "text": "with",
+    "start": 17.029186833333334,
+    "end": 17.163977833333334,
+    "paragraph": 1
+  },
+  {
+    "text": "two",
+    "start": 17.18852083333333,
+    "end": 17.32331183333333,
+    "paragraph": 1
+  },
+  {
+    "text": "machine",
+    "start": 17.335561833333333,
+    "end": 17.67868683333333,
+    "paragraph": 1
+  },
+  {
+    "text": "guns",
+    "start": 17.703228833333334,
+    "end": 17.985103833333334,
+    "paragraph": 1
+  },
+  {
+    "text": "and",
+    "start": 17.99731183333333,
+    "end": 18.095352833333333,
+    "paragraph": 1
+  },
+  {
+    "text": "ten",
+    "start": 18.11989583333333,
+    "end": 18.315978833333332,
+    "paragraph": 1
+  },
+  {
+    "text": "thousand",
+    "start": 18.340478833333332,
+    "end": 18.67135383333333,
+    "paragraph": 1
+  },
+  {
+    "text": "rounds",
+    "start": 18.69585383333333,
+    "end": 19.14926983333333,
+    "paragraph": 1
+  },
+  {
+    "text": "The",
+    "start": 20.007145833333333,
+    "end": 20.141936833333332,
+    "paragraph": 1
+  },
+  {
+    "text": "birds",
+    "start": 20.166436833333332,
+    "end": 20.46056183333333,
+    "paragraph": 1
+  },
+  {
+    "text": "just",
+    "start": 20.485061833333333,
+    "end": 20.681144833333335,
+    "paragraph": 1
+  },
+  {
+    "text": "had",
+    "start": 20.70564583333333,
+    "end": 20.864978833333332,
+    "paragraph": 1
+  },
+  {
+    "text": "legs",
+    "start": 20.88947883333333,
+    "end": 21.269394833333333,
+    "paragraph": 1
+  },
+  {
+    "text": "but",
+    "start": 21.47772883333333,
+    "end": 21.61251983333333,
+    "paragraph": 1
+  },
+  {
+    "text": "at",
+    "start": 21.63702083333333,
+    "end": 21.735061833333333,
+    "paragraph": 1
+  },
+  {
+    "text": "least",
+    "start": 21.75960383333333,
+    "end": 21.980186833333335,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 22.00468683333333,
+    "end": 22.09047783333333,
+    "paragraph": 1
+  },
+  {
+    "text": "bastards",
+    "start": 22.10272883333333,
+    "end": 22.605186833333335,
+    "paragraph": 1
+  },
+  {
+    "text": "did",
+    "start": 22.617436833333333,
+    "end": 22.776769833333333,
+    "paragraph": 1
+  },
+  {
+    "text": "not",
+    "start": 22.801270833333334,
+    "end": 22.99735383333333,
+    "paragraph": 1
+  },
+  {
+    "text": "need",
+    "start": 23.00960383333333,
+    "end": 23.18118683333333,
+    "paragraph": 1
+  },
+  {
+    "text": "permission",
+    "start": 23.20564583333333,
+    "end": 23.671311833333334,
+    "paragraph": 1
+  },
+  {
+    "text": "to",
+    "start": 23.69585383333333,
+    "end": 23.78164483333333,
+    "paragraph": 1
+  },
+  {
+    "text": "use",
+    "start": 23.806145833333332,
+    "end": 24.03897883333333,
+    "paragraph": 1
+  },
+  {
+    "text": "them",
+    "start": 24.06352083333333,
+    "end": 24.25960383333333,
+    "paragraph": 1
+  },
+  {
+    "text": "But",
+    "start": 24.548583333333333,
+    "end": 24.732416333333333,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 24.756916333333333,
+    "end": 24.830457333333335,
+    "paragraph": 2
+  },
+  {
+    "text": "emus",
+    "start": 24.854958333333332,
+    "end": 25.259374333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "scattered",
+    "start": 25.271624333333335,
+    "end": 25.651540333333333,
+    "paragraph": 2
+  },
+  {
+    "text": "into",
+    "start": 25.676041333333334,
+    "end": 25.835374333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "small",
+    "start": 25.859874333333334,
+    "end": 26.166249333333333,
+    "paragraph": 2
+  },
+  {
+    "text": "groups",
+    "start": 26.178499333333335,
+    "end": 26.509374333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "forcing",
+    "start": 26.729958333333332,
+    "end": 27.073083333333333,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 27.097624333333332,
+    "end": 27.195665333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "soldiers",
+    "start": 27.207916333333333,
+    "end": 27.624582333333333,
+    "paragraph": 2
+  },
+  {
+    "text": "to",
+    "start": 27.649083333333333,
+    "end": 27.734874333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "discover",
+    "start": 27.747124333333332,
+    "end": 28.212790333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "that",
+    "start": 28.237333333333332,
+    "end": 28.359874333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "a",
+    "start": 28.384374333333334,
+    "end": 28.445665333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "target",
+    "start": 28.457916333333333,
+    "end": 28.825582333333333,
+    "paragraph": 2
+  },
+  {
+    "text": "can",
+    "start": 28.850083333333334,
+    "end": 29.156458333333333,
+    "paragraph": 2
+  },
+  {
+    "text": "in",
+    "start": 29.254499333333335,
+    "end": 29.36479033333333,
+    "paragraph": 2
+  },
+  {
+    "text": "fact",
+    "start": 29.389291333333333,
+    "end": 29.756957333333332,
+    "paragraph": 2
+  },
+  {
+    "text": "fuck",
+    "start": 29.916249333333333,
+    "end": 30.136832333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "off",
+    "start": 30.149083333333333,
+    "end": 30.492208333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "So",
+    "start": 31.362333333333332,
+    "end": 31.558416333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "they",
+    "start": 31.582916333333333,
+    "end": 31.693207333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "set",
+    "start": 31.717708333333334,
+    "end": 31.913791333333336,
+    "paragraph": 2
+  },
+  {
+    "text": "an",
+    "start": 31.938291333333332,
+    "end": 32.036332333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "ambush",
+    "start": 32.06087433333333,
+    "end": 32.465290333333336,
+    "paragraph": 2
+  },
+  {
+    "text": "by",
+    "start": 32.489791333333336,
+    "end": 32.612332333333335,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 32.624583333333334,
+    "end": 32.73487433333334,
+    "paragraph": 2
+  },
+  {
+    "text": "water",
+    "start": 32.759374333333334,
+    "end": 33.07799933333334,
+    "paragraph": 2
+  },
+  {
+    "text": "a",
+    "start": 33.31087433333333,
+    "end": 33.347624333333336,
+    "paragraph": 2
+  },
+  {
+    "text": "huge",
+    "start": 33.35987433333334,
+    "end": 33.690749333333336,
+    "paragraph": 2
+  },
+  {
+    "text": "flock",
+    "start": 33.71524933333333,
+    "end": 33.98487433333334,
+    "paragraph": 2
+  },
+  {
+    "text": "approached",
+    "start": 34.009374333333334,
+    "end": 34.46279033333333,
+    "paragraph": 2
+  },
+  {
+    "text": "everything",
+    "start": 34.60987433333334,
+    "end": 34.98979033333333,
+    "paragraph": 2
+  },
+  {
+    "text": "was",
+    "start": 35.00204133333334,
+    "end": 35.161374333333335,
+    "paragraph": 2
+  },
+  {
+    "text": "ready",
+    "start": 35.18587433333333,
+    "end": 35.51674933333334,
+    "paragraph": 2
+  },
+  {
+    "text": "and",
+    "start": 35.700583333333334,
+    "end": 35.81087433333333,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 35.835374333333334,
+    "end": 35.90891533333333,
+    "paragraph": 2
+  },
+  {
+    "text": "machine",
+    "start": 35.92116633333333,
+    "end": 36.227541333333335,
+    "paragraph": 2
+  },
+  {
+    "text": "gun",
+    "start": 36.239791333333336,
+    "end": 36.43587433333333,
+    "paragraph": 2
+  },
+  {
+    "text": "jammed",
+    "start": 36.460374333333334,
+    "end": 36.85254033333334,
+    "paragraph": 2
+  },
+  {
+    "text": "The",
+    "start": 37.722624333333336,
+    "end": 37.857415333333336,
+    "paragraph": 2
+  },
+  {
+    "text": "birds",
+    "start": 37.881916333333336,
+    "end": 38.18829133333333,
+    "paragraph": 2
+  },
+  {
+    "text": "left",
+    "start": 38.212833333333336,
+    "end": 38.47016633333333,
+    "paragraph": 2
+  },
+  {
+    "text": "while",
+    "start": 38.494666333333335,
+    "end": 38.66624933333333,
+    "paragraph": 2
+  },
+  {
+    "text": "human",
+    "start": 38.678499333333335,
+    "end": 38.99712433333333,
+    "paragraph": 2
+  },
+  {
+    "text": "intelligence",
+    "start": 39.021624333333335,
+    "end": 39.65887433333333,
+    "paragraph": 2
+  },
+  {
+    "text": "froze",
+    "start": 39.683416333333334,
+    "end": 39.96529133333333,
+    "paragraph": 2
+  },
+  {
+    "text": "like",
+    "start": 39.989791333333336,
+    "end": 40.13683233333333,
+    "paragraph": 2
+  },
+  {
+    "text": "a",
+    "start": 40.14908333333334,
+    "end": 40.210374333333334,
+    "paragraph": 2
+  },
+  {
+    "text": "printer",
+    "start": 40.222624333333336,
+    "end": 40.56574933333333,
+    "paragraph": 2
+  },
+  {
+    "text": "demanding",
+    "start": 40.59024933333333,
+    "end": 41.04366533333334,
+    "paragraph": 2
+  },
+  {
+    "text": "a",
+    "start": 41.06820833333333,
+    "end": 41.129499333333335,
+    "paragraph": 2
+  },
+  {
+    "text": "fucking",
+    "start": 41.14174933333334,
+    "end": 41.50941533333334,
+    "paragraph": 2
+  },
+  {
+    "text": "cyan",
+    "start": 41.53391633333334,
+    "end": 41.87704133333334,
+    "paragraph": 2
+  },
+  {
+    "text": "cartridge",
+    "start": 41.88929133333333,
+    "end": 42.44074933333333,
+    "paragraph": 2
+  },
+  {
+    "text": "They",
+    "start": 42.72972916666667,
+    "end": 42.85227016666667,
+    "paragraph": 3
+  },
+  {
+    "text": "mounted",
+    "start": 42.876812166666674,
+    "end": 43.18318716666667,
+    "paragraph": 3
+  },
+  {
+    "text": "a",
+    "start": 43.20768716666667,
+    "end": 43.24443716666667,
+    "paragraph": 3
+  },
+  {
+    "text": "machine",
+    "start": 43.25672916666667,
+    "end": 43.58760416666667,
+    "paragraph": 3
+  },
+  {
+    "text": "gun",
+    "start": 43.599854166666674,
+    "end": 43.795937166666675,
+    "paragraph": 3
+  },
+  {
+    "text": "on",
+    "start": 43.82043716666667,
+    "end": 43.918478166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "a",
+    "start": 43.942979166666674,
+    "end": 43.991979166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "truck",
+    "start": 44.01652016666667,
+    "end": 44.261603166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "to",
+    "start": 44.286104166666675,
+    "end": 44.38414516666667,
+    "paragraph": 3
+  },
+  {
+    "text": "chase",
+    "start": 44.39639516666667,
+    "end": 44.653728166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 44.66602016666667,
+    "end": 44.77631116666667,
+    "paragraph": 3
+  },
+  {
+    "text": "feathery",
+    "start": 44.78856216666667,
+    "end": 45.13168716666667,
+    "paragraph": 3
+  },
+  {
+    "text": "bastards",
+    "start": 45.15622916666667,
+    "end": 45.670937166666675,
+    "paragraph": 3
+  },
+  {
+    "text": "but",
+    "start": 45.87927016666667,
+    "end": 46.01406116666667,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 46.03856216666667,
+    "end": 46.136603166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "ride",
+    "start": 46.161104166666675,
+    "end": 46.38168716666667,
+    "paragraph": 3
+  },
+  {
+    "text": "was",
+    "start": 46.393979166666675,
+    "end": 46.54102016666667,
+    "paragraph": 3
+  },
+  {
+    "text": "so",
+    "start": 46.56552016666667,
+    "end": 46.773853166666676,
+    "paragraph": 3
+  },
+  {
+    "text": "rough",
+    "start": 46.79839516666667,
+    "end": 46.994478166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "that",
+    "start": 47.018979166666675,
+    "end": 47.12927016666667,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 47.153770166666675,
+    "end": 47.25181116666667,
+    "paragraph": 3
+  },
+  {
+    "text": "gunner",
+    "start": 47.27631216666667,
+    "end": 47.55818716666667,
+    "paragraph": 3
+  },
+  {
+    "text": "could",
+    "start": 47.58268716666667,
+    "end": 47.75427016666667,
+    "paragraph": 3
+  },
+  {
+    "text": "not",
+    "start": 47.778770166666675,
+    "end": 47.962603166666675,
+    "paragraph": 3
+  },
+  {
+    "text": "shoot",
+    "start": 47.974854166666674,
+    "end": 48.18318716666667,
+    "paragraph": 3
+  },
+  {
+    "text": "properly",
+    "start": 48.20768716666667,
+    "end": 48.795937166666675,
+    "paragraph": 3
+  },
+  {
+    "text": "The",
+    "start": 49.66602016666667,
+    "end": 49.788561166666675,
+    "paragraph": 3
+  },
+  {
+    "text": "emus",
+    "start": 49.813062166666676,
+    "end": 50.21747816666667,
+    "paragraph": 3
+  },
+  {
+    "text": "escaped",
+    "start": 50.24202016666667,
+    "end": 50.60968616666667,
+    "paragraph": 3
+  },
+  {
+    "text": "again",
+    "start": 50.63414516666667,
+    "end": 50.965020166666676,
+    "paragraph": 3
+  },
+  {
+    "text": "and",
+    "start": 51.13660416666667,
+    "end": 51.234645166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "instead",
+    "start": 51.25914516666667,
+    "end": 51.577770166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "of",
+    "start": 51.59006216666667,
+    "end": 51.651353166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "a",
+    "start": 51.66356216666667,
+    "end": 51.73710316666667,
+    "paragraph": 3
+  },
+  {
+    "text": "fighting",
+    "start": 51.74935416666668,
+    "end": 52.067979166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "vehicle",
+    "start": 52.08022916666667,
+    "end": 52.47239516666667,
+    "paragraph": 3
+  },
+  {
+    "text": "they",
+    "start": 52.74202016666668,
+    "end": 52.852311166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "had",
+    "start": 52.876812166666674,
+    "end": 53.011603166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "built",
+    "start": 53.02385416666667,
+    "end": 53.23218716666668,
+    "paragraph": 3
+  },
+  {
+    "text": "a",
+    "start": 53.25672916666667,
+    "end": 53.31802016666667,
+    "paragraph": 3
+  },
+  {
+    "text": "fucking",
+    "start": 53.33022916666667,
+    "end": 53.661104166666675,
+    "paragraph": 3
+  },
+  {
+    "text": "vibrator",
+    "start": 53.685645166666674,
+    "end": 54.224853166666676,
+    "paragraph": 3
+  },
+  {
+    "text": "on",
+    "start": 54.24935416666668,
+    "end": 54.371895166666675,
+    "paragraph": 3
+  },
+  {
+    "text": "wheels",
+    "start": 54.39639516666667,
+    "end": 54.84981116666667,
+    "paragraph": 3
+  },
+  {
+    "text": "The",
+    "start": 55.719937166666675,
+    "end": 55.86697816666667,
+    "paragraph": 3
+  },
+  {
+    "text": "troops",
+    "start": 55.89152016666667,
+    "end": 56.19789516666667,
+    "paragraph": 3
+  },
+  {
+    "text": "were",
+    "start": 56.21014516666667,
+    "end": 56.332686166666676,
+    "paragraph": 3
+  },
+  {
+    "text": "recalled",
+    "start": 56.35718716666668,
+    "end": 56.78610316666667,
+    "paragraph": 3
+  },
+  {
+    "text": "then",
+    "start": 56.95768716666667,
+    "end": 57.11702016666668,
+    "paragraph": 3
+  },
+  {
+    "text": "sent",
+    "start": 57.14152016666667,
+    "end": 57.39885316666667,
+    "paragraph": 3
+  },
+  {
+    "text": "back",
+    "start": 57.411104166666675,
+    "end": 57.72972916666667,
+    "paragraph": 3
+  },
+  {
+    "text": "but",
+    "start": 57.925812166666674,
+    "end": 58.060603166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 58.08514516666667,
+    "end": 58.195436166666674,
+    "paragraph": 3
+  },
+  {
+    "text": "problem",
+    "start": 58.219937166666675,
+    "end": 58.599853166666676,
+    "paragraph": 3
+  },
+  {
+    "text": "remained",
+    "start": 58.61210416666667,
+    "end": 59.09006216666667,
+    "paragraph": 3
+  },
+  {
+    "text": "Birds",
+    "start": 59.37904166666667,
+    "end": 59.69766666666667,
+    "paragraph": 4
+  },
+  {
+    "text": "did",
+    "start": 59.709957666666675,
+    "end": 59.893790666666675,
+    "paragraph": 4
+  },
+  {
+    "text": "die",
+    "start": 59.918291666666676,
+    "end": 60.200166666666675,
+    "paragraph": 4
+  },
+  {
+    "text": "so",
+    "start": 60.432999666666674,
+    "end": 60.567790666666674,
+    "paragraph": 4
+  },
+  {
+    "text": "forget",
+    "start": 60.592291666666675,
+    "end": 60.91091666666667,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 60.935416666666676,
+    "end": 61.021207666666676,
+    "paragraph": 4
+  },
+  {
+    "text": "internet",
+    "start": 61.04570766666667,
+    "end": 61.45012366666667,
+    "paragraph": 4
+  },
+  {
+    "text": "fairy",
+    "start": 61.47466666666667,
+    "end": 61.75654166666667,
+    "paragraph": 4
+  },
+  {
+    "text": "tale",
+    "start": 61.781041666666674,
+    "end": 62.05066666666667,
+    "paragraph": 4
+  },
+  {
+    "text": "of",
+    "start": 62.06287466666667,
+    "end": 62.13641566666667,
+    "paragraph": 4
+  },
+  {
+    "text": "a",
+    "start": 62.14866666666667,
+    "end": 62.22220766666668,
+    "paragraph": 4
+  },
+  {
+    "text": "bloodless",
+    "start": 62.24670766666667,
+    "end": 62.675623666666674,
+    "paragraph": 4
+  },
+  {
+    "text": "victory",
+    "start": 62.700124666666674,
+    "end": 63.10454066666667,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 63.276124666666675,
+    "end": 63.38641566666667,
+    "paragraph": 4
+  },
+  {
+    "text": "operation",
+    "start": 63.41091666666667,
+    "end": 63.962374666666676,
+    "paragraph": 4
+  },
+  {
+    "text": "ended",
+    "start": 63.98691666666667,
+    "end": 64.28104166666667,
+    "paragraph": 4
+  },
+  {
+    "text": "and",
+    "start": 64.47708266666667,
+    "end": 64.61187366666667,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 64.63641666666668,
+    "end": 64.73445766666667,
+    "paragraph": 4
+  },
+  {
+    "text": "farmers",
+    "start": 64.74670766666668,
+    "end": 65.12662366666667,
+    "paragraph": 4
+  },
+  {
+    "text": "still",
+    "start": 65.15112466666668,
+    "end": 65.39620766666667,
+    "paragraph": 4
+  },
+  {
+    "text": "had",
+    "start": 65.42070766666667,
+    "end": 65.55549866666668,
+    "paragraph": 4
+  },
+  {
+    "text": "emus",
+    "start": 65.58004166666667,
+    "end": 66.09474966666667,
+    "paragraph": 4
+  },
+  {
+    "text": "The",
+    "start": 66.95258266666667,
+    "end": 67.06287366666668,
+    "paragraph": 4
+  },
+  {
+    "text": "humans",
+    "start": 67.07512466666667,
+    "end": 67.44279066666667,
+    "paragraph": 4
+  },
+  {
+    "text": "had",
+    "start": 67.46729166666667,
+    "end": 67.61433266666667,
+    "paragraph": 4
+  },
+  {
+    "text": "weapons",
+    "start": 67.63887466666668,
+    "end": 68.03104066666667,
+    "paragraph": 4
+  },
+  {
+    "text": "and",
+    "start": 68.04329166666668,
+    "end": 68.14133266666667,
+    "paragraph": 4
+  },
+  {
+    "text": "ranks",
+    "start": 68.16583266666667,
+    "end": 68.53349866666667,
+    "paragraph": 4
+  },
+  {
+    "text": "while",
+    "start": 68.74179166666667,
+    "end": 68.90112466666668,
+    "paragraph": 4
+  },
+  {
+    "text": "their",
+    "start": 68.91337466666667,
+    "end": 69.07270766666667,
+    "paragraph": 4
+  },
+  {
+    "text": "opponents",
+    "start": 69.09720766666668,
+    "end": 69.55062366666667,
+    "paragraph": 4
+  },
+  {
+    "text": "had",
+    "start": 69.57512466666667,
+    "end": 69.72216566666667,
+    "paragraph": 4
+  },
+  {
+    "text": "feathers",
+    "start": 69.74670766666668,
+    "end": 70.15112366666668,
+    "paragraph": 4
+  },
+  {
+    "text": "and",
+    "start": 70.17562466666668,
+    "end": 70.28591566666667,
+    "paragraph": 4
+  },
+  {
+    "text": "absolutely",
+    "start": 70.31041666666667,
+    "end": 70.89866666666667,
+    "paragraph": 4
+  },
+  {
+    "text": "no",
+    "start": 70.92316666666667,
+    "end": 71.11924966666668,
+    "paragraph": 4
+  },
+  {
+    "text": "interest",
+    "start": 71.13149966666667,
+    "end": 71.53591566666667,
+    "paragraph": 4
+  },
+  {
+    "text": "in",
+    "start": 71.56041666666667,
+    "end": 71.62170766666668,
+    "paragraph": 4
+  },
+  {
+    "text": "this",
+    "start": 71.64620766666667,
+    "end": 71.81779066666667,
+    "paragraph": 4
+  },
+  {
+    "text": "bullshit",
+    "start": 71.83004166666667,
+    "end": 72.30799966666667,
+    "paragraph": 4
+  },
+  {
+    "text": "At",
+    "start": 73.17808266666667,
+    "end": 73.36191566666668,
+    "paragraph": 4
+  },
+  {
+    "text": "what",
+    "start": 73.38641666666668,
+    "end": 73.57024966666667,
+    "paragraph": 4
+  },
+  {
+    "text": "point",
+    "start": 73.59474966666667,
+    "end": 73.83983266666667,
+    "paragraph": 4
+  },
+  {
+    "text": "should",
+    "start": 73.86437466666668,
+    "end": 74.06045766666668,
+    "paragraph": 4
+  },
+  {
+    "text": "somebody",
+    "start": 74.08495766666667,
+    "end": 74.51387366666667,
+    "paragraph": 4
+  },
+  {
+    "text": "have",
+    "start": 74.53837466666667,
+    "end": 74.67316566666668,
+    "paragraph": 4
+  },
+  {
+    "text": "admitted",
+    "start": 74.68541666666667,
+    "end": 75.08983266666667,
+    "paragraph": 4
+  },
+  {
+    "text": "that",
+    "start": 75.10208266666667,
+    "end": 75.22462366666667,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 75.24916666666667,
+    "end": 75.35945766666667,
+    "paragraph": 4
+  },
+  {
+    "text": "plan",
+    "start": 75.37170766666668,
+    "end": 75.64133266666667,
+    "paragraph": 4
+  },
+  {
+    "text": "was",
+    "start": 75.66583266666667,
+    "end": 75.82516566666668,
+    "paragraph": 4
+  },
+  {
+    "text": "crap",
+    "start": 75.84966666666668,
+    "end": 76.26633266666667,
+    "paragraph": 4
+  }
+]

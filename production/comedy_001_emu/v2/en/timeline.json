@@ -1,0 +1,172 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.066666666666667,
+    "visual": "hook"
+  },
+  {
+    "start": 3.066666666666667,
+    "end": 7.033333333333333,
+    "visual": "bird"
+  },
+  {
+    "start": 7.033333333333333,
+    "end": 11.433333333333334,
+    "visual": "awkward"
+  },
+  {
+    "start": 11.433333333333334,
+    "end": 12.7,
+    "visual": "date"
+  },
+  {
+    "start": 12.7,
+    "end": 14.033333333333333,
+    "visual": "wheat"
+  },
+  {
+    "start": 14.033333333333333,
+    "end": 15.233333333333333,
+    "visual": "ask"
+  },
+  {
+    "start": 15.233333333333333,
+    "end": 16.5,
+    "visual": "arrive"
+  },
+  {
+    "start": 16.5,
+    "end": 18.966666666666665,
+    "visual": "guns"
+  },
+  {
+    "start": 18.966666666666665,
+    "end": 20.433333333333334,
+    "visual": "legs"
+  },
+  {
+    "start": 20.433333333333334,
+    "end": 23.5,
+    "visual": "balance"
+  },
+  {
+    "start": 23.5,
+    "end": 25.666666666666668,
+    "visual": "scatter"
+  },
+  {
+    "start": 25.666666666666668,
+    "end": 29.766666666666666,
+    "visual": "catch"
+  },
+  {
+    "start": 29.766666666666666,
+    "end": 31.7,
+    "visual": "ambush"
+  },
+  {
+    "start": 31.7,
+    "end": 33.0,
+    "visual": "flock"
+  },
+  {
+    "start": 33.0,
+    "end": 34.1,
+    "visual": "moment"
+  },
+  {
+    "start": 34.1,
+    "end": 35.6,
+    "visual": "jam"
+  },
+  {
+    "start": 35.6,
+    "end": 36.36666666666667,
+    "visual": "leave"
+  },
+  {
+    "start": 36.36666666666667,
+    "end": 37.86666666666667,
+    "visual": "error"
+  },
+  {
+    "start": 37.86666666666667,
+    "end": 40.6,
+    "visual": "printer"
+  },
+  {
+    "start": 40.6,
+    "end": 42.166666666666664,
+    "visual": "truckplan"
+  },
+  {
+    "start": 42.166666666666664,
+    "end": 43.766666666666666,
+    "visual": "chase"
+  },
+  {
+    "start": 43.766666666666666,
+    "end": 47.0,
+    "visual": "rough"
+  },
+  {
+    "start": 47.0,
+    "end": 48.46666666666667,
+    "visual": "escape"
+  },
+  {
+    "start": 48.46666666666667,
+    "end": 50.6,
+    "visual": "mobility"
+  },
+  {
+    "start": 50.6,
+    "end": 52.53333333333333,
+    "visual": "massage"
+  },
+  {
+    "start": 52.53333333333333,
+    "end": 53.766666666666666,
+    "visual": "recall"
+  },
+  {
+    "start": 53.766666666666666,
+    "end": 54.733333333333334,
+    "visual": "return"
+  },
+  {
+    "start": 54.733333333333334,
+    "end": 56.2,
+    "visual": "unresolved"
+  },
+  {
+    "start": 56.2,
+    "end": 60.1,
+    "visual": "caveat"
+  },
+  {
+    "start": 60.1,
+    "end": 61.3,
+    "visual": "ended"
+  },
+  {
+    "start": 61.3,
+    "end": 63.266666666666666,
+    "visual": "farmers"
+  },
+  {
+    "start": 63.266666666666666,
+    "end": 65.03333333333333,
+    "visual": "history"
+  },
+  {
+    "start": 65.03333333333333,
+    "end": 68.96666666666667,
+    "visual": "indifference"
+  },
+  {
+    "start": 68.96666666666667,
+    "end": 72.5,
+    "visual": "question"
+  }
+]

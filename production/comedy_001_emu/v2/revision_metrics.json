@@ -1,0 +1,24 @@
+{
+  "ru": {
+    "old_sentence_ends": 33,
+    "new_sentence_ends": 14,
+    "old_words": 153,
+    "new_words": 193,
+    "old_pause_cuts": 28,
+    "new_pause_cuts": 9,
+    "new_duration": 80.92322916666667,
+    "speech_speed_change": false,
+    "auditory_review": false
+  },
+  "en": {
+    "old_sentence_ends": 34,
+    "new_sentence_ends": 13,
+    "old_words": 180,
+    "new_words": 238,
+    "old_pause_cuts": 29,
+    "new_pause_cuts": 8,
+    "new_duration": 72.2115,
+    "speech_speed_change": false,
+    "auditory_review": false
+  }
+}

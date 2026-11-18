@@ -1,0 +1,82 @@
+[
+  {
+    "shot": "hook",
+    "time": 1.5333333333333334,
+    "file": "en_hook.jpg"
+  },
+  {
+    "shot": "bird",
+    "time": 5.05,
+    "file": "en_bird.jpg"
+  },
+  {
+    "shot": "awkward",
+    "time": 9.233333333333334,
+    "file": "en_awkward.jpg"
+  },
+  {
+    "shot": "balance",
+    "time": 21.96666666666667,
+    "file": "en_balance.jpg"
+  },
+  {
+    "shot": "catch",
+    "time": 27.71666666666667,
+    "file": "en_catch.jpg"
+  },
+  {
+    "shot": "jam",
+    "time": 34.85,
+    "file": "en_jam.jpg"
+  },
+  {
+    "shot": "error",
+    "time": 37.11666666666667,
+    "file": "en_error.jpg"
+  },
+  {
+    "shot": "printer",
+    "time": 39.233333333333334,
+    "file": "en_printer.jpg"
+  },
+  {
+    "shot": "truckplan",
+    "time": 41.38333333333333,
+    "file": "en_truckplan.jpg"
+  },
+  {
+    "shot": "rough",
+    "time": 45.38333333333333,
+    "file": "en_rough.jpg"
+  },
+  {
+    "shot": "mobility",
+    "time": 49.53333333333333,
+    "file": "en_mobility.jpg"
+  },
+  {
+    "shot": "massage",
+    "time": 51.56666666666666,
+    "file": "en_massage.jpg"
+  },
+  {
+    "shot": "caveat",
+    "time": 58.150000000000006,
+    "file": "en_caveat.jpg"
+  },
+  {
+    "shot": "history",
+    "time": 64.15,
+    "file": "en_history.jpg"
+  },
+  {
+    "shot": "indifference",
+    "time": 67.0,
+    "file": "en_indifference.jpg"
+  },
+  {
+    "shot": "question",
+    "time": 70.73333333333333,
+    "file": "en_question.jpg"
+  }
+]
