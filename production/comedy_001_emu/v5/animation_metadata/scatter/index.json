@@ -1,0 +1,12 @@
+{
+  "frames": 49,
+  "fps": 30,
+  "source_size": [
+    720,
+    1280
+  ],
+  "schematic": true,
+  "camera": "fixed",
+  "motion": "native 30fps, eased endpoint, no optical interpolation",
+  "auditory_review": false
+}

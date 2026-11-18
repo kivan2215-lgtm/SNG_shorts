@@ -1,0 +1,38 @@
+{
+  "ru": {
+    "voice.wav": {
+      "unchanged": true,
+      "sha256": "ae7100f62a77a75d2f9beb1f6464279843b3768a46099903bfdfe073b0bd843c"
+    },
+    "mix.wav": {
+      "unchanged": true,
+      "sha256": "f12a1764b0cad39aaaa427d7fd820d1afa7d76c2f09a1f812fac1131eb304fc5"
+    },
+    "subtitles.ass": {
+      "unchanged": true,
+      "sha256": "acbe03f1aef8b729d0e5c863f7c9c9ec82973242be34a11ccfed10f56fb25464"
+    },
+    "timeline.json": {
+      "unchanged": true,
+      "sha256": "c78e14d0cfe37a246e9f8985a4907b5c010c5baedf9ef12e2174f149e89589c0"
+    }
+  },
+  "en": {
+    "voice.wav": {
+      "unchanged": true,
+      "sha256": "7f00924c6d92aa7fb1c1a43945cae3845ae9aa5669366040087763e035c93b62"
+    },
+    "mix.wav": {
+      "unchanged": true,
+      "sha256": "9b6b0fca2d175bd18ab3b7b4708adf9a4a6b93233b177c1c0646dad63e9a134d"
+    },
+    "subtitles.ass": {
+      "unchanged": true,
+      "sha256": "42369bfd234c28ad6c59b46123b96ba2b71a0f10ac54c68c666e809c9ecd46a6"
+    },
+    "timeline.json": {
+      "unchanged": true,
+      "sha256": "563a8894d5689160c1f76b9ee55a34a559f6597f50f6702f72507a2a22426197"
+    }
+  }
+}

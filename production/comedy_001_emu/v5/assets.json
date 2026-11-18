@@ -1,0 +1,445 @@
+[
+  {
+    "file": "rest.jpg",
+    "title": "Australian soldiers resting during Emu War.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Australian_soldiers_resting_during_Emu_War.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Australian_soldiers_resting_during_Emu_War.jpg",
+    "size": [
+      900,
+      522
+    ],
+    "metadata": {
+      "DateTime": {
+        "value": "2017-04-05 19:26:12",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Australian soldiers resting during Emu War",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Emu War|PD-Australia|Template Unknown (author)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Australian soldiers resting during the Emu War. Note the camera reflected in the water, ready to record.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "November – December 1932",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://pickeringbrookheritagegroup.com/misc1.html\">Pickering Brook Heritage</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "review": "visually reviewed; full source frame retained",
+    "sha256": "01d7052668834422f2bee2fb029cba97e8e208a919534cc33b9aebd13a471904"
+  },
+  {
+    "file": "water.jpg",
+    "title": "Emus coming to drink Emu War.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Emus_coming_to_drink_Emu_War.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/2/27/Emus_coming_to_drink_Emu_War.jpg",
+    "size": [
+      450,
+      299
+    ],
+    "metadata": {
+      "DateTime": {
+        "value": "2017-04-05 19:26:12",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Emus coming to drink Emu War",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Emu War|PD-Australia|Template Unknown (author)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Australian soldiers resting during the Emu War. Note the camera reflected in the water, ready to record.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "November – December 1932",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://pickeringbrookheritagegroup.com/misc1.html\">Pickering Brook Heritage</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "review": "visually reviewed; unused ambiguous water.jpg",
+    "sha256": "4f823181cfcbee3e7ef4511a4d47468fb91277fb07cad32ac61ef7e9c3017df5"
+  },
+  {
+    "file": "field.jpg",
+    "title": "Fallow caused by emus.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fallow_caused_by_emus.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Fallow_caused_by_emus.jpg",
+    "size": [
+      450,
+      299
+    ],
+    "metadata": {
+      "DateTime": {
+        "value": "2017-04-05 19:26:14",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Fallow caused by emus",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Emu War|PD-Australia|Template Unknown (author)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Fallow caused by emus, which cleared land and additional water supplies during 1932, before the start of the Emu War.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "November – December 1932",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://pickeringbrookheritagegroup.com/misc1.html\">Pickering Brook Heritage</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "review": "visually reviewed; full source frame retained",
+    "sha256": "7dd1d68549db22c14fe07d88c2ed348a52551c8d26c52678cfca2451e917f449"
+  },
+  {
+    "file": "gun.jpg",
+    "title": "Lewis Gun during Emu War.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lewis_Gun_during_Emu_War.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lewis_Gun_during_Emu_War.jpg",
+    "size": [
+      480,
+      360
+    ],
+    "metadata": {
+      "DateTime": {
+        "value": "2017-04-06 14:33:41",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Lewis Gun during Emu War",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Lewis Gun|Emu War|PD-Australia|Template Unknown (author)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Soldiers, very likely to be McMurray and Gunner J. O'Hallroan, with a Lewis Machine Gun during Emu War.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "November – December 1932",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://commerce.wazeedigital.com/license/clip/48050072_0400.do\">Wazee Digital</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "review": "visually reviewed; full source frame retained",
+    "sha256": "b457a36099d5f64a0f7f71aa2fcc2b77c03f29268bfffed6435268b6de885dea"
+  },
+  {
+    "file": "gunners.jpg",
+    "title": "Sargent McMurray and J. O'Hallroan Emu War.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sargent_McMurray_and_J._O%27Hallroan_Emu_War.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Sargent_McMurray_and_J._O%27Hallroan_Emu_War.jpg",
+    "size": [
+      450,
+      270
+    ],
+    "metadata": {
+      "DateTime": {
+        "value": "2017-04-05 19:26:14",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Sargent McMurray and J. O'Hallroan Emu War",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Lewis Gun|Emu War|PD-Australia|Template Unknown (author)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Sargent McMurray and Gunner J. O'Hallroan with a Lewis Machine Gun during Emu War.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "November – December 1932",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://pickeringbrookheritagegroup.com/misc1.html\">Pickering Brook Heritage</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "review": "visually reviewed; full source frame retained",
+    "sha256": "427095f97e037b77fbd97e0126a738e0aed2d13b0e3359be7611d59d3510cd74"
+  },
+  {
+    "file": "scenes1.png",
+    "type": "original generated editorial illustration",
+    "sha256": "9b135e9b9d5396c4287295517435d728571c9844f0ad4838c2bbd254f2d2c14b",
+    "review": "visually reviewed; full source frame retained",
+    "real_historical_photo": false
+  },
+  {
+    "file": "scenes2.png",
+    "type": "original generated editorial illustration",
+    "sha256": "63f800806e5a88ae661a333b1cb560388545aeea625407c4f4d590a8cbe4afcf",
+    "review": "visually reviewed; full source frame retained",
+    "real_historical_photo": false
+  },
+  {
+    "file": "scenes3.png",
+    "type": "original generated editorial illustration",
+    "sha256": "31867b85527183a3a3ebb6b1563c78c0ab63ee2db2bd4cff3bbc3f1843b200fd",
+    "review": "visually reviewed; full source frame retained",
+    "real_historical_photo": false
+  },
+  {
+    "file": "truck_reaction.png",
+    "type": "original generated editorial illustration",
+    "sha256": "2c621ee8432fca7abaddc605c2b528077bd84bc11d32fcf3449af661f7afe117",
+    "review": "visually reviewed; full source frame retained",
+    "real_historical_photo": false
+  }
+]

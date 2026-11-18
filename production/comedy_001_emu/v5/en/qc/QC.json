@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "file": "SNG_COMEDY_001_EMU_EN_PREVIEW_V5.mp4",
+  "duration": 84.566667,
+  "bytes": 14330124,
+  "sha256": "720d89fc182554bfbc95484458898d0febe5aee2ddb7a5d8198fe620c28222a1",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec_name": "h264",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "faststart": true,
+  "full_decode_ok": true,
+  "loudness": {
+    "input_i": "-16.22",
+    "input_tp": "-4.20",
+    "input_lra": "1.80",
+    "input_thresh": "-26.32",
+    "output_i": "-15.97",
+    "output_tp": "-3.85",
+    "output_lra": "1.60",
+    "output_thresh": "-26.05",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.03"
+  },
+  "black_frames": [],
+  "captions": 82,
+  "single_word_sentence_exceptions": [],
+  "failures": [],
+  "auditory_review": false,
+  "encoded_frame_review": "Midpoint of every shot reviewed: top headings and provenance badges absent; spoken captions and internal diagram labels retained. No full auditory review; original V4 audio retained.",
+  "preview_not_approved": true
+}
