@@ -1,0 +1,58 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.14,Main,,0,0,0,,{\fs66}First guy into the
+Dialogue: 0,0:00:01.14,0:00:02.72,Main,,0,0,0,,{\fs66}Olympic stadium.
+Dialogue: 0,0:00:02.72,0:00:04.98,Main,,0,0,0,,{\fs66}The crowd goes nuts!
+Dialogue: 0,0:00:04.98,0:00:06.24,Main,,0,0,0,,{\fs66}Imagine how much faster
+Dialogue: 0,0:00:06.24,0:00:06.90,Main,,0,0,0,,{\fs66}he'd have been if
+Dialogue: 0,0:00:06.90,0:00:08.00,Main,,0,0,0,,{\fs66}his fucking {\c&H006DDCFF&}car{\r} hadn't
+Dialogue: 0,0:00:08.00,0:00:09.49,Main,,0,0,0,,{\fs66}broken down.
+Dialogue: 0,0:00:09.65,0:00:11.73,Main,,0,0,0,,{\fs66}St. Louis Olympics.
+Dialogue: 0,0:00:11.73,0:00:13.17,Main,,0,0,0,,{\fs66}Fred {\c&H006DDCFF&}Lorz{\r} gets cramps
+Dialogue: 0,0:00:13.17,0:00:14.97,Main,,0,0,0,,{\fs66}and catches a ride.
+Dialogue: 0,0:00:14.97,0:00:16.65,Main,,0,0,0,,{\fs66}Picture running through dust,
+Dialogue: 0,0:00:16.65,0:00:17.45,Main,,0,0,0,,{\fs66}coughing up a fucking
+Dialogue: 0,0:00:17.45,0:00:18.51,Main,,0,0,0,,{\fs66}lung, and some guy
+Dialogue: 0,0:00:18.51,0:00:19.53,Main,,0,0,0,,{\fs66}passes you without even
+Dialogue: 0,0:00:19.53,0:00:21.35,Main,,0,0,0,,{\fs66}bending his knees.
+Dialogue: 0,0:00:21.51,0:00:23.47,Main,,0,0,0,,{\fs66}Then the engine dies.
+Dialogue: 0,0:00:23.47,0:00:24.93,Main,,0,0,0,,{\fs66}Holy shit, a medical
+Dialogue: 0,0:00:24.93,0:00:27.21,Main,,0,0,0,,{\fs66}breakthrough! Too cramped to
+Dialogue: 0,0:00:27.21,0:00:28.39,Main,,0,0,0,,{\fs66}run, but the second
+Dialogue: 0,0:00:28.39,0:00:29.41,Main,,0,0,0,,{\fs66}that bastard needs a
+Dialogue: 0,0:00:29.41,0:00:31.93,Main,,0,0,0,,{\fs66}push? Legs work fine,
+Dialogue: 0,0:00:31.93,0:00:34.19,Main,,0,0,0,,{\fs66}fellas! Fred jogs into
+Dialogue: 0,0:00:34.19,0:00:35.67,Main,,0,0,0,,{\fs66}the stadium.
+Dialogue: 0,0:00:35.67,0:00:37.81,Main,,0,0,0,,{\fs66}Everybody cheers.
+Dialogue: 0,0:00:37.81,0:00:38.73,Main,,0,0,0,,{\fs66}Somewhere in that crowd
+Dialogue: 0,0:00:38.73,0:00:39.37,Main,,0,0,0,,{\fs66}is a guy who
+Dialogue: 0,0:00:39.37,0:00:40.61,Main,,0,0,0,,{\fs66}just got overtaken by
+Dialogue: 0,0:00:40.61,0:00:42.31,Main,,0,0,0,,{\fs66}a seated ass.
+Dialogue: 0,0:00:42.47,0:00:44.73,Main,,0,0,0,,{\fs66}Witnesses come forward.
+Dialogue: 0,0:00:44.73,0:00:47.33,Main,,0,0,0,,{\fs66}Fred gets disqualified.
+Dialogue: 0,0:00:47.33,0:00:49.23,Main,,0,0,0,,{\fs66}Thomas {\c&H006DDCFF&}Hicks{\r} wins.
+Dialogue: 0,0:00:49.23,0:00:51.19,Main,,0,0,0,,{\fs66}Here's his photo.
+Dialogue: 0,0:00:51.19,0:00:52.69,Main,,0,0,0,,{\fs66}Oh, for fuck's sake,
+Dialogue: 0,0:00:52.69,0:00:53.19,Main,,0,0,0,,{\fs66}he's in a {\c&H006DDCFF&}car{\r}
+Dialogue: 0,0:00:53.19,0:00:56.01,Main,,0,0,0,,{\fs66}too! Relax.
+Dialogue: 0,0:00:56.01,0:00:56.89,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}Hicks{\r} got his ride
+Dialogue: 0,0:00:56.89,0:00:58.77,Main,,0,0,0,,{\fs66}AFTER the {\c&H006DDCFF&}finish{\r}.
+Dialogue: 0,0:00:58.77,0:01:00.27,Main,,0,0,0,,{\fs66}One little preposition between
+Dialogue: 0,0:01:00.27,0:01:01.21,Main,,0,0,0,,{\fs66}a gold medal and
+Dialogue: 0,0:01:01.21,0:01:03.17,Main,,0,0,0,,{\fs66}a public ass roasting.
+Dialogue: 0,0:01:03.33,0:01:04.33,Main,,0,0,0,,{\fs66}A year later Fred
+Dialogue: 0,0:01:04.33,0:01:06.55,Main,,0,0,0,,{\fs66}wins the Boston Marathon.
+Dialogue: 0,0:01:06.55,0:01:08.27,Main,,0,0,0,,{\fs66}On foot.
+Dialogue: 0,0:01:08.27,0:01:09.61,Main,,0,0,0,,{\fs66}Imagine being that fucking
+Dialogue: 0,0:01:09.61,0:01:10.61,Main,,0,0,0,,{\fs66}good at running, and
+Dialogue: 0,0:01:10.61,0:01:11.71,Main,,0,0,0,,{\fs66}a century later every
+Dialogue: 0,0:01:11.71,0:01:12.83,Main,,0,0,0,,{\fs66}story about your greatest
+Dialogue: 0,0:01:12.83,0:01:14.09,Main,,0,0,0,,{\fs66}race starts with: so
+Dialogue: 0,0:01:14.09,0:01:15.84,Main,,0,0,0,,{\fs66}this guy sits down.
