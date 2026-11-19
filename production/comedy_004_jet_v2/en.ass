@@ -1,0 +1,64 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.78,Main,,0,0,0,,{\fs66}Hey, Pepsi?
+Dialogue: 0,0:00:01.78,0:00:04.06,Main,,0,0,0,,{\fs66}Quick shipping question.
+Dialogue: 0,0:00:04.06,0:00:05.00,Main,,0,0,0,,{\fs66}A cap fits in
+Dialogue: 0,0:00:05.00,0:00:06.62,Main,,0,0,0,,{\fs66}my mailbox.
+Dialogue: 0,0:00:06.62,0:00:07.40,Main,,0,0,0,,{\fs66}Where the fuck are
+Dialogue: 0,0:00:07.40,0:00:08.22,Main,,0,0,0,,{\fs66}you putting the fighter
+Dialogue: 0,0:00:08.22,0:00:11.12,Main,,0,0,0,,{\fs66}jet? The best part?
+Dialogue: 0,0:00:11.12,0:00:12.36,Main,,0,0,0,,{\fs66}A guy actually mailed
+Dialogue: 0,0:00:12.36,0:00:14.07,Main,,0,0,0,,{\fs66}you a {\c&H006DDCFF&}check{\r} for it.
+Dialogue: 0,0:00:14.24,0:00:15.16,Main,,0,0,0,,{\fs66}In the ad, a
+Dialogue: 0,0:00:15.16,0:00:16.12,Main,,0,0,0,,{\fs66}kid flies a military
+Dialogue: 0,0:00:16.12,0:00:17.94,Main,,0,0,0,,{\fs66}jet to school.
+Dialogue: 0,0:00:17.94,0:00:19.54,Main,,0,0,0,,{\fs66}Seven {\c&H006DDCFF&}million{\r} points, right
+Dialogue: 0,0:00:19.54,0:00:21.34,Main,,0,0,0,,{\fs66}there on screen.
+Dialogue: 0,0:00:21.34,0:00:23.28,Main,,0,0,0,,{\fs66}Everybody laughs.
+Dialogue: 0,0:00:23.28,0:00:24.44,Main,,0,0,0,,{\fs66}John Leonard gets his
+Dialogue: 0,0:00:24.44,0:00:27.26,Main,,0,0,0,,{\fs66}calculator. Comedy is over,
+Dialogue: 0,0:00:27.26,0:00:29.68,Main,,0,0,0,,{\fs66}folks. Accounting has entered
+Dialogue: 0,0:00:29.68,0:00:31.23,Main,,0,0,0,,{\fs66}the building.
+Dialogue: 0,0:00:31.23,0:00:33.17,Main,,0,0,0,,{\fs66}Hell of a promotion.
+Dialogue: 0,0:00:33.17,0:00:34.63,Main,,0,0,0,,{\fs66}Friday you're selling fizzy
+Dialogue: 0,0:00:34.63,0:00:36.79,Main,,0,0,0,,{\fs66}water. Monday you're running
+Dialogue: 0,0:00:36.79,0:00:39.20,Main,,0,0,0,,{\fs66}a fucking aircraft dealership.
+Dialogue: 0,0:00:39.37,0:00:40.31,Main,,0,0,0,,{\fs66}The rules let you
+Dialogue: 0,0:00:40.31,0:00:41.65,Main,,0,0,0,,{\fs66}buy extra points.
+Dialogue: 0,0:00:41.65,0:00:43.83,Main,,0,0,0,,{\fs66}Ten cents each.
+Dialogue: 0,0:00:43.83,0:00:44.87,Main,,0,0,0,,{\fs66}Why the hell would
+Dialogue: 0,0:00:44.87,0:00:45.73,Main,,0,0,0,,{\fs66}you drink that much
+Dialogue: 0,0:00:45.73,0:00:47.83,Main,,0,0,0,,{\fs66}soda? Your kidneys would
+Dialogue: 0,0:00:47.83,0:00:48.83,Main,,0,0,0,,{\fs66}quit long before your
+Dialogue: 0,0:00:48.83,0:00:51.35,Main,,0,0,0,,{\fs60}driveway became a fucking airfield.
+Dialogue: 0,0:00:51.52,0:00:53.30,Main,,0,0,0,,{\fs66}Watch his order.
+Dialogue: 0,0:00:53.30,0:00:55.70,Main,,0,0,0,,{\fs66}Seven {\c&H006DDCFF&}million{\r} points needed.
+Dialogue: 0,0:00:55.70,0:00:57.91,Main,,0,0,0,,{\fs66}He already has fifteen.
+Dialogue: 0,0:00:57.91,0:00:59.14,Main,,0,0,0,,{\fs66}Buy the rest at
+Dialogue: 0,0:00:59.14,0:01:00.88,Main,,0,0,0,,{\fs66}ten cents each.
+Dialogue: 0,0:01:00.88,0:01:01.88,Main,,0,0,0,,{\fs66}Then ten bucks for
+Dialogue: 0,0:01:01.88,0:01:04.40,Main,,0,0,0,,{\fs66}shipping! Jesus Christ, I've
+Dialogue: 0,0:01:04.40,0:01:05.18,Main,,0,0,0,,{\fs66}paid more to ship
+Dialogue: 0,0:01:05.18,0:01:07.60,Main,,0,0,0,,{\fs66}socks. Total: seven hundred
+Dialogue: 0,0:01:07.60,0:01:08.84,Main,,0,0,0,,{\fs66}thousand eight dollars and
+Dialogue: 0,0:01:08.84,0:01:10.28,Main,,0,0,0,,{\fs66}fifty cents.
+Dialogue: 0,0:01:10.28,0:01:11.40,Main,,0,0,0,,{\fs66}That's one hell of
+Dialogue: 0,0:01:11.40,0:01:13.08,Main,,0,0,0,,{\fs66}a shopping cart.
+Dialogue: 0,0:01:13.24,0:01:15.38,Main,,0,0,0,,{\fs66}Pepsi returned the {\c&H006DDCFF&}check{\r}.
+Dialogue: 0,0:01:15.38,0:01:17.58,Main,,0,0,0,,{\fs66}John sued and lost.
+Dialogue: 0,0:01:17.58,0:01:18.66,Main,,0,0,0,,{\fs66}The judge thought the
+Dialogue: 0,0:01:18.66,0:01:20.52,Main,,0,0,0,,{\fs66}joke was obvious.
+Dialogue: 0,0:01:20.52,0:01:22.42,Main,,0,0,0,,{\fs66}But consider this absolute
+Dialogue: 0,0:01:22.42,0:01:23.92,Main,,0,0,0,,{\fs66}shitshow. It took a
+Dialogue: 0,0:01:23.92,0:01:25.06,Main,,0,0,0,,{\fs66}federal court to explain
+Dialogue: 0,0:01:25.06,0:01:25.96,Main,,0,0,0,,{\fs66}the punchline of a
+Dialogue: 0,0:01:25.96,0:01:27.48,Main,,0,0,0,,{\fs66}soda commercial.
+Dialogue: 0,0:01:27.48,0:01:28.98,Main,,0,0,0,,{\fs66}Next time, maybe just
+Dialogue: 0,0:01:28.98,0:01:31.15,Main,,0,0,0,,{\fs66}wink at the fucking camera?

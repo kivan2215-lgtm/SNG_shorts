@@ -1,0 +1,42 @@
+[
+  {
+    "block": "ru0",
+    "raw_s": 11.12,
+    "retained_s": 11.01,
+    "clipped_samples": 0
+  },
+  {
+    "block": "ru1",
+    "raw_s": 22.47,
+    "retained_s": 22.47,
+    "clipped_samples": 0
+  },
+  {
+    "block": "ru2",
+    "raw_s": 12.08,
+    "retained_s": 11.82,
+    "clipped_samples": 0
+  },
+  {
+    "block": "ru3",
+    "raw_s": 17.92,
+    "retained_s": 17.29,
+    "clipped_samples": 0
+  },
+  {
+    "block": "ru4",
+    "raw_s": 16.64,
+    "retained_s": 15.64,
+    "clipped_samples": 0
+  },
+  {
+    "version": "RU",
+    "LUFS": "-15.98",
+    "true_peak_dBTP": "-1.52"
+  },
+  {
+    "version": "EN",
+    "LUFS": "-16.71",
+    "true_peak_dBTP": "-0.95"
+  }
+]
