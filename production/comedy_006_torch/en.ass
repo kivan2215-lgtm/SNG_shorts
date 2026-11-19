@@ -1,0 +1,65 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.92,Main,,0,0,0,,{\fs66}The mayor of Sydney
+Dialogue: 0,0:00:00.92,0:00:03.06,Main,,0,0,0,,{\fs66}accepts the Olympic flame.
+Dialogue: 0,0:00:03.06,0:00:05.16,Main,,0,0,0,,{\fs66}The crowd roars.
+Dialogue: 0,0:00:05.16,0:00:07.10,Main,,0,0,0,,{\fs66}He starts his speech.
+Dialogue: 0,0:00:07.10,0:00:08.56,Main,,0,0,0,,{\fs66}Then someone whispers in
+Dialogue: 0,0:00:08.56,0:00:09.98,Main,,0,0,0,,{\fs66}his ear.
+Dialogue: 0,0:00:09.98,0:00:12.85,Main,,0,0,0,,{\fs60}Those are burning {\c&H006DDCFF&}underpants{\r}, sir.
+Dialogue: 0,0:00:13.01,0:00:15.77,Main,,0,0,0,,{\fs66}Australia, nineteen fifty-six.
+Dialogue: 0,0:00:15.77,0:00:17.27,Main,,0,0,0,,{\fs66}Some students bring their
+Dialogue: 0,0:00:17.27,0:00:18.07,Main,,0,0,0,,{\fs66}own {\c&H006DDCFF&}torch{\r} to the
+Dialogue: 0,0:00:18.07,0:00:20.31,Main,,0,0,0,,{\fs66}relay. A chair leg,
+Dialogue: 0,0:00:20.31,0:00:21.43,Main,,0,0,0,,{\fs66}a plum pudding tin,
+Dialogue: 0,0:00:21.43,0:00:23.35,Main,,0,0,0,,{\fs66}and someone's underwear.
+Dialogue: 0,0:00:23.35,0:00:25.47,Main,,0,0,0,,{\fs66}On paper it's furniture.
+Dialogue: 0,0:00:25.47,0:00:26.59,Main,,0,0,0,,{\fs66}By smell it's a
+Dialogue: 0,0:00:26.59,0:00:28.19,Main,,0,0,0,,{\fs66}fucking emergency.
+Dialogue: 0,0:00:28.19,0:00:30.41,Main,,0,0,0,,{\fs66}From the back row?
+Dialogue: 0,0:00:30.41,0:00:32.72,Main,,0,0,0,,{\fs66}Absolutely the Olympics.
+Dialogue: 0,0:00:32.89,0:00:34.19,Main,,0,0,0,,{\fs66}The first prankster swings
+Dialogue: 0,0:00:34.19,0:00:35.63,Main,,0,0,0,,{\fs66}his arm.
+Dialogue: 0,0:00:35.63,0:00:36.83,Main,,0,0,0,,{\fs66}The flaming shorts fly
+Dialogue: 0,0:00:36.83,0:00:38.95,Main,,0,0,0,,{\fs66}out. The Games haven't
+Dialogue: 0,0:00:38.95,0:00:39.77,Main,,0,0,0,,{\fs66}even opened and the
+Dialogue: 0,0:00:39.77,0:00:41.75,Main,,0,0,0,,{\fs66}laundry's gone airborne.
+Dialogue: 0,0:00:41.75,0:00:44.17,Main,,0,0,0,,{\fs66}Somebody retrieves them.
+Dialogue: 0,0:00:44.17,0:00:44.97,Main,,0,0,0,,{\fs66}Barry gets the {\c&H006DDCFF&}torch{\r}
+Dialogue: 0,0:00:44.97,0:00:45.77,Main,,0,0,0,,{\fs66}and runs in his
+Dialogue: 0,0:00:45.77,0:00:47.65,Main,,0,0,0,,{\fs66}tie. The cops give
+Dialogue: 0,0:00:47.65,0:00:49.35,Main,,0,0,0,,{\fs66}him an escort.
+Dialogue: 0,0:00:49.35,0:00:51.05,Main,,0,0,0,,{\fs66}Well, shit.
+Dialogue: 0,0:00:51.05,0:00:52.61,Main,,0,0,0,,{\fs66}Can't leave formalwear alone
+Dialogue: 0,0:00:52.61,0:00:53.37,Main,,0,0,0,,{\fs66}with a live pair
+Dialogue: 0,0:00:53.37,0:00:54.81,Main,,0,0,0,,{\fs66}of briefs.
+Dialogue: 0,0:00:54.98,0:00:56.24,Main,,0,0,0,,{\fs66}Outside Town Hall the
+Dialogue: 0,0:00:56.24,0:00:57.56,Main,,0,0,0,,{\fs66}mayor grabs it.
+Dialogue: 0,0:00:57.56,0:00:59.06,Main,,0,0,0,,{\fs66}The silver paint's still
+Dialogue: 0,0:00:59.06,0:01:01.56,Main,,0,0,0,,{\fs66}wet. Silver palm, smoking
+Dialogue: 0,0:01:01.56,0:01:03.60,Main,,0,0,0,,{\fs66}chair, thirty thousand people.
+Dialogue: 0,0:01:03.60,0:01:05.16,Main,,0,0,0,,{\fs66}A reasonable time to
+Dialogue: 0,0:01:05.16,0:01:06.00,Main,,0,0,0,,{\fs66}ask what the fuck
+Dialogue: 0,0:01:06.00,0:01:07.58,Main,,0,0,0,,{\fs66}is going on.
+Dialogue: 0,0:01:07.58,0:01:09.72,Main,,0,0,0,,{\fs66}He starts his speech.
+Dialogue: 0,0:01:09.72,0:01:11.83,Main,,0,0,0,,{\fs66}Barry catches a {\c&H006DDCFF&}tram{\r}.
+Dialogue: 0,0:01:12.00,0:01:13.30,Main,,0,0,0,,{\fs66}Then the real {\c&H006DDCFF&}torch{\r}bearer
+Dialogue: 0,0:01:13.30,0:01:15.76,Main,,0,0,0,,{\fs66}arrives. Imagine running across
+Dialogue: 0,0:01:15.76,0:01:16.80,Main,,0,0,0,,{\fs66}Sydney and finding out
+Dialogue: 0,0:01:16.80,0:01:18.02,Main,,0,0,0,,{\fs66}your applause already took
+Dialogue: 0,0:01:18.02,0:01:19.74,Main,,0,0,0,,{\fs66}public transport.
+Dialogue: 0,0:01:19.74,0:01:21.02,Main,,0,0,0,,{\fs66}Next morning Barry gets
+Dialogue: 0,0:01:21.02,0:01:22.32,Main,,0,0,0,,{\fs66}a standing ovation before
+Dialogue: 0,0:01:22.32,0:01:23.80,Main,,0,0,0,,{\fs66}his {\c&H006DDCFF&}exam{\r}.
+Dialogue: 0,0:01:23.80,0:01:25.56,Main,,0,0,0,,{\fs66}He fails.
+Dialogue: 0,0:01:25.56,0:01:26.58,Main,,0,0,0,,{\fs66}Turns out it's easier
+Dialogue: 0,0:01:26.58,0:01:27.40,Main,,0,0,0,,{\fs66}to pass off a
+Dialogue: 0,0:01:27.40,0:01:28.18,Main,,0,0,0,,{\fs66}pudding tin than to
+Dialogue: 0,0:01:28.18,0:01:30.15,Main,,0,0,0,,{\fs66}pass a fucking test.
