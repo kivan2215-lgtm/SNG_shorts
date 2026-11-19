@@ -1,0 +1,18 @@
+[
+  {
+    "language": "ru",
+    "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_COMEDY_002_MARS_RU_PREVIEW.mp4",
+    "sha256": "467eeea2aa21ebdc2e1f3fba7189d30975be7d26949b37f4e2b1102d4b47f408",
+    "bytes": 12621105,
+    "full_download_verified": true,
+    "verified_utc": "2026-11-19T03:52:19.982952+00:00"
+  },
+  {
+    "language": "en",
+    "url": "https://raw.githubusercontent.com/kivan2215-lgtm/SNG_shorts/main/SNG_COMEDY_002_MARS_EN_PREVIEW.mp4",
+    "sha256": "d8874baee1f46f4aa3befc01d72eb62c86152d9ada8f2f386dafca98e9701c0a",
+    "bytes": 11540401,
+    "full_download_verified": true,
+    "verified_utc": "2026-11-19T03:52:19.752217+00:00"
+  }
+]
