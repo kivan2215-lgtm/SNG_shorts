@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.76,Main,,0,0,0,,{\fs66}How do you test
+Dialogue: 0,0:00:00.76,0:00:02.06,Main,,0,0,0,,{\fs66}a warship?
+Dialogue: 0,0:00:02.06,0:00:03.20,Main,,0,0,0,,{\fs66}In Sweden they put
+Dialogue: 0,0:00:03.20,0:00:04.00,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}thirty{\r} men on deck
+Dialogue: 0,0:00:04.00,0:00:04.74,Main,,0,0,0,,{\fs66}and told them to
+Dialogue: 0,0:00:04.74,0:00:06.73,Main,,0,0,0,,{\fs66}run from side to side.
+Dialogue: 0,0:00:06.89,0:00:08.05,Main,,0,0,0,,{\fs66}Three runs in, the
+Dialogue: 0,0:00:08.05,0:00:08.97,Main,,0,0,0,,{\fs66}ship was rolling so
+Dialogue: 0,0:00:08.97,0:00:10.03,Main,,0,0,0,,{\fs66}badly they stopped the
+Dialogue: 0,0:00:10.03,0:00:12.89,Main,,0,0,0,,{\fs66}test. And the ship?
+Dialogue: 0,0:00:12.89,0:00:14.15,Main,,0,0,0,,{\fs66}Fuck it.
+Dialogue: 0,0:00:14.15,0:00:16.26,Main,,0,0,0,,{\fs66}They let it sail.
+Dialogue: 0,0:00:16.43,0:00:18.85,Main,,0,0,0,,{\fs60}Stockholm, sixteen twenty-eight.
+Dialogue: 0,0:00:18.85,0:00:20.39,Main,,0,0,0,,{\fs66}A brand new warship
+Dialogue: 0,0:00:20.39,0:00:21.89,Main,,0,0,0,,{\fs66}called Vasa.
+Dialogue: 0,0:00:21.89,0:00:23.43,Main,,0,0,0,,{\fs66}Two gun decks.
+Dialogue: 0,0:00:23.43,0:00:25.65,Main,,0,0,0,,{\fs66}Carved lions.
+Dialogue: 0,0:00:25.65,0:00:27.01,Main,,0,0,0,,{\fs66}Apparently, if a ship
+Dialogue: 0,0:00:27.01,0:00:28.73,Main,,0,0,0,,{\fs66}looks expensive enough, physics
+Dialogue: 0,0:00:28.73,0:00:31.12,Main,,0,0,0,,{\fs60}gets embarrassed and looks away.
+Dialogue: 0,0:00:31.32,0:00:32.19,Main,,0,0,0,,{\fs66}A gust of wind
+Dialogue: 0,0:00:32.19,0:00:33.55,Main,,0,0,0,,{\fs66}caught the sails.
+Dialogue: 0,0:00:33.55,0:00:36.09,Main,,0,0,0,,{\fs66}The ship heeled over.
+Dialogue: 0,0:00:36.09,0:00:37.15,Main,,0,0,0,,{\fs66}Water poured through the
+Dialogue: 0,0:00:37.15,0:00:38.89,Main,,0,0,0,,{\fs66}open gunports.
+Dialogue: 0,0:00:38.89,0:00:40.49,Main,,0,0,0,,{\fs66}Total distance from glorious
+Dialogue: 0,0:00:40.49,0:00:41.63,Main,,0,0,0,,{\fs66}departure to the bottom?
+Dialogue: 0,0:00:41.63,0:00:45.19,Main,,0,0,0,,{\fs66}About thirteen hundred metres.
+Dialogue: 0,0:00:45.39,0:00:47.40,Main,,0,0,0,,{\fs66}An inquiry followed.
+Dialogue: 0,0:00:47.40,0:00:49.13,Main,,0,0,0,,{\fs66}Nobody was punished.
+Dialogue: 0,0:00:49.13,0:00:50.86,Main,,0,0,0,,{\fs66}Thirty guys tested the
+Dialogue: 0,0:00:50.86,0:00:52.70,Main,,0,0,0,,{\fs66}ship. Turns out the
+Dialogue: 0,0:00:52.70,0:00:53.74,Main,,0,0,0,,{\fs66}ship was testing the
+Dialogue: 0,0:00:53.74,0:00:55.38,Main,,0,0,0,,{\fs66}whole damn system.
+Dialogue: 0,0:00:55.38,0:00:56.50,Main,,0,0,0,,{\fs66}Does your boss also
+Dialogue: 0,0:00:56.50,0:00:57.46,Main,,0,0,0,,{\fs66}think stopping a test
+Dialogue: 0,0:00:57.46,0:00:59.33,Main,,0,0,0,,{\fs66}means you've passed it?
