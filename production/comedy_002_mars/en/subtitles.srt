@@ -1,0 +1,264 @@
+1
+00:00:00,049 --> 00:00:01,422
+NASA sent a spacecraft
+
+2
+00:00:01,422 --> 00:00:02,328
+to Mars and lost
+
+3
+00:00:02,328 --> 00:00:03,892
+it because of measurement units.
+
+4
+00:00:03,892 --> 00:00:04,995
+Not aliens, not
+
+5
+00:00:04,995 --> 00:00:06,073
+a black hole, just
+
+6
+00:00:06,073 --> 00:00:07,649
+a fucking mixup with numbers.
+
+7
+00:00:07,678 --> 00:00:08,953
+Reaching another planet was
+
+8
+00:00:08,953 --> 00:00:10,215
+possible, but agreeing
+
+9
+00:00:10,215 --> 00:00:11,502
+on units was apparently
+
+10
+00:00:11,502 --> 00:00:13,249
+the advanced difficulty setting.
+
+11
+00:00:13,288 --> 00:00:14,219
+The orbiter launched
+
+12
+00:00:14,219 --> 00:00:15,579
+in December nineteen ninety
+
+13
+00:00:15,579 --> 00:00:16,241
+eight to study
+
+14
+00:00:16,241 --> 00:00:17,287
+the Martian climate.
+
+15
+00:00:17,287 --> 00:00:18,557
+Nine months in space,
+
+16
+00:00:18,562 --> 00:00:20,412
+complex calculations and entire
+
+17
+00:00:20,412 --> 00:00:21,658
+teams of specialists.
+
+18
+00:00:21,658 --> 00:00:22,785
+Then it approached Mars
+
+19
+00:00:22,785 --> 00:00:23,471
+in September
+
+20
+00:00:23,471 --> 00:00:24,876
+and contact was lost.
+
+21
+00:00:24,877 --> 00:00:26,005
+The weather forecast had
+
+22
+00:00:26,005 --> 00:00:26,973
+become a forecast
+
+23
+00:00:26,973 --> 00:00:28,123
+of a complete shitshow.
+
+24
+00:00:28,123 --> 00:00:29,634
+Investigators found an error
+
+25
+00:00:29,634 --> 00:00:30,406
+in data about
+
+26
+00:00:30,406 --> 00:00:31,556
+the small thrusters.
+
+27
+00:00:31,556 --> 00:00:33,011
+One ground program reported
+
+28
+00:00:33,011 --> 00:00:34,139
+impulse in pound force
+
+29
+00:00:34,139 --> 00:00:35,340
+seconds, while another
+
+30
+00:00:35,340 --> 00:00:36,792
+expected newton seconds.
+
+31
+00:00:36,792 --> 00:00:37,776
+They sent the numbers
+
+32
+00:00:37,776 --> 00:00:39,132
+but missed the conversion.
+
+33
+00:00:39,141 --> 00:00:40,796
+Brilliant fucking teamwork: one
+
+34
+00:00:40,796 --> 00:00:42,095
+person counts in bananas
+
+35
+00:00:42,095 --> 00:00:43,099
+while the other assumes
+
+36
+00:00:43,099 --> 00:00:44,430
+this is already physics.
+
+37
+00:00:44,433 --> 00:00:45,732
+The conversion factor is
+
+38
+00:00:45,732 --> 00:00:47,071
+about four and a half.
+
+39
+00:00:47,071 --> 00:00:48,639
+Those incorrect data gradually
+
+40
+00:00:48,639 --> 00:00:50,367
+pushed the calculated trajectory
+
+41
+00:00:50,367 --> 00:00:51,601
+away from reality.
+
+42
+00:00:51,601 --> 00:00:52,790
+The spacecraft passed too
+
+43
+00:00:52,790 --> 00:00:53,537
+close to Mars
+
+44
+00:00:53,537 --> 00:00:54,793
+and the mission was lost.
+
+45
+00:00:54,793 --> 00:00:56,357
+Imagine crossing space only
+
+46
+00:00:56,357 --> 00:00:56,884
+to fuck up
+
+47
+00:00:56,884 --> 00:00:58,043
+the unit conversion.
+
+48
+00:00:58,060 --> 00:00:58,989
+That is like building
+
+49
+00:00:58,989 --> 00:00:59,871
+a restaurant and then
+
+50
+00:00:59,871 --> 00:01:01,524
+confusing salt with cement.
+
+51
+00:01:01,524 --> 00:01:02,235
+But this was not
+
+52
+00:01:02,235 --> 00:01:03,382
+just one bad line:
+
+53
+00:01:03,424 --> 00:01:05,274
+investigators also found problems
+
+54
+00:01:05,274 --> 00:01:05,752
+with checks
+
+55
+00:01:05,752 --> 00:01:07,602
+and communication between teams.
+
+56
+00:01:07,602 --> 00:01:08,570
+The mistake walked through
+
+57
+00:01:08,570 --> 00:01:09,587
+quality control like
+
+58
+00:01:09,587 --> 00:01:10,923
+a VIP while somebody
+
+59
+00:01:10,923 --> 00:01:12,083
+held the fucking door.
+
+60
+00:01:12,083 --> 00:01:13,549
+The spacecraft was uncrewed,
+
+61
+00:01:13,700 --> 00:01:14,877
+so nobody died except
+
+62
+00:01:14,877 --> 00:01:15,845
+our faith that smart
+
+63
+00:01:15,845 --> 00:01:17,140
+people check obvious shit.
+
+64
+00:01:17,140 --> 00:01:17,953
+Does everyone at your
+
+65
+00:01:17,953 --> 00:01:19,362
+job also assume somebody
+
+66
+00:01:19,362 --> 00:01:20,289
+else will check it?
+

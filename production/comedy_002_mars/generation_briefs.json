@@ -1,0 +1,9 @@
+{
+  "method": "image_gen, original new scenes; no real employee likeness",
+  "format": "three1024x1536 four-panel sheets; each portrait2:3",
+  "scenes1": "spacecraft aboveMars; engineer reaction; paper comparison; thruster inspection",
+  "scenes2": "banana-unit joke; data transfer between desks; salt/cement chef metaphor; VIP-folder door metaphor",
+  "scenes3": "team miscommunication; calculator/scales (unused); radio dish; empty colleague chair",
+  "constraints": "no logos, no text, generic actors,1990s technology, full faces, realistic textures, no graphic destruction",
+  "model_prompts": "original scene3d.py; simplified explanatory geometry, not to scale"
+}

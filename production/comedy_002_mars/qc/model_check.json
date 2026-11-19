@@ -1,0 +1,12 @@
+{
+  "orbit_frames": 61,
+  "all_frames_unique": true,
+  "native_fps": 30,
+  "preview_motion_samples_reviewed": [
+    0,
+    30,
+    57
+  ],
+  "exact_trajectory": false,
+  "notes": "Approximate explanatory arcs; no explosion; models are not original spacecraft telemetry or measured geometry."
+}

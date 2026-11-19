@@ -1,0 +1,157 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.9,
+    "visual": "hook"
+  },
+  {
+    "start": 3.9,
+    "end": 7.666666666666667,
+    "visual": "reaction"
+  },
+  {
+    "start": 7.666666666666667,
+    "end": 13.3,
+    "visual": "coordination"
+  },
+  {
+    "start": 13.3,
+    "end": 15.766666666666667,
+    "visual": "launch"
+  },
+  {
+    "start": 15.766666666666667,
+    "end": 17.3,
+    "visual": "mission"
+  },
+  {
+    "start": 17.3,
+    "end": 18.566666666666666,
+    "visual": "journey"
+  },
+  {
+    "start": 18.566666666666666,
+    "end": 19.966666666666665,
+    "visual": "calculations"
+  },
+  {
+    "start": 19.966666666666665,
+    "end": 21.666666666666668,
+    "visual": "teams"
+  },
+  {
+    "start": 21.666666666666668,
+    "end": 23.466666666666665,
+    "visual": "approach"
+  },
+  {
+    "start": 23.466666666666665,
+    "end": 24.866666666666667,
+    "visual": "silence"
+  },
+  {
+    "start": 24.866666666666667,
+    "end": 28.133333333333333,
+    "visual": "forecast"
+  },
+  {
+    "start": 28.133333333333333,
+    "end": 30.533333333333335,
+    "visual": "report"
+  },
+  {
+    "start": 30.533333333333335,
+    "end": 31.566666666666666,
+    "visual": "thruster"
+  },
+  {
+    "start": 31.566666666666666,
+    "end": 34.766666666666666,
+    "visual": "units_a"
+  },
+  {
+    "start": 34.766666666666666,
+    "end": 36.8,
+    "visual": "units_b"
+  },
+  {
+    "start": 36.8,
+    "end": 39.13333333333333,
+    "visual": "transfer"
+  },
+  {
+    "start": 39.13333333333333,
+    "end": 44.43333333333333,
+    "visual": "banana"
+  },
+  {
+    "start": 44.43333333333333,
+    "end": 47.06666666666667,
+    "visual": "factor"
+  },
+  {
+    "start": 47.06666666666667,
+    "end": 51.6,
+    "visual": "drift"
+  },
+  {
+    "start": 51.6,
+    "end": 53.53333333333333,
+    "visual": "lowpass"
+  },
+  {
+    "start": 53.53333333333333,
+    "end": 54.8,
+    "visual": "lost"
+  },
+  {
+    "start": 54.8,
+    "end": 58.06666666666667,
+    "visual": "facepalm"
+  },
+  {
+    "start": 58.06666666666667,
+    "end": 61.53333333333333,
+    "visual": "restaurant"
+  },
+  {
+    "start": 61.53333333333333,
+    "end": 64.8,
+    "visual": "report2"
+  },
+  {
+    "start": 64.8,
+    "end": 65.86666666666666,
+    "visual": "checks"
+  },
+  {
+    "start": 65.86666666666666,
+    "end": 67.6,
+    "visual": "communication"
+  },
+  {
+    "start": 67.6,
+    "end": 70.26666666666667,
+    "visual": "vip"
+  },
+  {
+    "start": 70.26666666666667,
+    "end": 72.06666666666666,
+    "visual": "door"
+  },
+  {
+    "start": 72.06666666666666,
+    "end": 74.5,
+    "visual": "uncrewed"
+  },
+  {
+    "start": 74.5,
+    "end": 77.13333333333334,
+    "visual": "belief"
+  },
+  {
+    "start": 77.13333333333334,
+    "end": 80.6,
+    "visual": "question"
+  }
+]

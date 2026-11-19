@@ -1,0 +1,40 @@
+{
+  "language": "ru",
+  "file": "SNG_COMEDY_002_MARS_RU_PREVIEW.mp4",
+  "duration": 90.566667,
+  "bytes": 12621105,
+  "sha256": "467eeea2aa21ebdc2e1f3fba7189d30975be7d26949b37f4e2b1102d4b47f408",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec_name": "h264",
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "faststart": true,
+  "full_decode_ok": true,
+  "loudness": {
+    "input_i": "-16.21",
+    "input_tp": "-4.18",
+    "input_lra": "1.40",
+    "input_thresh": "-26.29",
+    "output_i": "-15.94",
+    "output_tp": "-4.00",
+    "output_lra": "1.20",
+    "output_thresh": "-26.01",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.06"
+  },
+  "black_frames": [],
+  "captions": 60,
+  "single_word_sentence_exceptions": [],
+  "failures": [],
+  "auditory_review": false,
+  "encoded_frame_review": "Reviewed 93 encoded start/mid/end samples across all 31 shots in four contact sheets; no blocking framing or caption overlap found. Not a full playback or auditory review.",
+  "preview_not_approved": true
+}

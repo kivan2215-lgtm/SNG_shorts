@@ -1,0 +1,1 @@
+Investigators found an error in data about the small thrusters. One ground program reported impulse in pound force seconds, while another expected newton seconds. They sent the numbers but missed the conversion. Brilliant fucking teamwork: one person counts in bananas while the other assumes this is already physics.
