@@ -1,0 +1,58 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.90,Main,,0,0,0,,{\fs66}Imagine you sell soda.
+Dialogue: 0,0:00:01.90,0:00:04.18,Main,,0,0,0,,{\fs66}An order comes in.
+Dialogue: 0,0:00:04.18,0:00:05.78,Main,,0,0,0,,{\fs66}A shirt?
+Dialogue: 0,0:00:05.78,0:00:07.12,Main,,0,0,0,,{\fs66}A cap?
+Dialogue: 0,0:00:07.12,0:00:08.56,Main,,0,0,0,,{\fs66}Fuck no.
+Dialogue: 0,0:00:08.56,0:00:09.78,Main,,0,0,0,,{\fs66}A guy wants to
+Dialogue: 0,0:00:09.78,0:00:10.62,Main,,0,0,0,,{\fs66}know where his military
+Dialogue: 0,0:00:10.62,0:00:12.20,Main,,0,0,0,,{\fs66}jet is.
+Dialogue: 0,0:00:12.36,0:00:13.98,Main,,0,0,0,,{\fs66}The nineties.
+Dialogue: 0,0:00:13.98,0:00:15.44,Main,,0,0,0,,{\fs66}In a Pepsi commercial,
+Dialogue: 0,0:00:15.44,0:00:16.24,Main,,0,0,0,,{\fs66}a kid flies to
+Dialogue: 0,0:00:16.24,0:00:18.02,Main,,0,0,0,,{\fs66}school in a Harrier.
+Dialogue: 0,0:00:18.02,0:00:19.20,Main,,0,0,0,,{\fs66}The screen says seven
+Dialogue: 0,0:00:19.20,0:00:20.56,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}million{\r} points.
+Dialogue: 0,0:00:20.56,0:00:21.83,Main,,0,0,0,,{\fs66}The ad team wrote
+Dialogue: 0,0:00:21.83,0:00:23.22,Main,,0,0,0,,{\fs66}a joke.
+Dialogue: 0,0:00:23.22,0:00:24.44,Main,,0,0,0,,{\fs66}John Leonard reached for
+Dialogue: 0,0:00:24.44,0:00:26.10,Main,,0,0,0,,{\fs66}a calculator.
+Dialogue: 0,0:00:26.27,0:00:27.11,Main,,0,0,0,,{\fs66}Here's where it gets
+Dialogue: 0,0:00:27.11,0:00:28.65,Main,,0,0,0,,{\fs66}fucking beautiful.
+Dialogue: 0,0:00:28.65,0:00:29.85,Main,,0,0,0,,{\fs66}The rules let you
+Dialogue: 0,0:00:29.85,0:00:31.21,Main,,0,0,0,,{\fs66}buy extra points.
+Dialogue: 0,0:00:31.21,0:00:33.67,Main,,0,0,0,,{\fs66}Ten cents each.
+Dialogue: 0,0:00:33.67,0:00:34.49,Main,,0,0,0,,{\fs66}Why drink a goddamn
+Dialogue: 0,0:00:34.49,0:00:35.67,Main,,0,0,0,,{\fs66}ocean of soda when
+Dialogue: 0,0:00:35.67,0:00:36.35,Main,,0,0,0,,{\fs66}you can just write
+Dialogue: 0,0:00:36.35,0:00:37.67,Main,,0,0,0,,{\fs66}a {\c&H006DDCFF&}check{\r}?
+Dialogue: 0,0:00:37.84,0:00:39.76,Main,,0,0,0,,{\fs66}John raised the money.
+Dialogue: 0,0:00:39.76,0:00:41.02,Main,,0,0,0,,{\fs66}He mailed fifteen real
+Dialogue: 0,0:00:41.02,0:00:41.80,Main,,0,0,0,,{\fs66}points and a {\c&H006DDCFF&}check{\r}
+Dialogue: 0,0:00:41.80,0:00:43.05,Main,,0,0,0,,{\fs66}for just over seven
+Dialogue: 0,0:00:43.05,0:00:44.36,Main,,0,0,0,,{\fs66}hundred thousand dollars.
+Dialogue: 0,0:00:44.36,0:00:47.04,Main,,0,0,0,,{\fs66}He even covered shipping.
+Dialogue: 0,0:00:47.04,0:00:49.00,Main,,0,0,0,,{\fs66}That's optimism.
+Dialogue: 0,0:00:49.00,0:00:50.46,Main,,0,0,0,,{\fs66}No fucking plane yet,
+Dialogue: 0,0:00:50.46,0:00:52.54,Main,,0,0,0,,{\fs66}but the postage is sorted.
+Dialogue: 0,0:00:52.70,0:00:53.82,Main,,0,0,0,,{\fs66}Pepsi sent the {\c&H006DDCFF&}check{\r}
+Dialogue: 0,0:00:53.82,0:00:56.70,Main,,0,0,0,,{\fs66}back. No jet.
+Dialogue: 0,0:00:56.70,0:00:57.76,Main,,0,0,0,,{\fs66}A federal judge had
+Dialogue: 0,0:00:57.76,0:00:58.78,Main,,0,0,0,,{\fs66}to consider whether a
+Dialogue: 0,0:00:58.78,0:01:00.08,Main,,0,0,0,,{\fs66}reasonable person could take
+Dialogue: 0,0:01:00.08,0:01:01.92,Main,,0,0,0,,{\fs66}the ad seriously.
+Dialogue: 0,0:01:01.92,0:01:03.52,Main,,0,0,0,,{\fs66}John lost.
+Dialogue: 0,0:01:03.52,0:01:04.80,Main,,0,0,0,,{\fs66}But who's funnier: the
+Dialogue: 0,0:01:04.80,0:01:05.66,Main,,0,0,0,,{\fs66}guy who believed the
+Dialogue: 0,0:01:05.66,0:01:06.70,Main,,0,0,0,,{\fs66}price tag, or the
+Dialogue: 0,0:01:06.70,0:01:07.52,Main,,0,0,0,,{\fs66}people who stuck a
+Dialogue: 0,0:01:07.52,0:01:08.32,Main,,0,0,0,,{\fs66}price tag on a
+Dialogue: 0,0:01:08.32,0:01:09.80,Main,,0,0,0,,{\fs66}fucking joke?
