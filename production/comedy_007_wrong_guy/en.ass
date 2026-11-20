@@ -1,0 +1,68 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.38,Main,,0,0,0,,{\fs66}Imagine sitting down for
+Dialogue: 0,0:00:01.38,0:00:03.02,Main,,0,0,0,,{\fs66}a {\c&H006DDCFF&}job{\r} interview.
+Dialogue: 0,0:00:03.02,0:00:04.62,Main,,0,0,0,,{\fs66}First question: what does
+Dialogue: 0,0:00:04.62,0:00:05.54,Main,,0,0,0,,{\fs66}this court ruling mean
+Dialogue: 0,0:00:05.54,0:00:06.46,Main,,0,0,0,,{\fs66}for music on the
+Dialogue: 0,0:00:06.46,0:00:08.48,Main,,0,0,0,,{\fs66}internet? You look at
+Dialogue: 0,0:00:08.48,0:00:09.68,Main,,0,0,0,,{\fs66}the {\c&H006DDCFF&}camera{\r}.
+Dialogue: 0,0:00:09.68,0:00:12.12,Main,,0,0,0,,{\fs66}The {\c&H006DDCFF&}camera{\r} looks back.
+Dialogue: 0,0:00:12.12,0:00:13.32,Main,,0,0,0,,{\fs66}Apparently “get the fuck
+Dialogue: 0,0:00:13.32,0:00:14.26,Main,,0,0,0,,{\fs66}out” isn't one of
+Dialogue: 0,0:00:14.26,0:00:15.85,Main,,0,0,0,,{\fs66}the benefits.
+Dialogue: 0,0:00:16.01,0:00:18.23,Main,,0,0,0,,{\fs66}London, two thousand six.
+Dialogue: 0,0:00:18.23,0:00:20.09,Main,,0,0,0,,{\fs66}The BBC is expecting
+Dialogue: 0,0:00:20.09,0:00:21.71,Main,,0,0,0,,{\fs66}two men.
+Dialogue: 0,0:00:21.71,0:00:22.55,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}Guy{\r} Kewney is a
+Dialogue: 0,0:00:22.55,0:00:24.31,Main,,0,0,0,,{\fs66}tech expert.
+Dialogue: 0,0:00:24.31,0:00:25.17,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}Guy{\r} Goma wants a
+Dialogue: 0,0:00:25.17,0:00:27.31,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}job{\r}. Someone walks up
+Dialogue: 0,0:00:27.31,0:00:28.63,Main,,0,0,0,,{\fs66}to him.
+Dialogue: 0,0:00:28.63,0:00:30.87,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}Guy{\r}? Yes.
+Dialogue: 0,0:00:30.87,0:00:32.45,Main,,0,0,0,,{\fs66}And that, ladies and
+Dialogue: 0,0:00:32.45,0:00:33.95,Main,,0,0,0,,{\fs60}gentlemen, concludes the fucking
+Dialogue: 0,0:00:33.95,0:00:35.59,Main,,0,0,0,,{\fs66}background check.
+Dialogue: 0,0:00:35.59,0:00:36.72,Main,,0,0,0,,{\fs66}A {\c&H006DDCFF&}surname{\r}?
+Dialogue: 0,0:00:36.72,0:00:38.79,Main,,0,0,0,,{\fs66}Steady on, this isn't
+Dialogue: 0,0:00:38.79,0:00:40.43,Main,,0,0,0,,{\fs66}Scotland Yard.
+Dialogue: 0,0:00:40.59,0:00:41.63,Main,,0,0,0,,{\fs66}They powder his face
+Dialogue: 0,0:00:41.63,0:00:42.37,Main,,0,0,0,,{\fs66}and clip on a
+Dialogue: 0,0:00:42.37,0:00:44.59,Main,,0,0,0,,{\fs66}microphone. He still thinks
+Dialogue: 0,0:00:44.59,0:00:45.33,Main,,0,0,0,,{\fs66}this is a {\c&H006DDCFF&}job{\r}
+Dialogue: 0,0:00:45.33,0:00:47.61,Main,,0,0,0,,{\fs66}interview. Then the presenter
+Dialogue: 0,0:00:47.61,0:00:49.15,Main,,0,0,0,,{\fs66}introduces him by somebody
+Dialogue: 0,0:00:49.15,0:00:50.97,Main,,0,0,0,,{\fs66}else's name.
+Dialogue: 0,0:00:50.97,0:00:53.13,Main,,0,0,0,,{\fs66}Live. For one glorious
+Dialogue: 0,0:00:53.13,0:00:54.01,Main,,0,0,0,,{\fs66}second you can see
+Dialogue: 0,0:00:54.01,0:00:54.79,Main,,0,0,0,,{\fs66}his soul leave his
+Dialogue: 0,0:00:54.79,0:00:56.05,Main,,0,0,0,,{\fs66}body, check the contract
+Dialogue: 0,0:00:56.05,0:00:57.71,Main,,0,0,0,,{\fs66}and come back.
+Dialogue: 0,0:00:57.71,0:01:01.41,Main,,0,0,0,,{\fs60}Fuck. Apparently we're doing this.
+Dialogue: 0,0:01:01.58,0:01:03.48,Main,,0,0,0,,{\fs66}And he answers!
+Dialogue: 0,0:01:03.48,0:01:05.94,Main,,0,0,0,,{\fs66}Talks about downloading music.
+Dialogue: 0,0:01:05.94,0:01:07.24,Main,,0,0,0,,{\fs66}The actual expert is
+Dialogue: 0,0:01:07.24,0:01:08.54,Main,,0,0,0,,{\fs66}in another reception area
+Dialogue: 0,0:01:08.54,0:01:09.60,Main,,0,0,0,,{\fs66}watching some bloke on
+Dialogue: 0,0:01:09.60,0:01:10.74,Main,,0,0,0,,{\fs66}television having a go
+Dialogue: 0,0:01:10.74,0:01:12.24,Main,,0,0,0,,{\fs66}at being him.
+Dialogue: 0,0:01:12.24,0:01:13.34,Main,,0,0,0,,{\fs66}Imagine showing up on
+Dialogue: 0,0:01:13.34,0:01:14.28,Main,,0,0,0,,{\fs66}time and finding out
+Dialogue: 0,0:01:14.28,0:01:15.24,Main,,0,0,0,,{\fs66}you've been replaced by
+Dialogue: 0,0:01:15.24,0:01:16.24,Main,,0,0,0,,{\fs66}someone who doesn't even
+Dialogue: 0,0:01:16.24,0:01:18.02,Main,,0,0,0,,{\fs66}fucking work there.
+Dialogue: 0,0:01:18.19,0:01:19.65,Main,,0,0,0,,{\fs66}About twenty minutes later,
+Dialogue: 0,0:01:19.65,0:01:21.05,Main,,0,0,0,,{\fs66}Goma gets his actual
+Dialogue: 0,0:01:21.05,0:01:23.21,Main,,0,0,0,,{\fs66}interview. He doesn't get
+Dialogue: 0,0:01:23.21,0:01:24.57,Main,,0,0,0,,{\fs66}the {\c&H006DDCFF&}job{\r}.
+Dialogue: 0,0:01:24.57,0:01:27.27,Main,,0,0,0,,{\fs66}Imagine updating that résumé.
+Dialogue: 0,0:01:27.27,0:01:29.51,Main,,0,0,0,,{\fs66}Works well under pressure?
+Dialogue: 0,0:01:29.51,0:01:32.75,Main,,0,0,0,,{\fs66}Yes. Got a reference?
+Dialogue: 0,0:01:32.75,0:01:35.16,Main,,0,0,0,,{\fs66}Switch on the fucking telly.
