@@ -1,0 +1,65 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.42,Main,,0,0,0,,{\fs66}In Britain, people bought
+Dialogue: 0,0:00:01.42,0:00:02.56,Main,,0,0,0,,{\fs66}vacuum cleaners and left
+Dialogue: 0,0:00:02.56,0:00:04.18,Main,,0,0,0,,{\fs66}them in the shop.
+Dialogue: 0,0:00:04.18,0:00:05.16,Main,,0,0,0,,{\fs66}Paid the money,
+Dialogue: 0,0:00:05.16,0:00:06.14,Main,,0,0,0,,{\fs66}took the receipt,
+Dialogue: 0,0:00:06.14,0:00:06.96,Main,,0,0,0,,{\fs66}left the whole bastard
+Dialogue: 0,0:00:06.96,0:00:08.40,Main,,0,0,0,,{\fs66}standing there.
+Dialogue: 0,0:00:08.40,0:00:09.24,Main,,0,0,0,,{\fs66}What the hell
+Dialogue: 0,0:00:09.24,0:00:11.19,Main,,0,0,0,,{\fs66}were they shopping for?
+Dialogue: 0,0:00:11.36,0:00:13.18,Main,,0,0,0,,{\fs66}Flights to America.
+Dialogue: 0,0:00:13.18,0:00:15.12,Main,,0,0,0,,{\fs60}Hoover promised two return {\c&H006DDCFF&}tickets{\r}
+Dialogue: 0,0:00:15.12,0:00:15.70,Main,,0,0,0,,{\fs66}if you spent
+Dialogue: 0,0:00:15.70,0:00:18.08,Main,,0,0,0,,{\fs66}a hundred {\c&H006DDCFF&}pounds{\r} on appliances.
+Dialogue: 0,0:00:18.08,0:00:19.20,Main,,0,0,0,,{\fs66}The flights were worth
+Dialogue: 0,0:00:19.20,0:00:21.00,Main,,0,0,0,,{\fs66}about six hundred.
+Dialogue: 0,0:00:21.00,0:00:22.35,Main,,0,0,0,,{\fs66}Somebody looked at that
+Dialogue: 0,0:00:22.35,0:00:23.78,Main,,0,0,0,,{\fs60}five-hundred-pound gap and thought,
+Dialogue: 0,0:00:23.78,0:00:24.30,Main,,0,0,0,,{\fs66}fuck it,
+Dialogue: 0,0:00:24.30,0:00:26.03,Main,,0,0,0,,{\fs66}think of the carpets.
+Dialogue: 0,0:00:26.19,0:00:27.39,Main,,0,0,0,,{\fs66}Britain soon figured out
+Dialogue: 0,0:00:27.39,0:00:28.17,Main,,0,0,0,,{\fs66}where the airport
+Dialogue: 0,0:00:28.17,0:00:29.99,Main,,0,0,0,,{\fs66}check-in desk was.
+Dialogue: 0,0:00:29.99,0:00:31.15,Main,,0,0,0,,{\fs66}Right between the kettles
+Dialogue: 0,0:00:31.15,0:00:33.73,Main,,0,0,0,,{\fs60}and the fucking washing machines.
+Dialogue: 0,0:00:33.73,0:00:35.95,Main,,0,0,0,,{\fs66}Applications piled up.
+Dialogue: 0,0:00:35.95,0:00:38.31,Main,,0,0,0,,{\fs66}The papers tore Hoover apart.
+Dialogue: 0,0:00:38.31,0:00:39.93,Main,,0,0,0,,{\fs66}Brilliant.
+Dialogue: 0,0:00:39.93,0:00:40.99,Main,,0,0,0,,{\fs66}Now everyone reading
+Dialogue: 0,0:00:40.99,0:00:42.43,Main,,0,0,0,,{\fs66}about this absolute shitshow
+Dialogue: 0,0:00:42.43,0:00:44.81,Main,,0,0,0,,{\fs66}remembered to post their claim.
+Dialogue: 0,0:00:44.81,0:00:46.94,Main,,0,0,0,,{\fs66}Cheers for the reminder!
+Dialogue: 0,0:00:47.10,0:00:47.92,Main,,0,0,0,,{\fs66}One bloke bought
+Dialogue: 0,0:00:47.92,0:00:48.70,Main,,0,0,0,,{\fs66}a washing machine
+Dialogue: 0,0:00:48.70,0:00:50.20,Main,,0,0,0,,{\fs66}for the flights.
+Dialogue: 0,0:00:50.20,0:00:51.78,Main,,0,0,0,,{\fs66}It broke.
+Dialogue: 0,0:00:51.78,0:00:53.20,Main,,0,0,0,,{\fs66}According to the bloke,
+Dialogue: 0,0:00:53.20,0:00:54.20,Main,,0,0,0,,{\fs66}the repairman called him
+Dialogue: 0,0:00:54.20,0:00:55.08,Main,,0,0,0,,{\fs66}an idiot for thinking
+Dialogue: 0,0:00:55.08,0:00:56.14,Main,,0,0,0,,{\fs66}a washer would get him
+Dialogue: 0,0:00:56.14,0:00:57.48,Main,,0,0,0,,{\fs66}to America.
+Dialogue: 0,0:00:57.48,0:00:58.30,Main,,0,0,0,,{\fs66}So he kept
+Dialogue: 0,0:00:58.30,0:01:00.36,Main,,0,0,0,,{\fs66}the repairman's {\c&H006DDCFF&}van{\r}.
+Dialogue: 0,0:01:00.36,0:01:01.60,Main,,0,0,0,,{\fs66}Nobody made it to America
+Dialogue: 0,0:01:01.60,0:01:02.80,Main,,0,0,0,,{\fs66}that day, but two
+Dialogue: 0,0:01:02.80,0:01:05.59,Main,,0,0,0,,{\fs60}travel plans had definitely changed.
+Dialogue: 0,0:01:05.76,0:01:06.69,Main,,0,0,0,,{\fs66}Around two hundred
+Dialogue: 0,0:01:06.69,0:01:07.94,Main,,0,0,0,,{\fs66}and twenty thousand people
+Dialogue: 0,0:01:07.94,0:01:09.62,Main,,0,0,0,,{\fs66}eventually flew.
+Dialogue: 0,0:01:09.62,0:01:11.07,Main,,0,0,0,,{\fs66}The whole thing cost Hoover
+Dialogue: 0,0:01:11.07,0:01:12.86,Main,,0,0,0,,{\fs66}forty-eight million {\c&H006DDCFF&}pounds{\r}.
+Dialogue: 0,0:01:12.86,0:01:14.26,Main,,0,0,0,,{\fs66}What problem had they
+Dialogue: 0,0:01:14.26,0:01:16.32,Main,,0,0,0,,{\fs66}been trying to solve?
+Dialogue: 0,0:01:16.32,0:01:17.80,Main,,0,0,0,,{\fs66}Vacuum cleaners gathering dust
+Dialogue: 0,0:01:17.80,0:01:19.14,Main,,0,0,0,,{\fs66}in a warehouse.
+Dialogue: 0,0:01:19.14,0:01:21.90,Main,,0,0,0,,{\fs66}Forty-eight fucking million.
+Dialogue: 0,0:01:21.90,0:01:23.60,Main,,0,0,0,,{\fs66}Get a {\c&H006DDCFF&}cloth{\r}.
