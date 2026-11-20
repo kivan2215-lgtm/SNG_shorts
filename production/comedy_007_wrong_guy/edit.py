@@ -56,7 +56,7 @@ Path(L+'.ass').write_text(head);v=np.concatenate(voice);t=np.arange(len(v))/sr
 from mix import score
 m=score(len(v),sr,shots,v)
 write(L+'mix.wav',sr,np.int16(np.clip(v+m,-.98,.98)*32767))
-out='SNG_COMEDY_007_WRONG_GUY_'+L.upper()+'.mp4'
+out='SNG_COMEDY_007_WRONG_GUY_'+L.upper()+('_VOICE_V4.mp4' if ru else '.mp4')
 cmd=['ffmpeg','-y','-v','error','-f','rawvideo','-pix_fmt','rgb24','-s','720x1280','-r','30','-i','-','-i',L+'mix.wav','-vf',f'scale=1080:1920,ass={L}.ass','-af','highpass=f=60,equalizer=f=290:t=q:w=1.1:g=-1,equalizer=f=2900:t=q:w=1:g=1.2,loudnorm=I=-16:TP=-1.5:LRA=10','-c:v','libx264','-threads','2','-preset','ultrafast','-crf','20','-pix_fmt','yuv420p','-c:a','aac','-b:a','160k','-ar','48000','-movflags','+faststart',out]
 import os
 final=out
