@@ -1,0 +1,65 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.38,Main,,0,0,0,,{\fs66}This guy traded an afternoon
+Dialogue: 0,0:00:01.38,0:00:02.18,Main,,0,0,0,,{\fs66}with Alice Cooper
+Dialogue: 0,0:00:02.18,0:00:03.70,Main,,0,0,0,,{\fs66}for a snow {\c&H006DDCFF&}globe{\r}.
+Dialogue: 0,0:00:03.70,0:00:05.62,Main,,0,0,0,,{\fs66}Give it a shake.
+Dialogue: 0,0:00:05.62,0:00:07.28,Main,,0,0,0,,{\fs66}Fucking lovely.
+Dialogue: 0,0:00:07.28,0:00:09.14,Main,,0,0,0,,{\fs66}And that, incredibly,
+Dialogue: 0,0:00:09.14,0:00:09.78,Main,,0,0,0,,{\fs66}is the move that
+Dialogue: 0,0:00:09.78,0:00:11.41,Main,,0,0,0,,{\fs66}got him a {\c&H006DDCFF&}house{\r}.
+Dialogue: 0,0:00:11.57,0:00:13.97,Main,,0,0,0,,{\fs66}Canada, two thousand five.
+Dialogue: 0,0:00:13.97,0:00:16.41,Main,,0,0,0,,{\fs66}Kyle has one red {\c&H006DDCFF&}paperclip{\r}.
+Dialogue: 0,0:00:16.41,0:00:17.45,Main,,0,0,0,,{\fs66}He swaps it
+Dialogue: 0,0:00:17.45,0:00:18.15,Main,,0,0,0,,{\fs66}for a pen shaped
+Dialogue: 0,0:00:18.15,0:00:19.47,Main,,0,0,0,,{\fs66}like a fish.
+Dialogue: 0,0:00:19.47,0:00:20.71,Main,,0,0,0,,{\fs66}The fish gets him
+Dialogue: 0,0:00:20.71,0:00:21.95,Main,,0,0,0,,{\fs66}a doorknob.
+Dialogue: 0,0:00:21.95,0:00:23.75,Main,,0,0,0,,{\fs66}So far his property portfolio
+Dialogue: 0,0:00:23.75,0:00:24.85,Main,,0,0,0,,{\fs66}is the bit you turn
+Dialogue: 0,0:00:24.85,0:00:26.29,Main,,0,0,0,,{\fs66}to get in.
+Dialogue: 0,0:00:26.46,0:00:27.38,Main,,0,0,0,,{\fs66}The knob gets him
+Dialogue: 0,0:00:27.38,0:00:29.02,Main,,0,0,0,,{\fs66}a camping stove.
+Dialogue: 0,0:00:29.02,0:00:30.24,Main,,0,0,0,,{\fs66}The stove gets him
+Dialogue: 0,0:00:30.24,0:00:31.80,Main,,0,0,0,,{\fs66}a generator.
+Dialogue: 0,0:00:31.80,0:00:32.88,Main,,0,0,0,,{\fs66}A few {\c&H006DDCFF&}trades{\r} later
+Dialogue: 0,0:00:32.88,0:00:33.66,Main,,0,0,0,,{\fs66}he's got a year's
+Dialogue: 0,0:00:33.66,0:00:35.18,Main,,0,0,0,,{\fs66}rent covered.
+Dialogue: 0,0:00:35.18,0:00:35.86,Main,,0,0,0,,{\fs66}Time to put
+Dialogue: 0,0:00:35.86,0:00:37.42,Main,,0,0,0,,{\fs66}your feet up?
+Dialogue: 0,0:00:37.42,0:00:38.88,Main,,0,0,0,,{\fs66}Like fuck.
+Dialogue: 0,0:00:38.88,0:00:39.86,Main,,0,0,0,,{\fs66}He {\c&H006DDCFF&}trades{\r} the year
+Dialogue: 0,0:00:39.86,0:00:40.72,Main,,0,0,0,,{\fs66}for one afternoon
+Dialogue: 0,0:00:40.72,0:00:42.34,Main,,0,0,0,,{\fs66}with a rock star.
+Dialogue: 0,0:00:42.34,0:00:43.80,Main,,0,0,0,,{\fs66}My landlord won't even
+Dialogue: 0,0:00:43.80,0:00:45.36,Main,,0,0,0,,{\fs66}take a cat.
+Dialogue: 0,0:00:45.36,0:00:46.62,Main,,0,0,0,,{\fs66}Should I try offering him
+Dialogue: 0,0:00:46.62,0:00:48.47,Main,,0,0,0,,{\fs66}a fucking bassist?
+Dialogue: 0,0:00:48.64,0:00:49.54,Main,,0,0,0,,{\fs66}Kyle swaps the
+Dialogue: 0,0:00:49.54,0:00:50.40,Main,,0,0,0,,{\fs66}Alice Cooper visit
+Dialogue: 0,0:00:50.40,0:00:52.34,Main,,0,0,0,,{\fs66}for that KISS snow {\c&H006DDCFF&}globe{\r}.
+Dialogue: 0,0:00:52.34,0:00:54.78,Main,,0,0,0,,{\fs66}Surely he's fucked it now.
+Dialogue: 0,0:00:54.78,0:00:55.76,Main,,0,0,0,,{\fs66}Yesterday he had
+Dialogue: 0,0:00:55.76,0:00:57.52,Main,,0,0,0,,{\fs66}a place to live.
+Dialogue: 0,0:00:57.52,0:00:58.60,Main,,0,0,0,,{\fs66}Today he's got weather
+Dialogue: 0,0:00:58.60,0:01:00.17,Main,,0,0,0,,{\fs66}in a jar.
+Dialogue: 0,0:01:00.33,0:01:01.95,Main,,0,0,0,,{\fs66}Except actor Corbin Bernsen
+Dialogue: 0,0:01:01.95,0:01:03.71,Main,,0,0,0,,{\fs66}collects snow {\c&H006DDCFF&}globe{\r}s.
+Dialogue: 0,0:01:03.71,0:01:05.19,Main,,0,0,0,,{\fs66}He offers a movie role
+Dialogue: 0,0:01:05.19,0:01:06.63,Main,,0,0,0,,{\fs66}for this one.
+Dialogue: 0,0:01:06.63,0:01:08.13,Main,,0,0,0,,{\fs66}The Canadian town of Kipling
+Dialogue: 0,0:01:08.13,0:01:09.41,Main,,0,0,0,,{\fs66}offers a two-storey {\c&H006DDCFF&}house{\r}
+Dialogue: 0,0:01:09.41,0:01:10.55,Main,,0,0,0,,{\fs66}for the role.
+Dialogue: 0,0:01:10.55,0:01:12.75,Main,,0,0,0,,{\fs66}Fourteen {\c&H006DDCFF&}trades{\r}.
+Dialogue: 0,0:01:12.75,0:01:14.37,Main,,0,0,0,,{\fs66}One year.
+Dialogue: 0,0:01:14.37,0:01:16.29,Main,,0,0,0,,{\fs66}And there's me, still renting,
+Dialogue: 0,0:01:16.29,0:01:16.95,Main,,0,0,0,,{\fs66}because I used
+Dialogue: 0,0:01:16.95,0:01:17.99,Main,,0,0,0,,{\fs66}my fucking {\c&H006DDCFF&}paperclip{\r}
+Dialogue: 0,0:01:17.99,0:01:19.71,Main,,0,0,0,,{\fs66}to clip paper.
