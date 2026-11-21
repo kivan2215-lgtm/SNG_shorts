@@ -1,0 +1,68 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.80,Main,,0,0,0,,{\fs66}How do you take a
+Dialogue: 0,0:00:00.80,0:00:02.90,Main,,0,0,0,,{\fs66}free {\c&H006DDCFF&}pen{\r} from a table?
+Dialogue: 0,0:00:02.90,0:00:04.10,Main,,0,0,0,,{\fs66}Most people ask,
+Dialogue: 0,0:00:04.10,0:00:05.76,Main,,0,0,0,,{\fs66}“Can I keep this?”
+Dialogue: 0,0:00:05.76,0:00:06.54,Main,,0,0,0,,{\fs66}The Czech president
+Dialogue: 0,0:00:06.54,0:00:07.44,Main,,0,0,0,,{\fs66}went with an approach
+Dialogue: 0,0:00:07.44,0:00:08.50,Main,,0,0,0,,{\fs66}that required statements
+Dialogue: 0,0:00:08.50,0:00:10.42,Main,,0,0,0,,{\fs66}from two countries.
+Dialogue: 0,0:00:10.62,0:00:12.29,Main,,0,0,0,,{\fs66}Chile, two thousand
+Dialogue: 0,0:00:12.29,0:00:15.11,Main,,0,0,0,,{\fs66}eleven. A press conference.
+Dialogue: 0,0:00:15.11,0:00:16.39,Main,,0,0,0,,{\fs66}The Chilean president
+Dialogue: 0,0:00:16.39,0:00:18.43,Main,,0,0,0,,{\fs66}is giving a speech.
+Dialogue: 0,0:00:18.43,0:00:19.09,Main,,0,0,0,,{\fs66}Beside him,
+Dialogue: 0,0:00:19.09,0:00:20.27,Main,,0,0,0,,{\fs66}Václav Klaus o{\c&H006DDCFF&}pen{\r}s a
+Dialogue: 0,0:00:20.27,0:00:22.23,Main,,0,0,0,,{\fs66}presentation case.
+Dialogue: 0,0:00:22.23,0:00:23.43,Main,,0,0,0,,{\fs66}Inside is a {\c&H006DDCFF&}pen{\r} with
+Dialogue: 0,0:00:23.43,0:00:25.47,Main,,0,0,0,,{\fs66}a beautiful blue stone.
+Dialogue: 0,0:00:25.47,0:00:26.87,Main,,0,0,0,,{\fs66}International relations are
+Dialogue: 0,0:00:26.87,0:00:28.41,Main,,0,0,0,,{\fs66}important, obviously,
+Dialogue: 0,0:00:28.41,0:00:29.15,Main,,0,0,0,,{\fs66}but fuck me,
+Dialogue: 0,0:00:29.15,0:00:30.78,Main,,0,0,0,,{\fs66}that's a nice {\c&H006DDCFF&}pen{\r}.
+Dialogue: 0,0:00:30.95,0:00:32.73,Main,,0,0,0,,{\fs66}He picks it up.
+Dialogue: 0,0:00:32.73,0:00:35.23,Main,,0,0,0,,{\fs66}Hands go under the table.
+Dialogue: 0,0:00:35.23,0:00:37.29,Main,,0,0,0,,{\fs66}Adjusts his jacket.
+Dialogue: 0,0:00:37.29,0:00:38.85,Main,,0,0,0,,{\fs66}Buttons it.
+Dialogue: 0,0:00:38.85,0:00:40.05,Main,,0,0,0,,{\fs66}Both hands come back
+Dialogue: 0,0:00:40.05,0:00:42.35,Main,,0,0,0,,{\fs66}empty. I take home someone
+Dialogue: 0,0:00:42.35,0:00:43.55,Main,,0,0,0,,{\fs66}else's fucking Tupperware
+Dialogue: 0,0:00:43.55,0:00:44.39,Main,,0,0,0,,{\fs66}with less guilt than
+Dialogue: 0,0:00:44.39,0:00:46.37,Main,,0,0,0,,{\fs66}this. Then he closes
+Dialogue: 0,0:00:46.37,0:00:48.07,Main,,0,0,0,,{\fs66}the empty case.
+Dialogue: 0,0:00:48.07,0:00:49.91,Main,,0,0,0,,{\fs66}Case closed.
+Dialogue: 0,0:00:49.91,0:00:51.25,Main,,0,0,0,,{\fs66}Literally the only part
+Dialogue: 0,0:00:51.25,0:00:52.13,Main,,0,0,0,,{\fs66}of this shitshow that
+Dialogue: 0,0:00:52.13,0:00:53.68,Main,,0,0,0,,{\fs66}went to plan.
+Dialogue: 0,0:00:53.88,0:00:55.11,Main,,0,0,0,,{\fs66}Czech television airs
+Dialogue: 0,0:00:55.11,0:00:56.15,Main,,0,0,0,,{\fs66}the footage.
+Dialogue: 0,0:00:56.15,0:00:57.71,Main,,0,0,0,,{\fs66}The internet adds arrows
+Dialogue: 0,0:00:57.71,0:00:59.51,Main,,0,0,0,,{\fs66}and bank-heist music.
+Dialogue: 0,0:00:59.51,0:01:00.91,Main,,0,0,0,,{\fs66}Then Chile clears the
+Dialogue: 0,0:01:00.91,0:01:02.53,Main,,0,0,0,,{\fs66}whole thing up.
+Dialogue: 0,0:01:02.53,0:01:03.51,Main,,0,0,0,,{\fs66}Guests are allowed to
+Dialogue: 0,0:01:03.51,0:01:05.13,Main,,0,0,0,,{\fs66}keep the {\c&H006DDCFF&}pen{\r}s.
+Dialogue: 0,0:01:05.13,0:01:07.25,Main,,0,0,0,,{\fs66}It's a fucking {\c&H006DDCFF&}gift{\r}.
+Dialogue: 0,0:01:07.25,0:01:08.45,Main,,0,0,0,,{\fs66}The man accepted a free
+Dialogue: 0,0:01:08.45,0:01:09.69,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}pen{\r} with the body language
+Dialogue: 0,0:01:09.69,0:01:10.65,Main,,0,0,0,,{\fs66}of someone expecting
+Dialogue: 0,0:01:10.65,0:01:12.67,Main,,0,0,0,,{\fs66}an {\c&H006DDCFF&}Interpol{\r} warrant.
+Dialogue: 0,0:01:12.84,0:01:13.56,Main,,0,0,0,,{\fs66}Back home,
+Dialogue: 0,0:01:13.56,0:01:15.42,Main,,0,0,0,,{\fs66}Czechs organise a collection.
+Dialogue: 0,0:01:15.42,0:01:17.24,Main,,0,0,0,,{\fs66}Send the president a
+Dialogue: 0,0:01:17.24,0:01:19.24,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}pen{\r}. Clearly the poor
+Dialogue: 0,0:01:19.24,0:01:20.18,Main,,0,0,0,,{\fs66}bastard has nothing
+Dialogue: 0,0:01:20.18,0:01:21.72,Main,,0,0,0,,{\fs66}to write with.
+Dialogue: 0,0:01:21.72,0:01:22.82,Main,,0,0,0,,{\fs66}This is why I only
+Dialogue: 0,0:01:22.82,0:01:24.80,Main,,0,0,0,,{\fs66}take biscuits at work.
+Dialogue: 0,0:01:24.80,0:01:26.28,Main,,0,0,0,,{\fs66}Actually, after seeing
+Dialogue: 0,0:01:26.28,0:01:27.44,Main,,0,0,0,,{\fs66}that, I'll ask about
+Dialogue: 0,0:01:27.44,0:01:29.16,Main,,0,0,0,,{\fs66}the biscuits too.
