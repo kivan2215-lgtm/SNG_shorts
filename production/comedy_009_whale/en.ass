@@ -1,0 +1,70 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.50,Main,,0,0,0,,{\fs66}Imagine parking by the ocean
+Dialogue: 0,0:00:01.50,0:00:02.58,Main,,0,0,0,,{\fs66}and coming back to find
+Dialogue: 0,0:00:02.58,0:00:04.16,Main,,0,0,0,,{\fs66}the {\c&H006DDCFF&}roof{\r} caved in.
+Dialogue: 0,0:00:04.16,0:00:05.30,Main,,0,0,0,,{\fs66}Now you have to ring
+Dialogue: 0,0:00:05.30,0:00:06.30,Main,,0,0,0,,{\fs66}your insurance company
+Dialogue: 0,0:00:06.30,0:00:07.20,Main,,0,0,0,,{\fs66}and explain that a
+Dialogue: 0,0:00:07.20,0:00:08.00,Main,,0,0,0,,{\fs66}fucking {\c&H006DDCFF&}whale{\r} fell
+Dialogue: 0,0:00:08.00,0:00:09.52,Main,,0,0,0,,{\fs66}on your car.
+Dialogue: 0,0:00:09.52,0:00:11.48,Main,,0,0,0,,{\fs66}Not the whole {\c&H006DDCFF&}whale{\r}.
+Dialogue: 0,0:00:11.48,0:00:13.45,Main,,0,0,0,,{\fs66}Small mercies.
+Dialogue: 0,0:00:13.61,0:00:15.83,Main,,0,0,0,,{\fs66}Oregon, nineteen seventy.
+Dialogue: 0,0:00:15.83,0:00:17.21,Main,,0,0,0,,{\fs66}A dead sperm {\c&H006DDCFF&}whale{\r}
+Dialogue: 0,0:00:17.21,0:00:18.95,Main,,0,0,0,,{\fs66}washes up on the beach.
+Dialogue: 0,0:00:18.95,0:00:20.43,Main,,0,0,0,,{\fs66}It smells like a place
+Dialogue: 0,0:00:20.43,0:00:21.25,Main,,0,0,0,,{\fs66}you'd rather visit
+Dialogue: 0,0:00:21.25,0:00:22.81,Main,,0,0,0,,{\fs66}over the phone.
+Dialogue: 0,0:00:22.81,0:00:24.17,Main,,0,0,0,,{\fs66}The highway department gets
+Dialogue: 0,0:00:24.17,0:00:25.99,Main,,0,0,0,,{\fs66}the cleanup job.
+Dialogue: 0,0:00:25.99,0:00:27.45,Main,,0,0,0,,{\fs66}Congratulations to the {\c&H006DDCFF&}whale{\r}
+Dialogue: 0,0:00:27.45,0:00:28.35,Main,,0,0,0,,{\fs66}on its new career
+Dialogue: 0,0:00:28.35,0:00:30.32,Main,,0,0,0,,{\fs66}as a traffic problem.
+Dialogue: 0,0:00:30.49,0:00:32.07,Main,,0,0,0,,{\fs66}Their plan?
+Dialogue: 0,0:00:32.07,0:00:32.81,Main,,0,0,0,,{\fs66}Blow up the {\c&H006DDCFF&}whale{\r}
+Dialogue: 0,0:00:32.81,0:00:33.73,Main,,0,0,0,,{\fs66}and let the {\c&H006DDCFF&}gulls{\r}
+Dialogue: 0,0:00:33.73,0:00:35.33,Main,,0,0,0,,{\fs66}eat the leftovers.
+Dialogue: 0,0:00:35.33,0:00:37.77,Main,,0,0,0,,{\fs66}Did anyone ask the {\c&H006DDCFF&}gulls{\r}?
+Dialogue: 0,0:00:37.77,0:00:39.21,Main,,0,0,0,,{\fs66}Fuck no.
+Dialogue: 0,0:00:39.21,0:00:41.15,Main,,0,0,0,,{\fs66}You're a bird.
+Dialogue: 0,0:00:41.15,0:00:43.07,Main,,0,0,0,,{\fs66}You've got a beak.
+Dialogue: 0,0:00:43.07,0:00:45.51,Main,,0,0,0,,{\fs66}Your shift starts tomorrow.
+Dialogue: 0,0:00:45.51,0:00:46.67,Main,,0,0,0,,{\fs66}A local TV crew
+Dialogue: 0,0:00:46.67,0:00:48.27,Main,,0,0,0,,{\fs66}rolls camera.
+Dialogue: 0,0:00:48.27,0:00:50.53,Main,,0,0,0,,{\fs66}People come to watch.
+Dialogue: 0,0:00:50.53,0:00:51.53,Main,,0,0,0,,{\fs66}Terrible day to wash
+Dialogue: 0,0:00:51.53,0:00:52.94,Main,,0,0,0,,{\fs66}your hair.
+Dialogue: 0,0:00:53.10,0:00:54.52,Main,,0,0,0,,{\fs66}There's a boom.
+Dialogue: 0,0:00:54.52,0:00:56.32,Main,,0,0,0,,{\fs66}People cheer.
+Dialogue: 0,0:00:56.32,0:00:59.08,Main,,0,0,0,,{\fs66}Then it starts raining {\c&H006DDCFF&}blubber{\r}.
+Dialogue: 0,0:00:59.08,0:01:00.76,Main,,0,0,0,,{\fs66}Free fucking {\c&H006DDCFF&}whale{\r} delivery,
+Dialogue: 0,0:01:00.76,0:01:02.64,Main,,0,0,0,,{\fs66}straight to your car.
+Dialogue: 0,0:01:02.64,0:01:03.68,Main,,0,0,0,,{\fs66}One chunk caves in
+Dialogue: 0,0:01:03.68,0:01:04.18,Main,,0,0,0,,{\fs66}the {\c&H006DDCFF&}roof{\r} of
+Dialogue: 0,0:01:04.18,0:01:05.82,Main,,0,0,0,,{\fs66}a parked vehicle.
+Dialogue: 0,0:01:05.82,0:01:07.50,Main,,0,0,0,,{\fs66}Finally, the highway department
+Dialogue: 0,0:01:07.50,0:01:08.82,Main,,0,0,0,,{\fs66}has a transport problem
+Dialogue: 0,0:01:08.82,0:01:11.33,Main,,0,0,0,,{\fs66}it's actually qualified for.
+Dialogue: 0,0:01:11.49,0:01:13.29,Main,,0,0,0,,{\fs66}And the {\c&H006DDCFF&}gulls{\r}?
+Dialogue: 0,0:01:13.29,0:01:14.87,Main,,0,0,0,,{\fs66}Fucked off.
+Dialogue: 0,0:01:14.87,0:01:15.81,Main,,0,0,0,,{\fs66}Most of the {\c&H006DDCFF&}whale{\r}
+Dialogue: 0,0:01:15.81,0:01:17.79,Main,,0,0,0,,{\fs66}is still on the beach.
+Dialogue: 0,0:01:17.79,0:01:18.57,Main,,0,0,0,,{\fs66}They still have to
+Dialogue: 0,0:01:18.57,0:01:20.21,Main,,0,0,0,,{\fs66}clear it away.
+Dialogue: 0,0:01:20.21,0:01:22.11,Main,,0,0,0,,{\fs66}Let's review.
+Dialogue: 0,0:01:22.11,0:01:23.05,Main,,0,0,0,,{\fs66}Before cleanup:
+Dialogue: 0,0:01:23.05,0:01:24.47,Main,,0,0,0,,{\fs66}one dead {\c&H006DDCFF&}whale{\r}.
+Dialogue: 0,0:01:24.47,0:01:25.61,Main,,0,0,0,,{\fs66}After cleanup:
+Dialogue: 0,0:01:25.61,0:01:26.49,Main,,0,0,0,,{\fs66}one dead {\c&H006DDCFF&}whale{\r},
+Dialogue: 0,0:01:26.49,0:01:27.41,Main,,0,0,0,,{\fs66}one wrecked car,
+Dialogue: 0,0:01:27.41,0:01:28.19,Main,,0,0,0,,{\fs66}and the only staff
+Dialogue: 0,0:01:28.19,0:01:29.29,Main,,0,0,0,,{\fs66}willing to work for food
+Dialogue: 0,0:01:29.29,0:01:31.01,Main,,0,0,0,,{\fs66}have fucking quit.
