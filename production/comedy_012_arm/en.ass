@@ -1,0 +1,64 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.14,Main,,0,0,0,,{\fs66}Imagine losing the rights
+Dialogue: 0,0:00:01.14,0:00:02.30,Main,,0,0,0,,{\fs66}to a {\c&H006DDCFF&}slogan{\r} because your
+Dialogue: 0,0:00:02.30,0:00:04.16,Main,,0,0,0,,{\fs66}CEO skipped arm day.
+Dialogue: 0,0:00:04.16,0:00:06.60,Main,,0,0,0,,{\fs66}Did the lawyers fuck up?
+Dialogue: 0,0:00:06.60,0:00:08.82,Main,,0,0,0,,{\fs66}Worse. They never even
+Dialogue: 0,0:00:08.82,0:00:10.62,Main,,0,0,0,,{\fs66}got off the bench.
+Dialogue: 0,0:00:10.78,0:00:13.56,Main,,0,0,0,,{\fs66}America, nineteen ninety-two.
+Dialogue: 0,0:00:13.56,0:00:14.92,Main,,0,0,0,,{\fs66}Two aviation companies
+Dialogue: 0,0:00:14.92,0:00:16.00,Main,,0,0,0,,{\fs66}have almost identical
+Dialogue: 0,0:00:16.00,0:00:17.26,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}slogan{\r}s about making a
+Dialogue: 0,0:00:17.26,0:00:18.38,Main,,0,0,0,,{\fs66}smart move.
+Dialogue: 0,0:00:18.38,0:00:19.92,Main,,0,0,0,,{\fs66}How do you decide which
+Dialogue: 0,0:00:19.92,0:00:21.92,Main,,0,0,0,,{\fs66}company is smarter?
+Dialogue: 0,0:00:21.92,0:00:23.20,Main,,0,0,0,,{\fs66}Apparently, you measure
+Dialogue: 0,0:00:23.20,0:00:25.33,Main,,0,0,0,,{\fs66}it in fucking {\c&H006DDCFF&}biceps{\r}.
+Dialogue: 0,0:00:25.50,0:00:26.86,Main,,0,0,0,,{\fs66}The bosses agree to arm
+Dialogue: 0,0:00:26.86,0:00:29.20,Main,,0,0,0,,{\fs66}wrestle. In Dallas.
+Dialogue: 0,0:00:29.20,0:00:31.80,Main,,0,0,0,,{\fs66}In an actual arena.
+Dialogue: 0,0:00:31.80,0:00:33.40,Main,,0,0,0,,{\fs66}There’s a crowd.
+Dialogue: 0,0:00:33.40,0:00:35.54,Main,,0,0,0,,{\fs66}There are cameras.
+Dialogue: 0,0:00:35.54,0:00:37.04,Main,,0,0,0,,{\fs66}Somewhere a lawyer is staring
+Dialogue: 0,0:00:37.04,0:00:38.56,Main,,0,0,0,,{\fs66}at his student loans going,
+Dialogue: 0,0:00:38.56,0:00:39.18,Main,,0,0,0,,{\fs66}you have got to be
+Dialogue: 0,0:00:39.18,0:00:40.58,Main,,0,0,0,,{\fs66}shitting me.
+Dialogue: 0,0:00:40.74,0:00:42.28,Main,,0,0,0,,{\fs66}Southwest boss Herb Kelleher
+Dialogue: 0,0:00:42.28,0:00:43.22,Main,,0,0,0,,{\fs66}shows up in a robe
+Dialogue: 0,0:00:43.22,0:00:44.74,Main,,0,0,0,,{\fs66}with a cigarette.
+Dialogue: 0,0:00:44.74,0:00:46.08,Main,,0,0,0,,{\fs66}He looks like somebody’s
+Dialogue: 0,0:00:46.08,0:00:47.40,Main,,0,0,0,,{\fs66}dad coming outside to see
+Dialogue: 0,0:00:47.40,0:00:48.36,Main,,0,0,0,,{\fs66}who the fuck is drilling
+Dialogue: 0,0:00:48.36,0:00:50.02,Main,,0,0,0,,{\fs66}on a Sunday.
+Dialogue: 0,0:00:50.18,0:00:51.60,Main,,0,0,0,,{\fs66}They lock hands.
+Dialogue: 0,0:00:51.60,0:00:53.70,Main,,0,0,0,,{\fs66}Herb loses.
+Dialogue: 0,0:00:53.70,0:00:55.98,Main,,0,0,0,,{\fs66}There goes the {\c&H006DDCFF&}slogan{\r}.
+Dialogue: 0,0:00:55.98,0:00:57.16,Main,,0,0,0,,{\fs66}Somebody get this man a
+Dialogue: 0,0:00:57.16,0:00:58.32,Main,,0,0,0,,{\fs66}coat check ticket for his
+Dialogue: 0,0:00:58.32,0:00:59.84,Main,,0,0,0,,{\fs66}goddamn robe.
+Dialogue: 0,0:00:59.84,0:01:01.18,Main,,0,0,0,,{\fs66}Except the other guy has
+Dialogue: 0,0:01:01.18,0:01:02.91,Main,,0,0,0,,{\fs66}one more move.
+Dialogue: 0,0:01:03.07,0:01:04.49,Main,,0,0,0,,{\fs66}He lets Southwest use the
+Dialogue: 0,0:01:04.49,0:01:06.13,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}slogan{\r} anyway.
+Dialogue: 0,0:01:06.13,0:01:08.77,Main,,0,0,0,,{\fs66}Both companies get publicity.
+Dialogue: 0,0:01:08.77,0:01:10.97,Main,,0,0,0,,{\fs66}Money goes to charity.
+Dialogue: 0,0:01:10.97,0:01:12.03,Main,,0,0,0,,{\fs66}Could they have just signed
+Dialogue: 0,0:01:12.03,0:01:13.73,Main,,0,0,0,,{\fs66}a piece of paper?
+Dialogue: 0,0:01:13.73,0:01:15.99,Main,,0,0,0,,{\fs66}Sure. Who the hell buys
+Dialogue: 0,0:01:15.99,0:01:17.49,Main,,0,0,0,,{\fs66}popcorn to watch two guys
+Dialogue: 0,0:01:17.49,0:01:19.28,Main,,0,0,0,,{\fs66}initial page seven?
+Dialogue: 0,0:01:19.45,0:01:20.75,Main,,0,0,0,,{\fs66}Imagine settling every
+Dialogue: 0,0:01:20.75,0:01:22.67,Main,,0,0,0,,{\fs66}office dispute this way.
+Dialogue: 0,0:01:22.67,0:01:24.87,Main,,0,0,0,,{\fs66}Want a raise?
+Dialogue: 0,0:01:24.87,0:01:26.85,Main,,0,0,0,,{\fs66}Elbow on the desk.
+Dialogue: 0,0:01:26.85,0:01:28.31,Main,,0,0,0,,{\fs66}And {\c&H006DDCFF&}payroll{\r} takes the Christmas
+Dialogue: 0,0:01:28.31,0:01:30.55,Main,,0,0,0,,{\fs66}bonus. Have you seen the
+Dialogue: 0,0:01:30.55,0:01:33.18,Main,,0,0,0,,{\fs60}fucking binders that woman carries?
