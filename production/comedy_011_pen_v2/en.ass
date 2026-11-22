@@ -1,0 +1,66 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.80,Main,,0,0,0,,{\fs66}How do you take a
+Dialogue: 0,0:00:00.80,0:00:01.84,Main,,0,0,0,,{\fs66}free {\c&H006DDCFF&}pen{\r} and make it
+Dialogue: 0,0:00:01.84,0:00:03.86,Main,,0,0,0,,{\fs66}a diplomatic incident?
+Dialogue: 0,0:00:03.86,0:00:05.92,Main,,0,0,0,,{\fs66}Watch his hands.
+Dialogue: 0,0:00:05.92,0:00:07.04,Main,,0,0,0,,{\fs66}Especially the bit where
+Dialogue: 0,0:00:07.04,0:00:09.08,Main,,0,0,0,,{\fs66}he runs out of hands.
+Dialogue: 0,0:00:09.27,0:00:11.48,Main,,0,0,0,,{\fs66}Chile, two thousand eleven.
+Dialogue: 0,0:00:11.48,0:00:13.00,Main,,0,0,0,,{\fs66}The Chilean president
+Dialogue: 0,0:00:13.00,0:00:15.04,Main,,0,0,0,,{\fs66}is giving a speech.
+Dialogue: 0,0:00:15.04,0:00:15.64,Main,,0,0,0,,{\fs66}Beside him,
+Dialogue: 0,0:00:15.64,0:00:16.82,Main,,0,0,0,,{\fs66}Czech president Václav
+Dialogue: 0,0:00:16.82,0:00:18.16,Main,,0,0,0,,{\fs66}Klaus o{\c&H006DDCFF&}pen{\r}s a presentation
+Dialogue: 0,0:00:18.16,0:00:20.66,Main,,0,0,0,,{\fs66}case. Inside is a {\c&H006DDCFF&}pen{\r}
+Dialogue: 0,0:00:20.66,0:00:22.30,Main,,0,0,0,,{\fs66}with a blue stone.
+Dialogue: 0,0:00:22.30,0:00:23.60,Main,,0,0,0,,{\fs66}You can practically see
+Dialogue: 0,0:00:23.60,0:00:24.82,Main,,0,0,0,,{\fs66}foreign policy leave the
+Dialogue: 0,0:00:24.82,0:00:26.38,Main,,0,0,0,,{\fs66}man’s body.
+Dialogue: 0,0:00:26.38,0:00:27.70,Main,,0,0,0,,{\fs66}Fuck me.
+Dialogue: 0,0:00:27.70,0:00:29.84,Main,,0,0,0,,{\fs66}That’s coming home.
+Dialogue: 0,0:00:30.01,0:00:31.47,Main,,0,0,0,,{\fs66}He picks it up.
+Dialogue: 0,0:00:31.47,0:00:33.33,Main,,0,0,0,,{\fs66}Both hands disappear beneath
+Dialogue: 0,0:00:33.33,0:00:34.89,Main,,0,0,0,,{\fs66}the table.
+Dialogue: 0,0:00:34.89,0:00:36.93,Main,,0,0,0,,{\fs66}Adjusts his jacket.
+Dialogue: 0,0:00:36.93,0:00:38.89,Main,,0,0,0,,{\fs66}Does up a button.
+Dialogue: 0,0:00:38.89,0:00:40.48,Main,,0,0,0,,{\fs66}Both hands come back empty.
+Dialogue: 0,0:00:40.48,0:00:42.55,Main,,0,0,0,,{\fs66}I’ve nicked a third meatball
+Dialogue: 0,0:00:42.55,0:00:43.51,Main,,0,0,0,,{\fs66}from my mother-in-law
+Dialogue: 0,0:00:43.51,0:00:45.35,Main,,0,0,0,,{\fs66}with less choreography.
+Dialogue: 0,0:00:45.35,0:00:46.91,Main,,0,0,0,,{\fs66}And she watches the fucking
+Dialogue: 0,0:00:46.91,0:00:48.38,Main,,0,0,0,,{\fs66}meatballs.
+Dialogue: 0,0:00:48.54,0:00:49.78,Main,,0,0,0,,{\fs66}Then he spots the o{\c&H006DDCFF&}pen{\r}
+Dialogue: 0,0:00:49.78,0:00:52.22,Main,,0,0,0,,{\fs66}case. Gently closes the
+Dialogue: 0,0:00:52.22,0:00:54.43,Main,,0,0,0,,{\fs66}lid. Beautiful,
+Dialogue: 0,0:00:54.43,0:00:57.42,Main,,0,0,0,,{\fs66}Václav. Perfect crime.
+Dialogue: 0,0:00:57.42,0:00:58.22,Main,,0,0,0,,{\fs66}Just you,
+Dialogue: 0,0:00:58.22,0:00:58.88,Main,,0,0,0,,{\fs66}the {\c&H006DDCFF&}pen{\r},
+Dialogue: 0,0:00:58.88,0:00:59.80,Main,,0,0,0,,{\fs66}and a bloke whose entire
+Dialogue: 0,0:00:59.80,0:01:01.04,Main,,0,0,0,,{\fs66}fucking job is to point
+Dialogue: 0,0:01:01.04,0:01:02.74,Main,,0,0,0,,{\fs66}a camera at you.
+Dialogue: 0,0:01:02.93,0:01:04.58,Main,,0,0,0,,{\fs66}Czech TV airs it.
+Dialogue: 0,0:01:04.58,0:01:06.26,Main,,0,0,0,,{\fs66}The internet adds arrows
+Dialogue: 0,0:01:06.26,0:01:07.90,Main,,0,0,0,,{\fs66}and heist music.
+Dialogue: 0,0:01:07.90,0:01:09.44,Main,,0,0,0,,{\fs66}Then Chile has to explain
+Dialogue: 0,0:01:09.44,0:01:10.54,Main,,0,0,0,,{\fs66}that visiting guests are
+Dialogue: 0,0:01:10.54,0:01:12.63,Main,,0,0,0,,{\fs66}allowed to keep the {\c&H006DDCFF&}pen{\r}s.
+Dialogue: 0,0:01:12.79,0:01:14.69,Main,,0,0,0,,{\fs66}It was a fucking {\c&H006DDCFF&}gift{\r}.
+Dialogue: 0,0:01:14.69,0:01:16.61,Main,,0,0,0,,{\fs66}He accepted it so suspiciously
+Dialogue: 0,0:01:16.61,0:01:17.51,Main,,0,0,0,,{\fs66}I put my own {\c&H006DDCFF&}pen{\r}
+Dialogue: 0,0:01:17.51,0:01:20.19,Main,,0,0,0,,{\fs66}back. I’m at home.
+Dialogue: 0,0:01:20.19,0:01:22.47,Main,,0,0,0,,{\fs66}I bought this bastard.
+Dialogue: 0,0:01:22.64,0:01:23.92,Main,,0,0,0,,{\fs66}Back in Czechia,
+Dialogue: 0,0:01:23.92,0:01:24.96,Main,,0,0,0,,{\fs66}people suggested mailing
+Dialogue: 0,0:01:24.96,0:01:27.14,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}pen{\r}s to the president.
+Dialogue: 0,0:01:27.14,0:01:28.94,Main,,0,0,0,,{\fs66}Democracy in action.
+Dialogue: 0,0:01:28.94,0:01:31.20,Main,,0,0,0,,{\fs66}The people saw a need.
+Dialogue: 0,0:01:31.20,0:01:32.56,Main,,0,0,0,,{\fs66}Mostly because somebody
+Dialogue: 0,0:01:32.56,0:01:34.86,Main,,0,0,0,,{\fs66}got it on fucking camera.
