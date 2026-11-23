@@ -1,0 +1,69 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.22,Main,,0,0,0,,{\fs66}The {\c&H006DDCFF&}plane{\r} lands.
+Dialogue: 0,0:00:01.22,0:00:02.38,Main,,0,0,0,,{\fs66}The passengers hear the
+Dialogue: 0,0:00:02.38,0:00:03.32,Main,,0,0,0,,{\fs66}name of the city and
+Dialogue: 0,0:00:03.32,0:00:04.77,Main,,0,0,0,,{\fs66}laugh. Good one,
+Dialogue: 0,0:00:04.77,0:00:06.02,Main,,0,0,0,,{\fs66}captain. Then the crew
+Dialogue: 0,0:00:06.02,0:00:07.12,Main,,0,0,0,,{\fs66}asks for a show of
+Dialogue: 0,0:00:07.12,0:00:09.27,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}hands{\r}. Who was expecting
+Dialogue: 0,0:00:09.27,0:00:10.37,Main,,0,0,0,,{\fs66}Düsseldorf? Every fucking
+Dialogue: 0,0:00:10.37,0:00:11.35,Main,,0,0,0,,{\fs66}hand goes up.
+Dialogue: 0,0:00:11.48,0:00:13.58,Main,,0,0,0,,{\fs66}London, March twenty nineteen.
+Dialogue: 0,0:00:13.58,0:00:14.86,Main,,0,0,0,,{\fs66}These people bought {\c&H006DDCFF&}ticket{\r}s
+Dialogue: 0,0:00:14.86,0:00:15.88,Main,,0,0,0,,{\fs66}to Germany.
+Dialogue: 0,0:00:15.88,0:00:17.44,Main,,0,0,0,,{\fs66}They landed in Scotland.
+Dialogue: 0,0:00:17.44,0:00:18.82,Main,,0,0,0,,{\fs66}Imagine asking a cabbie
+Dialogue: 0,0:00:18.82,0:00:19.68,Main,,0,0,0,,{\fs66}how far it is to
+Dialogue: 0,0:00:19.68,0:00:20.74,Main,,0,0,0,,{\fs66}your hotel and he starts
+Dialogue: 0,0:00:20.74,0:00:21.96,Main,,0,0,0,,{\fs66}by asking what currency
+Dialogue: 0,0:00:21.96,0:00:22.60,Main,,0,0,0,,{\fs66}you packed.
+Dialogue: 0,0:00:22.73,0:00:24.34,Main,,0,0,0,,{\fs66}Here’s the beautiful part.
+Dialogue: 0,0:00:24.34,0:00:25.48,Main,,0,0,0,,{\fs66}The pilots knew exactly
+Dialogue: 0,0:00:25.48,0:00:26.58,Main,,0,0,0,,{\fs66}where they were.
+Dialogue: 0,0:00:26.58,0:00:28.48,Main,,0,0,0,,{\fs66}So did air traffic control.
+Dialogue: 0,0:00:28.48,0:00:29.59,Main,,0,0,0,,{\fs66}Right runway.
+Dialogue: 0,0:00:29.59,0:00:30.85,Main,,0,0,0,,{\fs66}Lovely landing.
+Dialogue: 0,0:00:30.85,0:00:32.13,Main,,0,0,0,,{\fs66}A remarkable number of
+Dialogue: 0,0:00:32.13,0:00:33.23,Main,,0,0,0,,{\fs66}people got absolutely
+Dialogue: 0,0:00:33.23,0:00:34.33,Main,,0,0,0,,{\fs66}everything right.
+Dialogue: 0,0:00:34.33,0:00:36.11,Main,,0,0,0,,{\fs66}Welcome to fucking Edinburgh.
+Dialogue: 0,0:00:36.24,0:00:37.26,Main,,0,0,0,,{\fs66}The crew had a flight
+Dialogue: 0,0:00:37.26,0:00:38.56,Main,,0,0,0,,{\fs66}plan for Edinburgh.
+Dialogue: 0,0:00:38.56,0:00:39.92,Main,,0,0,0,,{\fs66}The passengers had {\c&H006DDCFF&}ticket{\r}s
+Dialogue: 0,0:00:39.92,0:00:41.10,Main,,0,0,0,,{\fs66}for Düsseldorf.
+Dialogue: 0,0:00:41.10,0:00:42.36,Main,,0,0,0,,{\fs66}Everybody had a piece of
+Dialogue: 0,0:00:42.36,0:00:43.52,Main,,0,0,0,,{\fs66}paper proving the other
+Dialogue: 0,0:00:43.52,0:00:44.40,Main,,0,0,0,,{\fs66}lot were in the wrong
+Dialogue: 0,0:00:44.40,0:00:45.30,Main,,0,0,0,,{\fs66}bloody country.
+Dialogue: 0,0:00:45.43,0:00:46.55,Main,,0,0,0,,{\fs66}Picture that vote.
+Dialogue: 0,0:00:46.55,0:00:47.76,Main,,0,0,0,,{\fs66}Who wants Germany?
+Dialogue: 0,0:00:47.76,0:00:49.70,Main,,0,0,0,,{\fs66}Unanimous. Democracy
+Dialogue: 0,0:00:49.70,0:00:51.41,Main,,0,0,0,,{\fs66}wins by a landslide.
+Dialogue: 0,0:00:51.41,0:00:53.04,Main,,0,0,0,,{\fs66}Geography would like a word.
+Dialogue: 0,0:00:53.16,0:00:54.34,Main,,0,0,0,,{\fs66}They refuelled and flew
+Dialogue: 0,0:00:54.34,0:00:55.46,Main,,0,0,0,,{\fs66}to Düsseldorf.
+Dialogue: 0,0:00:55.46,0:00:56.54,Main,,0,0,0,,{\fs66}Usually when you catch
+Dialogue: 0,0:00:56.54,0:00:57.60,Main,,0,0,0,,{\fs66}the wrong train,
+Dialogue: 0,0:00:57.60,0:00:58.98,Main,,0,0,0,,{\fs66}you have to change trains.
+Dialogue: 0,0:00:58.98,0:01:00.24,Main,,0,0,0,,{\fs66}These people kept the same
+Dialogue: 0,0:01:00.24,0:01:01.74,Main,,0,0,0,,{\fs66}seat, the same pilot and
+Dialogue: 0,0:01:01.74,0:01:02.70,Main,,0,0,0,,{\fs66}the same bloke hogging
+Dialogue: 0,0:01:02.70,0:01:03.54,Main,,0,0,0,,{\fs66}the armrest.
+Dialogue: 0,0:01:03.54,0:01:04.91,Main,,0,0,0,,{\fs66}Second time round,
+Dialogue: 0,0:01:04.91,0:01:05.80,Main,,0,0,0,,{\fs66}different country.
+Dialogue: 0,0:01:05.93,0:01:06.85,Main,,0,0,0,,{\fs66}I used to think the
+Dialogue: 0,0:01:06.85,0:01:07.87,Main,,0,0,0,,{\fs66}dumbest question after
+Dialogue: 0,0:01:07.87,0:01:09.13,Main,,0,0,0,,{\fs66}landing was whether anybody
+Dialogue: 0,0:01:09.13,0:01:10.31,Main,,0,0,0,,{\fs66}had forgotten their hand
+Dialogue: 0,0:01:10.31,0:01:11.73,Main,,0,0,0,,{\fs66}luggage. Turns out there’s
+Dialogue: 0,0:01:11.73,0:01:12.62,Main,,0,0,0,,{\fs66}a better one.
+Dialogue: 0,0:01:12.62,0:01:13.70,Main,,0,0,0,,{\fs66}Should we even get the
+Dialogue: 0,0:01:13.70,0:01:14.31,Main,,0,0,0,,{\fs66}fuck off?
