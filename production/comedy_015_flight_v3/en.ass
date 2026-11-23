@@ -1,0 +1,74 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.23,Main,,0,0,0,,{\fs66}The {\c&H006DDCFF&}plane{\r} lands.
+Dialogue: 0,0:00:01.23,0:00:02.61,Main,,0,0,0,,{\fs66}Normally you clap.
+Dialogue: 0,0:00:02.61,0:00:03.69,Main,,0,0,0,,{\fs66}Maybe check the fucking
+Dialogue: 0,0:00:03.69,0:00:04.92,Main,,0,0,0,,{\fs66}postcode first.
+Dialogue: 0,0:00:04.92,0:00:06.59,Main,,0,0,0,,{\fs66}The pilot names the city.
+Dialogue: 0,0:00:06.59,0:00:07.94,Main,,0,0,0,,{\fs66}Everybody laughs.
+Dialogue: 0,0:00:07.94,0:00:09.16,Main,,0,0,0,,{\fs66}Then the crew asks who
+Dialogue: 0,0:00:09.16,0:00:10.72,Main,,0,0,0,,{\fs66}was expecting Düsseldorf.
+Dialogue: 0,0:00:10.72,0:00:12.21,Main,,0,0,0,,{\fs66}Every hand goes up.
+Dialogue: 0,0:00:12.21,0:00:13.07,Main,,0,0,0,,{\fs66}Hell of a time to
+Dialogue: 0,0:00:13.07,0:00:14.40,Main,,0,0,0,,{\fs66}start checking people in.
+Dialogue: 0,0:00:14.52,0:00:16.64,Main,,0,0,0,,{\fs66}London, March twenty nineteen.
+Dialogue: 0,0:00:16.64,0:00:17.92,Main,,0,0,0,,{\fs66}These people bought {\c&H006DDCFF&}ticket{\r}s
+Dialogue: 0,0:00:17.92,0:00:18.94,Main,,0,0,0,,{\fs66}to Germany.
+Dialogue: 0,0:00:18.94,0:00:20.50,Main,,0,0,0,,{\fs66}They landed in Scotland.
+Dialogue: 0,0:00:20.50,0:00:21.88,Main,,0,0,0,,{\fs66}Imagine asking a cabbie
+Dialogue: 0,0:00:21.88,0:00:22.74,Main,,0,0,0,,{\fs66}how far it is to
+Dialogue: 0,0:00:22.74,0:00:23.80,Main,,0,0,0,,{\fs66}your hotel and he starts
+Dialogue: 0,0:00:23.80,0:00:25.02,Main,,0,0,0,,{\fs66}by asking what currency
+Dialogue: 0,0:00:25.02,0:00:25.66,Main,,0,0,0,,{\fs66}you packed.
+Dialogue: 0,0:00:25.78,0:00:27.39,Main,,0,0,0,,{\fs66}Here’s the beautiful part.
+Dialogue: 0,0:00:27.39,0:00:28.53,Main,,0,0,0,,{\fs66}The pilots knew exactly
+Dialogue: 0,0:00:28.53,0:00:29.63,Main,,0,0,0,,{\fs66}where they were.
+Dialogue: 0,0:00:29.63,0:00:31.53,Main,,0,0,0,,{\fs66}So did air traffic control.
+Dialogue: 0,0:00:31.53,0:00:32.64,Main,,0,0,0,,{\fs66}Right runway.
+Dialogue: 0,0:00:32.64,0:00:33.90,Main,,0,0,0,,{\fs66}Lovely landing.
+Dialogue: 0,0:00:33.90,0:00:35.18,Main,,0,0,0,,{\fs66}A remarkable number of
+Dialogue: 0,0:00:35.18,0:00:36.28,Main,,0,0,0,,{\fs66}people got absolutely
+Dialogue: 0,0:00:36.28,0:00:37.38,Main,,0,0,0,,{\fs66}everything right.
+Dialogue: 0,0:00:37.38,0:00:39.16,Main,,0,0,0,,{\fs66}Welcome to fucking Edinburgh.
+Dialogue: 0,0:00:39.29,0:00:40.65,Main,,0,0,0,,{\fs66}The crew’s paperwork said
+Dialogue: 0,0:00:40.65,0:00:42.02,Main,,0,0,0,,{\fs66}Edinburgh. The {\c&H006DDCFF&}ticket{\r}s
+Dialogue: 0,0:00:42.02,0:00:43.28,Main,,0,0,0,,{\fs66}said Düsseldorf.
+Dialogue: 0,0:00:43.28,0:00:44.62,Main,,0,0,0,,{\fs66}Put those two sheets together
+Dialogue: 0,0:00:44.62,0:00:45.76,Main,,0,0,0,,{\fs66}in London and you save
+Dialogue: 0,0:00:45.76,0:00:47.21,Main,,0,0,0,,{\fs66}a whole fucking airport.
+Dialogue: 0,0:00:47.21,0:00:48.32,Main,,0,0,0,,{\fs66}Instead they checked the
+Dialogue: 0,0:00:48.32,0:00:49.81,Main,,0,0,0,,{\fs66}paperwork against a life-size
+Dialogue: 0,0:00:49.81,0:00:51.03,Main,,0,0,0,,{\fs66}sample of Scotland.
+Dialogue: 0,0:00:51.15,0:00:52.30,Main,,0,0,0,,{\fs66}Who wants Germany?
+Dialogue: 0,0:00:52.30,0:00:53.78,Main,,0,0,0,,{\fs66}Up go the {\c&H006DDCFF&}hands{\r}.
+Dialogue: 0,0:00:53.78,0:00:54.86,Main,,0,0,0,,{\fs66}What a fucking navigation
+Dialogue: 0,0:00:54.86,0:00:56.80,Main,,0,0,0,,{\fs66}system. Imagine the captain
+Dialogue: 0,0:00:56.80,0:00:58.17,Main,,0,0,0,,{\fs66}holding another vote.
+Dialogue: 0,0:00:58.17,0:00:59.81,Main,,0,0,0,,{\fs66}All in favour of Bali?
+Dialogue: 0,0:00:59.81,0:01:01.59,Main,,0,0,0,,{\fs66}Lovely. That’s still Edinburgh
+Dialogue: 0,0:01:01.59,0:01:02.97,Main,,0,0,0,,{\fs66}out the bloody window.
+Dialogue: 0,0:01:03.10,0:01:04.28,Main,,0,0,0,,{\fs66}They refuelled and flew
+Dialogue: 0,0:01:04.28,0:01:05.28,Main,,0,0,0,,{\fs66}to Düsseldorf.
+Dialogue: 0,0:01:05.28,0:01:06.42,Main,,0,0,0,,{\fs66}Spare a thought for the
+Dialogue: 0,0:01:06.42,0:01:07.56,Main,,0,0,0,,{\fs66}poor bastard who swapped
+Dialogue: 0,0:01:07.56,0:01:08.54,Main,,0,0,0,,{\fs66}seats so his neighbour
+Dialogue: 0,0:01:08.54,0:01:09.68,Main,,0,0,0,,{\fs66}could see Germany.
+Dialogue: 0,0:01:09.68,0:01:10.89,Main,,0,0,0,,{\fs66}That guy’s on his second
+Dialogue: 0,0:01:10.89,0:01:11.96,Main,,0,0,0,,{\fs66}fucking country.
+Dialogue: 0,0:01:11.96,0:01:13.36,Main,,0,0,0,,{\fs66}You’re on your third close-up
+Dialogue: 0,0:01:13.36,0:01:14.39,Main,,0,0,0,,{\fs66}of the drinks trolley.
+Dialogue: 0,0:01:14.51,0:01:15.43,Main,,0,0,0,,{\fs66}I used to think the
+Dialogue: 0,0:01:15.43,0:01:16.45,Main,,0,0,0,,{\fs66}dumbest question after
+Dialogue: 0,0:01:16.45,0:01:17.71,Main,,0,0,0,,{\fs66}landing was whether anybody
+Dialogue: 0,0:01:17.71,0:01:18.89,Main,,0,0,0,,{\fs66}had forgotten their hand
+Dialogue: 0,0:01:18.89,0:01:20.31,Main,,0,0,0,,{\fs66}luggage. Turns out there’s
+Dialogue: 0,0:01:20.31,0:01:21.20,Main,,0,0,0,,{\fs66}a better one.
+Dialogue: 0,0:01:21.20,0:01:22.28,Main,,0,0,0,,{\fs66}Should we even get the
+Dialogue: 0,0:01:22.28,0:01:22.89,Main,,0,0,0,,{\fs66}fuck off?
