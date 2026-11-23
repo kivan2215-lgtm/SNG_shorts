@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.48,Main,,0,0,0,,{\fs66}A Canadian inspector climbs
+Dialogue: 0,0:00:01.48,0:00:03.66,Main,,0,0,0,,{\fs66}up to count some {\c&H006DDCFF&}barrels{\r}.
+Dialogue: 0,0:00:03.66,0:00:05.98,Main,,0,0,0,,{\fs66}One shifts under his foot.
+Dialogue: 0,0:00:05.98,0:00:07.06,Main,,0,0,0,,{\fs66}What the hell was supposed
+Dialogue: 0,0:00:07.06,0:00:07.98,Main,,0,0,0,,{\fs66}to be in that barrel
+Dialogue: 0,0:00:07.98,0:00:09.16,Main,,0,0,0,,{\fs66}for a single wobble to
+Dialogue: 0,0:00:09.16,0:00:12.39,Main,,0,0,0,,{\fs60}kick off an eighteen-million-dollar investigation?
+Dialogue: 0,0:00:12.56,0:00:14.54,Main,,0,0,0,,{\fs66}Quebec, twenty twelve.
+Dialogue: 0,0:00:14.54,0:00:16.38,Main,,0,0,0,,{\fs66}This place holds a strategic
+Dialogue: 0,0:00:16.38,0:00:18.22,Main,,0,0,0,,{\fs66}reserve of maple {\c&H006DDCFF&}syrup{\r}.
+Dialogue: 0,0:00:18.22,0:00:20.04,Main,,0,0,0,,{\fs66}Your mum has a strategic
+Dialogue: 0,0:00:20.04,0:00:21.44,Main,,0,0,0,,{\fs66}reserve too.
+Dialogue: 0,0:00:21.44,0:00:23.48,Main,,0,0,0,,{\fs66}It’s the good jam.
+Dialogue: 0,0:00:23.48,0:00:25.79,Main,,0,0,0,,{\fs66}Touch it and find out.
+Dialogue: 0,0:00:25.95,0:00:27.59,Main,,0,0,0,,{\fs66}Here’s the logic.
+Dialogue: 0,0:00:27.59,0:00:28.93,Main,,0,0,0,,{\fs66}Nobody got the fucking
+Dialogue: 0,0:00:28.93,0:00:30.21,Main,,0,0,0,,{\fs66}trees to sign a supply
+Dialogue: 0,0:00:30.21,0:00:32.59,Main,,0,0,0,,{\fs66}contract. One year there’s
+Dialogue: 0,0:00:32.59,0:00:34.21,Main,,0,0,0,,{\fs66}sap everywhere.
+Dialogue: 0,0:00:34.21,0:00:35.95,Main,,0,0,0,,{\fs66}Next year?
+Dialogue: 0,0:00:35.95,0:00:37.91,Main,,0,0,0,,{\fs66}Sorry, mate.
+Dialogue: 0,0:00:37.91,0:00:39.49,Main,,0,0,0,,{\fs66}I’m a tree.
+Dialogue: 0,0:00:39.49,0:00:41.90,Main,,0,0,0,,{\fs66}So they store the surplus.
+Dialogue: 0,0:00:42.09,0:00:43.44,Main,,0,0,0,,{\fs66}Rows and rows of identical
+Dialogue: 0,0:00:43.44,0:00:45.58,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}barrels{\r}. The paperwork
+Dialogue: 0,0:00:45.58,0:00:47.52,Main,,0,0,0,,{\fs66}looks immaculate.
+Dialogue: 0,0:00:47.52,0:00:49.32,Main,,0,0,0,,{\fs66}Barrel here?
+Dialogue: 0,0:00:49.32,0:00:52.26,Main,,0,0,0,,{\fs66}Yep. Another barrel?
+Dialogue: 0,0:00:52.26,0:00:54.58,Main,,0,0,0,,{\fs66}Yep. Now try doing an
+Dialogue: 0,0:00:54.58,0:00:55.80,Main,,0,0,0,,{\fs66}inventory of what the fuck
+Dialogue: 0,0:00:55.80,0:00:57.36,Main,,0,0,0,,{\fs66}isn’t in them.
+Dialogue: 0,0:00:57.52,0:00:58.57,Main,,0,0,0,,{\fs66}The thieves got roughly
+Dialogue: 0,0:00:58.57,0:00:59.50,Main,,0,0,0,,{\fs66}three thousand tonnes
+Dialogue: 0,0:00:59.50,0:01:00.90,Main,,0,0,0,,{\fs66}of {\c&H006DDCFF&}syrup{\r}.
+Dialogue: 0,0:01:00.90,0:01:03.18,Main,,0,0,0,,{\fs66}Some {\c&H006DDCFF&}barrels{\r} were empty.
+Dialogue: 0,0:01:03.18,0:01:05.28,Main,,0,0,0,,{\fs66}Others held {\c&H006DDCFF&}water{\r}.
+Dialogue: 0,0:01:05.28,0:01:06.64,Main,,0,0,0,,{\fs66}Imagine writing the tasting
+Dialogue: 0,0:01:06.64,0:01:09.96,Main,,0,0,0,,{\fs66}notes. Crystal clear.
+Dialogue: 0,0:01:09.96,0:01:11.59,Main,,0,0,0,,{\fs66}Delicate on the tongue.
+Dialogue: 0,0:01:11.59,0:01:14.31,Main,,0,0,0,,{\fs66}Lingering notes of felony.
+Dialogue: 0,0:01:14.47,0:01:15.71,Main,,0,0,0,,{\fs66}The haul was worth about
+Dialogue: 0,0:01:15.71,0:01:16.79,Main,,0,0,0,,{\fs66}eighteen million Canadian
+Dialogue: 0,0:01:16.79,0:01:19.47,Main,,0,0,0,,{\fs66}dollars. After most heists
+Dialogue: 0,0:01:19.47,0:01:21.25,Main,,0,0,0,,{\fs66}you change the locks.
+Dialogue: 0,0:01:21.25,0:01:22.75,Main,,0,0,0,,{\fs66}These guys also need somebody
+Dialogue: 0,0:01:22.75,0:01:23.67,Main,,0,0,0,,{\fs66}who can tell breakfast
+Dialogue: 0,0:01:23.67,0:01:25.59,Main,,0,0,0,,{\fs66}from fucking plumbing.
+Dialogue: 0,0:01:25.76,0:01:26.90,Main,,0,0,0,,{\fs66}Now when a diner serves
+Dialogue: 0,0:01:26.90,0:01:28.22,Main,,0,0,0,,{\fs66}two pancakes with a single
+Dialogue: 0,0:01:28.22,0:01:29.20,Main,,0,0,0,,{\fs66}drop of {\c&H006DDCFF&}syrup{\r},
+Dialogue: 0,0:01:29.20,0:01:30.38,Main,,0,0,0,,{\fs66}I wonder.
+Dialogue: 0,0:01:30.38,0:01:31.92,Main,,0,0,0,,{\fs66}Are they being generous,
+Dialogue: 0,0:01:31.92,0:01:33.00,Main,,0,0,0,,{\fs66}or did Accounting finally
+Dialogue: 0,0:01:33.00,0:01:34.96,Main,,0,0,0,,{\fs66}approve the withdrawal?
