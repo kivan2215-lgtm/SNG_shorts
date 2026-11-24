@@ -1,0 +1,67 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.00,Main,,0,0,0,,{\fs66}How do you apply for
+Dialogue: 0,0:00:01.00,0:00:02.96,Main,,0,0,0,,{\fs66}a federal narcotics {\c&H006DDCFF&}badge{\r}?
+Dialogue: 0,0:00:02.96,0:00:03.92,Main,,0,0,0,,{\fs66}Elvis Presley borrowed
+Dialogue: 0,0:00:03.92,0:00:05.12,Main,,0,0,0,,{\fs66}some airline stationery
+Dialogue: 0,0:00:05.12,0:00:06.50,Main,,0,0,0,,{\fs66}and wrote to the president.
+Dialogue: 0,0:00:06.50,0:00:08.34,Main,,0,0,0,,{\fs66}There wasn’t a job opening.
+Dialogue: 0,0:00:08.34,0:00:09.38,Main,,0,0,0,,{\fs66}Elvis considered that
+Dialogue: 0,0:00:09.38,0:00:10.76,Main,,0,0,0,,{\fs66}more of a clerical error.
+Dialogue: 0,0:00:10.88,0:00:12.70,Main,,0,0,0,,{\fs66}December nineteen seventy.
+Dialogue: 0,0:00:12.70,0:00:13.62,Main,,0,0,0,,{\fs66}He shows up at the
+Dialogue: 0,0:00:13.62,0:00:14.52,Main,,0,0,0,,{\fs66}White House gates with
+Dialogue: 0,0:00:14.52,0:00:16.12,Main,,0,0,0,,{\fs66}a {\c&H006DDCFF&}letter{\r} for Richard Nixon.
+Dialogue: 0,0:00:16.12,0:00:17.50,Main,,0,0,0,,{\fs66}The return address is his
+Dialogue: 0,0:00:17.50,0:00:19.08,Main,,0,0,0,,{\fs66}hotel. Imagine giving
+Dialogue: 0,0:00:19.08,0:00:20.27,Main,,0,0,0,,{\fs66}the president of the United
+Dialogue: 0,0:00:20.27,0:00:22.02,Main,,0,0,0,,{\fs66}States until fucking checkout.
+Dialogue: 0,0:00:22.15,0:00:23.53,Main,,0,0,0,,{\fs66}Elvis offers to help fight
+Dialogue: 0,0:00:23.53,0:00:25.12,Main,,0,0,0,,{\fs66}drugs. Young people trust
+Dialogue: 0,0:00:25.12,0:00:26.22,Main,,0,0,0,,{\fs66}him, he says.
+Dialogue: 0,0:00:26.22,0:00:27.71,Main,,0,0,0,,{\fs66}Also, he’d like a federal
+Dialogue: 0,0:00:27.71,0:00:28.94,Main,,0,0,0,,{\fs66}narcotics {\c&H006DDCFF&}badge{\r}.
+Dialogue: 0,0:00:28.94,0:00:30.57,Main,,0,0,0,,{\fs66}Incredible cover {\c&H006DDCFF&}letter{\r}.
+Dialogue: 0,0:00:30.57,0:00:32.42,Main,,0,0,0,,{\fs66}No salary expectations,
+Dialogue: 0,0:00:32.42,0:00:33.24,Main,,0,0,0,,{\fs66}but he’d like the merch
+Dialogue: 0,0:00:33.24,0:00:33.87,Main,,0,0,0,,{\fs66}up front.
+Dialogue: 0,0:00:33.99,0:00:34.99,Main,,0,0,0,,{\fs66}Here’s the ridiculous
+Dialogue: 0,0:00:34.99,0:00:36.75,Main,,0,0,0,,{\fs66}part. It works.
+Dialogue: 0,0:00:36.75,0:00:37.96,Main,,0,0,0,,{\fs66}That very day he’s in
+Dialogue: 0,0:00:37.96,0:00:39.24,Main,,0,0,0,,{\fs66}the Oval Office.
+Dialogue: 0,0:00:39.24,0:00:40.34,Main,,0,0,0,,{\fs66}Velvet suit.
+Dialogue: 0,0:00:40.34,0:00:41.82,Main,,0,0,0,,{\fs66}Giant belt buckle.
+Dialogue: 0,0:00:41.82,0:00:43.00,Main,,0,0,0,,{\fs66}Sideburns you could land
+Dialogue: 0,0:00:43.00,0:00:44.30,Main,,0,0,0,,{\fs66}a helicopter on.
+Dialogue: 0,0:00:44.30,0:00:45.64,Main,,0,0,0,,{\fs66}Undercover as what,
+Dialogue: 0,0:00:45.64,0:00:47.96,Main,,0,0,0,,{\fs60}mate? A fucking Elvis impersonator?
+Dialogue: 0,0:00:48.08,0:00:49.64,Main,,0,0,0,,{\fs66}Then the {\c&H006DDCFF&}Beatles{\r} come up.
+Dialogue: 0,0:00:49.64,0:00:50.67,Main,,0,0,0,,{\fs66}According to the meeting
+Dialogue: 0,0:00:50.67,0:00:52.05,Main,,0,0,0,,{\fs66}memo, Elvis thought they
+Dialogue: 0,0:00:52.05,0:00:53.28,Main,,0,0,0,,{\fs66}were a bad influence.
+Dialogue: 0,0:00:53.28,0:00:54.19,Main,,0,0,0,,{\fs66}He went in for a
+Dialogue: 0,0:00:54.19,0:00:55.35,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}badge{\r} and found time to
+Dialogue: 0,0:00:55.35,0:00:56.61,Main,,0,0,0,,{\fs66}report a rival band to
+Dialogue: 0,0:00:56.61,0:00:57.44,Main,,0,0,0,,{\fs66}the president.
+Dialogue: 0,0:00:57.44,0:00:59.03,Main,,0,0,0,,{\fs66}Efficient little bastard.
+Dialogue: 0,0:00:59.16,0:01:00.48,Main,,0,0,0,,{\fs66}Nixon tells his people
+Dialogue: 0,0:01:00.48,0:01:01.74,Main,,0,0,0,,{\fs66}to get him the {\c&H006DDCFF&}badge{\r}.
+Dialogue: 0,0:01:01.74,0:01:02.98,Main,,0,0,0,,{\fs66}Elvis gets it.
+Dialogue: 0,0:01:02.98,0:01:04.58,Main,,0,0,0,,{\fs66}No entrance exam.
+Dialogue: 0,0:01:04.58,0:01:05.68,Main,,0,0,0,,{\fs66}Just a handwritten note
+Dialogue: 0,0:01:05.68,0:01:06.54,Main,,0,0,0,,{\fs66}and a chat with the
+Dialogue: 0,0:01:06.54,0:01:07.47,Main,,0,0,0,,{\fs66}one bloke in the building
+Dialogue: 0,0:01:07.47,0:01:09.42,Main,,0,0,0,,{\fs60}who can approve absolutely anything.
+Dialogue: 0,0:01:09.54,0:01:11.27,Main,,0,0,0,,{\fs66}Now look at the photograph.
+Dialogue: 0,0:01:11.27,0:01:12.49,Main,,0,0,0,,{\fs66}Nixon has the face of
+Dialogue: 0,0:01:12.49,0:01:13.37,Main,,0,0,0,,{\fs66}a man who still has
+Dialogue: 0,0:01:13.37,0:01:14.41,Main,,0,0,0,,{\fs66}to explain to Accounts
+Dialogue: 0,0:01:14.41,0:01:15.57,Main,,0,0,0,,{\fs66}which budget line covers
+Dialogue: 0,0:01:15.57,0:01:16.91,Main,,0,0,0,,{\fs66}Elvis fucking Presley.
