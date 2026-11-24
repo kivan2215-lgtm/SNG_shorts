@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.16,Main,,0,0,0,,{\fs66}Imagine you’ve invented
+Dialogue: 0,0:00:01.16,0:00:01.89,Main,,0,0,0,,{\fs66}the {\c&H006DDCFF&}wheel{\r}.
+Dialogue: 0,0:00:01.89,0:00:03.33,Main,,0,0,0,,{\fs66}One small problem.
+Dialogue: 0,0:00:03.33,0:00:04.42,Main,,0,0,0,,{\fs66}It’s Australia,
+Dialogue: 0,0:00:04.42,0:00:05.70,Main,,0,0,0,,{\fs66}it’s two thousand and one,
+Dialogue: 0,0:00:05.70,0:00:06.54,Main,,0,0,0,,{\fs66}and how the fuck did
+Dialogue: 0,0:00:06.54,0:00:07.38,Main,,0,0,0,,{\fs66}you get to the {\c&H006DDCFF&}patent{\r}
+Dialogue: 0,0:00:07.38,0:00:08.00,Main,,0,0,0,,{\fs66}office?
+Dialogue: 0,0:00:08.12,0:00:09.54,Main,,0,0,0,,{\fs66}John Keogh was a {\c&H006DDCFF&}patent{\r}
+Dialogue: 0,0:00:09.54,0:00:10.98,Main,,0,0,0,,{\fs66}attorney. He wanted to
+Dialogue: 0,0:00:10.98,0:00:12.30,Main,,0,0,0,,{\fs66}test a new system.
+Dialogue: 0,0:00:12.30,0:00:13.30,Main,,0,0,0,,{\fs66}He picked an invention
+Dialogue: 0,0:00:13.30,0:00:14.48,Main,,0,0,0,,{\fs66}where checking for an earlier
+Dialogue: 0,0:00:14.48,0:00:15.92,Main,,0,0,0,,{\fs66}model would require a bloody
+Dialogue: 0,0:00:15.92,0:00:16.92,Main,,0,0,0,,{\fs66}archaeologist.
+Dialogue: 0,0:00:17.04,0:00:18.46,Main,,0,0,0,,{\fs66}On the application it became
+Dialogue: 0,0:00:18.46,0:00:19.72,Main,,0,0,0,,{\fs66}a circular transportation
+Dialogue: 0,0:00:19.72,0:00:21.41,Main,,0,0,0,,{\fs66}facilitation device.
+Dialogue: 0,0:00:21.41,0:00:22.37,Main,,0,0,0,,{\fs66}A {\c&H006DDCFF&}wheel{\r} goes on a
+Dialogue: 0,0:00:22.37,0:00:23.78,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}wheel{\r}barrow. A circular
+Dialogue: 0,0:00:23.78,0:00:25.30,Main,,0,0,0,,{\fs66}transportation facilitation
+Dialogue: 0,0:00:25.30,0:00:26.54,Main,,0,0,0,,{\fs66}device goes on an invoice
+Dialogue: 0,0:00:26.54,0:00:27.38,Main,,0,0,0,,{\fs66}for six hundred dollars
+Dialogue: 0,0:00:27.38,0:00:28.30,Main,,0,0,0,,{\fs66}an hour.
+Dialogue: 0,0:00:28.42,0:00:29.78,Main,,0,0,0,,{\fs66}There was a drawing.
+Dialogue: 0,0:00:29.78,0:00:30.96,Main,,0,0,0,,{\fs66}A circle with a hole
+Dialogue: 0,0:00:30.96,0:00:31.78,Main,,0,0,0,,{\fs66}in the middle.
+Dialogue: 0,0:00:31.78,0:00:33.12,Main,,0,0,0,,{\fs66}Somewhere, a prehistoric
+Dialogue: 0,0:00:33.12,0:00:34.38,Main,,0,0,0,,{\fs66}potter had missed the deadline
+Dialogue: 0,0:00:34.38,0:00:35.84,Main,,0,0,0,,{\fs66}to object by six thousand
+Dialogue: 0,0:00:35.84,0:00:36.64,Main,,0,0,0,,{\fs66}fucking years.
+Dialogue: 0,0:00:36.76,0:00:38.49,Main,,0,0,0,,{\fs66}And the {\c&H006DDCFF&}patent{\r} was granted.
+Dialogue: 0,0:00:38.49,0:00:39.42,Main,,0,0,0,,{\fs66}How the hell did that
+Dialogue: 0,0:00:39.42,0:00:40.83,Main,,0,0,0,,{\fs66}happen? For this kind of
+Dialogue: 0,0:00:40.83,0:00:42.19,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}patent{\r}, the initial checks
+Dialogue: 0,0:00:42.19,0:00:44.16,Main,,0,0,0,,{\fs66}covered formal requirements.
+Dialogue: 0,0:00:44.16,0:00:46.21,Main,,0,0,0,,{\fs60}Novelty was examined separately.
+Dialogue: 0,0:00:46.21,0:00:47.39,Main,,0,0,0,,{\fs66}Without certification
+Dialogue: 0,0:00:47.39,0:00:48.53,Main,,0,0,0,,{\fs66}you couldn’t enforce it
+Dialogue: 0,0:00:48.53,0:00:49.09,Main,,0,0,0,,{\fs66}in court.
+Dialogue: 0,0:00:49.22,0:00:51.14,Main,,0,0,0,,{\fs66}So cyclists could relax.
+Dialogue: 0,0:00:51.14,0:00:52.28,Main,,0,0,0,,{\fs66}Nobody was billing your
+Dialogue: 0,0:00:52.28,0:00:53.96,Main,,0,0,0,,{\fs60}kid for four separate infringements
+Dialogue: 0,0:00:53.96,0:00:55.01,Main,,0,0,0,,{\fs66}because the poor bastard
+Dialogue: 0,0:00:55.01,0:00:56.36,Main,,0,0,0,,{\fs66}still had training {\c&H006DDCFF&}wheel{\r}s.
+Dialogue: 0,0:00:56.49,0:00:57.81,Main,,0,0,0,,{\fs66}John got an Ig Nobel
+Dialogue: 0,0:00:57.81,0:00:59.71,Main,,0,0,0,,{\fs66}Prize. What a career.
+Dialogue: 0,0:00:59.71,0:01:00.91,Main,,0,0,0,,{\fs66}Invent fuck all,
+Dialogue: 0,0:01:00.91,0:01:01.91,Main,,0,0,0,,{\fs66}file it correctly,
+Dialogue: 0,0:01:01.91,0:01:02.85,Main,,0,0,0,,{\fs66}and go down in history
+Dialogue: 0,0:01:02.85,0:01:03.91,Main,,0,0,0,,{\fs66}as the man who literally
+Dialogue: 0,0:01:03.91,0:01:05.17,Main,,0,0,0,,{\fs66}reinvented the {\c&H006DDCFF&}wheel{\r}.
