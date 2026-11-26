@@ -1,0 +1,65 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.69,Main,,0,0,0,,{\fs66}Toast slips off a {\c&H006DDCFF&}table{\r}.
+Dialogue: 0,0:00:01.69,0:00:02.83,Main,,0,0,0,,{\fs66}You’ve got half a second
+Dialogue: 0,0:00:02.83,0:00:03.79,Main,,0,0,0,,{\fs66}to say fuck.
+Dialogue: 0,0:00:03.79,0:00:05.03,Main,,0,0,0,,{\fs66}British physicist Robert
+Dialogue: 0,0:00:05.03,0:00:06.29,Main,,0,0,0,,{\fs66}Matthews had a little more
+Dialogue: 0,0:00:06.29,0:00:08.02,Main,,0,0,0,,{\fs66}time. He wrote a scientific
+Dialogue: 0,0:00:08.02,0:00:09.13,Main,,0,0,0,,{\fs66}paper about it.
+Dialogue: 0,0:00:09.26,0:00:10.58,Main,,0,0,0,,{\fs66}Why does {\c&H006DDCFF&}toast{\r} so often
+Dialogue: 0,0:00:10.58,0:00:12.02,Main,,0,0,0,,{\fs66}land {\c&H006DDCFF&}butter{\r}-side down?
+Dialogue: 0,0:00:12.02,0:00:13.78,Main,,0,0,0,,{\fs66}Is {\c&H006DDCFF&}butter{\r} really that heavy?
+Dialogue: 0,0:00:13.78,0:00:14.78,Main,,0,0,0,,{\fs66}How fucking much would
+Dialogue: 0,0:00:14.78,0:00:15.62,Main,,0,0,0,,{\fs66}I have to spread on
+Dialogue: 0,0:00:15.62,0:00:16.44,Main,,0,0,0,,{\fs66}there before the bread
+Dialogue: 0,0:00:16.44,0:00:17.54,Main,,0,0,0,,{\fs66}could walk itself out of
+Dialogue: 0,0:00:17.54,0:00:18.15,Main,,0,0,0,,{\fs66}the kitchen?
+Dialogue: 0,0:00:18.27,0:00:19.41,Main,,0,0,0,,{\fs66}Matthews looked at one
+Dialogue: 0,0:00:19.41,0:00:20.43,Main,,0,0,0,,{\fs66}particular breakfast
+Dialogue: 0,0:00:20.43,0:00:22.56,Main,,0,0,0,,{\fs66}accident. Butter up.
+Dialogue: 0,0:00:22.56,0:00:23.80,Main,,0,0,0,,{\fs66}Bread slides slowly over
+Dialogue: 0,0:00:23.80,0:00:24.49,Main,,0,0,0,,{\fs66}the edge.
+Dialogue: 0,0:00:24.49,0:00:25.72,Main,,0,0,0,,{\fs66}Watch closely.
+Dialogue: 0,0:00:25.72,0:00:26.86,Main,,0,0,0,,{\fs66}It starts turning while
+Dialogue: 0,0:00:26.86,0:00:27.84,Main,,0,0,0,,{\fs66}it’s still touching the
+Dialogue: 0,0:00:27.84,0:00:29.80,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}table{\r}. Congratulations.
+Dialogue: 0,0:00:29.80,0:00:30.89,Main,,0,0,0,,{\fs66}Your lunch is now a
+Dialogue: 0,0:00:30.89,0:00:31.77,Main,,0,0,0,,{\fs66}fucking machine.
+Dialogue: 0,0:00:31.90,0:00:32.94,Main,,0,0,0,,{\fs66}Side view.
+Dialogue: 0,0:00:32.94,0:00:34.12,Main,,0,0,0,,{\fs66}From an ordinary {\c&H006DDCFF&}table{\r}
+Dialogue: 0,0:00:34.12,0:00:35.18,Main,,0,0,0,,{\fs66}the {\c&H006DDCFF&}toast{\r} has time for
+Dialogue: 0,0:00:35.18,0:00:36.38,Main,,0,0,0,,{\fs66}roughly half a turn.
+Dialogue: 0,0:00:36.38,0:00:37.76,Main,,0,0,0,,{\fs66}The {\c&H006DDCFF&}butter{\r} was facing the
+Dialogue: 0,0:00:37.76,0:00:39.18,Main,,0,0,0,,{\fs66}ceiling. Now it’s getting
+Dialogue: 0,0:00:39.18,0:00:40.26,Main,,0,0,0,,{\fs66}intimately acquainted
+Dialogue: 0,0:00:40.26,0:00:41.28,Main,,0,0,0,,{\fs66}with the lino.
+Dialogue: 0,0:00:41.28,0:00:42.31,Main,,0,0,0,,{\fs66}Buy it a drink first,
+Dialogue: 0,0:00:42.31,0:00:43.56,Main,,0,0,0,,{\fs66}for Christ’s sake.
+Dialogue: 0,0:00:43.68,0:00:45.00,Main,,0,0,0,,{\fs66}To get {\c&H006DDCFF&}butter{\r}-side up again
+Dialogue: 0,0:00:45.00,0:00:46.12,Main,,0,0,0,,{\fs66}it needs time to keep
+Dialogue: 0,0:00:46.12,0:00:47.97,Main,,0,0,0,,{\fs66}rotating. More height.
+Dialogue: 0,0:00:47.97,0:00:49.27,Main,,0,0,0,,{\fs66}A human would lift the
+Dialogue: 0,0:00:49.27,0:00:50.66,Main,,0,0,0,,{\fs66}bread. A committee would
+Dialogue: 0,0:00:50.66,0:00:52.14,Main,,0,0,0,,{\fs66}order longer legs for every
+Dialogue: 0,0:00:52.14,0:00:53.58,Main,,0,0,0,,{\fs66}fucking {\c&H006DDCFF&}table{\r} in the building.
+Dialogue: 0,0:00:53.71,0:00:54.55,Main,,0,0,0,,{\fs66}In nineteen ninety-six
+Dialogue: 0,0:00:54.55,0:00:56.28,Main,,0,0,0,,{\fs66}Matthews got the Ig Nobel
+Dialogue: 0,0:00:56.28,0:00:57.59,Main,,0,0,0,,{\fs66}Prize in physics for this
+Dialogue: 0,0:00:57.59,0:00:59.40,Main,,0,0,0,,{\fs66}work. One bloke drops breakfast
+Dialogue: 0,0:00:59.40,0:01:00.81,Main,,0,0,0,,{\fs66}and mops the floor.
+Dialogue: 0,0:01:00.81,0:01:02.18,Main,,0,0,0,,{\fs66}Another explains the mess
+Dialogue: 0,0:01:02.18,0:01:03.60,Main,,0,0,0,,{\fs66}and gets a bloody award.
+Dialogue: 0,0:01:03.73,0:01:04.79,Main,,0,0,0,,{\fs66}So next time you drop
+Dialogue: 0,0:01:04.79,0:01:05.63,Main,,0,0,0,,{\fs66}your {\c&H006DDCFF&}toast{\r},
+Dialogue: 0,0:01:05.63,0:01:06.99,Main,,0,0,0,,{\fs66}put the dishcloth down.
+Dialogue: 0,0:01:06.99,0:01:08.40,Main,,0,0,0,,{\fs66}Important question.
+Dialogue: 0,0:01:08.40,0:01:09.62,Main,,0,0,0,,{\fs66}Are you cleaning the kitchen
+Dialogue: 0,0:01:09.62,0:01:11.35,Main,,0,0,0,,{\fs66}or submitting for peer review?
