@@ -1,0 +1,69 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.06,Main,,0,0,0,,{\fs66}You buy a ticket to
+Dialogue: 0,0:00:01.06,0:00:02.57,Main,,0,0,0,,{\fs66}a British wildlife park.
+Dialogue: 0,0:00:02.57,0:00:03.66,Main,,0,0,0,,{\fs66}A parrot tells you to
+Dialogue: 0,0:00:03.66,0:00:04.42,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}fuck{\r} off.
+Dialogue: 0,0:00:04.42,0:00:05.90,Main,,0,0,0,,{\fs66}Fine. But why are the
+Dialogue: 0,0:00:05.90,0:00:07.09,Main,,0,0,0,,{\fs66}other four {\c&H006DDCFF&}laugh{\r}ing?
+Dialogue: 0,0:00:07.09,0:00:08.01,Main,,0,0,0,,{\fs66}And why the hell are
+Dialogue: 0,0:00:08.01,0:00:08.96,Main,,0,0,0,,{\fs66}you {\c&H006DDCFF&}laugh{\r}ing too?
+Dialogue: 0,0:00:09.09,0:00:10.55,Main,,0,0,0,,{\fs66}Lincolnshire, twenty
+Dialogue: 0,0:00:10.55,0:00:12.03,Main,,0,0,0,,{\fs66}twenty. Five African grey
+Dialogue: 0,0:00:12.03,0:00:13.24,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}parrots{\r} arrive at a wildlife
+Dialogue: 0,0:00:13.24,0:00:14.97,Main,,0,0,0,,{\fs66}park. They spend quarantine
+Dialogue: 0,0:00:14.97,0:00:16.82,Main,,0,0,0,,{\fs66}together. All five already
+Dialogue: 0,0:00:16.82,0:00:18.63,Main,,0,0,0,,{\fs66}have excellent vocabularies,
+Dialogue: 0,0:00:18.63,0:00:19.94,Main,,0,0,0,,{\fs66}particularly for occasions
+Dialogue: 0,0:00:19.94,0:00:20.88,Main,,0,0,0,,{\fs66}when you drop a brick
+Dialogue: 0,0:00:20.88,0:00:21.60,Main,,0,0,0,,{\fs66}on your foot.
+Dialogue: 0,0:00:21.72,0:00:23.22,Main,,0,0,0,,{\fs66}According to the keepers,
+Dialogue: 0,0:00:23.22,0:00:24.10,Main,,0,0,0,,{\fs66}one would swear and the
+Dialogue: 0,0:00:24.10,0:00:25.14,Main,,0,0,0,,{\fs66}others would {\c&H006DDCFF&}laugh{\r}.
+Dialogue: 0,0:00:25.14,0:00:26.30,Main,,0,0,0,,{\fs66}Then they’d swap.
+Dialogue: 0,0:00:26.30,0:00:27.14,Main,,0,0,0,,{\fs66}Five comedians,
+Dialogue: 0,0:00:27.14,0:00:28.44,Main,,0,0,0,,{\fs66}four guaranteed {\c&H006DDCFF&}laugh{\r}s
+Dialogue: 0,0:00:28.44,0:00:29.23,Main,,0,0,0,,{\fs66}per set.
+Dialogue: 0,0:00:29.23,0:00:30.49,Main,,0,0,0,,{\fs66}Most stand-ups would sell
+Dialogue: 0,0:00:30.49,0:00:31.69,Main,,0,0,0,,{\fs66}a {\c&H006DDCFF&}fuck{\r}ing kidney for that
+Dialogue: 0,0:00:31.69,0:00:32.18,Main,,0,0,0,,{\fs66}deal.
+Dialogue: 0,0:00:32.30,0:00:33.62,Main,,0,0,0,,{\fs66}Quarantine ends.
+Dialogue: 0,0:00:33.62,0:00:34.89,Main,,0,0,0,,{\fs66}They meet the public.
+Dialogue: 0,0:00:34.89,0:00:35.98,Main,,0,0,0,,{\fs66}From a parrot’s point of
+Dialogue: 0,0:00:35.98,0:00:37.54,Main,,0,0,0,,{\fs66}view, a visitor is basically
+Dialogue: 0,0:00:37.54,0:00:38.44,Main,,0,0,0,,{\fs66}a button.
+Dialogue: 0,0:00:38.44,0:00:39.48,Main,,0,0,0,,{\fs66}Insult it and it makes
+Dialogue: 0,0:00:39.48,0:00:40.66,Main,,0,0,0,,{\fs66}a funny noise.
+Dialogue: 0,0:00:40.66,0:00:41.74,Main,,0,0,0,,{\fs66}Who the {\c&H006DDCFF&}fuck{\r} is training
+Dialogue: 0,0:00:41.74,0:00:42.26,Main,,0,0,0,,{\fs66}whom?
+Dialogue: 0,0:00:42.39,0:00:43.65,Main,,0,0,0,,{\fs66}The park was worried about
+Dialogue: 0,0:00:43.65,0:00:44.82,Main,,0,0,0,,{\fs66}children hearing it.
+Dialogue: 0,0:00:44.82,0:00:46.61,Main,,0,0,0,,{\fs66}Imagine the family outing.
+Dialogue: 0,0:00:46.61,0:00:48.02,Main,,0,0,0,,{\fs66}Dad, what does an African
+Dialogue: 0,0:00:48.02,0:00:49.16,Main,,0,0,0,,{\fs66}grey sound like?
+Dialogue: 0,0:00:49.16,0:00:50.39,Main,,0,0,0,,{\fs66}Like Grandad looking for
+Dialogue: 0,0:00:50.39,0:00:51.55,Main,,0,0,0,,{\fs66}the glasses he’s just sat
+Dialogue: 0,0:00:51.55,0:00:52.32,Main,,0,0,0,,{\fs66}his arse on.
+Dialogue: 0,0:00:52.44,0:00:53.80,Main,,0,0,0,,{\fs66}The park decided to split
+Dialogue: 0,0:00:53.80,0:00:54.44,Main,,0,0,0,,{\fs66}them up.
+Dialogue: 0,0:00:54.44,0:00:55.58,Main,,0,0,0,,{\fs66}Maybe better-behaved
+Dialogue: 0,0:00:55.58,0:00:56.58,Main,,0,0,0,,{\fs66}birds would teach them
+Dialogue: 0,0:00:56.58,0:00:58.40,Main,,0,0,0,,{\fs66}manners. Lovely plan.
+Dialogue: 0,0:00:58.40,0:00:59.50,Main,,0,0,0,,{\fs66}You’ve also just put a
+Dialogue: 0,0:00:59.50,0:01:01.00,Main,,0,0,0,,{\fs66}qualified swearing instructor
+Dialogue: 0,0:01:01.00,0:01:02.52,Main,,0,0,0,,{\fs66}in every {\c&H006DDCFF&}fuck{\r}ing classroom.
+Dialogue: 0,0:01:02.65,0:01:04.01,Main,,0,0,0,,{\fs66}Five {\c&H006DDCFF&}parrots{\r} told people
+Dialogue: 0,0:01:04.01,0:01:04.96,Main,,0,0,0,,{\fs66}to {\c&H006DDCFF&}fuck{\r} off.
+Dialogue: 0,0:01:04.96,0:01:06.57,Main,,0,0,0,,{\fs66}The people paid admission.
+Dialogue: 0,0:01:06.57,0:01:07.52,Main,,0,0,0,,{\fs66}And the only one who
+Dialogue: 0,0:01:07.52,0:01:08.82,Main,,0,0,0,,{\fs66}had a difficult conversation
+Dialogue: 0,0:01:08.82,0:01:09.86,Main,,0,0,0,,{\fs66}at work was the poor
+Dialogue: 0,0:01:09.86,0:01:10.88,Main,,0,0,0,,{\fs66}bastard who filled the
+Dialogue: 0,0:01:10.88,0:01:11.48,Main,,0,0,0,,{\fs66}seed bowl.
