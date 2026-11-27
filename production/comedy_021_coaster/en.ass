@@ -1,0 +1,68 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.10,Main,,0,0,0,,{\fs66}The guy beside you on
+Dialogue: 0,0:00:01.10,0:00:02.50,Main,,0,0,0,,{\fs66}a roller coaster is clutching
+Dialogue: 0,0:00:02.50,0:00:03.38,Main,,0,0,0,,{\fs66}his {\c&H006DDCFF&}backpack{\r}.
+Dialogue: 0,0:00:03.38,0:00:04.60,Main,,0,0,0,,{\fs66}His phone in there?
+Dialogue: 0,0:00:04.60,0:00:05.62,Main,,0,0,0,,{\fs66}Fuck no.
+Dialogue: 0,0:00:05.62,0:00:06.69,Main,,0,0,0,,{\fs66}It’s a {\c&H006DDCFF&}kidney{\r}.
+Dialogue: 0,0:00:06.69,0:00:07.73,Main,,0,0,0,,{\fs66}And it has its own
+Dialogue: 0,0:00:07.73,0:00:09.00,Main,,0,0,0,,{\fs66}bloody itinerary.
+Dialogue: 0,0:00:09.15,0:00:10.36,Main,,0,0,0,,{\fs66}Doctor David Wartinger
+Dialogue: 0,0:00:10.36,0:00:11.42,Main,,0,0,0,,{\fs66}heard something odd from
+Dialogue: 0,0:00:11.42,0:00:12.80,Main,,0,0,0,,{\fs66}patients. They’d ridden
+Dialogue: 0,0:00:12.80,0:00:14.06,Main,,0,0,0,,{\fs66}a roller coaster at Disney
+Dialogue: 0,0:00:14.06,0:00:15.24,Main,,0,0,0,,{\fs66}World and passed a {\c&H006DDCFF&}kidney{\r}
+Dialogue: 0,0:00:15.24,0:00:16.80,Main,,0,0,0,,{\fs66}stone. Most people would
+Dialogue: 0,0:00:16.80,0:00:18.54,Main,,0,0,0,,{\fs66}say, hell of a coincidence.
+Dialogue: 0,0:00:18.54,0:00:19.92,Main,,0,0,0,,{\fs66}A researcher wants to know
+Dialogue: 0,0:00:19.92,0:00:20.80,Main,,0,0,0,,{\fs66}where they sat.
+Dialogue: 0,0:00:20.92,0:00:21.94,Main,,0,0,0,,{\fs66}He and a colleague put
+Dialogue: 0,0:00:21.94,0:00:23.20,Main,,0,0,0,,{\fs66}real {\c&H006DDCFF&}stones{\r} inside a clear
+Dialogue: 0,0:00:23.20,0:00:24.26,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}kidney{\r} model,
+Dialogue: 0,0:00:24.26,0:00:25.08,Main,,0,0,0,,{\fs66}packed it in a {\c&H006DDCFF&}backpack{\r}
+Dialogue: 0,0:00:25.08,0:00:25.92,Main,,0,0,0,,{\fs66}and took it on a
+Dialogue: 0,0:00:25.92,0:00:27.10,Main,,0,0,0,,{\fs66}coaster in Florida.
+Dialogue: 0,0:00:27.10,0:00:28.26,Main,,0,0,0,,{\fs66}Other people come home
+Dialogue: 0,0:00:28.26,0:00:29.60,Main,,0,0,0,,{\fs66}with sunset photos.
+Dialogue: 0,0:00:29.60,0:00:30.92,Main,,0,0,0,,{\fs66}These two had a renal
+Dialogue: 0,0:00:30.92,0:00:31.94,Main,,0,0,0,,{\fs66}expense report.
+Dialogue: 0,0:00:32.10,0:00:33.24,Main,,0,0,0,,{\fs66}Twenty rides.
+Dialogue: 0,0:00:33.24,0:00:34.47,Main,,0,0,0,,{\fs66}After each one they checked
+Dialogue: 0,0:00:34.47,0:00:35.89,Main,,0,0,0,,{\fs66}where the {\c&H006DDCFF&}stones{\r} had gone.
+Dialogue: 0,0:00:35.89,0:00:37.20,Main,,0,0,0,,{\fs66}Everyone else is screaming
+Dialogue: 0,0:00:37.20,0:00:38.06,Main,,0,0,0,,{\fs66}for joy.
+Dialogue: 0,0:00:38.06,0:00:39.35,Main,,0,0,0,,{\fs66}Your whole fucking afternoon
+Dialogue: 0,0:00:39.35,0:00:40.52,Main,,0,0,0,,{\fs66}depends on the emotional
+Dialogue: 0,0:00:40.52,0:00:41.76,Main,,0,0,0,,{\fs66}journey of some gravel.
+Dialogue: 0,0:00:41.88,0:00:42.76,Main,,0,0,0,,{\fs66}Up front,
+Dialogue: 0,0:00:42.76,0:00:43.74,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}stones{\r} cleared the chamber
+Dialogue: 0,0:00:43.74,0:00:44.88,Main,,0,0,0,,{\fs66}in four out of twenty-four
+Dialogue: 0,0:00:44.88,0:00:46.56,Main,,0,0,0,,{\fs66}trials. At the back,
+Dialogue: 0,0:00:46.56,0:00:48.63,Main,,0,0,0,,{\fs66}twenty-three out of thirty-six.
+Dialogue: 0,0:00:48.63,0:00:49.67,Main,,0,0,0,,{\fs66}Same {\c&H006DDCFF&}kidney{\r}.
+Dialogue: 0,0:00:49.67,0:00:50.89,Main,,0,0,0,,{\fs66}Apparently you get better
+Dialogue: 0,0:00:50.89,0:00:52.07,Main,,0,0,0,,{\fs66}service in the arse end
+Dialogue: 0,0:00:52.07,0:00:52.79,Main,,0,0,0,,{\fs66}of the train.
+Dialogue: 0,0:00:52.91,0:00:54.14,Main,,0,0,0,,{\fs66}It was a model.
+Dialogue: 0,0:00:54.14,0:00:55.36,Main,,0,0,0,,{\fs66}Nobody was prescribing
+Dialogue: 0,0:00:55.36,0:00:56.49,Main,,0,0,0,,{\fs66}Disney tickets.
+Dialogue: 0,0:00:56.49,0:00:57.69,Main,,0,0,0,,{\fs66}But imagine the insurance
+Dialogue: 0,0:00:57.69,0:00:59.21,Main,,0,0,0,,{\fs66}claim for twenty rides.
+Dialogue: 0,0:00:59.21,0:01:00.45,Main,,0,0,0,,{\fs66}Sorry, was the fucking
+Dialogue: 0,0:01:00.45,0:01:01.91,Main,,0,0,0,,{\fs66}{\c&H006DDCFF&}kidney{\r} eligible for a child
+Dialogue: 0,0:01:01.91,0:01:02.38,Main,,0,0,0,,{\fs66}fare?
+Dialogue: 0,0:01:02.51,0:01:03.69,Main,,0,0,0,,{\fs66}They won an Ig Nobel
+Dialogue: 0,0:01:03.69,0:01:05.51,Main,,0,0,0,,{\fs66}Prize. Now that’s career
+Dialogue: 0,0:01:05.51,0:01:06.99,Main,,0,0,0,,{\fs66}development. First you
+Dialogue: 0,0:01:06.99,0:01:08.33,Main,,0,0,0,,{\fs66}carry a {\c&H006DDCFF&}backpack{\r} onto a
+Dialogue: 0,0:01:08.33,0:01:09.23,Main,,0,0,0,,{\fs66}roller coaster.
+Dialogue: 0,0:01:09.23,0:01:10.53,Main,,0,0,0,,{\fs66}Then the {\c&H006DDCFF&}backpack{\r} carries
+Dialogue: 0,0:01:10.53,0:01:11.29,Main,,0,0,0,,{\fs66}your career.
