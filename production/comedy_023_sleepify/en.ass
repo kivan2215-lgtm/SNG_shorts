@@ -1,0 +1,56 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.83,Main,,0,0,0,,{\fs66}A band made
+Dialogue: 0,0:00:00.83,0:00:01.42,Main,,0,0,0,,{\fs66}twenty {\c&H006DDCFF&}grand{\r}
+Dialogue: 0,0:00:01.42,0:00:02.59,Main,,0,0,0,,{\fs66}on Spotify.
+Dialogue: 0,0:00:02.59,0:00:04.05,Main,,0,0,0,,{\fs66}The lead instrument?
+Dialogue: 0,0:00:04.05,0:00:05.47,Main,,0,0,0,,{\fs66}Your {\c&H006DDCFF&}unconscious{\r} arse.
+Dialogue: 0,0:00:05.62,0:00:06.80,Main,,0,0,0,,{\fs66}Meet Vulfpeck.
+Dialogue: 0,0:00:06.80,0:00:07.75,Main,,0,0,0,,{\fs66}In twenty fourteen
+Dialogue: 0,0:00:07.75,0:00:09.36,Main,,0,0,0,,{\fs66}they put out Sleepify.
+Dialogue: 0,0:00:09.36,0:00:10.90,Main,,0,0,0,,{\fs66}Ten {\c&H006DDCFF&}silent{\r} tracks.
+Dialogue: 0,0:00:10.90,0:00:12.06,Main,,0,0,0,,{\fs66}Finally, an album
+Dialogue: 0,0:00:12.06,0:00:12.62,Main,,0,0,0,,{\fs66}where the drummer
+Dialogue: 0,0:00:12.62,0:00:13.46,Main,,0,0,0,,{\fs66}physically cannot
+Dialogue: 0,0:00:13.46,0:00:14.24,Main,,0,0,0,,{\fs66}come in early.
+Dialogue: 0,0:00:14.37,0:00:15.35,Main,,0,0,0,,{\fs66}Each track lasted
+Dialogue: 0,0:00:15.35,0:00:16.59,Main,,0,0,0,,{\fs66}about half a minute.
+Dialogue: 0,0:00:16.59,0:00:17.96,Main,,0,0,0,,{\fs66}Then another thirty seconds
+Dialogue: 0,0:00:17.96,0:00:18.88,Main,,0,0,0,,{\fs66}of fuck all.
+Dialogue: 0,0:00:18.88,0:00:20.12,Main,,0,0,0,,{\fs66}Track two really rewards
+Dialogue: 0,0:00:20.12,0:00:21.00,Main,,0,0,0,,{\fs66}anyone who loved
+Dialogue: 0,0:00:21.00,0:00:21.91,Main,,0,0,0,,{\fs66}the first one.
+Dialogue: 0,0:00:22.04,0:00:22.80,Main,,0,0,0,,{\fs66}They asked fans
+Dialogue: 0,0:00:22.80,0:00:23.38,Main,,0,0,0,,{\fs66}to loop it
+Dialogue: 0,0:00:23.38,0:00:24.34,Main,,0,0,0,,{\fs66}while they slept.
+Dialogue: 0,0:00:24.34,0:00:25.52,Main,,0,0,0,,{\fs66}Every play helped fund
+Dialogue: 0,0:00:25.52,0:00:25.88,Main,,0,0,0,,{\fs66}a tour
+Dialogue: 0,0:00:25.88,0:00:27.02,Main,,0,0,0,,{\fs66}with {\c&H006DDCFF&}free{\r} admission.
+Dialogue: 0,0:00:27.02,0:00:27.82,Main,,0,0,0,,{\fs66}Even {\c&H006DDCFF&}snoring{\r}
+Dialogue: 0,0:00:27.82,0:00:29.40,Main,,0,0,0,,{\fs66}was technically a remix.
+Dialogue: 0,0:00:29.53,0:00:30.65,Main,,0,0,0,,{\fs66}Then Spotify took
+Dialogue: 0,0:00:30.65,0:00:31.80,Main,,0,0,0,,{\fs66}the album down.
+Dialogue: 0,0:00:31.80,0:00:32.80,Main,,0,0,0,,{\fs66}Some poor bastard
+Dialogue: 0,0:00:32.80,0:00:33.74,Main,,0,0,0,,{\fs66}had to identify
+Dialogue: 0,0:00:33.74,0:00:35.13,Main,,0,0,0,,{\fs66}the offending content.
+Dialogue: 0,0:00:35.13,0:00:36.55,Main,,0,0,0,,{\fs66}Imagine timestamping that
+Dialogue: 0,0:00:36.55,0:00:37.52,Main,,0,0,0,,{\fs66}for your manager.
+Dialogue: 0,0:00:37.65,0:00:38.72,Main,,0,0,0,,{\fs66}The royalties came to
+Dialogue: 0,0:00:38.72,0:00:40.47,Main,,0,0,0,,{\fs60}roughly twenty thousand dollars.
+Dialogue: 0,0:00:40.47,0:00:41.98,Main,,0,0,0,,{\fs66}They played the {\c&H006DDCFF&}free{\r} shows.
+Dialogue: 0,0:00:41.98,0:00:43.00,Main,,0,0,0,,{\fs66}Turns out exposure
+Dialogue: 0,0:00:43.00,0:00:43.92,Main,,0,0,0,,{\fs66}does pay the bills
+Dialogue: 0,0:00:43.92,0:00:45.10,Main,,0,0,0,,{\fs66}if absolutely nobody
+Dialogue: 0,0:00:45.10,0:00:46.21,Main,,0,0,0,,{\fs66}is conscious for it.
+Dialogue: 0,0:00:46.33,0:00:47.51,Main,,0,0,0,,{\fs66}Somewhere a guitarist
+Dialogue: 0,0:00:47.51,0:00:48.05,Main,,0,0,0,,{\fs66}has just spent
+Dialogue: 0,0:00:48.05,0:00:48.89,Main,,0,0,0,,{\fs66}six fucking weeks
+Dialogue: 0,0:00:48.89,0:00:50.19,Main,,0,0,0,,{\fs66}getting the snare right.
+Dialogue: 0,0:00:50.19,0:00:51.82,Main,,0,0,0,,{\fs66}Mate. Go to bed.

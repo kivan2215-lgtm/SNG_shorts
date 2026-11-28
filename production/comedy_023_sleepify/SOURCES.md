@@ -1,0 +1,9 @@
+# Vulfpeck — Sleepify, 2014
+
+- In March 2014 bandleader Jack Stratton explained the plan in his own words. Vulfpeck asked listeners to put a silent album on repeat overnight and planned to use the royalties to put on free concerts. [Rolling Stone, interview with Stratton](https://www.rollingstone.com/music/music-news/silent-spotify-album-creator-talks-strategy-behind-unique-plan-244404/)
+- The original release comprised ten silent tracks, each 31 or 32 seconds long. The first three titles were “Z”, “Zz” and “Zzz”. Thirty seconds of listening counted as a play under the service’s rules at the time. [The Guardian, 19 March 2014](https://www.theguardian.com/music/musicblog/2014/mar/19/spotify-streaming-silence-vulpeck-make-money)
+- Spotify removed the album that spring. Contemporary reports described the reason in different terms. No specific breach is asserted in the episode. [The Verge, 7 May 2014](https://www.theverge.com/2014/5/7/5690590/spotify-removes-silent-album-that-earned-indie-band-20000)
+- In July Stratton reported approximately $19,655 in royalties and around $1,100 more due. The narration rounds the proceeds to approximately $20,000. A fixed Spotify rate per stream would be misleading. [Billboard, 22 July 2014](https://www.billboard.com/pro/vulfpecks-half-joke-silent-album-made-some-serious-cash/)
+- The band announced its admission-free Sleepify tour in August. Its own concert history records September appearances including San Francisco on the 15th, Los Angeles on the 17th, Ann Arbor on the 23rd and New York on the 26th. [August announcement](https://www.facebook.com/vulfpeck/posts/748705795175214) · [Vulfpeck past shows, 2014 section](https://www.vulfpeck.com/past-shows)
+
+The narrator’s snoring reference, employee imagining an infringement timestamp and studio punchlines are comic asides. Keep original editorial illustrations distinct from any archive photograph.
