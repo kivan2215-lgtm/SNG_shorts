@@ -1,0 +1,55 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,DejaVu Sans,66,&H00FFFFFF,&H00FFFFFF,&H00101518,&H00101518,-1,0,0,0,100,100,0,0,1,5,1,2,85,125,325,1
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.12,Main,,0,0,0,,{\fs66}Rome put a {\c&H006DDCFF&}dead{\r} pope
+Dialogue: 0,0:00:01.12,0:00:02.01,Main,,0,0,0,,{\fs66}on trial.
+Dialogue: 0,0:00:02.01,0:00:02.89,Main,,0,0,0,,{\fs66}Imagine dying
+Dialogue: 0,0:00:02.89,0:00:03.77,Main,,0,0,0,,{\fs66}and {\c&H006DDCFF&}still{\r} having to
+Dialogue: 0,0:00:03.77,0:00:05.08,Main,,0,0,0,,{\fs66}attend this fucking meeting.
+Dialogue: 0,0:00:05.20,0:00:06.08,Main,,0,0,0,,{\fs66}In the year
+Dialogue: 0,0:00:06.08,0:00:07.00,Main,,0,0,0,,{\fs66}eight {\c&H006DDCFF&}nine{\r}ty-seven,
+Dialogue: 0,0:00:07.00,0:00:07.76,Main,,0,0,0,,{\fs66}Pope Stephen the Sixth
+Dialogue: 0,0:00:07.76,0:00:08.73,Main,,0,0,0,,{\fs66}had Pope Formosus
+Dialogue: 0,0:00:08.73,0:00:09.50,Main,,0,0,0,,{\fs66}dug up.
+Dialogue: 0,0:00:09.50,0:00:10.23,Main,,0,0,0,,{\fs66}He'd been buried
+Dialogue: 0,0:00:10.23,0:00:11.34,Main,,0,0,0,,{\fs66}about {\c&H006DDCFF&}nine{\r} months.
+Dialogue: 0,0:00:11.47,0:00:12.23,Main,,0,0,0,,{\fs66}They dressed him
+Dialogue: 0,0:00:12.23,0:00:13.15,Main,,0,0,0,,{\fs66}in papal robes
+Dialogue: 0,0:00:13.15,0:00:13.67,Main,,0,0,0,,{\fs66}and sat him
+Dialogue: 0,0:00:13.67,0:00:14.30,Main,,0,0,0,,{\fs66}in court.
+Dialogue: 0,0:00:14.30,0:00:15.71,Main,,0,0,0,,{\fs66}Strict dress code.
+Dialogue: 0,0:00:15.71,0:00:16.78,Main,,0,0,0,,{\fs66}Pulse optional.
+Dialogue: 0,0:00:16.90,0:00:18.76,Main,,0,0,0,,{\fs66}Stephen asked the questions.
+Dialogue: 0,0:00:18.76,0:00:19.68,Main,,0,0,0,,{\fs66}A {\c&H006DDCFF&}deacon{\r} answered
+Dialogue: 0,0:00:19.68,0:00:20.67,Main,,0,0,0,,{\fs66}for the corpse.
+Dialogue: 0,0:00:20.67,0:00:21.56,Main,,0,0,0,,{\fs66}Imagine coaching
+Dialogue: 0,0:00:21.56,0:00:22.42,Main,,0,0,0,,{\fs66}the poor bastard
+Dialogue: 0,0:00:22.42,0:00:23.48,Main,,0,0,0,,{\fs66}on eye contact.
+Dialogue: 0,0:00:23.60,0:00:24.59,Main,,0,0,0,,{\fs66}The charge?
+Dialogue: 0,0:00:24.59,0:00:26.73,Main,,0,0,0,,{\fs60}Taking the papal throne illegally.
+Dialogue: 0,0:00:26.73,0:00:28.53,Main,,0,0,0,,{\fs66}The verdict? Guilty.
+Dialogue: 0,0:00:28.53,0:00:29.57,Main,,0,0,0,,{\fs66}No shit.
+Dialogue: 0,0:00:29.57,0:00:30.39,Main,,0,0,0,,{\fs66}Look who'd already
+Dialogue: 0,0:00:30.39,0:00:31.77,Main,,0,0,0,,{\fs66}moved into his office.
+Dialogue: 0,0:00:31.89,0:00:32.71,Main,,0,0,0,,{\fs66}They annulled
+Dialogue: 0,0:00:32.71,0:00:33.90,Main,,0,0,0,,{\fs66}his official acts.
+Dialogue: 0,0:00:33.90,0:00:35.41,Main,,0,0,0,,{\fs66}Imagine getting ordained,
+Dialogue: 0,0:00:35.41,0:00:36.11,Main,,0,0,0,,{\fs66}then finding out
+Dialogue: 0,0:00:36.11,0:00:36.93,Main,,0,0,0,,{\fs66}you're just some prick
+Dialogue: 0,0:00:36.93,0:00:38.29,Main,,0,0,0,,{\fs66}with excellent sleeves.
+Dialogue: 0,0:00:38.29,0:00:39.36,Main,,0,0,0,,{\fs66}And who’d made
+Dialogue: 0,0:00:39.36,0:00:40.22,Main,,0,0,0,,{\fs66}Stephen a bishop?
+Dialogue: 0,0:00:40.22,0:00:41.60,Main,,0,0,0,,{\fs66}The fucking {\c&H006DDCFF&}defendant{\r}.
+Dialogue: 0,0:00:41.73,0:00:42.93,Main,,0,0,0,,{\fs66}Later that year,
+Dialogue: 0,0:00:42.93,0:00:44.40,Main,,0,0,0,,{\fs66}the ruling was overturned.
+Dialogue: 0,0:00:44.40,0:00:45.75,Main,,0,0,0,,{\fs66}Same {\c&H006DDCFF&}defendant{\r}.
+Dialogue: 0,0:00:45.75,0:00:47.07,Main,,0,0,0,,{\fs66}Opposite verdict.
+Dialogue: 0,0:00:47.07,0:00:47.97,Main,,0,0,0,,{\fs66}And his entire
+Dialogue: 0,0:00:47.97,0:00:49.22,Main,,0,0,0,,{\fs66}legal strategy?
+Dialogue: 0,0:00:49.22,0:00:50.54,Main,,0,0,0,,{\fs66}Sit fucking {\c&H006DDCFF&}still{\r}.
